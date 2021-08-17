@@ -1,0 +1,349 @@
+<!doctype html>
+<html class="no-js">
+  <head><meta charset="utf-8"/>
+    <meta name="viewport" content="width=device-width,initial-scale=1"/>
+    <meta name="color-scheme" content="light dark"><link rel="index" title="Index" href="../genindex.html" /><link rel="search" title="Search" href="../search.html" /><link rel="next" title="Wikisocion IEI composite" href="IEI_comp.html" /><link rel="prev" title="Wikisocion LII composite" href="LII_comp.html" />
+
+    <meta name="generator" content="sphinx-4.1.2, furo 2021.08.11.beta42"/>
+        <title>Wikisocion SLE composite - Wikisocion</title>
+      <link rel="stylesheet" type="text/css" href="../_static/pygments.css" />
+    <link rel="stylesheet" type="text/css" href="../_static/styles/furo.css?digest=197f00461d56902ea7ca048ec6e6ba026f62c97b" />
+    <link rel="stylesheet" type="text/css" href="../_static/styles/furo-extensions.css?digest=93475b62d1c3bc01323a0eefdc14a62d77b12690" />
+    
+    
+
+
+<style>
+  body {
+    --color-code-background: #f8f8f8;
+  --color-code-foreground: black;
+  
+  }
+  body[data-theme="dark"] {
+    --color-code-background: #202020;
+  --color-code-foreground: #d0d0d0;
+  
+  }
+  @media (prefers-color-scheme: dark) {
+    body:not([data-theme="light"]) {
+      --color-code-background: #202020;
+  --color-code-foreground: #d0d0d0;
+  
+    }
+  }
+</style>
+    <link media="(prefers-color-scheme: dark)" rel="stylesheet" href="../_static/pygments_dark.css"></head>
+  <body>
+    
+<svg xmlns="http://www.w3.org/2000/svg" style="display: none;">
+  <symbol id="svg-toc" viewBox="0 0 24 24">
+    <title>Contents</title>
+    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+      stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+      <path stroke="none" d="M0 0h24v24H0z" />
+      <line x1="4" y1="6" x2="20" y2="6" />
+      <line x1="10" y1="12" x2="20" y2="12" />
+      <line x1="6" y1="18" x2="20" y2="18" />
+    </svg>
+  </symbol>
+  <symbol id="svg-menu" viewBox="0 0 24 24">
+    <title>Menu</title>
+    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+      stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather-menu">
+      <line x1="3" y1="12" x2="21" y2="12"></line>
+      <line x1="3" y1="6" x2="21" y2="6"></line>
+      <line x1="3" y1="18" x2="21" y2="18"></line>
+    </svg>
+  </symbol>
+  <symbol id="svg-arrow-right" viewBox="0 0 24 24">
+    <title>Expand</title>
+    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+      stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather-chevron-right">
+      <polyline points="9 18 15 12 9 6"></polyline>
+    </svg>
+  </symbol>
+  <symbol id="svg-sun" viewBox="0 0 24 24">
+    <title>Light mode</title>
+    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+      stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" class="feather-sun">
+      <circle cx="12" cy="12" r="5"></circle>
+      <line x1="12" y1="1" x2="12" y2="3"></line>
+      <line x1="12" y1="21" x2="12" y2="23"></line>
+      <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
+      <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
+      <line x1="1" y1="12" x2="3" y2="12"></line>
+      <line x1="21" y1="12" x2="23" y2="12"></line>
+      <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
+      <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
+    </svg>
+  </symbol>
+  <symbol id="svg-moon" viewBox="0 0 24 24">
+    <title>Dark mode</title>
+    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+      stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" class="icon-tabler-moon">
+      <path stroke="none" d="M0 0h24v24H0z" fill="none" />
+      <path d="M12 3c.132 0 .263 0 .393 0a7.5 7.5 0 0 0 7.92 12.446a9 9 0 1 1 -8.313 -12.454z" />
+    </svg>
+  </symbol>
+  <symbol id="svg-sun-half" viewBox="0 0 24 24">
+    <title>Auto light/dark mode</title>
+    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+      stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" class="icon-tabler-shadow">
+      <path stroke="none" d="M0 0h24v24H0z" fill="none"/>
+      <circle cx="12" cy="12" r="9" />
+      <path d="M13 12h5" />
+      <path d="M13 15h4" />
+      <path d="M13 18h1" />
+      <path d="M13 9h4" />
+      <path d="M13 6h1" />
+    </svg>
+  </symbol>
+</svg>
+
+<input type="checkbox" class="sidebar-toggle" name="__navigation" id="__navigation">
+<input type="checkbox" class="sidebar-toggle" name="__toc" id="__toc">
+<label class="overlay sidebar-overlay" for="__navigation">
+  <div class="visually-hidden">Hide navigation sidebar</div>
+</label>
+<label class="overlay toc-overlay" for="__toc">
+  <div class="visually-hidden">Hide table of contents sidebar</div>
+</label>
+
+
+
+<div class="page">
+  <header class="mobile-header">
+    <div class="header-left">
+      <label class="nav-overlay-icon" for="__navigation">
+        <div class="visually-hidden">Toggle site navigation sidebar</div>
+        <i class="icon"><svg><use href="#svg-menu"></use></svg></i>
+      </label>
+    </div>
+    <div class="header-center">
+      <a href="../index.html"><div class="brand">Wikisocion</div></a>
+    </div>
+    <div class="header-right">
+      <div class="theme-toggle-container theme-toggle-header">
+        <button class="theme-toggle">
+          <div class="visually-hidden">Toggle Light / Dark / Auto color theme</div>
+          <svg class="theme-icon-when-auto"><use href="#svg-sun-half"></use></svg>
+          <svg class="theme-icon-when-dark"><use href="#svg-moon"></use></svg>
+          <svg class="theme-icon-when-light"><use href="#svg-sun"></use></svg>
+        </button>
+      </div>
+      <label class="toc-overlay-icon toc-header-icon" for="__toc">
+        <div class="visually-hidden">Toggle table of contents sidebar</div>
+        <i class="icon"><svg><use href="#svg-toc"></use></svg></i>
+      </label>
+    </div>
+  </header>
+  <aside class="sidebar-drawer">
+    <div class="sidebar-container">
+      
+      <div class="sidebar-sticky"><div class="sidebar-scroll"><a class="sidebar-brand" href="../index.html">
+  
+  
+  <span class="sidebar-brand-text">Wikisocion</span>
+  
+</a><form class="sidebar-search-container" method="get" action="../search.html" role="search">
+  <input class="sidebar-search" placeholder=Search name="q" aria-label="Search">
+  <input type="hidden" name="check_keywords" value="yes">
+  <input type="hidden" name="area" value="default">
+</form>
+<div id="searchbox"></div>
+</div>
+      </div>
+      
+    </div>
+  </aside>
+  <div class="main">
+    <div class="content">
+      <article role="main">
+        <div class="content-icon-container">
+          <div class="theme-toggle-container theme-toggle-content">
+            <button class="theme-toggle">
+              <div class="visually-hidden">Toggle Light / Dark / Auto color theme</div>
+              <svg class="theme-icon-when-auto"><use href="#svg-sun-half"></use></svg>
+              <svg class="theme-icon-when-dark"><use href="#svg-moon"></use></svg>
+              <svg class="theme-icon-when-light"><use href="#svg-sun"></use></svg>
+            </button>
+          </div>
+          <label class="toc-overlay-icon toc-content-icon" for="__toc">
+            <div class="visually-hidden">Toggle table of contents sidebar</div>
+            <i class="icon"><svg><use href="#svg-toc"></use></svg></i>
+          </label>
+        </div>
+        <div class="section" id="wikisocion-sle-composite">
+<h1>Wikisocion SLE composite<a class="headerlink" href="#wikisocion-sle-composite" title="Permalink to this headline">¶</a></h1>
+<div class="admonition warning">
+<p class="admonition-title">Warning</p>
+<p>This page or section is <strong>incomplete</strong>. Additional contributions are needed.</p>
+</div>
+<p>Sensing Logical Extrovert, SLE, <img alt="Se" src="../_images/Symbol_f.gif"/> <img alt="Ti" src="../_images/Symbol_l.gif"/>, ESTp, FL, Conqueror, Legionnaire, Marshal, or archetype Georgy Zhukov.</p>
+<div class="section" id="ego-block">
+<h2>Ego block<a class="headerlink" href="#ego-block" title="Permalink to this headline">¶</a></h2>
+<div class="section" id="extroverted-sensing">
+<h3>1. Extroverted sensing<a class="headerlink" href="#extroverted-sensing" title="Permalink to this headline">¶</a></h3>
+<p>SLEs are strong-willed, independently-minded individuals who are able to recognize levels of willpower and motivation in others. They are almost always collected and ready for action. They are adept at organizing others effectively towards any given objective, and have no problem “getting the job done,” even if it requires stepping on a few toes. They will take the initiative and act at the opportune moment. SLEs will often act without complete information, improvising as they go, but are successful nonetheless. Instability energizes them, as they are active people who think clearly on the move and tend to be unsatisfied with a stationary, peaceful lifestyle.</p>
+<p>SLEs easily spot power dynamics within any given structure, hierarchy or relationship, and strive for a secure position where they are less subordinate to others. At the same time, SLEs are comfortable with hierarchies, and recognize that they are a necessary part of everyday life. SLEs may sometimes seem dismissive of those of a lower social status, as if they were weak or inferior in some way. Likewise, they see dependence as weakness, and so strive to minimize their dependence on others, especially in their personal relationships.</p>
+<p>SLEs’ energetic and direct nature tends to make them natural leaders. They are quick to assume this role, even in alien or unfamiliar environments. They usually adopt a direct administrative style and build a bureaucratic structure beneath them over time. They will take full responsibility for their actions, and understand these terms when they take a leadership-based role within a group, company or organization as being part of what leadership is about.</p>
+<p>SLEs are highly observant and take note of all the objects present in their surroundings. They are well aware of which objects they have, and which they want, and tend to be possessive of their property. At the same time, they also have a generous streak and can easily bestow gifts and share their property with others to demonstrate acceptance of the other person or people.</p>
+</div>
+<div class="section" id="introverted-logic">
+<h3>2. Introverted logic<a class="headerlink" href="#introverted-logic" title="Permalink to this headline">¶</a></h3>
+<p>SLEs are inquisitive people. They are generally clear, consistent and systematic in their actions. They value competency and have an appreciation for method, viewing these things as vehicles through which strength, power and influence are demonstrated, values that SLEs consider important.</p>
+<p>While SLEs see logical systems and structured views as necessary in life, they will often view said systems and views as changeable or expendable. Their use of Ti is flexible. They tend to gather - either legitimately or illegitimately - and retain information which they deem useful in attaining their goals.</p>
+<p>SLEs come to their own conclusions about the world, although they tend towards simple generalizations. Because the SLE’s ideas are influenced by their own agenda, they can be more subjective than they claim to be; they are skilled at using objective truths to help them achieve their goals. It can be very difficult to argue with an SLE; rarely will they submit to another’s logic, since they believe that their own logic is so well developed. SLEs will often refuse to take others’ advice - even to their own detriment - as they can have difficulty seeing viewpoints that differ from their own (though this may also be a matter of pride). They also have the tendency to compare others’ plans to their own, and because of their confidence, will often consider them inferior or offer critique from their own point of view.</p>
+</div>
+</div>
+<div class="section" id="super-ego-block">
+<h2>Super-Ego block<a class="headerlink" href="#super-ego-block" title="Permalink to this headline">¶</a></h2>
+<div class="section" id="extroverted-intuition">
+<h3>3. Extroverted intuition<a class="headerlink" href="#extroverted-intuition" title="Permalink to this headline">¶</a></h3>
+<p>SLEs are largely unaware of others’ hidden potential and abilities, since they size up people based on visible qualities and behavior. As a result, their judgments of people may appear simplistic or one-dimensional, and they may seriously misjudge or underestimate the capabilities of others, leading to surprises and sometimes rude awakenings. Likewise, SLEs may fail to recognize long-term opportunities in the world around them as they pursue the more readily visible and immediately available routes to success.</p>
+<p>To make up for their weakness in assessment of possibilities, SLEs may hesitate to act, believing that they are increasing the amount of opportunities they will have. Instead, they end up using none, thus failing to attain the results they were aiming for. In this sense, the SLE would have been much better off following his instincts in the first place. Many SLEs are aware of this, and simply prefer not to search for hidden opportunities and avoid this weakness altogether.</p>
+<p>When it comes to future planning, SLEs speak with confidence and apparent optimism, although in actuality, they rarely feel confident in positive outcomes and further possibilities. They may also consider advanced planning unnecessary for trivial circumstances, as they prefer to act impulsively.</p>
+<p>Despite their highly observant nature, SLEs are careful to avoid appearing too eager for knowledge. They become suspicious when others are overly curious about them and ask too many searching questions. SLEs are more comfortable asking and responding to specific questions that are relevant to the context rather than general ones whose purpose is unknown. When the information being exchanged is too broad and general, SLEs may wonder what the point is or whether someone is planning to use that information to take advantage of them. Concerns about revealing too much information about themselves and their activities sometimes makes SLEs appear paranoid and secretive.</p>
+</div>
+<div class="section" id="introverted-ethics">
+<h3>4. Introverted ethics<a class="headerlink" href="#introverted-ethics" title="Permalink to this headline">¶</a></h3>
+<p>SLEs have trouble evaluating the internal emotional state of others unless it is accompanied by a visible emotional expression. When unable to do so, they become uneasy. When an individual expresses negative emotions, SLEs feel that they are unable to offer the support needed; they get uncomfortable and confused, and as a result, will not respond appropriately to the situation or will react in a way which is unhelpful to the individual. SLEs themselves constantly seem emotionally guarded, and so very rarely will anyone actually have the chance to “comfort” the SLE in the everyday use of the word. The best way to do so is to let the emotion run its course.</p>
+<p>SLEs often tread carefully when it comes to interpersonal relationships because they recognize their inherent weakness in this function. They feel the need to not only be respected, but also to be held dear by others, precisely because they feel inept when it comes to relationships. Often their behavior will have the opposite effect of what they were hoping for; if they are trying to protect someone, that someone may view their “protection” as pure jealousy, and thus will attempt to break away. The SLE will respond with further limitations in order to counter what they believe is irrational rebelliousness, perhaps causing a breakdown of said relationship. Despite this, SLEs can without extra effort manage to maintain a superficial - purely physical or formal - relationship. Their IEI duals, however, have an understanding of SLEs; they know how to react with Fe in accordance with the SLE’s mood, and thereby tactfully avoid incurring any misunderstanding.</p>
+<p>To ease their doubts about their relationships with others, SLEs are sincere when it comes to establishing new bonds with others; they feel it is important to inform others of their true nature so that they will not be taken by surprise when the SLE acts in a certain way. Likewise, the SLE will often prefer to take the initiative in establishing new friendships and relationships. This is partly due to the fact that SLEs fear psychological distance; taking a more upfront and aggressive approach would allow him to more accurately observe those around him, while removing the possibility of one’s gradual avoidance of the SLE.</p>
+<p>SLEs are under the impression that they might gain respect or admiration from others, but can never be truly loved by anyone. Sometimes, SLEs can become paranoid about their relationships with others; they often mistrust declarations of affection, and so can appear insecure.</p>
+</div>
+</div>
+<div class="section" id="super-id-block">
+<h2>Super-id block<a class="headerlink" href="#super-id-block" title="Permalink to this headline">¶</a></h2>
+<div class="section" id="introverted-intuition">
+<h3>5. Introverted intuition<a class="headerlink" href="#introverted-intuition" title="Permalink to this headline">¶</a></h3>
+<p>Since SLEs are such active, action-oriented individuals, they are often far more confident about their present situation than its broader implications. SLEs are attracted to people who can unearth connections between ideas and occurrences, thus collecting the “snapshots” of the present offered by SLEs and fitting them into a broader understanding of reality. SLEs long for a sense of some greater meaning in their lives beyond the immediately physical or material. They admire people who feel part of something greater than themselves and are not so dependent on the material world around them.</p>
+<p>SLEs often develop their suggestive function through an interest in that which is hidden, mysterious, or eccentric. Learning about and discussing these things helps them overcome their habit of making quick assumptions, and gives them a more profound understanding of the world around them.</p>
+<p>The SLE is impulsive, but at the same time quite conscious of the need to keep his impulsivity in check. He thus appreciates people who are confident in their ability to predict where present trends are leading and to pinpoint when to initiate action and when to refrain from it.</p>
+</div>
+<div class="section" id="extroverted-ethics">
+<h3>6. Extroverted ethics<a class="headerlink" href="#extroverted-ethics" title="Permalink to this headline">¶</a></h3>
+<p>SLEs find themselves unable to adequately raise an emotionally dull atmosphere, which is why they greatly appreciate another individual proficient in this function. SLEs naturally gravitate towards warm, cheerful atmospheres. If an SLE makes a social move that doesn’t get the emotional response he expects, he will feel uneasy or offended e.g. if no one laughs at a joke he tells.</p>
+<p>In large groups or groups of new acquaintances, SLEs sometimes inadvertently estrange themselves from everyone else, which may give off a negative impression. The SLE may assume this contrary attitude in order to seek Fe while preserving the atmosphere of the group. If another individual shows acceptance of the SLE, he will immediately brighten and join the now warmer emotional mood. Alternatively, if the SLE fails to receive the desired emotional cues, he will further distance himself from the situation, highly averse to “being a drag” to the group dynamic.</p>
+<p>There seems to be an “emotional contradiction” with the SLE; there is a constant internal struggle to both reveal to others their true feelings and a desire to guard themselves from adverse people or situations. He finds it extremely difficult - almost unnatural - to express his deepest feelings about an experience he’s had. SLEs try to avoid looking vulnerable, weak or dependent, which is why they appear to be such closely guarded individuals. SLEs will, like any other logical type, attempt to keep their feelings under control and subordinate to their reasoning. They refuse to let their emotions complicate professional relationships, and make a conscious effort to maintain the same emotionality with all.</p>
+<p>SLEs are unable to suppress the manifestations of their moods, and thus greatly appreciate individuals who can deal with their sudden, uncontrollable outbursts of emotions. For many SLEs, expressive activities such as acting, musical performance or even religion serve as ideal “ethical vents”, helping to give them the emotional release they struggle to find in other areas of society.</p>
+</div>
+</div>
+<div class="section" id="id-block">
+<h2>Id block<a class="headerlink" href="#id-block" title="Permalink to this headline">¶</a></h2>
+<div class="section" id="introverted-sensing">
+<h3>7. Introverted sensing<a class="headerlink" href="#introverted-sensing" title="Permalink to this headline">¶</a></h3>
+<p>SLEs are aware of how something makes them feel, but give little concern to it. (They will not, however, refrain from expressing their physical attraction or desire towards another individual.)</p>
+<p>SLEs effortlessly manage to create an environment of comfort for themselves, but this comfort extends to very little, as they see no need to occupy themselves with creating excessively cozy atmospheres. As long as SLEs are not overly unhealthy or malnourished, they’re unconcerned with what they eat and drink. SLEs are quite capable of living with the bare minimum and not feeling disturbed or unsettled by their circumstances. This gives the SLE the ability to ignore discomfort and tedium, powering through such obstacles in order to accomplish their goals.</p>
+</div>
+<div class="section" id="extroverted-logic">
+<h3>8. Extroverted logic<a class="headerlink" href="#extroverted-logic" title="Permalink to this headline">¶</a></h3>
+<p>SLEs have the ability to pick out information which will help them achieve a goal; they will often refer to well-known facts, statistics and historical examples to back up their claims. Often their own viewpoint will remain standing in the face of a majority opinion, as they know how to formulate a strong argument. SLEs will often question the authenticity or reliability of informational sources, preferring not to use those which are doubtful or which have been proven wrong in the past. They enjoy learning about a wide variety of things, and are motivated by the prospect of rewards and status; they like to prove their authority and skills e.g. through a large amount of academic awards or extra curricular certificates.</p>
+<p>SLEs are very practical, hard-working individuals. They know how to utilize their time effectively in order to reach any given goal, and have no problem discerning efficiency and utility from incompetence and uselessness. Nonetheless, they retain a kind of “don’t care” attitude when it comes to productivity and effectiveness. They feel that it is a waste of time to sit around and discuss efficiency, and would rather act effectively. SLEs may playfully mock those who they believe are “obsessed” with productivity, efficiency or effective action.</p>
+<p>SLEs often assume the role of someone who is always ready to assist people in their practical affairs, even to the point of others’ annoyance or offense to the SLE’s obtrusiveness (which is simply enthusiasm to the SLE). They enjoy receiving thanks for their services, and take full responsibility for their actions. Their intentions towards others in this area are generally always good.</p>
+</div>
+</div>
+<div class="section" id="common-social-roles">
+<h2>Common social roles<a class="headerlink" href="#common-social-roles" title="Permalink to this headline">¶</a></h2>
+<ol class="arabic simple">
+<li><p>The alpha male (or female) who is constantly preoccupied with his territory and social status, threats to that territory, and making sure everyone recognizes his leadership and status.</p></li>
+<li><p>The challenger or revolutionary who rejects existing authority and organizational structures and tries to overturn them and establish his own system, or simply overturn them for fun without putting anything else in their place.</p></li>
+<li><p>The rogue artist who revels in his or her own naughtiness, likes to shock and appall audiences, and doesn’t take his own work too seriously.</p></li>
+</ol>
+</div>
+</div>
+
+      </article>
+      <footer>
+        
+        <div class="related-pages">
+          <a class="next-page" href="IEI_comp.html">
+              <div class="page-info">
+                <div class="context">
+                  <span>Next</span>
+                </div>
+                <div class="title">Wikisocion IEI composite</div>
+              </div>
+              <svg><use href="#svg-arrow-right"></use></svg>
+            </a>
+          <a class="prev-page" href="LII_comp.html">
+              <svg><use href="#svg-arrow-right"></use></svg>
+              <div class="page-info">
+                <div class="context">
+                  <span>Previous</span>
+                </div>
+                
+                <div class="title">Wikisocion LII composite</div>
+                
+              </div>
+            </a>
+        </div>
+
+        <div class="related-information">
+              Copyright &#169; 2021, Wikisocion Authors
+            |
+            Built with <a href="https://www.sphinx-doc.org/">Sphinx</a>
+              and
+              <a class="muted-link" href="https://pradyunsg.me">@pradyunsg</a>'s
+              <a href="https://github.com/pradyunsg/furo">Furo theme</a>.
+            |
+            <a class="muted-link" href="../_sources/content/SLE_comp.rst.txt"
+               rel="nofollow">
+              Show Source
+            </a>
+        </div>
+        
+      </footer>
+    </div>
+    <aside class="toc-drawer">
+      
+      
+      <div class="toc-sticky toc-scroll">
+        <div class="toc-title-container">
+          <span class="toc-title">
+            Contents
+          </span>
+        </div>
+        <div class="toc-tree-container">
+          <div class="toc-tree">
+            <ul>
+<li><a class="reference internal" href="#">Wikisocion SLE composite</a><ul>
+<li><a class="reference internal" href="#ego-block">Ego block</a><ul>
+<li><a class="reference internal" href="#extroverted-sensing">1. Extroverted sensing</a></li>
+<li><a class="reference internal" href="#introverted-logic">2. Introverted logic</a></li>
+</ul>
+</li>
+<li><a class="reference internal" href="#super-ego-block">Super-Ego block</a><ul>
+<li><a class="reference internal" href="#extroverted-intuition">3. Extroverted intuition</a></li>
+<li><a class="reference internal" href="#introverted-ethics">4. Introverted ethics</a></li>
+</ul>
+</li>
+<li><a class="reference internal" href="#super-id-block">Super-id block</a><ul>
+<li><a class="reference internal" href="#introverted-intuition">5. Introverted intuition</a></li>
+<li><a class="reference internal" href="#extroverted-ethics">6. Extroverted ethics</a></li>
+</ul>
+</li>
+<li><a class="reference internal" href="#id-block">Id block</a><ul>
+<li><a class="reference internal" href="#introverted-sensing">7. Introverted sensing</a></li>
+<li><a class="reference internal" href="#extroverted-logic">8. Extroverted logic</a></li>
+</ul>
+</li>
+<li><a class="reference internal" href="#common-social-roles">Common social roles</a></li>
+</ul>
+</li>
+</ul>
+
+          </div>
+        </div>
+      </div>
+      
+      
+    </aside>
+  </div>
+</div><script data-url_root="../" id="documentation_options" src="../_static/documentation_options.js"></script>
+    <script src="../_static/jquery.js"></script>
+    <script src="../_static/underscore.js"></script>
+    <script src="../_static/doctools.js"></script>
+    <script src="../_static/scripts/main.js"></script>
+    </body>
+</html>

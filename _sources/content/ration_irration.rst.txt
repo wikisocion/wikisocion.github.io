@@ -1,0 +1,165 @@
+Rationality and irrationality
+====================================
+
+**Rationality** / **Irrationality** (also called Shizotyme / Cyclotyme
+or Rigid / Labile) is one of the 4 :doc:`Jungian dichotomies <jungian>`, and one of the 15 :doc:`Reinin dichotomies <reinin_dich>`. **Rationality** in socionics is a
+perceptual quality defined by a focus on actions and emotions. In
+contrast, **Irrationality** means a focus on states of mind and body.
+
+Rational and irrational IM elements
+-----------------------------------
+
+:doc:`Jung <jung>` was the first to divide :doc:`psychic functions <functions>` into *rational* and *irrational*.
+
+   Rational functions are the judging ones Thinking (T) and Feeling (F).
+   Irrational functions are the perceiving ones Sensing (S) and
+   Intuition (N).
+
+Rational and irrational types
+-----------------------------
+
+Rational types are defined as any type that has a rational element (T/F) in its first or leading function.
+
+Irrational types are defines as any type that has an irrational element (N/S) in its first or leading function.
+
+-  **Rational**\ `types <socionic_type>`\ **are:**\ :doc:`ESE <ESE>`\ **,**\ :doc:`LII <LII>`\ **,**\ :doc:`EIE <EIE>`\ **,**\ :doc:`LSI <LSI>`\ **,**\ :doc:`LIE <LIE>`\ **,**\ :doc:`ESI <ESI>`\ **,**\ :doc:`LSE <LSE>`\ **, and**\ :doc:`EII <EII>`\ **.**
+-  **Irrational**\ `types <socionic_type>`\ **are:**\ :doc:`ILE <ILE>`\ **,**\ :doc:`SEI <SEI>`\ **,**\ :doc:`SLE <SLE>`\ **,**\ :doc:`IEI <IEI>`\ **,**\ :doc:`SEE <SEE>`\ **,**\ :doc:`ILI <ILI>`\ **,**\ :doc:`IEE <IEE>`\ **, and**\ :doc:`SLI <SLI>`\ **.**
+
+| In :doc:`four-letter code <type_names>`, a
+  rational type is denoted with a lower-case letter "j" at the end,
+  while irrationals have "p".
+| For example, a type that has Ni in its first function (and Fe as
+  second) is denoted as INF\ **p**. A type that has Fi in its first
+  information channel (and Se in second) is denoted as ISF\ **j**.
+
+Each :doc:`quadra <quadra>` has two rational and two irrational types - a
+rational dual dyad and an irrational dual dyad.
+
+Theoretical properties of rational and irrational types
+-------------------------------------------------------
+
+In socionics, four `IM elements <elements>` are rational (Te
+|symbol_p.gif|, Fe |symbol_e.gif|, Ti |symbol_l.gif|, and Fi
+|symbol_r.gif|), and four are irrational (Se |symbol_f.gif|, Ne
+|symbol_i.gif|, Si |symbol_s.gif|, and Ni |symbol_t.gif|).
+
+-  Rational :doc:`types <socionic_type>` contain rational elements on
+   :ref:`accepting <accepting>` (odd) :doc:`functions <functions>` and
+   irrational elements on :ref:`producing <accepting>` (even)
+   :doc:`functions <functions>`.
+-  Irrational :doc:`types <socionic_type>` contain irrational elements on
+   :ref:`accepting <accepting>` (odd) :doc:`functions <functions>` and
+   rational elements on :ref:`producing <accepting>` (even)
+   :doc:`functions <functions>`.
+
+Typical characteristics
+-----------------------
+
+Rationals
+~~~~~~~~~
+
+(*Also called*\ **shizotymes**\ *in early socionics literature*)
+
+#. Tend to plan ahead, make decisions early.
+#. Are more often rigid and stubborn.
+#. Do not like to change their decisions.
+#. Tend to finish what they started.
+#. Usually have stiff movements.
+#. Usually more 'authoritarian' leadership style.
+#. Low stress tolerance.
+
+Irrationals
+~~~~~~~~~~~
+
+(*Also called*\ **cyclotymes**\ *in early socionics literature*)
+
+#. Tend to wait and see, more spontaneous.
+#. Are more often flexible and tolerant.
+#. Change their decisions frequently.
+#. Tend to start new things without finishing them.
+#. Usually have gentle movements.
+#. Usually more 'democratic' leadership style.
+#. High stress tolerance.
+
+Additional Commentary and Notes
+-------------------------------
+
+For the purpose of typing, it should be noted that no type is either
+completely rational or completely irrational. Every type in socionics
+contains a mixture of rational and irrational functions and,
+correspondingly, will display a mixture of rational and irrational
+traits. Thus, not one person fits neatly into one or the other side of
+this dichotomy, because every types has both rational and irrational
+functions.
+
+The Rational-Irrational dichotomy also gets affected by :doc:`type's subtypes <subtype>`. If the irrational function is accentuated in a
+person's type, then irrational traits will become more prominent, and
+vice versa for rational functions. This may pose a typing dilemma for
+creative function subtypes. Types are designated as Rational or
+Irrational based on their leading function, but a strongly expressed
+creative function obscures the leading function in this case. Thus
+creative subtypes may be mistaken for being the opposite of where their
+leading function actually places them on this dichotomy, e.g. an IEI-Fe
+may consider him or herself to be a rational type EIE, while an EIE-Ni
+may consider him or herself to be an irrational IEI. To resolve this
+dilemma, other type parameters should be taken into account and this
+dichotomy should not be used alone when deciding on type.
+
+
+Additional Links
+----------------
+
+-  `On the Correct Understanding of Dichotomy Rationality-Irrationality by Trehov and
+   Tsypin <understand_j_p>`
+
+Rationality and irrationality and :doc:`intertype relations <intertype>`
+-------------------------------------------------------------------------------
+
+This :doc:`dichotomy <dich>` plays a particularly important role in
+:doc:`intertype interaction <intertype>`. Of the main four
+:doc:`dichotomies <dich>` in socionics (the so-called ":doc:`Jungian foundation <jungian>`"), rationality/irrationality is the
+only one that :doc:`dual <duality>` types have in common.
+
+.. list-table:: Type :doc:`dichotomies <dich>`
+    :header-rows: 0
+    :align: center
+
+    * - |jp|
+      - |EI|
+      - |NS|
+    * - |TF|
+      - |SD|
+      - |PR|
+    * - |PN|
+      - |AD|
+      - |CE|
+    * - |CF|
+      - |YO|
+      - |TS|
+    * - |MS|
+      - |JD|
+      - |AD|
+
+.. |EI| replace:: :doc:`Extraversion and introversion <extra_intro>`
+.. |DA| replace:: :doc:`Democratic and aristocratic <democratic_aristocratic>`
+.. |TS| replace:: :doc:`Tactical and strategic <tactical_strategic>`
+.. |CE| replace:: :doc:`Constructivist and emotivist <constructivist_emotivist>`
+.. |PN| replace:: :doc:`Positivist and negativist <positivist_negativist>`
+.. |JD| replace:: :doc:`Judicious and decisive <judicious_decisive>`
+.. |MS| replace:: :doc:`Merry and serious <merry_serious>`
+.. |NS| replace:: :doc:`Sensing and intuition <sensing_intuition>`
+.. |TF| replace:: :doc:`Ethics and logic <ethics_logic>`
+.. |jp| replace:: :doc:`Rationality and irrationality <ration_irration>`
+.. |CF| replace:: :doc:`Carefree and farsighted <carefree_farsighted>`
+.. |YO| replace:: :doc:`Yielding and obstinate <yielding_obstinate>`
+.. |SD| replace:: :doc:`Static and dynamic <statics_dynamics>`
+.. |PR| replace:: :doc:`Process and result <process_result>`
+.. |AD| replace:: :doc:`Asking and declaring <asking_declaring>`
+.. |symbol_p.gif| image:: Symbol_p.gif
+.. |symbol_e.gif| image:: Symbol_e.gif
+.. |symbol_l.gif| image:: Symbol_l.gif
+.. |symbol_r.gif| image:: Symbol_r.gif
+.. |symbol_f.gif| image:: Symbol_f.gif
+.. |symbol_i.gif| image:: Symbol_i.gif
+.. |symbol_s.gif| image:: Symbol_s.gif
+.. |symbol_t.gif| image:: Symbol_t.gif

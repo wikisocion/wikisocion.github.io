@@ -1,0 +1,563 @@
+<!doctype html>
+<html class="no-js">
+  <head><meta charset="utf-8"/>
+    <meta name="viewport" content="width=device-width,initial-scale=1"/>
+    <meta name="color-scheme" content="light dark"><link rel="index" title="Index" href="../genindex.html" /><link rel="search" title="Search" href="../search.html" /><link rel="next" title="Extraversion and introversion" href="extra_intro.html" /><link rel="prev" title="Reinin dichotomies" href="reinin_dich.html" />
+
+    <meta name="generator" content="sphinx-4.1.2, furo 2021.08.11.beta42"/>
+        <title>Function dichotomies - Wikisocion</title>
+      <link rel="stylesheet" type="text/css" href="../_static/pygments.css" />
+    <link rel="stylesheet" type="text/css" href="../_static/styles/furo.css?digest=197f00461d56902ea7ca048ec6e6ba026f62c97b" />
+    <link rel="stylesheet" type="text/css" href="../_static/styles/furo-extensions.css?digest=93475b62d1c3bc01323a0eefdc14a62d77b12690" />
+    
+    
+
+
+<style>
+  body {
+    --color-code-background: #f8f8f8;
+  --color-code-foreground: black;
+  
+  }
+  body[data-theme="dark"] {
+    --color-code-background: #202020;
+  --color-code-foreground: #d0d0d0;
+  
+  }
+  @media (prefers-color-scheme: dark) {
+    body:not([data-theme="light"]) {
+      --color-code-background: #202020;
+  --color-code-foreground: #d0d0d0;
+  
+    }
+  }
+</style>
+    <link media="(prefers-color-scheme: dark)" rel="stylesheet" href="../_static/pygments_dark.css"></head>
+  <body>
+    
+<svg xmlns="http://www.w3.org/2000/svg" style="display: none;">
+  <symbol id="svg-toc" viewBox="0 0 24 24">
+    <title>Contents</title>
+    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+      stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+      <path stroke="none" d="M0 0h24v24H0z" />
+      <line x1="4" y1="6" x2="20" y2="6" />
+      <line x1="10" y1="12" x2="20" y2="12" />
+      <line x1="6" y1="18" x2="20" y2="18" />
+    </svg>
+  </symbol>
+  <symbol id="svg-menu" viewBox="0 0 24 24">
+    <title>Menu</title>
+    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+      stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather-menu">
+      <line x1="3" y1="12" x2="21" y2="12"></line>
+      <line x1="3" y1="6" x2="21" y2="6"></line>
+      <line x1="3" y1="18" x2="21" y2="18"></line>
+    </svg>
+  </symbol>
+  <symbol id="svg-arrow-right" viewBox="0 0 24 24">
+    <title>Expand</title>
+    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+      stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather-chevron-right">
+      <polyline points="9 18 15 12 9 6"></polyline>
+    </svg>
+  </symbol>
+  <symbol id="svg-sun" viewBox="0 0 24 24">
+    <title>Light mode</title>
+    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+      stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" class="feather-sun">
+      <circle cx="12" cy="12" r="5"></circle>
+      <line x1="12" y1="1" x2="12" y2="3"></line>
+      <line x1="12" y1="21" x2="12" y2="23"></line>
+      <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
+      <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
+      <line x1="1" y1="12" x2="3" y2="12"></line>
+      <line x1="21" y1="12" x2="23" y2="12"></line>
+      <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
+      <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
+    </svg>
+  </symbol>
+  <symbol id="svg-moon" viewBox="0 0 24 24">
+    <title>Dark mode</title>
+    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+      stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" class="icon-tabler-moon">
+      <path stroke="none" d="M0 0h24v24H0z" fill="none" />
+      <path d="M12 3c.132 0 .263 0 .393 0a7.5 7.5 0 0 0 7.92 12.446a9 9 0 1 1 -8.313 -12.454z" />
+    </svg>
+  </symbol>
+  <symbol id="svg-sun-half" viewBox="0 0 24 24">
+    <title>Auto light/dark mode</title>
+    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+      stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" class="icon-tabler-shadow">
+      <path stroke="none" d="M0 0h24v24H0z" fill="none"/>
+      <circle cx="12" cy="12" r="9" />
+      <path d="M13 12h5" />
+      <path d="M13 15h4" />
+      <path d="M13 18h1" />
+      <path d="M13 9h4" />
+      <path d="M13 6h1" />
+    </svg>
+  </symbol>
+</svg>
+
+<input type="checkbox" class="sidebar-toggle" name="__navigation" id="__navigation">
+<input type="checkbox" class="sidebar-toggle" name="__toc" id="__toc">
+<label class="overlay sidebar-overlay" for="__navigation">
+  <div class="visually-hidden">Hide navigation sidebar</div>
+</label>
+<label class="overlay toc-overlay" for="__toc">
+  <div class="visually-hidden">Hide table of contents sidebar</div>
+</label>
+
+
+
+<div class="page">
+  <header class="mobile-header">
+    <div class="header-left">
+      <label class="nav-overlay-icon" for="__navigation">
+        <div class="visually-hidden">Toggle site navigation sidebar</div>
+        <i class="icon"><svg><use href="#svg-menu"></use></svg></i>
+      </label>
+    </div>
+    <div class="header-center">
+      <a href="../index.html"><div class="brand">Wikisocion</div></a>
+    </div>
+    <div class="header-right">
+      <div class="theme-toggle-container theme-toggle-header">
+        <button class="theme-toggle">
+          <div class="visually-hidden">Toggle Light / Dark / Auto color theme</div>
+          <svg class="theme-icon-when-auto"><use href="#svg-sun-half"></use></svg>
+          <svg class="theme-icon-when-dark"><use href="#svg-moon"></use></svg>
+          <svg class="theme-icon-when-light"><use href="#svg-sun"></use></svg>
+        </button>
+      </div>
+      <label class="toc-overlay-icon toc-header-icon" for="__toc">
+        <div class="visually-hidden">Toggle table of contents sidebar</div>
+        <i class="icon"><svg><use href="#svg-toc"></use></svg></i>
+      </label>
+    </div>
+  </header>
+  <aside class="sidebar-drawer">
+    <div class="sidebar-container">
+      
+      <div class="sidebar-sticky"><div class="sidebar-scroll"><a class="sidebar-brand" href="../index.html">
+  
+  
+  <span class="sidebar-brand-text">Wikisocion</span>
+  
+</a><form class="sidebar-search-container" method="get" action="../search.html" role="search">
+  <input class="sidebar-search" placeholder=Search name="q" aria-label="Search">
+  <input type="hidden" name="check_keywords" value="yes">
+  <input type="hidden" name="area" value="default">
+</form>
+<div id="searchbox"></div>
+</div>
+      </div>
+      
+    </div>
+  </aside>
+  <div class="main">
+    <div class="content">
+      <article role="main">
+        <div class="content-icon-container">
+          <div class="theme-toggle-container theme-toggle-content">
+            <button class="theme-toggle">
+              <div class="visually-hidden">Toggle Light / Dark / Auto color theme</div>
+              <svg class="theme-icon-when-auto"><use href="#svg-sun-half"></use></svg>
+              <svg class="theme-icon-when-dark"><use href="#svg-moon"></use></svg>
+              <svg class="theme-icon-when-light"><use href="#svg-sun"></use></svg>
+            </button>
+          </div>
+          <label class="toc-overlay-icon toc-content-icon" for="__toc">
+            <div class="visually-hidden">Toggle table of contents sidebar</div>
+            <i class="icon"><svg><use href="#svg-toc"></use></svg></i>
+          </label>
+        </div>
+        <div class="section" id="function-dichotomies">
+<h1>Function dichotomies<a class="headerlink" href="#function-dichotomies" title="Permalink to this headline">¶</a></h1>
+<div class="admonition warning">
+<p class="admonition-title">Warning</p>
+<p>This page or section is <strong>incomplete</strong>. Additional contributions are needed.</p>
+</div>
+<p>Functions can be categorized according to seven dichotomies. These seven dichotomies are related in the same way the <a class="reference internal" href="jungian.html"><span class="doc">Jungian foundation</span></a> is related to the <a class="reference internal" href="reinin_dich.html"><span class="doc">Reinin dichotomies</span></a>, and are thus subject to the same criticism as Reinin dichotomies. Since the seven dichotomies start as mathematical groups, they can be defined with multiple compatible definitions, depending on the author and scope. Recently, Victor Gulenko has developed the Energy Model, sometimes called Model G, in which he redefines all seven function dichotomies to focus on the flow of information within the psyche.</p>
+<p>Function dichotomies not only clearly contrast functions in Model A, but also serve as the information metabolism basis for most of type dichotomies, including the <a class="reference internal" href="jungian.html"><span class="doc">Jungian foundation</span></a> and the <a class="reference internal" href="quadra.html"><span class="doc">quadra values</span></a>.</p>
+<p>Model A function dichotomies:</p>
+<img alt="../_images/model_a_dich.jpg" class="align-center" src="../_images/model_a_dich.jpg"/>
+<div class="section" id="model-a-function-dichotomies">
+<h2>Model A Function Dichotomies<a class="headerlink" href="#model-a-function-dichotomies" title="Permalink to this headline">¶</a></h2>
+<div class="section" id="mental-and-vital">
+<span id="mental"></span><h3>Mental and Vital<a class="headerlink" href="#mental-and-vital" title="Permalink to this headline">¶</a></h3>
+<p>Perhaps the most important function dichotomy is mental/vital, sometimes called conscious/unconscious. The functions in the mental ring (functions 1, 2, 3, and 4) strive to verbalize information and formulate observations and form the core of the individual’s intellectual activity. On the other hand, the functions in the vital ring (functions 5, 6, 7, and 8) tend to manifest themselves without words in the process of doing things or inadvertently in the form of spontaneous sentiments. The mental and vital rings are briefly covered in <a class="reference internal" href="model_a.html"><span class="doc">Model A</span></a>.</p>
+</div>
+<div class="section" id="accepting-and-producing">
+<span id="accepting"></span><h3>Accepting and Producing<a class="headerlink" href="#accepting-and-producing" title="Permalink to this headline">¶</a></h3>
+<p>Accepting/producing is a dichotomy that separates the two functions of each block of Model A. Accepting functions ‘come first’ in each block and are odd-numbered: 1, 3, 5, and 7. Producing functions ‘come second’ and are even-numbered: 2, 4, 6, and 8. Note that accepting functions are on the left in the Ego and Id, but on the right in the Super-ego and Super-id.</p>
+<p>Originally, <a class="reference internal" href="augusta.html"><span class="doc">Aushra Augusta</span></a> suggested that accepting functions focus on obtaining a picture of reality, and producing functions create some sort of ‘new’ product that is molded to that cross-cut of reality obtained by the accepting function.</p>
+</div>
+<div class="section" id="strong-and-weak">
+<span id="strong"></span><h3>Strong and Weak<a class="headerlink" href="#strong-and-weak" title="Permalink to this headline">¶</a></h3>
+<div class="admonition seealso">
+<p class="admonition-title">See also</p>
+<p><a class="reference internal" href="dimensionality.html"><span class="doc">Dimensionality of functions</span></a></p>
+</div>
+<p>The Ego and Id functions are called <strong>strong</strong>, and the Super-ego and Super-id functions <strong>weak</strong>.</p>
+<p><strong>Strong functions</strong> generally have a more sophisticated grasp on information, and can be used practically for the benefit of oneself and others.</p>
+<p><strong>Weak functions</strong>, in contrast, tend to oversimplify data, do not usually generate conclusions on their own, and depend on help from outside sources.</p>
+<p>The <a class="reference internal" href="extroverted.html"><span class="doc">extroverted</span></a> and <a class="reference internal" href="introverted.html"><span class="doc">introverted</span></a> variants of an <a class="reference internal" href="elements.html"><span class="doc">information element</span></a> (e.g. extroverted intuition <img alt="Ne" src="../_images/Symbol_i.gif"/> and introverted intuition <img alt="Ni" src="../_images/Symbol_t.gif"/>) are different perspectives on the same sphere of activity, so it makes sense that strength in one implies strength in the other. For example, strength in accumulating data (<img alt="Te" src="../_images/Symbol_p.gif"/>) implies strength in inferring structure based on that data (<img alt="Ti" src="../_images/Symbol_l.gif"/>).</p>
+</div>
+<div class="section" id="contact-and-inert">
+<span id="contact"></span><h3>Contact and Inert<a class="headerlink" href="#contact-and-inert" title="Permalink to this headline">¶</a></h3>
+<div class="admonition seealso">
+<p class="admonition-title">See also</p>
+<p><a class="reference internal" href="contact_inert_subtypes.html"><span class="doc">Contact and Inert Subtypes by Meged and Ovcharov</span></a></p>
+</div>
+<p><strong>Inert</strong> functions (1, 4, 6, 7) are those that do not integrate information from the environment; thus, the strength of these functions remain the way they are. A person does not seek guidance in these areas as they comprise the core of their natural strengths and weaknesses.</p>
+<p>Inert functions 1 and 4 are a part of the <em>mental ring</em>; these are essentially one’s most confident strengths (<a class="reference internal" href="functions.html#leading-func"><span class="std std-ref">base function</span></a>) and debilitating weaknesses (<a class="reference internal" href="functions.html#polr-func"><span class="std std-ref">point of least resistance</span></a>). It is for this reason that strong judgments about these aspects of reality are inadvertently made.</p>
+<p>Inert functions 6 and 7 are in the <em>vital ring</em> of a person’s psyche. An individual is hardly aware of how these functions are used. The <a class="reference internal" href="functions.html#activating-func"><span class="std std-ref">mobilizing function</span></a> is inert since its primary mechanism is to mobilize one’s creative function into action. Thus one’s ability to use it does not become much stronger throughout life. The <a class="reference internal" href="functions.html#ignoring-func"><span class="std std-ref">ignoring function</span></a> is inert because it is part of a person’s natural strength, just like the base function. Conscious information is limited here in favor of the <a class="reference internal" href="functions.html#leading-func"><span class="std std-ref">leading function</span></a>.</p>
+<p><strong>Contact</strong> functions (2, 3, 5, 8) are essentially how we touch upon the environment; they adapt and integrate new experiences from the environment. These are capable of being improved over time (through ability or simply new understandings).</p>
+<p>Contact functions 2 and 3 are in the mental ring. The <a class="reference internal" href="functions.html#creative-func"><span class="std std-ref">creative function</span></a> produces new information out of what is accepted by the base function. This is literally how we uniquely ‘make contact’ with the world. This has potential to grow stronger as a conscious element since it’s the Ego’s connection to reality. In the <a class="reference internal" href="functions.html#role-func"><span class="std std-ref">role function</span></a>, however, information from the environment is weakly accepted <a class="reference internal" href="#evaluatory"><span class="std std-ref">situationally</span></a>, and is <a class="reference internal" href="#valued"><span class="std std-ref">subdued</span></a> since it opposes the base function’s approach. Although it cannot truly grow in strength, where it does grow is within the individual’s subjective understanding of that aspect of reality.</p>
+<p>Contact functions 5 and 8 are in the vital ring and strive to <a class="reference internal" href="#mental"><span class="std std-ref">unconsciously</span></a> make contact with the environment. This is indefinitely true of the <a class="reference internal" href="functions.html#suggestive-func"><span class="std std-ref">suggestive function</span></a>. Since it complements the <a class="reference internal" href="functions.html#leading-func"><span class="std std-ref">base function</span></a>, people unknowingly seek information related to it from the environment to strengthen its ability. It is theoretically the only way one can improve on their leading function. The <a class="reference internal" href="functions.html#demonstrative-func"><span class="std std-ref">demonstrative function</span></a> makes contact with one’s environment very unconsciously; it acts with the <a class="reference internal" href="#mental"><span class="std std-ref">conscious</span></a> leading function to produce one’s unique worldview, being just as strong as the base function.</p>
+</div>
+<div class="section" id="valued-and-subdued">
+<span id="valued"></span><h3>Valued and Subdued<a class="headerlink" href="#valued-and-subdued" title="Permalink to this headline">¶</a></h3>
+<div class="admonition seealso">
+<p class="admonition-title">See also</p>
+<p><a class="reference internal" href="quadra.html"><span class="doc">Quadra values</span></a></p>
+</div>
+<p>Valued functions are essentially what make up the foundation of our socionic type (Ego functions 1 and 2), and the processes that complement that foundation (Super-id functions 5 and 6). Every person actively seeks to process information based on these functions, and warmly create a sense of connection to others who value similar functions. The more valued functions in common means the closer the general compatibility between two types. These functions are what make up the quadra values of the types.</p>
+<p>Subdued functions are the remaining four functions that oppose our preferences; as a result we try to limit the use of these functions. The mental-subdued (weak) functions are found in the Super-ego block (functions 3 and 4), and the vital-subdued (strong) functions are in the Id block (functions 7 and 8). Since these functions are what we suppress as much as we can, in situations where we must use them they tend to produce dissatisfaction and distress in ourselves. Subdued functions are sometimes called non-valued although some socionists prefer not to use this name.</p>
+</div>
+<div class="section" id="evaluatory-and-situational">
+<span id="evaluatory"></span><h3>Evaluatory and Situational<a class="headerlink" href="#evaluatory-and-situational" title="Permalink to this headline">¶</a></h3>
+<p><strong>Evaluatory</strong> functions are the strongest (1 and 8) and weakest (4 and 5) functions of a person’s psyche; strong judgments about areas that involve these functions are made.</p>
+<ul class="simple">
+<li><p>Accepting-evaluatory functions, specifically the leading and suggestive, are valued by the individual. Evaluations made here are taken seriously, as they compose the center of one’s personality. In the leading function lies the core of their evaluations and decisions and so remains firmly inert; information accepted in the complementary suggestive function is also evaluated by an individual, but being weak and still yet valued, it strives to make contact with the environment to develop.</p></li>
+<li><p>Producing-evaluatory functions are subdued by the individual; evaluations are produced here only when information cannot be processed by valued accepting functions and are instead processed by our subdued accepting functions. Since the information produced in these areas are subdued, evaluations are generally negative but nonetheless firm. This is especially true of the vulnerable function. As for the demonstrative function, evaluations are produced in favor of one’s creative function, so it is taken less seriously even though an individual is quite sophisticated in that area.</p></li>
+</ul>
+<p><strong>Situational</strong> functions are accessed on a case-by-case basis, so decisions and judgments made in these areas are more or less inclined to remain constant.</p>
+<ul class="simple">
+<li><p>Accepting-situational functions (3 and 7) are subdued and only accept information in cases where the data accepted cannot be confidently evaluated by one’s valued accepting functions. In the role function, information is accepted consciously but is subdued as it opposes the base function. It’s also a contact function, which is why it is seen as somewhat of an importance to an individual, but definitely not emphasized. In the ignoring function, information is accepted even moreso on a situational basis because a person is strong in this area but neglects it over their preferred strength in the base function. Information is mostly ignored here and instead accepted by one’s suggestive function.</p></li>
+<li><p>Producing-situational functions (2 and 6) are situational since they only produce information that has been accepted by our valued-evaluatory functions. One’s creative function produces strong and valued information that must make contact with the environment for their ego to be heard. However, new information is only produced in situations the base function can accept information. One’s mobilizing function is inert, weak and valued, so information produced here isn’t quite understood consciously but still acts as a driver for the creative function.</p></li>
+</ul>
+<p>Understanding this function dichotomy is integral in fully realizing how types metabolize information as it forms the “information pathway” that connects our Model A together.</p>
+</div>
+<div class="section" id="bold-and-cautious">
+<span id="bold"></span><h3>Bold and Cautious<a class="headerlink" href="#bold-and-cautious" title="Permalink to this headline">¶</a></h3>
+<p><strong>Bold</strong> functions are used more freely than cautious functions, sometimes even in a way that makes a subdued function more heavily used than a valued function (e.g. role and suggestive functions). This may be considered an aspect of function strength.</p>
+<p>For extroverts, all extroverted elements are Bold functions, and all introverted elements Cautious. Conversely, introverts have Bold introverted functions and Cautious extroverted functions. The reason for this is that a type is more comfortable with their preferred direction of energy (“-tim”), and even the weak-bold functions are used with a considerable amount of confidence (whether it is just to put on a show or is naively used). In contrast, one’s Cautious functions are used with great care - the creative function is more sensitive to criticism even though it is a strong function, for example. This especially applies to the vulnerable function, where one is especially cautious about its use.</p>
+</div>
+<div class="section" id="verbal-and-nonverbal">
+<span id="verbal"></span><h3>Verbal and Nonverbal<a class="headerlink" href="#verbal-and-nonverbal" title="Permalink to this headline">¶</a></h3>
+<p><strong>Verbal</strong> (<strong>discursive</strong>) functions (or overvalued) belong to Ego and Super-Id blocks. These are functions (1, 2, 5, 6). They provide the active exchange of information between people. Information on these functions is interesting, and easily discussed. They tend to self-development.</p>
+<p><strong>Non-verbal</strong> (<strong>working</strong>, <strong>cooperative</strong>) functions belong to Super-ego and Id blocks. These are functions (3, 4, 7, 8). Aspects of these functions are not negotiable, prefer to receive help through action, deeds. Activity is limited to immediate needs and demands of society.</p>
+</div>
+<div class="section" id="exterior-and-interior">
+<span id="exterior"></span><h3>Exterior and Interior<a class="headerlink" href="#exterior-and-interior" title="Permalink to this headline">¶</a></h3>
+<p><strong>Exterior</strong> (constant) - Functions 1, 3, 6, 8. These are accepting functions of the mental ring and producing functions of the vital ring. Functions that contain aspects of one color - black for extroverts and white for introverts. It is characteristic for them to consider certain aspects to be part of an invariable essence of the world, and strive to leave them in the form in which they are. External changes are perceived as something inevitable but not characteristic.</p>
+<p><strong>Interior</strong> (variable) - Functions 2, 4, 5, 7. These are producing functions of the mental ring and accepting functions of the vital ring. These functions tend to see in their aspects elements that should be changed in the first place. They are either actively influencing the world or passively expecting changes from it.</p>
+</div>
+</div>
+<div class="section" id="blocks">
+<h2>Blocks<a class="headerlink" href="#blocks" title="Permalink to this headline">¶</a></h2>
+<p>Blocks are pairs of functions that share certain properties.</p>
+<p>Any two function dichotomies can intersect to create four blocks in the same way two type dichotomies can intersect and create four small groups. By far, the most common and widely used blocks are Augusta’s Ego, Super-Ego, Id and Super-Id, but the theory of dimensional functions is also relatively popular.</p>
+<div class="section" id="augusta-s-blocks">
+<h3>Augusta’s Blocks<a class="headerlink" href="#augusta-s-blocks" title="Permalink to this headline">¶</a></h3>
+<img alt="../_images/augusta_block.jpg" class="align-center" src="../_images/augusta_block.jpg"/>
+<div class="section" id="ego-block">
+<h4>Ego Block<a class="headerlink" href="#ego-block" title="Permalink to this headline">¶</a></h4>
+<p>The Ego block is a socially demonstrative, creative block that forms the core of the TIM and is usually associated with an individual’s ego - their inner “I”. This is an area of conscious competence and individualism, as well as conscious and active observation and influence on the world. A person is usually the most confident, informed, and energetically active on their Ego block functions. On this block, we rarely experience feelings of remorse, doubt, and shame; neither does this block shift responsibilities or blame onto others.</p>
+<p>The Ego block comprises a point of accurate self-assessment and demands social recognition that is adequate to its abilities. The activities of the functions of this block are socially direced - people easily share their experience and lend help to others from their Ego block. The functions in this block rarely “get tired”, thus a person can fill in most of their free time by activities pertaining to the functions of this block. Often people pick their primary sphere of activity and occupation basing on the functions of the Ego block.</p>
+<p>The Ego block is believed to be fully formed by the time a person reaches 24-25 years of age. Some socionists have noticed that this observation coincides with C. G. Jung’s commentary: “The first half of [a person’s] life is devoted to forming a healthy ego, the second half is going inward and letting go of it.”</p>
+<div class="admonition note">
+<p class="admonition-title">Note</p>
+<p>It should be noted that while this is the strongest block of a TIM, the accuracy and correctness of its estimates is strongly influenced by a person’s level of experience, knowledge, and intelligence. It is quite possible for the Ego block functions to make mistakes. Still, a person rarely feels deeply ashamed or inadequate on this block even if they’ve blundered, and usually recovers quickly and with ease.</p>
+</div>
+<p>The two functions of the Ego Block, the leading function and the creative one, are said to constitute the “formula of the type”. These are the most independent and confident functions. Activity of this block always carries an unfinished, open-ended nature. On this block a person says: “I know what I need the best. If some changes or improvements are needed, I will implement them without outside help.”</p>
+</div>
+<div class="section" id="super-ego-block">
+<h4>Super-ego Block<a class="headerlink" href="#super-ego-block" title="Permalink to this headline">¶</a></h4>
+<p>This block is known as the block of “social control” and the block of “social conformism”. It can be likened to the “social conscience” of an individual: this block’s activity is directed primarily at fulfillment of norms and standards that other people set for the individual. Any evaluations and instructions on this block the individual seeks external to himself, from other people who surround him or her; here the individual “surrenders” himself to the direction and control of others from his social milieu, consciously admitting the weakness of own Super-ego functions. The absence of “painful irritation” on 4th vulnerable function is considered to be a sign that the individual satisfies and meets the expectations of others; each person wishes that his or her understanding of the 4th vulnerable aspect would coincide with the “public opinion”. According to interpretations of some socionics sources, this is the block through which a society controls a person.</p>
+<p>Direct influences on Super-ego block are typically the most consciously discomforting to a person. At the same time, the person is consciously aware of his or her weaknesses in this area, and realizes that he or she must make up and react somehow. This reaction, as a rule, comes from the strong functions of their Ego block. Thus, influences on the Super-ego block make a person mobilize and consciously activate the functions of his or her Ego block for a further response.</p>
+<p>The Super-ego block never argues; it only reasons not adding anything new but only tallying up all that is known to the individual on its aspects. This block is “omnivorous” and readily absorbs all information that pertains to its aspects, at the same time showing a subpar differentiation of information.</p>
+<p>In some literature this block is referred to as the “teenager” block - from this block the person tries to show to others: “I’m just like you. I am one of your own.” - which is reminiscent of socialization style of people in their teenage years, when a person tries to show their belonging to a particular peer group. It is also believed that this block fully forms during adolescent years (12-18).</p>
+</div>
+<div class="section" id="super-id-block">
+<h4>Super-id Block<a class="headerlink" href="#super-id-block" title="Permalink to this headline">¶</a></h4>
+<p>The Super-id block is sometimes called the “child” block in socionics literature, because this is the block of weak unconscious functions on which it is difficult to engage in active, conscious, purposeful activity. A person most often is a “consumer” of information on this block, readily absorbing any related information from others, and even provoking others to produce such information, which is best accomplished by their dual TIM. At the same time, a person poorly discerns information on this block, and tends to be overly trusting of the arguments and evaluations provided by others. This is especially descriptive of the suggestive function, which has been called “suggestive” because a person is too suggestible, malleable, and easily directed on this element, having weak ability to evaluate incoming information on this function.</p>
+<p>In general, people need extensive advice and support on the aspects of their Super-id bock, which they typically receive from others who have these information aspects as part of their Ego block. To think for oneself and resolve problems independently on this block the person “hasn’t the time” and little understanding of own wishes and needs; thus a person usually gives a lot of freedom to others, including their partner, over these aspects.</p>
+<p>Having little awareness of one’s own needs on this block, the person does not pose their own interests on this block in opposition to others; certain victimness and sacrificial behavior can be observed on this block, as well as a need for external regulation and control. If a person does not receive support and high quality positive advice on these aspects, and experiences inadequacy on own suggestive and activating functions, a feeling of “blaming others” begins to develop over this block. In this case, a person start accusing people around for not living up to his expectations, withdrawing from society, and placing all responsibility on others. (As an example: An elderly lonely ILE man was no longer able to sufficiently take care of his living quarters, where he also kept a monkey as a pet and company. As the items and trash accumulated in his flat, and he started receiving complaints from other residents of the complex, he blamed them and his neighbors for not helping him out with upkeep and maintenance of his apartment.)</p>
+</div>
+<div class="section" id="id-block">
+<h4>Id Block<a class="headerlink" href="#id-block" title="Permalink to this headline">¶</a></h4>
+<p>Passive skills - a person is quite capable on this block, but these skills are directed at prevention of negative moments and dangerous developments rather that active and conscious self-realization. The person has little awareness of what he is capable of on this block and little interest in it. The main function of this block is watching out for potential dangers and pitfalls, satisfaction of one’s base level of needs, and ensuring one’s own survival and survival of close people. Other types of activities on this block are usually of no interest to a person and don’t bring results of high social value and merit. A person is typically unable to constantly work on the aspects of this block, since this requires placing restrictions on one’s Ego block, constant self-scrutiny and self-criticism.</p>
+<p>The Id block is a “kinetic energy” block same as the Ego block. These are the blocks of of decisive and persistent activity that doesn’t know shame and uncertainty - unlike the blocks of Super-ego and Super-id that are “potential energy” blocks on which a person often experiences doubt and worries.</p>
+</div>
+</div>
+<div class="section" id="dimensional-blocks">
+<h3>Dimensional Blocks<a class="headerlink" href="#dimensional-blocks" title="Permalink to this headline">¶</a></h3>
+<img alt="../_images/dimension_block.jpg" class="align-center" src="../_images/dimension_block.jpg"/>
+<ul class="simple">
+<li><p>4th dimension</p></li>
+<li><p>3rd dimension</p></li>
+<li><p>2nd dimension</p></li>
+<li><p>1st dimension</p></li>
+</ul>
+</div>
+<div class="section" id="temperament-axes">
+<h3>Temperament Axes<a class="headerlink" href="#temperament-axes" title="Permalink to this headline">¶</a></h3>
+<img alt="../_images/temp_axes.jpg" class="align-center" src="../_images/temp_axes.jpg"/>
+<p>The temperament blocks are speculation and have not been explored by any professional socionist.</p>
+<ul class="simple">
+<li><p>Axis 1: Base - Role</p></li>
+<li><p>Axis 2: Creative - Vulnerable</p></li>
+<li><p>Axis 3: Mobilizing - Demonstrative</p></li>
+<li><p>Axis 4: Suggestive - Ignoring</p></li>
+</ul>
+</div>
+<div class="section" id="functional-axes">
+<h3>Functional Axes<a class="headerlink" href="#functional-axes" title="Permalink to this headline">¶</a></h3>
+<img alt="../_images/func_axes.jpg" class="align-center" src="../_images/func_axes.jpg"/>
+<p>The functional axis is theoretical and has not been explored by any professional socionist.</p>
+<ul class="simple">
+<li><p>Axis 1: Base - Ignoring</p></li>
+<li><p>Axis 2: Creative - Demonstrative</p></li>
+<li><p>Axis 3: Role - Suggestive</p></li>
+<li><p>Axis 4: Vulnerable - Mobilizing Axis</p></li>
+</ul>
+</div>
+<div class="section" id="dual-axis">
+<h3>Dual Axis<a class="headerlink" href="#dual-axis" title="Permalink to this headline">¶</a></h3>
+<img alt="../_images/dual_axes.jpg" class="align-center" src="../_images/dual_axes.jpg"/>
+<p>The dual axes is theoretical and has not been explored by any professional socionist.</p>
+<ul class="simple">
+<li><p>Axis 1: Base - Suggestive</p></li>
+<li><p>Axis 2: Creative - Mobilizing</p></li>
+<li><p>Axis 3: Role - Ignoring</p></li>
+<li><p>Axis 4: Vulnerable - Demonstrative</p></li>
+</ul>
+</div>
+<div class="section" id="vertical-blocks">
+<h3>Vertical Blocks<a class="headerlink" href="#vertical-blocks" title="Permalink to this headline">¶</a></h3>
+<img alt="../_images/vertical_block.jpg" class="align-center" src="../_images/vertical_block.jpg"/>
+<p>The vertical blocks are speculation and have not been explored by any professional socionist.</p>
+<ul class="simple">
+<li><p>Base Vulnerable Block</p></li>
+<li><p>Creative Role Block</p></li>
+<li><p>Mobilizing Ignoring Block</p></li>
+<li><p>Suggestive Demonstrative Block</p></li>
+</ul>
+</div>
+<div class="section" id="confidence-value-blocks">
+<h3>Confidence Value Blocks<a class="headerlink" href="#confidence-value-blocks" title="Permalink to this headline">¶</a></h3>
+<img alt="../_images/confidence_value_block.jpg" class="align-center" src="../_images/confidence_value_block.jpg"/>
+<p>The confidence values are speculation and have not been explored by any professional socionist.</p>
+<ul class="simple">
+<li><p>Base - Mobilizing Block</p></li>
+<li><p>Creative - Suggestive Block</p></li>
+<li><p>Role - Demonstrative Block</p></li>
+<li><p>Vulnerable - Ignoring Block</p></li>
+</ul>
+</div>
+<div class="section" id="diagram-of-functional-blocks">
+<h3>Diagram of Functional Blocks<a class="headerlink" href="#diagram-of-functional-blocks" title="Permalink to this headline">¶</a></h3>
+<img alt="../_images/fano_functions.png" class="align-center" src="../_images/fano_functions.png"/>
+<p>Diagram of the seven ways to block functions. Each line connecting three dichotomies is a blocking mode. Augusta’s blocks are represented by the line connecting the bottom left corner to the opposite edge of the triangle and the dimensionality blocks are the left edge of the triangle.</p>
+</div>
+</div>
+<div class="section" id="summary-chart">
+<h2>Summary Chart<a class="headerlink" href="#summary-chart" title="Permalink to this headline">¶</a></h2>
+<div class="table-wrapper"><table class="docutils align-center" id="id1">
+<caption><span class="caption-text">Functions of Model A</span><a class="headerlink" href="#id1" title="Permalink to this table">¶</a></caption>
+<colgroup>
+<col style="width: 33%"/>
+<col style="width: 33%"/>
+<col style="width: 33%"/>
+</colgroup>
+<thead>
+<tr class="row-odd"><th class="head"><p>Inert</p></th>
+<th class="head"><p>Contact</p></th>
+<th class="head"><p><a class="reference internal" href="model_a.html#model-a-blocks"><span class="std std-ref">Blocks</span></a></p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="row-even"><td><div class="line-block">
+<div class="line">1st <a class="reference internal" href="functions.html#leading-func"><span class="std std-ref">Program</span></a></div>
+<div class="line"><a class="reference internal" href="#strong"><span class="std std-ref">Strong</span></a>; <a class="reference internal" href="#valued"><span class="std std-ref">Valued</span></a>; <a class="reference internal" href="#contact"><span class="std std-ref">Inert</span></a></div>
+<div class="line"><a class="reference internal" href="#verbal"><span class="std std-ref">Verbal</span></a>; <a class="reference internal" href="#mental"><span class="std std-ref">Mental</span></a>; <a class="reference internal" href="#bold"><span class="std std-ref">Bold</span></a></div>
+<div class="line"><a class="reference internal" href="#evaluatory"><span class="std std-ref">Evaluatory</span></a>; <a class="reference internal" href="#exterior"><span class="std std-ref">Exterior</span></a>; <a class="reference internal" href="#accepting"><span class="std std-ref">Accepting</span></a></div>
+<div class="line"><a class="reference internal" href="dimensionality.html"><span class="doc">4-dimensional</span></a></div>
+</div>
+</td>
+<td><div class="line-block">
+<div class="line">2nd <a class="reference internal" href="functions.html#creative-func"><span class="std std-ref">Creative</span></a></div>
+<div class="line"><a class="reference internal" href="#strong"><span class="std std-ref">Strong</span></a>; <a class="reference internal" href="#valued"><span class="std std-ref">Valued</span></a>; <a class="reference internal" href="#contact"><span class="std std-ref">Contact</span></a></div>
+<div class="line"><a class="reference internal" href="#verbal"><span class="std std-ref">Verbal</span></a>; <a class="reference internal" href="#mental"><span class="std std-ref">Mental</span></a>; <a class="reference internal" href="#bold"><span class="std std-ref">Cautious</span></a></div>
+<div class="line"><a class="reference internal" href="#evaluatory"><span class="std std-ref">Situational</span></a>; <a class="reference internal" href="#exterior"><span class="std std-ref">Interior</span></a>; <a class="reference internal" href="#accepting"><span class="std std-ref">Producing</span></a></div>
+<div class="line"><a class="reference internal" href="dimensionality.html"><span class="doc">3-dimensional</span></a></div>
+</div>
+</td>
+<td><p><a class="reference internal" href="model_a.html#ego-block"><span class="std std-ref">Ego block</span></a></p></td>
+</tr>
+<tr class="row-odd"><td><div class="line-block">
+<div class="line">4th <a class="reference internal" href="functions.html#polr-func"><span class="std std-ref">Painful</span></a></div>
+<div class="line"><a class="reference internal" href="#strong"><span class="std std-ref">Weak</span></a>; <a class="reference internal" href="#valued"><span class="std std-ref">Subdued</span></a>; <a class="reference internal" href="#contact"><span class="std std-ref">Inert</span></a></div>
+<div class="line"><a class="reference internal" href="#verbal"><span class="std std-ref">Non-verbal</span></a>; <a class="reference internal" href="#mental"><span class="std std-ref">Mental</span></a>; <a class="reference internal" href="#bold"><span class="std std-ref">Cautious</span></a></div>
+<div class="line"><a class="reference internal" href="#evaluatory"><span class="std std-ref">Evaluatory</span></a>; <a class="reference internal" href="#exterior"><span class="std std-ref">Interior</span></a>; <a class="reference internal" href="#accepting"><span class="std std-ref">Producing</span></a></div>
+<div class="line"><a class="reference internal" href="dimensionality.html"><span class="doc">1-dimensional</span></a></div>
+</div>
+</td>
+<td><div class="line-block">
+<div class="line">3th <a class="reference internal" href="functions.html#role-func"><span class="std std-ref">Role</span></a></div>
+<div class="line"><a class="reference internal" href="#strong"><span class="std std-ref">Weak</span></a>; <a class="reference internal" href="#valued"><span class="std std-ref">Subdued</span></a>; <a class="reference internal" href="#contact"><span class="std std-ref">Contact</span></a></div>
+<div class="line"><a class="reference internal" href="#verbal"><span class="std std-ref">Non-verbal</span></a>; <a class="reference internal" href="#mental"><span class="std std-ref">Mental</span></a>; <a class="reference internal" href="#bold"><span class="std std-ref">Bold</span></a></div>
+<div class="line"><a class="reference internal" href="#evaluatory"><span class="std std-ref">Situational</span></a>; <a class="reference internal" href="#exterior"><span class="std std-ref">Exterior</span></a>; <a class="reference internal" href="#accepting"><span class="std std-ref">Accepting</span></a></div>
+<div class="line"><a class="reference internal" href="dimensionality.html"><span class="doc">2-dimensional</span></a></div>
+</div>
+</td>
+<td><p><a class="reference internal" href="model_a.html#superego-block"><span class="std std-ref">Super-ego block</span></a></p></td>
+</tr>
+<tr class="row-even"><td><div class="line-block">
+<div class="line">6th <a class="reference internal" href="functions.html#activating-func"><span class="std std-ref">Activating</span></a></div>
+<div class="line"><a class="reference internal" href="#strong"><span class="std std-ref">Weak</span></a>; <a class="reference internal" href="#valued"><span class="std std-ref">Valued</span></a>; <a class="reference internal" href="#contact"><span class="std std-ref">Inert</span></a></div>
+<div class="line"><a class="reference internal" href="#verbal"><span class="std std-ref">Verbal</span></a>; <a class="reference internal" href="#mental"><span class="std std-ref">Vital</span></a>; <a class="reference internal" href="#bold"><span class="std std-ref">Bold</span></a></div>
+<div class="line"><a class="reference internal" href="#evaluatory"><span class="std std-ref">Situational</span></a>; <a class="reference internal" href="#exterior"><span class="std std-ref">Exterior</span></a>; <a class="reference internal" href="#accepting"><span class="std std-ref">Producing</span></a></div>
+<div class="line"><a class="reference internal" href="dimensionality.html"><span class="doc">2-dimensional</span></a></div>
+</div>
+</td>
+<td><div class="line-block">
+<div class="line">5th <a class="reference internal" href="functions.html#suggestive-func"><span class="std std-ref">Suggestive</span></a></div>
+<div class="line"><a class="reference internal" href="#strong"><span class="std std-ref">Weak</span></a>; <a class="reference internal" href="#valued"><span class="std std-ref">Valued</span></a>; <a class="reference internal" href="#contact"><span class="std std-ref">Contact</span></a></div>
+<div class="line"><a class="reference internal" href="#verbal"><span class="std std-ref">Verbal</span></a>; <a class="reference internal" href="#mental"><span class="std std-ref">Vital</span></a>; <a class="reference internal" href="#bold"><span class="std std-ref">Cautious</span></a></div>
+<div class="line"><a class="reference internal" href="#evaluatory"><span class="std std-ref">Evaluatory</span></a>; <a class="reference internal" href="#exterior"><span class="std std-ref">Interior</span></a>; <a class="reference internal" href="#accepting"><span class="std std-ref">Accepting</span></a></div>
+<div class="line"><a class="reference internal" href="dimensionality.html"><span class="doc">1-dimensional</span></a></div>
+</div>
+</td>
+<td><p><a class="reference internal" href="model_a.html#superid-block"><span class="std std-ref">Super-id block</span></a></p></td>
+</tr>
+<tr class="row-odd"><td><div class="line-block">
+<div class="line">7th <a class="reference internal" href="functions.html#ignoring-func"><span class="std std-ref">Ignoring</span></a></div>
+<div class="line"><a class="reference internal" href="#strong"><span class="std std-ref">Strong</span></a>; <a class="reference internal" href="#valued"><span class="std std-ref">Subdued</span></a>; <a class="reference internal" href="#contact"><span class="std std-ref">Inert</span></a></div>
+<div class="line"><a class="reference internal" href="#verbal"><span class="std std-ref">Non-Verbal</span></a>; <a class="reference internal" href="#mental"><span class="std std-ref">Vital</span></a>; <a class="reference internal" href="#bold"><span class="std std-ref">Cautious</span></a></div>
+<div class="line"><a class="reference internal" href="#evaluatory"><span class="std std-ref">Situational</span></a>; <a class="reference internal" href="#exterior"><span class="std std-ref">Interior</span></a>; <a class="reference internal" href="#accepting"><span class="std std-ref">Accepting</span></a></div>
+<div class="line"><a class="reference internal" href="dimensionality.html"><span class="doc">3-dimensional</span></a></div>
+</div>
+</td>
+<td><div class="line-block">
+<div class="line">8th <a class="reference internal" href="functions.html#demonstrative-func"><span class="std std-ref">Background</span></a></div>
+<div class="line"><a class="reference internal" href="#strong"><span class="std std-ref">Strong</span></a>; <a class="reference internal" href="#valued"><span class="std std-ref">Subdued</span></a>; <a class="reference internal" href="#contact"><span class="std std-ref">Contact</span></a></div>
+<div class="line"><a class="reference internal" href="#verbal"><span class="std std-ref">Non-verbal</span></a>; <a class="reference internal" href="#mental"><span class="std std-ref">Vital</span></a>; <a class="reference internal" href="#bold"><span class="std std-ref">Bold</span></a></div>
+<div class="line"><a class="reference internal" href="#evaluatory"><span class="std std-ref">Evaluatory</span></a>; <a class="reference internal" href="#exterior"><span class="std std-ref">Exterior</span></a>; <a class="reference internal" href="#accepting"><span class="std std-ref">Producing</span></a></div>
+<div class="line"><a class="reference internal" href="dimensionality.html"><span class="doc">4-dimensional</span></a></div>
+</div>
+</td>
+<td><p><a class="reference internal" href="model_a.html#id-block"><span class="std std-ref">Id block</span></a></p></td>
+</tr>
+</tbody>
+</table></div>
+</div>
+</div>
+
+      </article>
+      <footer>
+        
+        <div class="related-pages">
+          <a class="next-page" href="extra_intro.html">
+              <div class="page-info">
+                <div class="context">
+                  <span>Next</span>
+                </div>
+                <div class="title">Extraversion and introversion</div>
+              </div>
+              <svg><use href="#svg-arrow-right"></use></svg>
+            </a>
+          <a class="prev-page" href="reinin_dich.html">
+              <svg><use href="#svg-arrow-right"></use></svg>
+              <div class="page-info">
+                <div class="context">
+                  <span>Previous</span>
+                </div>
+                
+                <div class="title">Reinin dichotomies</div>
+                
+              </div>
+            </a>
+        </div>
+
+        <div class="related-information">
+              Copyright &#169; 2021, Wikisocion Authors
+            |
+            Built with <a href="https://www.sphinx-doc.org/">Sphinx</a>
+              and
+              <a class="muted-link" href="https://pradyunsg.me">@pradyunsg</a>'s
+              <a href="https://github.com/pradyunsg/furo">Furo theme</a>.
+            |
+            <a class="muted-link" href="../_sources/content/function_dich.rst.txt"
+               rel="nofollow">
+              Show Source
+            </a>
+        </div>
+        
+      </footer>
+    </div>
+    <aside class="toc-drawer">
+      
+      
+      <div class="toc-sticky toc-scroll">
+        <div class="toc-title-container">
+          <span class="toc-title">
+            Contents
+          </span>
+        </div>
+        <div class="toc-tree-container">
+          <div class="toc-tree">
+            <ul>
+<li><a class="reference internal" href="#">Function dichotomies</a><ul>
+<li><a class="reference internal" href="#model-a-function-dichotomies">Model A Function Dichotomies</a><ul>
+<li><a class="reference internal" href="#mental-and-vital">Mental and Vital</a></li>
+<li><a class="reference internal" href="#accepting-and-producing">Accepting and Producing</a></li>
+<li><a class="reference internal" href="#strong-and-weak">Strong and Weak</a></li>
+<li><a class="reference internal" href="#contact-and-inert">Contact and Inert</a></li>
+<li><a class="reference internal" href="#valued-and-subdued">Valued and Subdued</a></li>
+<li><a class="reference internal" href="#evaluatory-and-situational">Evaluatory and Situational</a></li>
+<li><a class="reference internal" href="#bold-and-cautious">Bold and Cautious</a></li>
+<li><a class="reference internal" href="#verbal-and-nonverbal">Verbal and Nonverbal</a></li>
+<li><a class="reference internal" href="#exterior-and-interior">Exterior and Interior</a></li>
+</ul>
+</li>
+<li><a class="reference internal" href="#blocks">Blocks</a><ul>
+<li><a class="reference internal" href="#augusta-s-blocks">Augusta’s Blocks</a><ul>
+<li><a class="reference internal" href="#ego-block">Ego Block</a></li>
+<li><a class="reference internal" href="#super-ego-block">Super-ego Block</a></li>
+<li><a class="reference internal" href="#super-id-block">Super-id Block</a></li>
+<li><a class="reference internal" href="#id-block">Id Block</a></li>
+</ul>
+</li>
+<li><a class="reference internal" href="#dimensional-blocks">Dimensional Blocks</a></li>
+<li><a class="reference internal" href="#temperament-axes">Temperament Axes</a></li>
+<li><a class="reference internal" href="#functional-axes">Functional Axes</a></li>
+<li><a class="reference internal" href="#dual-axis">Dual Axis</a></li>
+<li><a class="reference internal" href="#vertical-blocks">Vertical Blocks</a></li>
+<li><a class="reference internal" href="#confidence-value-blocks">Confidence Value Blocks</a></li>
+<li><a class="reference internal" href="#diagram-of-functional-blocks">Diagram of Functional Blocks</a></li>
+</ul>
+</li>
+<li><a class="reference internal" href="#summary-chart">Summary Chart</a></li>
+</ul>
+</li>
+</ul>
+
+          </div>
+        </div>
+      </div>
+      
+      
+    </aside>
+  </div>
+</div><script data-url_root="../" id="documentation_options" src="../_static/documentation_options.js"></script>
+    <script src="../_static/jquery.js"></script>
+    <script src="../_static/underscore.js"></script>
+    <script src="../_static/doctools.js"></script>
+    <script src="../_static/scripts/main.js"></script>
+    </body>
+</html>

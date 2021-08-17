@@ -1,0 +1,824 @@
+<!doctype html>
+<html class="no-js">
+  <head><meta charset="utf-8"/>
+    <meta name="viewport" content="width=device-width,initial-scale=1"/>
+    <meta name="color-scheme" content="light dark"><link rel="index" title="Index" href="../genindex.html" /><link rel="search" title="Search" href="../search.html" /><link rel="next" title="Information Elements" href="elements.html" /><link rel="prev" title="Dimensionality of functions" href="dimensionality.html" />
+
+    <meta name="generator" content="sphinx-4.1.2, furo 2021.08.11.beta42"/>
+        <title>Dimensionality of Functions by Eglit - Wikisocion</title>
+      <link rel="stylesheet" type="text/css" href="../_static/pygments.css" />
+    <link rel="stylesheet" type="text/css" href="../_static/styles/furo.css?digest=197f00461d56902ea7ca048ec6e6ba026f62c97b" />
+    <link rel="stylesheet" type="text/css" href="../_static/styles/furo-extensions.css?digest=93475b62d1c3bc01323a0eefdc14a62d77b12690" />
+    
+    
+
+
+<style>
+  body {
+    --color-code-background: #f8f8f8;
+  --color-code-foreground: black;
+  
+  }
+  body[data-theme="dark"] {
+    --color-code-background: #202020;
+  --color-code-foreground: #d0d0d0;
+  
+  }
+  @media (prefers-color-scheme: dark) {
+    body:not([data-theme="light"]) {
+      --color-code-background: #202020;
+  --color-code-foreground: #d0d0d0;
+  
+    }
+  }
+</style>
+    <link media="(prefers-color-scheme: dark)" rel="stylesheet" href="../_static/pygments_dark.css"></head>
+  <body>
+    
+<svg xmlns="http://www.w3.org/2000/svg" style="display: none;">
+  <symbol id="svg-toc" viewBox="0 0 24 24">
+    <title>Contents</title>
+    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+      stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+      <path stroke="none" d="M0 0h24v24H0z" />
+      <line x1="4" y1="6" x2="20" y2="6" />
+      <line x1="10" y1="12" x2="20" y2="12" />
+      <line x1="6" y1="18" x2="20" y2="18" />
+    </svg>
+  </symbol>
+  <symbol id="svg-menu" viewBox="0 0 24 24">
+    <title>Menu</title>
+    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+      stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather-menu">
+      <line x1="3" y1="12" x2="21" y2="12"></line>
+      <line x1="3" y1="6" x2="21" y2="6"></line>
+      <line x1="3" y1="18" x2="21" y2="18"></line>
+    </svg>
+  </symbol>
+  <symbol id="svg-arrow-right" viewBox="0 0 24 24">
+    <title>Expand</title>
+    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+      stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather-chevron-right">
+      <polyline points="9 18 15 12 9 6"></polyline>
+    </svg>
+  </symbol>
+  <symbol id="svg-sun" viewBox="0 0 24 24">
+    <title>Light mode</title>
+    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+      stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" class="feather-sun">
+      <circle cx="12" cy="12" r="5"></circle>
+      <line x1="12" y1="1" x2="12" y2="3"></line>
+      <line x1="12" y1="21" x2="12" y2="23"></line>
+      <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
+      <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
+      <line x1="1" y1="12" x2="3" y2="12"></line>
+      <line x1="21" y1="12" x2="23" y2="12"></line>
+      <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
+      <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
+    </svg>
+  </symbol>
+  <symbol id="svg-moon" viewBox="0 0 24 24">
+    <title>Dark mode</title>
+    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+      stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" class="icon-tabler-moon">
+      <path stroke="none" d="M0 0h24v24H0z" fill="none" />
+      <path d="M12 3c.132 0 .263 0 .393 0a7.5 7.5 0 0 0 7.92 12.446a9 9 0 1 1 -8.313 -12.454z" />
+    </svg>
+  </symbol>
+  <symbol id="svg-sun-half" viewBox="0 0 24 24">
+    <title>Auto light/dark mode</title>
+    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+      stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" class="icon-tabler-shadow">
+      <path stroke="none" d="M0 0h24v24H0z" fill="none"/>
+      <circle cx="12" cy="12" r="9" />
+      <path d="M13 12h5" />
+      <path d="M13 15h4" />
+      <path d="M13 18h1" />
+      <path d="M13 9h4" />
+      <path d="M13 6h1" />
+    </svg>
+  </symbol>
+</svg>
+
+<input type="checkbox" class="sidebar-toggle" name="__navigation" id="__navigation">
+<input type="checkbox" class="sidebar-toggle" name="__toc" id="__toc">
+<label class="overlay sidebar-overlay" for="__navigation">
+  <div class="visually-hidden">Hide navigation sidebar</div>
+</label>
+<label class="overlay toc-overlay" for="__toc">
+  <div class="visually-hidden">Hide table of contents sidebar</div>
+</label>
+
+
+
+<div class="page">
+  <header class="mobile-header">
+    <div class="header-left">
+      <label class="nav-overlay-icon" for="__navigation">
+        <div class="visually-hidden">Toggle site navigation sidebar</div>
+        <i class="icon"><svg><use href="#svg-menu"></use></svg></i>
+      </label>
+    </div>
+    <div class="header-center">
+      <a href="../index.html"><div class="brand">Wikisocion</div></a>
+    </div>
+    <div class="header-right">
+      <div class="theme-toggle-container theme-toggle-header">
+        <button class="theme-toggle">
+          <div class="visually-hidden">Toggle Light / Dark / Auto color theme</div>
+          <svg class="theme-icon-when-auto"><use href="#svg-sun-half"></use></svg>
+          <svg class="theme-icon-when-dark"><use href="#svg-moon"></use></svg>
+          <svg class="theme-icon-when-light"><use href="#svg-sun"></use></svg>
+        </button>
+      </div>
+      <label class="toc-overlay-icon toc-header-icon" for="__toc">
+        <div class="visually-hidden">Toggle table of contents sidebar</div>
+        <i class="icon"><svg><use href="#svg-toc"></use></svg></i>
+      </label>
+    </div>
+  </header>
+  <aside class="sidebar-drawer">
+    <div class="sidebar-container">
+      
+      <div class="sidebar-sticky"><div class="sidebar-scroll"><a class="sidebar-brand" href="../index.html">
+  
+  
+  <span class="sidebar-brand-text">Wikisocion</span>
+  
+</a><form class="sidebar-search-container" method="get" action="../search.html" role="search">
+  <input class="sidebar-search" placeholder=Search name="q" aria-label="Search">
+  <input type="hidden" name="check_keywords" value="yes">
+  <input type="hidden" name="area" value="default">
+</form>
+<div id="searchbox"></div>
+</div>
+      </div>
+      
+    </div>
+  </aside>
+  <div class="main">
+    <div class="content">
+      <article role="main">
+        <div class="content-icon-container">
+          <div class="theme-toggle-container theme-toggle-content">
+            <button class="theme-toggle">
+              <div class="visually-hidden">Toggle Light / Dark / Auto color theme</div>
+              <svg class="theme-icon-when-auto"><use href="#svg-sun-half"></use></svg>
+              <svg class="theme-icon-when-dark"><use href="#svg-moon"></use></svg>
+              <svg class="theme-icon-when-light"><use href="#svg-sun"></use></svg>
+            </button>
+          </div>
+          <label class="toc-overlay-icon toc-content-icon" for="__toc">
+            <div class="visually-hidden">Toggle table of contents sidebar</div>
+            <i class="icon"><svg><use href="#svg-toc"></use></svg></i>
+          </label>
+        </div>
+        <div class="section" id="dimensionality-of-functions-by-eglit">
+<h1>Dimensionality of Functions by Eglit<a class="headerlink" href="#dimensionality-of-functions-by-eglit" title="Permalink to this headline">¶</a></h1>
+<div class="line-block">
+<div class="line">Published by <a class="reference internal" href="eglit.html"><span class="doc">Irina M. Eglit</span></a> in <em>Socionics,
+mentology, and psychology of personality.</em> - 2007. -  2.</div>
+<div class="line"><a class="reference external" href="http://socionicasys.org/biblioteka/statji/razmernost-funkcij">Original
+article.</a></div>
+</div>
+<div class="section" id="introduction">
+<h2>Introduction<a class="headerlink" href="#introduction" title="Permalink to this headline">¶</a></h2>
+<p>Keywords: <em>socionics, psychology, mental functions, the functions of information metabolism, information model of the psyche (model A), the dimensions of informational metabolism functions by A. B. Bukalov</em></p>
+<blockquote>
+<div><p>Abstract: In this publication, we will describe our observations of dimensionality of functions of information metabolism, that were introduced by A. V. Bukalov. This concept will be illustrated by examples of statements and actions that demonstrate the differences in dimensionality of functions processing the same information aspect.</p>
+</div></blockquote>
+<p>In 1989, the model of A. Augustinavichiute (model A) was supplemented by the theory of dimensionality of functions. A. V. Bukalov proposed the concept of the existence of different dimensionailties of TIM functions (a vector model), according to which functions of model A can be described by four coordinates (four vectors):</p>
+<ol class="arabic simple">
+<li><p>Coordinate (vector) of time (or vector of globally).</p></li>
+<li><p>Coordinate (vector) of immediate situation on the aspect of the function being examined.</p></li>
+<li><p>Coordinate (vector) of norms or cultural upbringing, customs accepted in society.</p></li>
+<li><p>Coordinate (vector) which includes in itself self-valuation, personal experiences, inner values and desires. [1]</p></li>
+</ol>
+<p>Vladimir D. Ermak has described dimensionality of functions as parameters of processing of information:</p>
+<p><strong>Ex</strong> (from English experience) – parameters of experience – a characterization (description) of individual or personal (social) experience, accumulated from the point of birth and throughout a person’s life in the process of making decisions and undertaking directive actions;</p>
+<p><strong>Nr</strong> (from English norm) – parameters of norms – a characterization (description) of norms, regulations, customs, accepted practices and standards (individual or social), to be followed in the decision making process or undertaking directive actions;</p>
+<p><strong>St</strong> (from English situation) – parameters of the “situation” – a characterization (description) of conditions, the “environment” or circumstances (individual or social) of decision-making or implementation of directive actions;</p>
+<p><strong>Tm</strong> (from the English. Time) – parametric time – a moment of time in past, present, or future with respect to which a personal or social decision is made or realized; in other words, time as a point on a time scale i.e. as a parameter of “tying” of information processing to some past, present, or future point [2, p. 65-66].</p>
+<p>The dimensionality of a function depends on its purpose (it’s task or role) in the structure of the model.</p>
+</div>
+<div class="section" id="dimensionality-of-functions">
+<h2>Dimensionality of Functions<a class="headerlink" href="#dimensionality-of-functions" title="Permalink to this headline">¶</a></h2>
+<p>Functions of model A have the following dimensions:</p>
+<img alt="../_images/dim1.png" class="align-center" src="../_images/dim1.png"/>
+<p>Function 1 (four-dimensional) – the parameters of social experience (Ex*), norms (Nr*), situation (St*), time (Tm*).</p>
+<p>Function 8 (four-dimensional) – parameters of individual experience (Ex), norms (Nr), situation (St), time (Tm).</p>
+<img alt="../_images/dim2.png" class="align-center" src="../_images/dim2.png"/>
+<p>Function 2 (three-dimensional) – the parameters of social experience (Ex*), norms (Nr*), situation (St*). The function is invariant on parameter of time (Tm*).</p>
+<p>Function 7 (three-dimensional) – parameters of individual experience (Ex), norms (Nr), situation (St). The function is invariant on parameter of time (Tm).</p>
+<img alt="../_images/dim3.png" class="align-center" src="../_images/dim3.png"/>
+<p>Function 3 (two-dimensional) – the parameters of social experience (Ex*), norms (Nr*). The function is invariant on parameters of situation (St*) and time (Tm*).</p>
+<p>Function 6 (two-dimensional) – parameters of individual experience (Ex), norms (Nr). The function is invariant on parameters of situation (St) and time (Tm).</p>
+<img alt="../_images/dim4.png" class="align-center" src="../_images/dim4.png"/>
+<p>Function 4 (one-dimensional) – parameter of social experience (Ex*). The function is invariant on parameters of norms (Nr*), situation (St*), and time (Tm*).</p>
+<p>Function 5 (one-dimensional) – parameter of individual experience (Ex). The function is invariant on parameters of norms (Nr), situation (St), and time (Tm). Dimension of a function depends on its purpose (the task, role) in the structure of the model.</p>
+<p>If a function has more dimensions, this doesn’t mean that it holds “more” information. A multi-dimensional function is multidimensional not because it contains more information, but because the number of parameters taken into account during its processing is greater. What differentiates the workings of a function of higher dimensionality is the breadth of its approach, better tying of information together, which allows it to give out a more optimal and adequate to the situation result [3].</p>
+<p>The theory of dimensionality of functions has offered to socionics practitioners a “measuring instrument” for determining the exact placement of functions in the model of TIM. This “instrument” can be used when there is a need to determine person’s TIM from written text (typing based on answers to questionnaires, blogs, interviews, forum posts, speeches, diaries, and so on). With enough experience, one can track the dimensionality of information processing during “live” interviews with remote observation of a person.</p>
+<p>The concept of dimensionality of functions has been successfully verified and applied in practice in School of Systemic Socionics (SSS), which uses a systematic approach in socionics (an approach proposed by Vladimir Davidovich Ermak) to formalize the process of distance typing.</p>
+<p>Below we will provide examples of responses given to questions posed during distance typing through the internet. These examples do not determine TIMs of participants, but rather show various indications of function dimensionality.</p>
+</div>
+<div class="section" id="parameter-of-experience-ex">
+<h2>Parameter of Experience (Ex)<a class="headerlink" href="#parameter-of-experience-ex" title="Permalink to this headline">¶</a></h2>
+<p>Parameter of experience is the base parameter for all functions. This is the foundation on which everything else is built (normative, situational, and time parameters).</p>
+<p>Experience – is something individual and personal (corresponding to vital and metal superblocks) that cannot be transferred to another person. This is the self-perception of a person. Any time information is processed the person obtains experience.</p>
+<p>A good illustration of this self-perception is an example with sight. We cannot transfer to another person our own visual experience. It can be said: “This is blue color”, but at the same time we don’t know how another person sees blue color. One would need to look through the eyes of another to experience his or her experience.</p>
+<p>As another example, suppose that someone tells a story about eating the fruit mangosteen:</p>
+<div class="admonition-example admonition">
+<p class="admonition-title">Example</p>
+<p>Mangosteen has brown-purple fruits that are the size of a mandarin. It has a thick rind that must be peeled off. Inside there are soft white slices, just like a mandarin (externally resembling garlic cloves). These slices are slippery and may jump out of hand. Some slices may have pits. This fruit has a sweet and sour taste. The taste is difficult to compare to any fruit that grows locally.</p>
+</div>
+<p>As a result of such “transfer of experience” (verbal transmission), other people won’t actually acquire the experience of the taste of this fruit. They will only receive the knowledge that such a fruit exists and the information about its general qualities and appearance. Experience is personal perception by all senses, one’s own internal evaluation.</p>
+<p>The meaning of word “experience” in framework of socionics differs from the conventional meaning of this word: “The combination of knowledge, skills, abilities, acquired in life, everyday activities, etc.” [4]. In common usage, it can be said that “experience passes from generation to generation”. However, what is actually transferred between generations is knowledge, which in socionics terms most closely correspond to the dimension “norms”. Experience, in socionics terms, is impossible to transfer same as one cannot transfer one’s own perceptions and sensations to others.</p>
+<p>U. Roslankina and V. Pyatnitsky write:</p>
+<blockquote>
+<div><p>Experience – is a very interesting parameter in the structure of TIM model. Dictionaries define the category of experience as a practice-based sensory-empirical knowledge of objective reality, a combination of knowledge, skills and abilities learned from life, from practical experience. One of the tints of the concept of “experience” sounds as “something that has already taken place, that has already been tested in practice, in life, that has already been encountered” [5], which, in our opinion, most closely describes the socionics meaning of this concept. Philosophical dictionary gives definition of experience as the basis of knowledge and the criterion of truth.</p>
+<p>In light of this last claim, it becomes evident why the dimension of experience is present in each of the eight socionics functions. Since for as long as one can rely on one’s experience, one can be autonomous in own actions and deeds. An individual who would be missing the dimension of experience could not commit any action – he or she would have nothing as a foundation. If this idea is taken further, we can assume that the expression of other dimensions is impossible without experience. Experience is the elementary information component that allows to connect the internal activity of the human psyche with the external world [3].</p>
+</div></blockquote>
+<p>Two 1-dimensional functions (4th and 5th) rely only on experience in processing information on their aspects.</p>
+<p>Since 1-dimensional functions are invariant with respect to norms, situation, and time parameters, information processing by these functions possesses a nature that is personal, idiosyncratic, sometimes inadequate (from the point of view of the observer). Issuing a response on a one-dimensional function, the person him or herself may not even suspect that there is something “wrong”, because he doesn’t have any tools to make a comparison (norms).</p>
+<p>Examples:</p>
+<div class="admonition-example admonition">
+<p class="admonition-title">Example</p>
+<p><em>Categorize these words into groups (choose the groups yourself): phone, mushrooms, sandals, forest, paper, noise, bee, meadow, green, crunch, music, songs, technology, patents, doctor.</em></p>
+<p>“Nature: mushrooms, noise, bee, meadow, green, crunch, music, songs. Work: phone, paper, technology and patents. Life: sandals, doctor. For me, music and songs – are “nature”, because all the holidays and celebrations in town (where there are songs, music, and dancings) are always held outdoors, out in nature.</p>
+<p>(1-dimensional Ti, idiosyncrasy : SEE “Napoleon”)</p>
+</div>
+<p>The phrase “for me” draws attention. It points to an individual understanding, which is characteristic of 1-dimensional functions (absence of norms) or vital functions (superblock of individual life activity).</p>
+<div class="admonition-example admonition">
+<p class="admonition-title">Example</p>
+<p><em>Does your understanding of what is logical correspond to the conventional understanding?</em></p>
+<p>“I don’t know. I think everyone has their own notions of logic. In often happens with me, that someone tries to justify some obviously illogical to my mind solutions with some mental muck or something similar. Before, this would lead me on – nowadays, no, because I realized that people often do not understand themselves what they are doing, however sophisticated they are in formal logic.”</p>
+<p>(1-dimensional Ti, idiosyncrasy : EIE “Hamlet”)</p>
+</div>
+<p>There is no acknowledgement of norms in logic, only an individual point of view.</p>
+<p>Practice in determining TIMs shows that the people being typed often cannot evaluate the adequacy of their 1-dimensional functions, and may even consider it to be the most “powerful” one (mistake it for 1st function). If one tries to convince them that it’s normative or accepted to act (react, respond) in some other way, the person may say: “It’s more comfortable for me this way, more understandable”, “And I want to do it differently”, “Why do I need the opinion of others, when I know myself how to do this”.</p>
+<p>Example:</p>
+<div class="admonition-example admonition">
+<p class="admonition-title">Example</p>
+<p>“Morals – are norms of behavior. I don’t know how most people understand what is moral and what is not, but if someone doesn’t like my style of communication, that’s their problem. I don’t bother too much with the correctness of my understanding of this issue, I have my own principles. Let’s say that I don’t go beyond the upper limit of moral standards.”</p>
+<p>(1-dimensional Fi : ILE “Don Quixote”)</p>
+</div>
+<p>There is no acknowledgement of norms of ethics, only individual point of view.</p>
+<p>In the process of determining TIM, consider that the person being typed may know that there are norms and commonly accepted behaviors (reactions, evaluations, opinions), and can even talk about them them. However, when it comes to reactions coming from a 1-dimensional function, this knowledge cannot help to act as is accepted (normative), because each new situation – is a new experience, where it’s necessary to make a decision basing on previous experiences or personal perceptions.</p>
+<p>Examples:</p>
+<div class="admonition-example admonition">
+<p class="admonition-title">Example</p>
+<p>“I walk around the room and greet other people. Everything is good. I’ve done this before. People respond with a smile to a greeting. I remember this and repeat it again and again. Suddenly, someone doesn’t respond to my “hello” – I am thrown into stupor. What to do in this situation? What is the right way to react? – I don’t know. From me you can expect any kind of reaction: from indignation to ignoring the person in the future.</p>
+<p>(1-dimensional Fi : LSE “Stirlitz”)</p>
+</div>
+<p>An attempt to follow social norms (awareness that they exist is present for 1-dimensional functions) turns out to be unsuccessful in a new situation (when there is no similar experience).</p>
+<div class="admonition-example admonition">
+<p class="admonition-title">Example</p>
+<p>“I know, for example, that black can be matched with any color, that full-figured people should not wear tight clothing, and many other things, but this doesn’t (or almost doesn’t) help me in the picking my clothes. I know that one should dress well and dress warmly, but this, in every concrete case, won’t help me in dressing appropriately to the weather outside, because every day the weather is different. That is, this information can and does get absorbed, but there is no benefit from it, I can’t apply it.”</p>
+<p>(1-dimensional Si : ILE “Don Quixote”)</p>
+</div>
+<p>An inability to implement norms in sensorics.</p>
+<div class="admonition-example admonition">
+<p class="admonition-title">Example</p>
+<p>“In society there are norms when pressuring someone is considered to be normal. If person is lazy, or refuses to carry out his responsibilities – if he is aware of this himself, then he might view any coercion and pressure exerted on him as something quite natural. Then, putting some pressure on him won’t ruin relations, won’t evoke a protest. I absolutely cannot keep track of such situations, when it is needed to pressure a person that he would do something concrete and tangible. It seems to me that I don’t have a right to do this, and that after such an attempt the person will relate to me poorly. Due to this, I cannot effectively manage others and defend my interests.”</p>
+<p>(1-dimensional Se : EII “Dostoevsky”)</p>
+</div>
+<p>An inability to apply norms on 1-dimensional function, assessment of the situation on leading function (Fi). In typing, one can frequently observe a link between the 1st leading and 4th vulnerable functions. The 4th function is constantly “prompting” the 1st function to work (to avoid any troubles).</p>
+<p>Often a person is fully aware that he cannot utilize norms on 1-dimensional functions, and feels lost in a new situation.</p>
+<p>Examples:</p>
+<div class="admonition-example admonition">
+<p class="admonition-title">Example</p>
+<p>“I don’t know how to sympathize. And when I find myself in such a situation, I feel lost and don’t know what to do. I have one wish – to give a friendly pat on the shoulder and say: enough complaining, let’s get up and resolve the problem.”</p>
+<p>(1-dimensional Fi : SLE “Zhukov”)</p>
+</div>
+<div class="admonition-example admonition">
+<p class="admonition-title">Example</p>
+<p>“My husband’s brother came over to help him move the refrigerator. They moved the refrigerator to its spot, he wanted to leave soon – it was evening and he had somewhere else to stop by. I said “thank you” to him 5 times before he walked out the door. And then I thought: “what’s up with me?” I realized that I wanted to express my sincere gratitude to him, but besides saying “thank you” I don’t know how to sincerely express my gratitude. Saying it once – doesn’t seem very convincing. So it was said 5 times. Coming from me this meant: “I am truly grateful for your help, and not saying this as a formality.”</p>
+<p>(1-dimensional Fi : LSE “Stirlitz”)</p>
+</div>
+<p>An example of workings of a vital function: first reaction, then acknowledgement. An idiosyncratic understanding of norms and a reflection of individual understanding of the aspect.</p>
+<div class="admonition-example admonition">
+<p class="admonition-title">Example</p>
+<p>Can you evaluate yourself how well you’ve done something, the quality of the result?
+“I can evaluate whether it’s good or poor … but this will be a subjective evaluation … objectively, this will be difficult to assess … because I cannot see it from the outside …”</p>
+<p>(1-dimensional Te : IEI “Esenin”)</p>
+</div>
+<p>Individuality of 1-dimensional function does not permit to evaluate oneself from the “outside” (norms).</p>
+<div class="admonition-example admonition">
+<p class="admonition-title">Example</p>
+<p>“Misunderstandings occurs when a person, for example, sits and tearfully tells a story of how he was supposedly offended. This entire situation is such that help is not actually required, there’s nothing to help with. But for some reason he is still telling about it! And often I find myself quietly falling into stupor, frantically trying to figure out what kind of response is required out of me. Obviously, no thoughts come to my mind, except: “Huh, so what do I do, what do you want?” All of this is reflected with corresponding expression on my face, and the person … becomes angry, not seeing a sufficient response to his story.</p>
+<p>(1-dimensional Fe : SLI “Gabin”)</p>
+</div>
+<p>Stupor, desire to understand of how one should respond (norms), what is needed.</p>
+<p>Since both 1-dimensional functions (4th and 5th) process the information idiosyncratically, sometimes inadequately to the situation (from the point of view of the observer), distinguishing them in typing process causes some difficulties. In order to tell these functions apart, it should be taken into account that these functions are located at different positions in their blocks and in different superblocks: mental and vital. They perform different tasks.</p>
+<p>The 4th function is often called the “point of least resistance” (PoLR), as well as “painful” function. It is located in the mental block of Superego, in realizing position. Therefore, a person consciously processes information on the aspect of 4th function “from delivery” of 3rd function. The person attempts to avert the danger of potential troubles on basis of his or her experience. Negative evaluation from others evokes a painful reaction. The person feels excessive strain when he or she often has to act from 4th function.</p>
+<p>Example:</p>
+<div class="admonition-example admonition">
+<p class="admonition-title">Example</p>
+<p>“My husband and I work at the same company, so we go to work together. I often walk to the workplace, but my husband prefers to sleep a little longer in the morning and then catch the bus. The bus station is near our house, but we rarely take the bus together. When we do, I leave the house early and then wait for my husband and the bus at the bus stop, then my husband comes, then the bus, and we get in and depart. Buses here arrive strictly by schedule, that is, I know at what time the bus will arrive at the stop. But it’s still hard for me to leave the house together with my husband, and he knows it, too. Usually, he tries to persuade me to not hurry, that we’ll make it on time. My husband has never been late for work, this I know, but still it’s discomforting for me to leave the house together with him so close to the arrival of the bus.</p>
+<p>(1-dimensional Ni : LSE “Stirlitz”)</p>
+</div>
+<p>An example of how a person does not become convinced by the behavior of others (norms) on an aspect processed by a 1-dimensional function. The fear of the unknown consequences is stronger.</p>
+<p>In the event of an overload of 1-dimensional function, the response may be completely inadequate, and the person may become uncontrollable for some time.</p>
+<p>Example:</p>
+<div class="admonition-example admonition">
+<p class="admonition-title">Example</p>
+<p><em>How do you show negative emotions? What does it look like? What do other people tell you about this?</em></p>
+<p>“Wild, that’s how it looks. Best to not to bring me to such a state. I no longer control myself – can explode sharply and say such things, that it won’t be alright.”</p>
+<p>(Inadequacy on 1-dimensional Fe : SLI “Gabin”)</p>
+</div>
+<p>This behavior is similar to an uncontrollable reaction of a vital function. However, when overloaded, a mental 1-dimensional function also can be uncontrollable.</p>
+<p>The 5th function (“individual experience”) is located in the vital block of Superid, thus processing of information done by this function happens unconsciously, “on autopilot” – often a person becomes aware of his or her reaction only after the fact. The 5th function is called suggestive.</p>
+<p>U. Roslankina and V. Pyatnitsky write: “It is interesting that the suggestive function, having high suggestibility, contains exclusively individual experience. That is, suggestibility is selectively set only by deep personal experience ” [3].</p>
+<p>It seems that the suggestive function possesses its own sensitive indicator for differentiating information on basis of “mine/not mine.” It may be speculated, that experience, which constitutes the basis for this distinction, serves as a “loading point” (V.D. Ermak), which is concentrated in form of a value that must be saved and preserved in its original form. It is the 1-dimensionality and vitality of this function that allow this value to remain “untouched” by standards of society, neither one’s own habits and cliches (norms). They are not recognized, they don’t blend into individual’s sense of “what is right”, “what is my way/method”. The 5th function works as a sort of an antenna, that catches from a variety of information on its aspect only that, which is need for that given individual.</p>
+<p>Examples:</p>
+<div class="admonition-example admonition">
+<p class="admonition-title">Example</p>
+<p><em>How are strong people interesting to you? In what do you see manifestations of power? How do you feel being near such people?</em></p>
+<p>“I learn from them … being near them feels good and cozy. And interesting, very interesting … because strong people are always interesting … And strength, I don’t know, this is a vibe emanating from them, that they have inner strength.”</p>
+<p><em>How is a strong person of interest to you?</em></p>
+<p>“By their character, by demonstrations of their power, it is interesting to watch them, interesting to analyze what makes them strong, for which actions they are considered to be strong … It is interesting to talk to them (this is simply interesting, you can learn a lot of new and fascinating things), their opinions are interesting. I try to learn their strength from them, because I think my own strengths are not sufficient, that I am weak, and next them I learn and hide if something comes up, to be protected.”</p>
+<p>(Suggestive Se : IEI “Esenin”)</p>
+</div>
+<div class="admonition-example admonition">
+<p class="admonition-title">Example</p>
+<p><em>What kind of information do you absorb and how do you use it later?</em></p>
+<p>“Information about possible variations of development of events, but every time I need to anticipate something myself, to calculate beforehand – nothing works out. The situation is different, it’s new – I get lost. I try to retain this information, but it disappears somewhere, flies past my mind, I cannot focus on it for a long time … Let’s consider my friend as an example. When we had presidential elections in our country, he would often voice predictions how it would be better if … I listened with an open mouth, though I know little of politics and don’t find it interesting in general. But the mere fact that this person accurately sees the cross-section of this situation, what will lead to what, and how it could have been better – this was very impressive. This brings deep respect.”</p>
+<p>(Suggestive Ne : SEI “Dumas”)</p>
+</div>
+<div class="admonition-example admonition">
+<p class="admonition-title">Example</p>
+<p>“I always liked psychological games in which people evaluate each other and voice their opinions – it’s interesting to hear what others see in you. Perhaps this is immodest, but curiosity eats at me. … Well, when someone draws for me how this is great, and awesome, how interesting, how it could give me something. Usually I am easily “led on” by such “advertisements” that come from my friends and acquaintances.”</p>
+<p>(Suggestive Ne : SLI “Gabin”)</p>
+</div>
+<p>Information given on suggestive function is interesting, fascinating, impressive, it “leads on”, entices. The person wants to do something similar, to learn how to do the same. People are quite suggestible on their suggestive function. However, it’s more pleasant to be an observer on one’s suggestive function rather than a performer, because, as a rule, one’s own experience shows that one cannot quite do the same.</p>
+<p>Information that does not resonate with the “mine” aspect for suggestive function causes rejection, unpleasant perceptions, if it’s persistently repeated.</p>
+<p>Examples:</p>
+<div class="admonition-example admonition">
+<p class="admonition-title">Example</p>
+<p>“No one calls me “practical: practicality and I – this is an oxymoron. I’m often accused of impracticality, and sometimes it hurts very much.”</p>
+<p>(1-dimensional Te : EII “Dostoevsky”)</p>
+</div>
+<div class="admonition-example admonition">
+<p class="admonition-title">Example</p>
+<p><em>Does waiting for an important event come easy for you? How about if its exact start time is unknown?</em></p>
+<p>“There is some worry there definitely. You keep thinking about it all the time. Here, another situation is also possible. You know when something is going to happen, but you cannot predict its result or outcome. More so, when an outcome that is negative for you is very probable. Right now I am in kind of situation. An event that is important for me is going to occur in a week. And I’m already starting to get very worried. I want to somehow forget about it, but I can’t. On that day when everything will get resolved, I will finally be calm. What will be, will be.”</p>
+<p>(1-dimensional Ni : SLE “Zhukov”)</p>
+</div>
+</div>
+<div class="section" id="parameter-of-norms-nr">
+<h2>Parameter of Norms (Nr)<a class="headerlink" href="#parameter-of-norms-nr" title="Permalink to this headline">¶</a></h2>
+<p>Parameter is norms applies to all functions except the 1-dimensional
+ones.</p>
+<p>The 2-dimensional functions are the 3rd function (“social norms”) and
+the 6th function (“individual norms”). These functions are invariant
+towards the parameters of situation and time, thus they are inflexible,
+and in any situation apply conventional methods and rules (3rd
+function), honed by the habitual to the person standards in processing
+information (6th function).</p>
+<p>Norms are often founds in proverbs, sayings, rules, and regulations.</p>
+<p>In society, there are generally accepted rules of behavior (of
+relating), of expressing emotions, certain ways of determining quality
+(standards), logical conclusions, standard ways of evaluating
+possibilities, perceptions of changes, commonly used methods of defense,
+and of creating comfort.</p>
+<p>Below are examples of some common (normative) conceptions (statements).
+It should be noted that these norms are not absolute  they vary by
+country and region, traditions and “unwritten rules” of the cultures and
+communities in which they exist. While typing, a function should not be
+designated as normative, if one encounters a proverb or a stable
+expression in responses or text. We must remember that the parameter of
+norms is also applicable to the three- and four-dimensional functions.
+During the typing process information should be evaluated “as a whole.”
+These citations are given for illustrating normative thinking.</p>
+<p>Normative perceptions on Te:</p>
+<ul class="simple">
+<li><p>The price should match the quality.</p></li>
+<li><p>The products must be of high quality.</p></li>
+<li><p>A good worker is one who performs no worse than everyone else. Variations: who is competent in sphere of his duties; who passed the corresponding qualifying exams, etc.</p></li>
+<li><p>The separation of work by gender, male and female.</p></li>
+<li><p>At work, you need to work.</p></li>
+<li><p>Judge the quality of good by their label.</p></li>
+<li><p>“From work horses die.”</p></li>
+<li><p>“Everything cannot be done.”</p></li>
+<li><p>“The eyes fear, but the hands do.”</p></li>
+<li><p>“Rolling stone gathers no moss.”</p></li>
+<li><p>“No pain  no gain.”</p></li>
+<li><p>“Don’t leave for tomorrow what can be done today.”</p></li>
+<li><p>“Business before pleasure.”</p></li>
+<li><p>“Not bringing the axe, you can’t build a house.”</p></li>
+<li><p>“Practice makes perfect.”</p></li>
+<li><p>“Work is not a wolf, will not run away to the forrest.”</p></li>
+<li><p>Normative perceptions on Ti:</p></li>
+<li><p>The presentation should be consistent.</p></li>
+<li><p>One should follow from the other.</p></li>
+<li><p>There should be no controversy.</p></li>
+<li><p>Justice  correspondence to the truth, regulations, norms.</p></li>
+<li><p>Rules, regulations, requirements  these must be followed.</p></li>
+<li><p>Hierarchy  the subordination of the lower positions to the higher.</p></li>
+<li><p>The need for correctness.</p></li>
+<li><p>Presumption of innocence.</p></li>
+<li><p>Citation of normative reference materials.</p></li>
+<li><p>Reliance on authority.</p></li>
+<li><p>Reference to the amount of education received, diplomas earned, etc.</p></li>
+<li><p>A man should be intelligent.</p></li>
+<li><p>Strictly adhere to the instructions.</p></li>
+<li><p>Women’s logic.</p></li>
+</ul>
+<p>Normative perceptions on Si:</p>
+<ul class="simple">
+<li><p>Convenient is that which is comfortable for the body, there is nothing that would prevent the body. One that is easy, pleasant, well-used.</p></li>
+<li><p>Comfort - a set of amenities, comfort.</p></li>
+<li><p>Beautiful - nice to look at, to distinguish right shape, the harmony of colors, shades, lines. The fact that all considered beautiful.</p></li>
+<li><p>Harmony (in BC) - the mutual correspondence (parts of objects, phenomena).</p></li>
+<li><p>Physical beauty - the beauty of which has been accepted in society at the moment, for example, for women: a certain proportion between the breasts, waist, hips, lack of completeness, not flat or sagging breasts, big eyes, eyebrows arch, lush, shiny hair, long slender legs, etc.</p></li>
+<li><p>The need to follow fashion.</p></li>
+<li><p>A woman should be neat and clean.</p></li>
+<li><p>A good lady in the apartment clean.</p></li>
+<li><p>Men are not made to show extravagance in dress.</p></li>
+<li><p>Do not throw trash on the ground.</p></li>
+</ul>
+<p>Normative perceptions on Se:</p>
+<ul class="simple">
+<li><p>Safety - a must. Need to protect yourself, loved ones, your home, your home from attack.</p></li>
+<li><p>Attack - a necessity. Need to attack, to not attack you on the first (best defense - attack).</p></li>
+<li><p>Discipline - is required.</p></li>
+<li><p>Show wanton aggression - badly.</p></li>
+<li><p>Need to eliminate the cause of the pressure.</p></li>
+<li><p>“An eye for an eye, a tooth for a tooth.”</p></li>
+<li><p>“Self comes first”</p></li>
+<li><p>Subordination of junior senior.</p></li>
+<li><p>“Who does not feed its own army will feed someone else.”</p></li>
+<li><p>“Speed humps do not beat.”</p></li>
+<li><p>No excess protection.</p></li>
+<li><p>The right of the owner - the owner of the rights to their territory.</p></li>
+<li><p>Brothers must protect and care (material) of each other.</p></li>
+<li><p>The husband has the right to his wife (wives accountability).</p></li>
+<li><p>A man must protect his wife (family).</p></li>
+<li><p>A man should be able to support his family.</p></li>
+<li><p>A real man does not show weakness.</p></li>
+<li><p>This man has to serve in the army.</p></li>
+</ul>
+<p>Normative perceptions on Fi:</p>
+<ul class="simple">
+<li><p>You have to be polite.</p></li>
+<li><p>Must follow the rules of etiquette.</p></li>
+<li><p>You have to be nice to people.</p></li>
+<li><p>Support the perception by others of himself as a good, decent man.</p></li>
+<li><p>“I do not have a hundred rubles, and a hundred friends.”</p></li>
+<li><p>A true friend is always around to help.</p></li>
+<li><p>“A friend in need is known.”</p></li>
+<li><p>“An old friend is better than two new ones.”</p></li>
+<li><p>Do not use foul language in public places, with children and women.</p></li>
+<li><p>Return good for good.</p></li>
+<li><p>Not to change their promises.</p></li>
+<li><p>Respect their parents and elders.</p></li>
+<li><p>Respect the religious and personal feelings.</p></li>
+<li><p>Courtesy call / response invitation if I was invited to visit, then I also have to invite. If I had guests and I was invited back - impolite to refuse.</p></li>
+<li><p>Between friends, no bills.</p></li>
+<li><p>Talk shit behind my back - badly.</p></li>
+<li><p>Climb into the personal life or feelings - bad.</p></li>
+<li><p>Between family members should be a good relationship.</p></li>
+<li><p>The mother must love children.</p></li>
+<li><p>Grandchildren love more children.</p></li>
+<li><p>A woman should not be rude.</p></li>
+<li><p>“Do not wash dirty linen in public.”</p></li>
+<li><p>Need to provide emotional support to loved ones.</p></li>
+<li><p>You can not make fun of physical defects.</p></li>
+<li><p>A woman may be late for a date.</p></li>
+</ul>
+<p>Normative perceptions on Fe:</p>
+<ul class="simple">
+<li><p>You can not have fun at a funeral.</p></li>
+<li><p>Emotions should not interfere with others.</p></li>
+<li><p>Be merry with the merry and sad with sad.</p></li>
+<li><p>Observe the emotional age of decency.</p></li>
+<li><p>You can not laugh out loud in public places.</p></li>
+<li><p>A real man does not cry (maloemotsionalen).</p></li>
+<li><p>Women are allowed to cry.</p></li>
+<li><p>Women - emotional and sensual.</p></li>
+<li><p>You can not be inflated surly in society.</p></li>
+<li><p>Need to have fun in the company and on holidays.</p></li>
+</ul>
+<p>Normative perceptions on Ne:</p>
+<ul class="simple">
+<li><p>Not everyone has to be talent.</p></li>
+<li><p>Everyone has to find his calling.</p></li>
+<li><p>Has the right to its strangeness (but not excessively).</p></li>
+<li><p>Not accepted in the kink community.</p></li>
+<li><p>In science, some cranks.</p></li>
+<li><p>“Above the head itself can not jump.”</p></li>
+<li><p>Talents are given above (God).</p></li>
+<li><p>Need to know a person with him to eat a peck of salt.</p></li>
+<li><p>Men are capable of (smarter, more talented) women.</p></li>
+<li><p>“Best is the enemy of the good.”</p></li>
+<li><p>“There is no prophet in his own country.”</p></li>
+<li><p>Advertising can not be trusted.</p></li>
+<li><p>Women have some mysterious female intuition.</p></li>
+<li><p>Tell a lie - it is bad.</p></li>
+<li><p>With age comes wisdom.</p></li>
+<li><p>Talent will find its way everywhere.</p></li>
+<li><p>“There is a silver lining.”</p></li>
+<li><p>“They say bad luck if a black cat enters the road.”</p></li>
+<li><p>Everyone - the master of my fate.</p></li>
+</ul>
+<p>Normative perceptions on Ni:</p>
+<ul class="simple">
+<li><p>Everything that happens - for the better.</p></li>
+<li><p>Fortune tellers are able to predict the future.</p></li>
+<li><p>Trust in horoscopes.</p></li>
+<li><p>Not to talk about his plans not to jinx it.</p></li>
+<li><p>“Time - money.”</p></li>
+<li><p>Need to save for a rainy day.</p></li>
+<li><p>All new - good / bad.</p></li>
+<li><p>“Sleep on it.”</p></li>
+<li><p>It used to be better (more fatter, thicker).</p></li>
+<li><p>All that came from the past - wisdom.</p></li>
+<li><p>“Do not put off till tomorrow what you can do today.”</p></li>
+<li><p>“Time heals.”</p></li>
+<li><p>“Everything flows, everything changes.”</p></li>
+<li><p>“Before the wedding will live.”</p></li>
+<li><p>For entertaining activity time is running out.</p></li>
+<li><p>“God works in mysterious ways.”</p></li>
+<li><p>“Case - the time fun - an hour.”</p></li>
+<li><p>“Better late than never.”</p></li>
+<li><p>May be too late to (5 x 10 -15) minutes.</p></li>
+</ul>
+<p>For regulatory statements characterized the requirement that it should
+be, as well as it should.</p>
+<p>An indicator of the normative function of the human desire is not to go
+beyond the conventional, references to authority, how trained (in the
+family, at school, in high school), how others are doing.</p>
+<p>Examples:</p>
+<div class="admonition-example admonition">
+<p class="admonition-title">Example</p>
+<p>“Hierarchy - a system of subordination and relationships between objects of a system. If it exists, it is to obey her. Because … because it’s made! A boss, there is a subordinate …”</p>
+<p>(Normative Ti - EII “Dostoevsky”)</p>
+</div>
+<div class="admonition-example admonition">
+<p class="admonition-title">Example</p>
+<p>“When I was in school and we had to define the essence of the idea of art, I’ll really never been able to determine this point. I own it kind of gets. I wondered how this other way understand. I could easily tell what the story is, but an idea was hard to distinguish. I needed for this tutorial, in which this substance was determined. All the time. With each new product. And then in the head formed a “list” of ideas, and I could not itself determine the nature of the works. Well, maybe not a very deep …”</p>
+<p>(Individual norms Ne : LSE “Stirlitz”)</p>
+</div>
+<p>Filling the second function is the interaction with society. In this case, selected the rules that are necessary to this individual for his life. In this example, normativity and secured by the need of some understanding of pattern pieces.</p>
+<p>Necessary to distinguish between normative mental function (form 3) and individual regulatory function (form 6).</p>
+<p>Mental function is based on the norms of society. In the vital functions are added their individual norms, patterns of perception, evaluation and action. They are needed for personal use. There may also be acceptable, that man gave “his”, and their own, which have emerged as a result of the familiar, repetitive processing.</p>
+<p>Examples:</p>
+<div class="admonition-example admonition">
+<p class="admonition-title">Example</p>
+<p>“This is a feature of my Ti: it really is a very strong (it is the opinions of others), but to handle a small amount of information. I do well with “uchebnikovymi” problems when all the data is in an explicit form, and the method for solving more or less set. I can even find an original solution, but only if the original decision is still somewhere “close” - let’s say, once we have given at the Institute of puzzle with a clear hint of proof by induction. And I proved it to the contrary (and is shorter and more elegant). But if the number of facts goes a certain limit, and there is a certain set of possible methods of solution - my logic is turned off or looking for someone else’s help to arrange the facts and determine the possible methods. And in this case I am very much tired, do not want to think. But I will never accept an illogical decision, I can not be illogical in situations where you want the logical solution. Therefore freeze in doubt.”</p>
+<p>(Normative Ti : ESI “Dreiser”)</p>
+</div>
+<p>Normativity appears to follow the conventional methods, just as trained, one can not follow the rules (“I can not be illogical”). The inflexibility of the function.</p>
+<div class="admonition-example admonition">
+<p class="admonition-title">Example</p>
+<p>“But all the same to me as I treated people I care about. Here, for example, any classmate. Well, I did not like it, well, it happens. I have already said, my plan is not included please everyone. She usually adhere to group behavior in which I associate. If you fall into the other group, its norms of behavior try not to impose, but look closely, both in this group made to communicate. It is desirable to follow the rules if you do not want to spoil relations with the people in the group. If you do not care - that is violated. Although I personally do not see the point of such “demonstrations”. Would that I could stay apart, if people did not interest me, and in common with them, I almost can not see, even if this team made all communicate.”</p>
+<p>(Individual norms Fi : SLI “Gabin”)</p>
+</div>
+<p>Identity standards BE reflected in the fact that they accepted social norms that suit, and does not accept rules that do not suit a person does not need for his personal life.</p>
+<p>Vital function 6 is called the “reference.” Its feature is the desirability of a positive evaluation skills in that aspect of information that it processes. Often, a person involuntarily, unconsciously, automatically asking for praise. He must be convinced that he can do a good job with this information continuously receive support in the form of approval.</p>
+<p>Examples:</p>
+<div class="admonition-example admonition">
+<p class="admonition-title">Example</p>
+<p><em>How do you buy your clothes? How to know what suits you and what does not? Pleasant and mandatory if you compliments? How to react to criticism?</em></p>
+<p>“I do it often, almost always - with mom or friends. The taste is not particularly trust, I can buy something that I did not go. Compliments of the - of course, pleasant, long without praise can not, the stimulus disappears.”</p>
+<p>(Reference Si : EII “Dostoevsky”)</p>
+</div>
+<div class="admonition-example admonition">
+<p class="admonition-title">Example</p>
+<p>“I know I can sometimes asking for an expression of this same attitude towards me. Well, is there to say, “Nobody loves me.” It’s exaggerated, of course, but something like that. You look, and will tell you how you’ve happen to great concern, as appreciated and loved. Cheap divorce, of course, but sometimes you want to hear it.”</p>
+<p>(Reference Fi : SLI “Gabin”)</p>
+</div>
+<p>In fact typing naprashivaniya to praise often difficult to detect, because in reality it is usually a manifestation of the vital man is not tracked. Everything happens by itself and unbeknownst to the person. Even if the “catch” this moment and pay attention to the man that he could not help asking for praise, he is likely to be abandoned, because it is inconvenient to be aware of this point: behaving like a child.</p>
+<p>Behavior, reactions, thinking of the person on the regulatory functions can be called “correct.” Attention is drawn to the “correctness” in ethics (BE) LSI (“Maxim”), “right”, the same type (similarity) smiles (SE) FEL (“Stirlitz”), a reference to an authoritative source of information on reference books EII (” Dostoevsky “), etc.</p>
+</div>
+<div class="section" id="parameter-of-situation-st">
+<h2>Parameter of Situation (St)<a class="headerlink" href="#parameter-of-situation-st" title="Permalink to this headline">¶</a></h2>
+<p>Functions 1,2,7,8 of realizing blocks of Ego and Id are characterized by the parameter of situation.</p>
+<p>In socionics, situational processing of information means that the formation of reaction to an event always takes place in some concrete, specific “environment” (situation) and corresponds to it. In essence, this constitutes going beyond the the rigid framework conditioned by norms and templates.</p>
+<p>In process of determining dimensionality of a situation, it is important to discern why a person is “going beyond” the accepted norms. This is possible in two cases: a person doesn’t know the rules or norms (1-dimensional function) and therefore doesn’t abide them, and a person may be aware of these norms and use them, but in the specific given situation also understand that it’s necessary to be more flexible, that the norms can be bypassed, that the problem can be solved creatively (3-dimensional function).</p>
+<p>The second function of model A is called “creative” precisely because the processing of the information on this function occurs consciously and goes beyond the frameworks of the conventional, “creates a result.”</p>
+<p>Examples:</p>
+<div class="admonition-example admonition">
+<p class="admonition-title">Example</p>
+<p>“To start, I will take a look at what options of characteristics the producers have to offer, that is, I will consider almost all characteristics. Then estimate which of these characteristics are essential for me, and which are not, or are not required, and by how much they increase the price. After that, using a specific list of important and optional characteristics, I will consider different models.”</p>
+<p>(Situational Te : SLI “Gabin”)</p>
+</div>
+<div class="admonition-example admonition">
+<p class="admonition-title">Example</p>
+<p>In which cases is it okay to go beyond the bounds of what is considered consistent?
+“When I consider that in a given consistency there are excess links, that can be done without. When there is an unusual situation.”</p>
+<p>(Situational Ti : ILE “Don Quixote”)</p>
+</div>
+<div class="admonition-example admonition">
+<p class="admonition-title">Example</p>
+<p>“Rules can be sometimes changed. If it’s within your capabilities, then why not. Or if it is in your jurisdiction. If you are responsible for some process, then you simply must create whenever possible your own rules of the game, to control the situation and direct it into the direction that you need.”</p>
+<p>(Situational Ti, blocked with Se : SLE “Zhukov”)</p>
+</div>
+<p>In this example “creative” Ti creates rules for a particular situation, meanwhile realizing the “program” of the first function - Se.</p>
+<div class="admonition-example admonition">
+<p class="admonition-title">Example</p>
+<p>“Likely, for most people, a life following an already proven path will not lead to a breakthrough, nor to understanding of themselves in this life in principle. But it happens that life gives a kick, and it kicks hard, or a person suddenly “breaks through” for some reason. These are the instances that I meant. That is, I think, the opportunity to improve should not be denied to a person only because at 25 years of age he didn’t care for it. Yes, not many people will get to the next level, but some will. Why should Procrustean bed be applied to everyone?</p>
+<p>(Situational Ne : EII “Dostoevsky”)</p>
+</div>
+<p>The above goes beyond the bounds of conventional ideas that a person is either developing or “going down a tested path”. That is, a person can change the direction of his or her development at any point in time.</p>
+<p>Vital 3-dimensional 7th function has some characteristics that derive from the automatism of workings of the vital superblock. This function contains individualized programs of person’s life activity and automatically reacts in a convenient way for that person in a given situation. During distance typings over text, it is difficult to identify the dimensionality of the 7th function, because of the automatism her reactions is not monitored by the person, unless he or she specifically looks for this purpose. When answering questions, the person being typed recalls situations that have occurred and from these memories draws conclusions. Typically, these are vague unclear recollections. Often a person says that this way of reacting is particular to him, and how the others respond - it doesn’t matter. Also notable is the commonality, repeatability of reactions on 7th function.</p>
+<p>Examples:</p>
+<div class="admonition-example admonition">
+<p class="admonition-title">Example</p>
+<p><em>Is there a code of conduct in society, norms for relationships between people? If yes, do you adhere to them? Is it always necessary to follow the norms of relating? Why?</em></p>
+<p>“There are some, yes. I do not adhere to them … or rather, that’s not quite accurate. For example, there is some standard of behavior. I know about it, I appreciate it, apply it in my life. If it makes a good fit – I include into my informal little list. Even then it’s not a fact that I’ll stick with it. Because, again, people are different and situations are different. Most of the norms and rules don’t work in various situations, as they are too general and too universal.”</p>
+<p>(Vital Fi : EIE “Hamlet”)</p>
+<p><em>What is your attitude towards unexpected events?</em></p>
+<p>“I orient sufficiently quickly in a new situation (at least, I’m used to thinking so about myself). It is interesting – to test myself another time. Usually I find a way out, think up of something.”</p>
+<p>(Vital Ni : ILE “Don Quixote”)</p>
+</div>
+<p>V.D. Ermak calls the 7th function the “individual program”. Its manifestations are so habitual, that they look like a program that is incorporated for automatic responses.</p>
+<p>Examples:</p>
+<blockquote>
+<div><p><em>Question for the operator of photoprinting: How do you make such high quality photographs? How do you manage do you work so quickly?</em></p>
+<p>“I don’t know … The hands do the work themselves.”</p>
+<p>(Vital Te : LSI “Maxim”)</p>
+<p><em>Is it socially acceptable to express, to show your emotions?</em></p>
+<p>“This each person decides for themselves. For some it’s quite appropriate and normal, for others expressions of emotion are something purely private, but … the thing is that it’s not always possible to control emotions, and sometimes they … mmmm they show on their own, sometimes unexpectedly, then you end up feeling sorry about it. Another thing is when a person is fully in control of their emotions and, nevertheless, puts them on display deliberately, and sometimes disingenuously. This, I think, is wrong.</p>
+<p>(Vital Fe : EII “Dostoevsky”)</p>
+</div></blockquote>
+</div>
+<div class="section" id="parameter-of-time-tm">
+<h2>Parameter of Time (Tm)<a class="headerlink" href="#parameter-of-time-tm" title="Permalink to this headline">¶</a></h2>
+<p>Identifying the parameter of time is most difficult in the practice of determining TIMs.</p>
+<p>Due to overlapping terminology, confusion arises between different concepts. It is necessary to differentiate “parametric time”, “time” as a macro-aspect of the information flow, and the “current time”:</p>
+<blockquote>
+<div><ol class="arabic simple">
+<li><p>Parametric time, which is a parameter of processing mental functions, is included in the content of information. This is what is meant when they say, “After I read” The technology successfully typing “, I began to think that most of the authors of books Socionics, as measured by the methods described by them, or do not know how typed, or make it something quite amateurish. “W. Borisov (here the parameter of time - a time when the book was read.) Or - “We are discussing the issue …” (Elapsed time - present). Or - “The next International Conference on Socionics in September 2006” (here the parameter of time - time in the future).</p></li>
+<li><p>“time” as macroaspects information flow interaction with the world of the mind - the name of the film “When the trees were big” - This is where the time reflects the changes that have occurred. Learn more - see the book by D. Ermak [2, p. 85].</p></li>
+<li><p>the current time - any data processing takes place in the current time (all the options and process the information on this, of course, spend some time). [6]</p></li>
+</ol>
+</div></blockquote>
+<p>VD Ermak writes that “time parameter specifies where on the time axis should be positioned solution - past, present or future,” “four-function can shift the processing of information in the past, present or future”. [6]</p>
+<p>Since man is always in some moment of this time, he said in his speech, using different temporary structures. Tipirovschiki often mistakenly believe the number of uses of tenses, vocabulary of time to determine the dimension of “time” or time parameter.</p>
+<p>In order to get an idea of how to manifest parametric time in the first function, the Group socionists HSS went by comparison of three-dimensional and four-second function of the first function in people whose IMT was determined reliably. Comparing the answers, we noted that the first function is different “global” thinking through four-dimensional (full) information processing. Recall that A B. Bukalov spoke of “vector globality”. [1]</p>
+<p>A “global” first function is shown in full confidence on this function, in the understanding that develop in the first aspect of the function can be infinite, that the decision is made not only with respect to the situation, the rules, but also a specific point parametric time. It seems that in every other, the solution may be different. It is difficult to identify the exact reference in the parametric time verbalizing the determination of TIM. Responses in which people commit time to which the decision may indicate a point on the scale of parametric time (see two paragraphs above).</p>
+<p>Sometimes the globality of the four functions sounds like a value that is always there, regardless of the person.</p>
+<p>Examples:</p>
+<div class="admonition-example admonition">
+<p class="admonition-title">Example</p>
+<p>“After all, the truth - it is not in the existing knowledge to this point. And not those that can be found in the future. Truth - is absolute and is not dependent on whether it is known or not. It exists independently of the subject, which it is trying to learn. «The Truth is outside our reality and the Reality it’s just our imagination». This shows that no matter how we tried to learn the “truth” is that we have known - only the imagination that may be true. But in reality - the truth can not be … And all that we have known - may be false.</p>
+<p>(Parameter of time in Ne : ILE “Don Quixote”)</p>
+</div>
+<div class="admonition-example admonition">
+<p class="admonition-title">Example</p>
+<p><em>Share your opinion on these statements: 1) “Everything new is good / bad” 2) “It used to be better (more fatter, thicker).”</em></p>
+<p>“First statement: All new - new. When we compare. That vain delve into the past. Just need to be treated with the new position of the moment, it’s new and now provides that later. And the fact that it was passed. Second statement: I do not know. Again it was before, but now everything is different, the world is different, we are different. No need to compare, dig, we have a different reality. And that is - perfect.</p>
+<p>(Parameter of time in Ni : IEI “Yesenin”)</p>
+</div>
+<p>Four-vital (eighth) function automatically implements the program, given by f. 7. adequate time an individual parameter of time (Tm). In determining TIM answers eighth aspect functions do not contain verbal indicator setting time - the “default” is usually clear what the time in question, so the verbal signs of manifestation of the time parameter is not found.</p>
+<p>The assumption that “the type of information metabolism is in the five-dimensional space and is a five-dimensional structure” [6], may explain the difficulty in identifying the time parameter in verbal utterances. I guess that person constantly uses this tool (option), but not always voiced his (maybe not necessary concepts in the language), or part of the information that is seen at the level of the subtle bodies, can somehow be marked in the physical world.</p>
+<p>An interesting observation made by M. A. Matvienko, while working on the program “The mission of life”. [7] M. A. Matvienko saw a connection between the Mission and the work unit ego, and the relationship with Ida generic programs (experience of ancestors, clan), which are incorporated at birth. It is quite possible that the four-ego function and have been associated with Ida-system, and why it is so difficult to learn.</p>
+<p>Matvienko M. writes:</p>
+<blockquote>
+<div><p>From the level of the Mission brings extra resource in all spheres of life. Mission is difficult to put into words, she felt inside, as the flow of energy. This is a portal that connects us with the supersystem, words just code for access to it … The model reflects the priorities laid down in the original man. And that led me to the following conclusion: TIM - is a model of how to process information, which is not just a person receives at birth, and even at conception. [8]</p>
+</div></blockquote>
+</div>
+<div class="section" id="the-level-of-development-of-a-person-and-dimensionality-of-functions">
+<h2>The level of development of a person and dimensionality of functions<a class="headerlink" href="#the-level-of-development-of-a-person-and-dimensionality-of-functions" title="Permalink to this headline">¶</a></h2>
+<p>Important in determining the function of the dimension of a general level of human development, the occupancy of experience (norms) of its functions.</p>
+<p>You can not argue that one-dimensional function is unique - defective. Dimensionality - this is only a feature of information processing, but does not figure inferiority function. This is natural. Each function performs its role in the overall process of information processing. Low-dimensional features are in control units (Superego and Superid). Their task is to determine the “my” or “not my” problem, and in the transfer of control to the executive dimensional blocks.</p>
+<p>Low-dimensional functions can accumulate very large amount of experience. The life of man in society is set up so that there is the need to process information on all aspects, and can not get away from this and do not need - this flight makes a person helpless problems because he is deprived of invaluable experience, which can only be based on one-dimensional functions. As a result, a person loses touch with society. The experience gained by the one-dimensional features, and the ability to address the situation with other features, allows people with one-dimensional structural logic to work in science, ethics, relationships with one-dimensional work in areas where the need to constantly communicate with people, with one-dimensional ethics of emotions - to be famous actors and etc.</p>
+<p>When typing people who have a lot of experience and a high level of development, it is critical to know how to determine the dimension of the features, because tipirovschik may be misled by the fact that a person speaks of low-dimensional features, says the wealth of experience on which it is based . Such speech sounds confident, given many examples and facts of life. The one-dimensional functions (especially on $. 5, which is a reference to the value) can sound very deep thought.</p>
+<p>Give examples of statements of one person TIM SSI (“Gabin”), from which it is seen and what is f. 5 (CHI) - dimensional (suggestive), and then what can it be filled.</p>
+<p>Examples:</p>
+<div class="admonition-example admonition">
+<p class="admonition-title">Example</p>
+<p>“I remember the rest of the school in Karelia. And one day the girls started a bit of a psychological game: each in turn spoke about some man, and so - all of them. In general, describe your neighbor. I listened, hanging ears.</p>
+<p>Generally, when something is afoot, I can not wait to hurry me say anything, what character traits isolated you people what they’ll see. And if any hint that really it is something you got to the core, that he has an opinion about your person, kaaaak I start asking for the fact that he did it his “opinion” expressed!</p>
+<p>And generally had a particular attraction to psychology and all that helps a little to understand yourself, know that you are a beast. And that’s like 21 years, and asked me who I am, I can not answer. When trying to describe myself, always nasty feeling that either to praise myself, or somewhere understatement. And I do it (or underestimate overpraise) just out of fear of himself to praise or (more rarely, though) underestimate!</p>
+<p>So I want to hear every time characteristic as a small child who pulls the hundredth time my mother’s sleeve, so that she loved to read him a story.</p>
+<p>But they say - and still is not enough. And it’s not that little, but all the same fear - what if I flattered? And suddenly did not want to offend? What if I know enough to understand? What if?</p>
+<p>Say, no matter how many kinds of psychological typologies I have not studied, how many did not read their horoscopes, how many evaluations of self from others did not hear, they absolutely do not want to be fixed in my mind, is not associated to the end with me. Still hangs the question: “Have I interested in? And what kind of person I am? And what I perceive others? “And even if I get a response, satisfaction is very fast, and soon reappears a void inside, a lot of doubt, a lot of questions and the absolute lack of understanding of what’s me. Not to mention, that I am afraid to give yourself the very characteristic. I was on the fear itself is overstated (“Mary, so indiscreet talk about myself!”), The underestimate (“And suddenly think of me badly, and I is surely better!”). But usually the advantage goes to the side of self-criticism, and I prefer currently respond modestly than openly declare his virtues (which always doubt).</p>
+<p>Besides the fact that it is very important to me to hear (and hear regularly) from other properties of their own, an assessment of their qualities, I also always important to somehow tell a loved one about what I live, how I see the world, for me, it makes sense what I am. Some ideas and conclusions I have about it is they are for me the horror as important. And it’s important to share all these considerations with the people hear something in return. This directly ritual intimacy for me.</p>
+<p>Yes, just the thing - it is very difficult to talk about such things. You do not know whether the topic, where to start, what to say, and I wonder whether all of this man, he will understand, perceive correctly. Learn this easy: open Semadzhik, dashed off a very long post about another their “troubles” and sent. In this sense, I just Learn to salvation. There, I can tell you about myself and my views and not worry about the appropriateness of the raised issues. But in real life is more complicated, not every day you reveal to man the soul, and something stupid comes out, if for no reason, all of a sudden things start to talk.</p>
+<p>Of awareness. This awareness I have already made one of the main principles of his life. Without it, life can not be complete.</p>
+<p>The ability to listen to your inner voice, the ability to listen and feel the world - is also important. Because otherwise how to follow your path?</p>
+<p>All this is clear to me.</p>
+<p>But I’m talking about something else. The fact that some small touches little. Yes, one develops a large part of the picture of life. No major strokes, namely the small touches, daily activities, daily thoughts and feelings. And I do not know how big strokes and do not like - for a large distant to stop to see the details, you lose the sense of “now, today.” You know, my Latin teacher loved us to say, “Today, right now. Then he does not exist! “And she was right. We do not live in the future large order, not past services - namely, the “Today” in the present moment, which is printed in the past. And it is from what it is filled with the moment, depends what the past: blurry and indistinct gray or clear, bright, full of feelings and actions. And it is this that determines what will be our “tomorrow” because “today” is the base on which to build the future.</p>
+<p>Just as I say … Under the tangible result I meant not so much a big effect, a lot of work, or something else from the global results, and how the feeling of fullness of his own life, the fullness of the way. When you feel, you know: every step, every moment brought his score in this way, whether it is a loved one awakened faith in yourself, write a book or another step, another opened a boundary which is sure then you share with the world. Take - and share. Open - and show it. Walk up the stairs - and shake hands with others.</p>
+<p>That’s the feeling that you play the role of the conductor, the transmitter - it is important. And it is most acute in the moments when you’re these little results, small steps towards their see, feel. Not necessarily outside - and in his inside.</p>
+<p>Yeah, maybe this is just a confirmation that you are not standing on the spot that you’re moving on and moving in the right direction. Why do we need it? And you yourself think about how you would move in space, had not had that card, but even being able to see, feel, where you going? ‘m Not desperate would you have it appear in the pitch dark, not knowing where you are and where you want? I think it’s a feeling - it’s like beacon, which helps you and transmit your way. Do you listen to yourself, listen to the world - and from there to scoop and information, and the strength to keep going.</p>
+<p>This is my personal feeling is that if there is a way, then there must be some kind of mark, it denotes. They are both inside and outside.</p>
+<p>Together, this for me is a problem. At a time when everyone should be their own ad man, I absolutely can not and can not bring myself to blatant advertising.</p>
+</div>
+<p>The foregoing description of the understanding of the dimensions of the features have been received and verified painstaking practice. Therefore, the concept of dimensions can be recommended for use in determining the TIM psyche. The main advantage of this powerful tool is quantitatively measurable, and therefore the ability to argue and compare their vision with the vision of other tipirovschikov.</p>
+<p>This brings the process of typing a qualitatively different level compared to typing on circumstantial evidence or by statistical counting consumed pronged vocabulary. The author believes that the dimensional analysis functions - this is probably the only tool that can be effectively used for the “removal of masks” (identifying distortion TIM) in difficult cases.</p>
+</div>
+<div class="section" id="references">
+<h2>References<a class="headerlink" href="#references" title="Permalink to this headline">¶</a></h2>
+<ol class="arabic simple">
+<li><p>Bukalov AV structure and dimension of informational metabolism
+functions / /, Cosmology and psychology. - 1995. -  2. - Pp. 5-9.</p></li>
+<li><p>Yermak VD How to learn to understand people . - Moscow: AST, 2003.</p></li>
+<li><p>Roslankina V. Pyatnitsky VV Some thoughts on the phenomenon of
+one-dimensional / / Socion. - 1997. -  2.</p></li>
+<li><p>Russian Dictionary (MAC) .</p></li>
+<li><p>Russian dictionary: in 4 volumes / USSR, Moscow, Russian language,
+1985-1988.</p></li>
+<li><p>Yermak VD category of “time” in socionics / / Report on the XXII
+International Conference on Socionics, 2006.</p></li>
+<li><p>Bukalov AV Socionics and structure of the mental body / / Psychology
+and Socionics interpersonal relationships. - 2004. -  7.</p></li>
+<li><p>Matvienko MA type of information metabolism and Mission -
+contradictory unity / / Report on the XXII International Conference
+on Socionics, 2006.</p></li>
+</ol>
+</div>
+<div class="section" id="additional-links">
+<h2>Additional Links<a class="headerlink" href="#additional-links" title="Permalink to this headline">¶</a></h2>
+<ul class="simple">
+<li><p><a class="reference internal" href="dimensionality.html"><span class="doc">Dimensionality of functions</span></a></p></li>
+<li><p><a class="reference internal" href="function_dich.html"><span class="doc">Function dichotomies</span></a></p></li>
+<li><p><a class="reference external" href="http://en.socionicasys.org/biblioteka/statji/numbered-list-of-indicators">List of dimensionality indicators in text responses</a></p></li>
+</ul>
+</div>
+</div>
+
+      </article>
+      <footer>
+        
+        <div class="related-pages">
+          <a class="next-page" href="elements.html">
+              <div class="page-info">
+                <div class="context">
+                  <span>Next</span>
+                </div>
+                <div class="title">Information Elements</div>
+              </div>
+              <svg><use href="#svg-arrow-right"></use></svg>
+            </a>
+          <a class="prev-page" href="dimensionality.html">
+              <svg><use href="#svg-arrow-right"></use></svg>
+              <div class="page-info">
+                <div class="context">
+                  <span>Previous</span>
+                </div>
+                
+                <div class="title">Dimensionality of functions</div>
+                
+              </div>
+            </a>
+        </div>
+
+        <div class="related-information">
+              Copyright &#169; 2021, Wikisocion Authors
+            |
+            Built with <a href="https://www.sphinx-doc.org/">Sphinx</a>
+              and
+              <a class="muted-link" href="https://pradyunsg.me">@pradyunsg</a>'s
+              <a href="https://github.com/pradyunsg/furo">Furo theme</a>.
+            |
+            <a class="muted-link" href="../_sources/content/dimensionality_eglit.rst.txt"
+               rel="nofollow">
+              Show Source
+            </a>
+        </div>
+        
+      </footer>
+    </div>
+    <aside class="toc-drawer">
+      
+      
+      <div class="toc-sticky toc-scroll">
+        <div class="toc-title-container">
+          <span class="toc-title">
+            Contents
+          </span>
+        </div>
+        <div class="toc-tree-container">
+          <div class="toc-tree">
+            <ul>
+<li><a class="reference internal" href="#">Dimensionality of Functions by Eglit</a><ul>
+<li><a class="reference internal" href="#introduction">Introduction</a></li>
+<li><a class="reference internal" href="#dimensionality-of-functions">Dimensionality of Functions</a></li>
+<li><a class="reference internal" href="#parameter-of-experience-ex">Parameter of Experience (Ex)</a></li>
+<li><a class="reference internal" href="#parameter-of-norms-nr">Parameter of Norms (Nr)</a></li>
+<li><a class="reference internal" href="#parameter-of-situation-st">Parameter of Situation (St)</a></li>
+<li><a class="reference internal" href="#parameter-of-time-tm">Parameter of Time (Tm)</a></li>
+<li><a class="reference internal" href="#the-level-of-development-of-a-person-and-dimensionality-of-functions">The level of development of a person and dimensionality of functions</a></li>
+<li><a class="reference internal" href="#references">References</a></li>
+<li><a class="reference internal" href="#additional-links">Additional Links</a></li>
+</ul>
+</li>
+</ul>
+
+          </div>
+        </div>
+      </div>
+      
+      
+    </aside>
+  </div>
+</div><script data-url_root="../" id="documentation_options" src="../_static/documentation_options.js"></script>
+    <script src="../_static/jquery.js"></script>
+    <script src="../_static/underscore.js"></script>
+    <script src="../_static/doctools.js"></script>
+    <script src="../_static/scripts/main.js"></script>
+    </body>
+</html>

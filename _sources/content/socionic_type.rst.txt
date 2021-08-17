@@ -1,0 +1,34 @@
+Socionic type
+========================
+
+**Socionic type**, also known as **sociotype**, **type**, **type of information metabolism (TIM)**, or **IM type**, refers to one of 16 possible structures of the psyche allowed by Model A. Socionic type describes how a person's intellect tends to perceive, process, and produce different :doc:`kinds of information <information_aspect>`. 
+
+The 16 types
+---------------------
+
+The socion (group of all possible types) consists of 16 types: 
+
+.. list-table:: :doc:`Socion <socion>`
+    :header-rows: 0
+
+    * - :doc:`ILE <ILE>`
+      - :doc:`SEI <SEI>`
+      - :doc:`ESE <ESE>`
+      - :doc:`LII <LII>`
+    * - :doc:`EIE <EIE>`
+      - :doc:`LSI <LSI>`
+      - :doc:`SLE <SLE>`
+      - :doc:`IEI <IEI>`
+    * - :doc:`SEE <SEE>`
+      - :doc:`ILI <ILI>`
+      - :doc:`LIE <LIE>`
+      - :doc:`ESI <ESI>`
+    * - :doc:`LSE <LSE>`
+      - :doc:`EII <EII>`
+      - :doc:`IEE <IEE>`
+      - :doc:`SLI <SLI>`
+
+See also
+----------------
+
+* :doc:`Type names <type_names>`

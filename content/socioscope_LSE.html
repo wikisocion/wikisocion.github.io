@@ -1,0 +1,619 @@
+<!doctype html>
+<html class="no-js">
+  <head><meta charset="utf-8"/>
+    <meta name="viewport" content="width=device-width,initial-scale=1"/>
+    <meta name="color-scheme" content="light dark"><link rel="index" title="Index" href="../genindex.html" /><link rel="search" title="Search" href="../search.html" /><link rel="next" title="Socioscope EII" href="socioscope_EII.html" /><link rel="prev" title="Socioscope LSI" href="socioscope_SLI.html" />
+
+    <meta name="generator" content="sphinx-4.1.2, furo 2021.08.11.beta42"/>
+        <title>Socioscope LSE - Wikisocion</title>
+      <link rel="stylesheet" type="text/css" href="../_static/pygments.css" />
+    <link rel="stylesheet" type="text/css" href="../_static/styles/furo.css?digest=197f00461d56902ea7ca048ec6e6ba026f62c97b" />
+    <link rel="stylesheet" type="text/css" href="../_static/styles/furo-extensions.css?digest=93475b62d1c3bc01323a0eefdc14a62d77b12690" />
+    
+    
+
+
+<style>
+  body {
+    --color-code-background: #f8f8f8;
+  --color-code-foreground: black;
+  
+  }
+  body[data-theme="dark"] {
+    --color-code-background: #202020;
+  --color-code-foreground: #d0d0d0;
+  
+  }
+  @media (prefers-color-scheme: dark) {
+    body:not([data-theme="light"]) {
+      --color-code-background: #202020;
+  --color-code-foreground: #d0d0d0;
+  
+    }
+  }
+</style>
+    <link media="(prefers-color-scheme: dark)" rel="stylesheet" href="../_static/pygments_dark.css"></head>
+  <body>
+    
+<svg xmlns="http://www.w3.org/2000/svg" style="display: none;">
+  <symbol id="svg-toc" viewBox="0 0 24 24">
+    <title>Contents</title>
+    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+      stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+      <path stroke="none" d="M0 0h24v24H0z" />
+      <line x1="4" y1="6" x2="20" y2="6" />
+      <line x1="10" y1="12" x2="20" y2="12" />
+      <line x1="6" y1="18" x2="20" y2="18" />
+    </svg>
+  </symbol>
+  <symbol id="svg-menu" viewBox="0 0 24 24">
+    <title>Menu</title>
+    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+      stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather-menu">
+      <line x1="3" y1="12" x2="21" y2="12"></line>
+      <line x1="3" y1="6" x2="21" y2="6"></line>
+      <line x1="3" y1="18" x2="21" y2="18"></line>
+    </svg>
+  </symbol>
+  <symbol id="svg-arrow-right" viewBox="0 0 24 24">
+    <title>Expand</title>
+    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+      stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather-chevron-right">
+      <polyline points="9 18 15 12 9 6"></polyline>
+    </svg>
+  </symbol>
+  <symbol id="svg-sun" viewBox="0 0 24 24">
+    <title>Light mode</title>
+    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+      stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" class="feather-sun">
+      <circle cx="12" cy="12" r="5"></circle>
+      <line x1="12" y1="1" x2="12" y2="3"></line>
+      <line x1="12" y1="21" x2="12" y2="23"></line>
+      <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
+      <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
+      <line x1="1" y1="12" x2="3" y2="12"></line>
+      <line x1="21" y1="12" x2="23" y2="12"></line>
+      <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
+      <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
+    </svg>
+  </symbol>
+  <symbol id="svg-moon" viewBox="0 0 24 24">
+    <title>Dark mode</title>
+    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+      stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" class="icon-tabler-moon">
+      <path stroke="none" d="M0 0h24v24H0z" fill="none" />
+      <path d="M12 3c.132 0 .263 0 .393 0a7.5 7.5 0 0 0 7.92 12.446a9 9 0 1 1 -8.313 -12.454z" />
+    </svg>
+  </symbol>
+  <symbol id="svg-sun-half" viewBox="0 0 24 24">
+    <title>Auto light/dark mode</title>
+    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+      stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" class="icon-tabler-shadow">
+      <path stroke="none" d="M0 0h24v24H0z" fill="none"/>
+      <circle cx="12" cy="12" r="9" />
+      <path d="M13 12h5" />
+      <path d="M13 15h4" />
+      <path d="M13 18h1" />
+      <path d="M13 9h4" />
+      <path d="M13 6h1" />
+    </svg>
+  </symbol>
+</svg>
+
+<input type="checkbox" class="sidebar-toggle" name="__navigation" id="__navigation">
+<input type="checkbox" class="sidebar-toggle" name="__toc" id="__toc">
+<label class="overlay sidebar-overlay" for="__navigation">
+  <div class="visually-hidden">Hide navigation sidebar</div>
+</label>
+<label class="overlay toc-overlay" for="__toc">
+  <div class="visually-hidden">Hide table of contents sidebar</div>
+</label>
+
+
+
+<div class="page">
+  <header class="mobile-header">
+    <div class="header-left">
+      <label class="nav-overlay-icon" for="__navigation">
+        <div class="visually-hidden">Toggle site navigation sidebar</div>
+        <i class="icon"><svg><use href="#svg-menu"></use></svg></i>
+      </label>
+    </div>
+    <div class="header-center">
+      <a href="../index.html"><div class="brand">Wikisocion</div></a>
+    </div>
+    <div class="header-right">
+      <div class="theme-toggle-container theme-toggle-header">
+        <button class="theme-toggle">
+          <div class="visually-hidden">Toggle Light / Dark / Auto color theme</div>
+          <svg class="theme-icon-when-auto"><use href="#svg-sun-half"></use></svg>
+          <svg class="theme-icon-when-dark"><use href="#svg-moon"></use></svg>
+          <svg class="theme-icon-when-light"><use href="#svg-sun"></use></svg>
+        </button>
+      </div>
+      <label class="toc-overlay-icon toc-header-icon" for="__toc">
+        <div class="visually-hidden">Toggle table of contents sidebar</div>
+        <i class="icon"><svg><use href="#svg-toc"></use></svg></i>
+      </label>
+    </div>
+  </header>
+  <aside class="sidebar-drawer">
+    <div class="sidebar-container">
+      
+      <div class="sidebar-sticky"><div class="sidebar-scroll"><a class="sidebar-brand" href="../index.html">
+  
+  
+  <span class="sidebar-brand-text">Wikisocion</span>
+  
+</a><form class="sidebar-search-container" method="get" action="../search.html" role="search">
+  <input class="sidebar-search" placeholder=Search name="q" aria-label="Search">
+  <input type="hidden" name="check_keywords" value="yes">
+  <input type="hidden" name="area" value="default">
+</form>
+<div id="searchbox"></div>
+</div>
+      </div>
+      
+    </div>
+  </aside>
+  <div class="main">
+    <div class="content">
+      <article role="main">
+        <div class="content-icon-container">
+          <div class="theme-toggle-container theme-toggle-content">
+            <button class="theme-toggle">
+              <div class="visually-hidden">Toggle Light / Dark / Auto color theme</div>
+              <svg class="theme-icon-when-auto"><use href="#svg-sun-half"></use></svg>
+              <svg class="theme-icon-when-dark"><use href="#svg-moon"></use></svg>
+              <svg class="theme-icon-when-light"><use href="#svg-sun"></use></svg>
+            </button>
+          </div>
+          <label class="toc-overlay-icon toc-content-icon" for="__toc">
+            <div class="visually-hidden">Toggle table of contents sidebar</div>
+            <i class="icon"><svg><use href="#svg-toc"></use></svg></i>
+          </label>
+        </div>
+        <div class="section" id="socioscope-lse">
+<h1>Socioscope LSE<a class="headerlink" href="#socioscope-lse" title="Permalink to this headline">¶</a></h1>
+<div class="section" id="logical-sensory-extravert-stirlitz">
+<h2>Logical sensory extravert (Stirlitz)<a class="headerlink" href="#logical-sensory-extravert-stirlitz" title="Permalink to this headline">¶</a></h2>
+<blockquote>
+<div><p><em>… In short, everything that makes the very notion of
+“professionalism.”</em></p>
+</div></blockquote>
+<p>FEL for one of the main goals in life - to achieve the highest
+professionalism in the business. Without exaggeration, this type is
+probably the most industrious. The key is that it not only can, but also
+likes to work: his work is of great importance to him. FEL and people
+largely judged on their professional qualities. He always knows how and
+what to do. Professional in the preparation method of any actions.
+Virtually all business regulations existing in the world - his child,
+dear and beloved to him, he takes very seriously and respectfully.</p>
+</div>
+<div class="section" id="you-live-and-learn">
+<h2>You live - and learn<a class="headerlink" href="#you-live-and-learn" title="Permalink to this headline">¶</a></h2>
+<p>He knows how to do his job, because a thorough investigation of the
+existing experience in his chosen field. LSE wants to know absolutely
+everything that relates to his case, and the range of knowledge and
+skills in this area is huge. At school and at the Institute of FEL
+really learns and does not make the required estimates.</p>
+<p>We, the younger generation, can easily take up the deal not with bare
+hands, and armed with some newly acquired knowledge, skills and, even
+though theoretical experience.</p>
+<p>While studying for it is never easy, but through hard work he gets
+almost all the knowledge of the subject, which was attended by humanity
+in its entire history. In addition, he is in what age does not stop to
+look for and acquire the necessary knowledge.</p>
+<p>Never too late to learn.</p>
+<p>He perceives life through the prism of the facts which are known to him.</p>
+</div>
+<div class="section" id="facts-primarily">
+<h2>Facts primarily<a class="headerlink" href="#facts-primarily" title="Permalink to this headline">¶</a></h2>
+<p>FEL constantly, sometimes not automatically collects facts. To him they
+are - the most reliable source of information about the world. It is on
+this basis he forms his world, his beliefs, so he treats them extremely
+carefully. Even at home he rarely says “about two hundred” - is much
+more natural to him to say “one hundred ninety-three ruble sixteen
+cents.” Rounding to generalize, to abstract from the unimportant it is
+not very able, confidently believing that the essential facts.</p>
+<p>“I tried to write, but then I realized that I always hinders
+understanding of the subject matter the desire to observe the absolute
+similarity. For me, the bull - a bull, but for Picasso - a subject that
+is required for expression. I follow the subject, with the form, and the
+talent of subordinates and the subject matter and the form of his
+thoughts, and he does not care meticulousness transfer details. ”
+(Yulian Semyonov. “Seventeen Moments of Spring”.)</p>
+<p>However, the LSE itself rarely comes to this idea. Each type has areas
+where the advantages turn into disadvantages. FEL for a belief that any
+job he wants to perform well (the situation is even worse when he tries
+to impose his style of work, and others).</p>
+</div>
+<div class="section" id="professionalism-is-the-efficiency-reliability-responsibility">
+<h2>Professionalism - is the efficiency, reliability, responsibility<a class="headerlink" href="#professionalism-is-the-efficiency-reliability-responsibility" title="Permalink to this headline">¶</a></h2>
+<p>But what he can not take away - is the ability of a large number of
+existing methods perform the required work to find the most effective,
+and then in his hands and he can achieve perfection.</p>
+<p>His achievements, he is willing to share with everyone, will not only
+keep them “for their use.” And he says, repeatedly tested them on his
+experience: not completely refined, unverified information will not
+distribute.</p>
+<p>If I make any document, I read it once, twice, three …</p>
+<p>Most FEL involves work in which the result can touch or even see.
+Rather, he is not a theorist, but a pragmatic, thorough practices. In
+work, as in life, value stability and sustainability. Only in these
+conditions so it can fine-tune the mechanism of practice that he would
+be as long as desired to operate normally, almost without requiring any
+intervention. But any sudden changes in the environment, the
+unpredictability of the situation adversely affect its performance.
+Innovation, entrepreneurship, risk - not quite his style. FEL
+conservative by nature.</p>
+<p>Thanks to the professionalism of this type of people is easy (but not
+fast) rise through the ranks. The work they see a means to ensure a
+decent retirement. Most of the managers of state enterprises and
+organizations, academicians and corresponding members belong to this
+type. But if industries (especially nuclear) work best in a given mode,
+the stability of science goes sideways. While FEL will reach peaks of
+scientific career, it appears that his science has gone in the opposite
+direction, “forgetting” it on a roadside.</p>
+</div>
+<div class="section" id="everything-i-do-i-do-well">
+<h2>Everything I do, I do well<a class="headerlink" href="#everything-i-do-i-do-well" title="Permalink to this headline">¶</a></h2>
+<p>FEL whole being immersed in the reality of today, physically feeling it.
+It has a high sensitivity sensor, is able to get comfortable in any
+environment. Due to its sensorics he seeks not so much to the pleasant
+sensations, as to the care of the discomfort.</p>
+<p>FEL requirements to their own appearance is not very high. These people
+are unpretentious, do not pretend to high fashion, and even more
+eccentric. They strive to be on top, but do not stand out. Clothing, for
+example, should be comfortable, practical, not vulgar, but prestigious.
+They are the regulars at the shops where the price of goods includes not
+only the quality but also prestige. But even more attention following
+the FEL neatness of his appearance.</p>
+<p>Stain on clothes causes me physical discomfort.</p>
+<p>FEL is able even in rainy weather, it is soaked clothing and dirty
+shoes. This is all due to the fact that he can clearly see the
+“dangerous” areas and carefully avoid them. I must say that he is
+attentive not only to the puddles on the road, he sees everything that
+gets in his field of vision.</p>
+<p>Attentive to their own health (illness interfere with). If ill, he is
+treated normally, not really trusting the “so-called experts.”</p>
+<p>In its habits and behavior feels real aristocracy. He is serious about
+the impression of other people. For example, some members of this type
+are completely unacceptable in the street to buy a sandwich and then eat
+it.</p>
+<p>People are watching!</p>
+<p>One hundred ten percent of the merits of the FEL are embodied in the
+stereotype of the “English gentleman.” But not all the advantages of the
+latter is in the FEL.</p>
+</div>
+<div class="section" id="emotions-must-ultimately-be-subject-to-the-logic-of">
+<h2>Emotions must ultimately be subject to the logic of<a class="headerlink" href="#emotions-must-ultimately-be-subject-to-the-logic-of" title="Permalink to this headline">¶</a></h2>
+<p>As much as he showed full confidence in their abilities and skills,
+there are areas where it is sometimes lost. In school years FEL comes to
+the conclusion that the emotional component of life, unfortunately, is
+quite important, and that without the ability to understand this issue
+he would not be able to take place as a full person. Then he begins to
+explore all the available facts as expressed by those emotions, they are
+appropriate in certain situations, and how they demonstrate. Learn that
+he will never stop, but defiantly do it will not be.</p>
+<p>“Stirlitz returning home, idle for a long time near the mirror in the
+bathroom, practicing face like an actor. Scout, Stirlitz thought, we
+must learn to manage a person.” (Yulian Semyonov. “Seventeen Moments of
+Spring”.)</p>
+<p>But “science” and he comes to matters of humor. Yevgeny Petrosyan, for
+example, likes to interview modestly boast achievements in the study of
+“all known methods of humor.” Emotions, according to the FEL, a sort of
+dress uniform, designed for special occasions. At home, he allows
+himself to be himself, which, of course, he is only good.</p>
+<p>Others need to know that it is characterized by an inability at the
+right time once discharged by negative emotions. Rather, he will crush
+them in yourself. But emotions are not going anywhere and do not
+dissolve (FEL insults do not forget), and will only accumulate until
+finally because of some little thing he not pull out in the form of
+strong emotional explosion in someone’s address. And in this case, his
+“victim” may choose to military adage, “thoroughly understand, who is to
+blame and punish anybody!”</p>
+</div>
+<div class="section" id="the-happiest-people-on-earth-are-those-who-can-take-liberties-with-time-no-fear-of-the-consequences">
+<h2>The happiest people on earth are those who can take liberties with time, no fear of the consequences<a class="headerlink" href="#the-happiest-people-on-earth-are-those-who-can-take-liberties-with-time-no-fear-of-the-consequences" title="Permalink to this headline">¶</a></h2>
+<p>Time - the eternal problem of the trouble FEL. No matter how well it
+worked, if it did not have time to notice if it did not flow so fast, do
+not constantly reminded of himself, “but I will not!” Sometimes there
+FEL passionate but impossible dream: how to run it would be nice if you
+could stop time. So much work and so little time, always!</p>
+<p>Especially his desire to do the job brings as carefully as possible. It
+happens that the teacher spends most of the free-electron laser at a
+couple of the students is spelled the title of the lecture and the plan
+(with all the commas and the correct placement of Roman and Arabic
+numerals), and then tried unsuccessfully to ten minutes to give all the
+material for up to two hours.</p>
+<p>FEL but not in any way be customized and hurry! Any accusations that he
+is doing something wrong time, only lead to complications. It also can
+not be forced to wait for him being late to meetings, to sum to the
+terms. This he sees as a clear disrespect to him, almost as an insult.
+The very same can essentially be late even for a business meeting. All
+these problems are straining to deprive inner balance. Only the closest
+people FEL can afford to complain about fatigue of because of his
+problems.</p>
+<p>He is not very easy to relax, constant inner tension sometimes
+exhausting it leads to poor health. Give yourself a break? But that
+would mean that he would have to postpone the urgent and important
+business, and a sense of duty often does not allow this. Sometimes it
+has to be almost forcibly torn away from the work and send the rest. At
+heart, it will only be grateful for that. But we must remember that he
+is unlikely to FEL complain tired or not feeling well, you need to be
+able to catch it in his tone and mood changes.</p>
+</div>
+<div class="section" id="we-have-to-live-by-equating-the-i-and-you-we-are-united-in-the-human">
+<h2>We have to live by equating the “I” and “you” - we are united in the human<a class="headerlink" href="#we-have-to-live-by-equating-the-i-and-you-we-are-united-in-the-human" title="Permalink to this headline">¶</a></h2>
+<p>FEL initially set to a very trusting, close, reliable and “human”
+relations with all people, more precisely, to the fact that everyone
+around him will be the most sincere location. He is so deeply convinced
+of that, he believes it is a matter of course. Suspicion, dishonesty,
+and the more sophisticated intrigue and deception takes not so much as a
+“stab in the back” from this, given the man, but as a betrayal of almost
+the entire world.</p>
+<p>People of this type are naturally open and sincere, and only the hard
+experience of misunderstanding or even betrayed by others causes them to
+keep their distance. Faux pas (like the lack of ethics) and stupidity
+(like lack of business logic) in other people perceive FEL almost
+equally hostile. Just as he did not like and when a person is trying to
+“pose as” not what actually is, for example, to demonstrate the
+efficiency or feigned “toughness.”</p>
+<p>Even a slight deterioration of the relationship on the part of others
+perceived them painful. Interestingly, in this case, it can not
+determine why it was bad, “who is to blame” and “what to do”. The harder
+it is to fix it yourself.</p>
+<p>As for me, at this point I would like to have more reliable and sincere
+friends, who could come together and get closer as a “brother to
+brother” or “sister to sister.”</p>
+<p>In dealing with people (especially the older age or position) it
+attracts the opportunity to learn something from them, or, in his words,
+“to grow spiritually.” Much more, he appreciates a friendship in which
+there is an element of collaboration.</p>
+<p>In ethics, he goes to say the least, weak. Maybe for no reason at all
+easy “bryaknut” insulting remark or as a compliment that he will turn
+wild tactlessness. All of this comes from an elementary misunderstanding
+of ethical aspects of life.</p>
+<p>Sometimes he behaves as if all aspects of the relationship between
+people (including those relating to him personally) must address anyone,
+except himself. This, in general, characterized by more for the young or
+not quite mature members of this type.</p>
+<p>With age, the FEL gain experience in this field, because he was very
+pleased stories about human relationships, about good and evil, love and
+conscience.</p>
+<p>Develop the innate instincts of a humanist vision, and realizing that
+the most important thing in life - it’s all the same people, it is a
+real taste of life and its true meaning. Unfortunately, the word is very
+difficult to describe the feeling, but if it comes to the free-electron
+laser, it remains for life in itself is happiness.</p>
+</div>
+<div class="section" id="i-think-i-m-an-optimist-in-life">
+<h2>I think I’m an optimist in life<a class="headerlink" href="#i-think-i-m-an-optimist-in-life" title="Permalink to this headline">¶</a></h2>
+<p>Questions “what is what” and especially the “who’s who” are of great
+interest for the FEL, but he did not understand this very well and
+prefers to use other people blanks. For example, people in many (but not
+all!) Estimates of their social status, Scientific and other powers.
+Believes every person admitted - so for good reason. Therefore, he would
+call in the early dating all their regalia and titles (all this is done,
+in general, quite politely).</p>
+<p>Respectful to her and it is desirable to treat yourself to love. As this
+is not enough for many!</p>
+<p>But what about the qualities of which do not give awards and titles?
+What to do with kindness, loyalty, honesty, and more - how to identify
+promising new class, if it is “too” new? When it comes to human
+qualities, for it may be enough authoritative opinion on who he trusts.
+If he wants to get a “good” for a new occupation, he must know the
+opinion of a large group of professionals knowledgeable in this matter
+(and even better - the view of the authorities).</p>
+<p>I love the friends that I can not just talk, but also to get advice
+parting words to actions. And this is especially important!</p>
+<p>By the way, the head of this type will not reprimand offending slave
+alone - usually at least one person, let it be a silent witness to this
+conversation (and best of all, according to LSE to do so in the presence
+of the team). However, this is not the desire to humiliate the man,
+quite the contrary! This is done to alleviate the plight of the
+offender; FEL subconsciously hoped that among the “audience” will be its
+dual EII, which may temper the severity of the situation, and then the
+slave can not hurt to understand the charges. In addition, it will be
+useful even “as an educational moment” for the whole team.</p>
+<p>From people waiting for the FEL (and requires) that they fully trust his
+actions. The people of this type, in general, is not characteristic of
+intrigue, terribly subtle, in fact, in the case of acute conflict before
+they “war” is not only a formal warning saying this, but also try to
+give the enemy time once again to think about it - can , that still have
+the good sense to make a compromise?</p>
+<p>In his youth, the FEL is not well understood himself. In principle, it
+is not particularly the way. Sometimes he tries to analyze your inner
+world, to understand what it represents as a person, but is still
+somewhere on the surface. With much pleasure, he would listen to
+someone’s true story about yourself, your inner beauty and spiritual
+depth.</p>
+</div>
+<div class="section" id="read-all-about-it">
+<h2>Read all about it!<a class="headerlink" href="#read-all-about-it" title="Permalink to this headline">¶</a></h2>
+<p>FEL very respectful to the various areas of human knowledge, perhaps
+more than anyone else understands the need and importance of
+professional competence. This applies even to the little things - for
+example, he tries to use the correct terminology, even in the home. FEL
+quite easily recognized by the words that he uses only natural in any
+conversation. Already in the fifteen years he can not say “home” and
+“residence”, not “old” and “elderly”, not “rejoice”, and “get
+satisfaction from life.” This trait is very accurately describes his
+attitude to life - solid, concrete-logical, meticulous, precise and a
+little boring.</p>
+<p>He knows a lot and are comfortable with facts and figures, but do not
+expect it to in-depth analysis of the facts. You can say that people
+tend to prefer this type of “just know”, not “understand in general
+terms,” ??or the more “coming up.” This is due to their vocation in
+sotsione: they seem designed to keep the accumulated experience of
+mankind, to use it for the benefit of people and transmit to future
+generations without any loss. Pretty good example of this - a phrase
+thrown teacher about his students: “He says I’m the original
+four-something came up!” This neglect “Che is” hidden deeper layer of
+neglect (or even safe) to any new ideas and suggestions.</p>
+<p>The logic of the FEL is thorough and reliable, but not agile. To learn,
+and it more than others have to cram.</p>
+<p>Any formulas and definitions trying to remember, because the most
+difficult to get them. However, in these matters somewhat arrogant and
+does not like to even veiled criticism of his logic and intelligence.</p>
+</div>
+<div class="section" id="my-home-my-castle">
+<h2>My home - my castle<a class="headerlink" href="#my-home-my-castle" title="Permalink to this headline">¶</a></h2>
+<p>Externally, the FEL can make an impression quite aggressive person. He
+would not mind “given orders”, likes to demonstrate strength and
+constant readiness to use it, but in the collision, and even more so in
+a fight trying not to join. You can tell that from his fist as he
+suffers more table than “the enemy.”</p>
+<p>In situations that could result in “settling”, and is trying to mobilize
+all fully control, although on the surface looks calm, even as it
+relaxed. If he is warned in advance of a possible crisis, it will decide
+on their actions, to calculate the possible options to protect and
+choose the most reliable.</p>
+<p>Forewarned - forearmed.</p>
+<p>His confidence in the force is mainly for protection against external
+aggression, and he tries to protect himself not so much as the people
+around him. He himself was very respectful of other people’s property
+and not allow anyone to disparage their property and their rights.
+However, the LSE quite generous, even if it does not ask for it, to
+share with someone something his own. But if he asks nothing in return,
+it does not mean that he does not know how this service can be of
+benefit, at least in the form of “moral satisfaction.”</p>
+</div>
+<div class="section" id="functional-description">
+<h2>Functional description<a class="headerlink" href="#functional-description" title="Permalink to this headline">¶</a></h2>
+<p><strong>The first function: the business logic</strong></p>
+<p>Ability to perfect techniques of performance of any actions. High
+performance and productivity. Ability to establish smooth operation of
+any mechanisms, carefully align the methodology effectively guide the
+process. In any business can achieve maximum impact. Professionalism,
+preparation instructions, diligence, competence, orderliness.</p>
+<p><strong>The second function: sensory experiences</strong></p>
+<p>Developed a sense of the physical side of life. Ability to appreciate
+what is happening around. The desire to make the world a more convenient
+and comfortable. Caring for the physical comfort and well-being of loved
+ones. Neatness of dress, the importance of usability and functionality
+in the interior cleanliness.</p>
+<p><strong>The third function: the ethics of emotions</strong></p>
+<p>Demonstration of emotions “about the situation.” Intentional emotional,
+learning and training methods displays of emotion. Uncertainty about the
+adequacy of the internal expression of their emotions. Sometimes mask
+“the boys”, a long accumulation of grievances, strong emotional
+explosions.</p>
+<p><strong>The fourth function: the intuition of time</strong></p>
+<p>Inability to calculate the time required for a particular activity.
+Inability to meet the previously scheduled. The difficulties in
+predicting the possible development of the situation. Untimely actions,
+sometimes in the little things to spend more time than on the ground.</p>
+<p><strong>Fifth function: the ethics of relations</strong></p>
+<p>Very little understanding of the ethics of life. Huge latent interest in
+learning about morality and human relations. Uncritical perception of
+such information. Waiting for other assistance in the relationships
+between people. The belief that others will treat people the location
+and sympathy. Sometimes the subconscious resentment against life, if
+feels external vulnerability on this point.</p>
+<p><strong>The sixth function: Intuition opportunities</strong></p>
+<p>Poor understanding of the capacity and capabilities of people. Lack of
+ability to understand the perspective of new business. The desire to use
+only proven techniques from experience. Conservatism, thoughtful
+exploration of the world.</p>
+<p><strong>Seventh function: the logic of relations</strong></p>
+<p>Propensity for constant tacit analysis of relations between different
+objects and phenomena. Absolute confidence in the correctness of his
+conclusions. Willingness to explain to others the nature of their
+problems from a logical point of view. Complacency and inertia.</p>
+<p><strong>Eighth function: volitional sensing</strong></p>
+<p>Unobtrusive demonstration of physical strength. Fundamental
+unwillingness to act with a “position of strength” in the event of any
+problems associated with people. Heightened sense of their own and other
+people’s property. Readiness to defend the rights of people. Willful
+refusal of pressure on people. Altruism, protection of the weak and
+generosity.</p>
+</div>
+</div>
+
+      </article>
+      <footer>
+        
+        <div class="related-pages">
+          <a class="next-page" href="socioscope_EII.html">
+              <div class="page-info">
+                <div class="context">
+                  <span>Next</span>
+                </div>
+                <div class="title">Socioscope EII</div>
+              </div>
+              <svg><use href="#svg-arrow-right"></use></svg>
+            </a>
+          <a class="prev-page" href="socioscope_SLI.html">
+              <svg><use href="#svg-arrow-right"></use></svg>
+              <div class="page-info">
+                <div class="context">
+                  <span>Previous</span>
+                </div>
+                
+                <div class="title">Socioscope LSI</div>
+                
+              </div>
+            </a>
+        </div>
+
+        <div class="related-information">
+              Copyright &#169; 2021, Wikisocion Authors
+            |
+            Built with <a href="https://www.sphinx-doc.org/">Sphinx</a>
+              and
+              <a class="muted-link" href="https://pradyunsg.me">@pradyunsg</a>'s
+              <a href="https://github.com/pradyunsg/furo">Furo theme</a>.
+            |
+            <a class="muted-link" href="../_sources/content/socioscope_LSE.rst.txt"
+               rel="nofollow">
+              Show Source
+            </a>
+        </div>
+        
+      </footer>
+    </div>
+    <aside class="toc-drawer">
+      
+      
+      <div class="toc-sticky toc-scroll">
+        <div class="toc-title-container">
+          <span class="toc-title">
+            Contents
+          </span>
+        </div>
+        <div class="toc-tree-container">
+          <div class="toc-tree">
+            <ul>
+<li><a class="reference internal" href="#">Socioscope LSE</a><ul>
+<li><a class="reference internal" href="#logical-sensory-extravert-stirlitz">Logical sensory extravert (Stirlitz)</a></li>
+<li><a class="reference internal" href="#you-live-and-learn">You live - and learn</a></li>
+<li><a class="reference internal" href="#facts-primarily">Facts primarily</a></li>
+<li><a class="reference internal" href="#professionalism-is-the-efficiency-reliability-responsibility">Professionalism - is the efficiency, reliability, responsibility</a></li>
+<li><a class="reference internal" href="#everything-i-do-i-do-well">Everything I do, I do well</a></li>
+<li><a class="reference internal" href="#emotions-must-ultimately-be-subject-to-the-logic-of">Emotions must ultimately be subject to the logic of</a></li>
+<li><a class="reference internal" href="#the-happiest-people-on-earth-are-those-who-can-take-liberties-with-time-no-fear-of-the-consequences">The happiest people on earth are those who can take liberties with time, no fear of the consequences</a></li>
+<li><a class="reference internal" href="#we-have-to-live-by-equating-the-i-and-you-we-are-united-in-the-human">We have to live by equating the “I” and “you” - we are united in the human</a></li>
+<li><a class="reference internal" href="#i-think-i-m-an-optimist-in-life">I think I’m an optimist in life</a></li>
+<li><a class="reference internal" href="#read-all-about-it">Read all about it!</a></li>
+<li><a class="reference internal" href="#my-home-my-castle">My home - my castle</a></li>
+<li><a class="reference internal" href="#functional-description">Functional description</a></li>
+</ul>
+</li>
+</ul>
+
+          </div>
+        </div>
+      </div>
+      
+      
+    </aside>
+  </div>
+</div><script data-url_root="../" id="documentation_options" src="../_static/documentation_options.js"></script>
+    <script src="../_static/jquery.js"></script>
+    <script src="../_static/underscore.js"></script>
+    <script src="../_static/doctools.js"></script>
+    <script src="../_static/scripts/main.js"></script>
+    </body>
+</html>

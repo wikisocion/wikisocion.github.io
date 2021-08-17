@@ -1,0 +1,62 @@
+Romance styles
+======================
+
+:doc:`Viktor Gulenko <gulenko>` has proposed four groups of **romance
+styles**, also referred to as "erotic behavior" groups or "erotic
+attitudes." Other socionists, such as :doc:`Valentina Meged <meged_ovcharov>` and :doc:`Aleksandr Bukalov <bukalov>`, have also written on how type
+influences behavior in intimate relationships, but discussed typical
+behavior within :doc:`quadras <quadra>`. Gulenko's approach was to find
+common ground between types of different quadras. Obviously, all
+interpretations in this area assume, or conclude, that the greatest
+degree of compatibility in that area is between dual pairs.
+
+:doc:`Gulenko <gulenko>`'s romance styles are defined by the irrational
+element in the individual's :ref:`Ego <ego-block>` functions:
+
+#. :doc:`Aggressor <aggressor>`: Se |symbol_f.gif| in EGO block: :doc:`SLE (ESTp) <SLE>`, :doc:`LSI (ISTj) <LSI>`, :doc:`SEE (ESFp) <SEE>`, :doc:`ESI (ISFj) <ESI>`
+#. :doc:`Victim <victim>`: Ni |symbol_t.gif| in EGO block: :doc:`EIE (ENFj) <EIE>`, :doc:`IEI (INFp) <IEI>`, :doc:`LIE (ENTj) <LIE>`, :doc:`ILI (INTp) <ILI>`
+#. :doc:`Caring <caring>`: Si |symbol_s.gif| in EGO block: :doc:`ESE (ESFj) <ESE>`, :doc:`SEI (ISFp) <SEI>`, :doc:`LSE (ESTj) <LSE>`, :doc:`SLI (ISTp) <SLI>`
+#. :doc:`Childlike <childlike>`: Ne |symbol_i.gif| in EGO block: :doc:`ILE (ENTp) <ILE>`, :doc:`LII (INTj) <LII>`, :doc:`EII (INFj) <EII>`, :doc:`IEE (ENFp) <IEE>`
+
+"Romance styles" refer specifically to romantic/sexual interaction --
+displaying physical attraction, interest, and desire, flirting, and
+sexual behavior present in romantic relationships. These styles apply
+much less to relationships between friends or business partners.
+
+
+.. list-table:: Small Groups
+    :header-rows: 0
+    :stub-columns: 1
+
+    * - :doc:`Quadras <quadra>`
+      - :doc:`Alpha <alpha_quadra>`
+      - :doc:`Beta <beta_quadra>`
+      - :doc:`Gamma <gamma_quadra>`
+      - :doc:`Delta <delta_quadra>`
+    * - :doc:`Clubs <club>`
+      - :doc:`Researchers <club_researchers>`
+      - :doc:`Socials <club_socials>`
+      - :doc:`Pragmatists <club_pragmatists>`
+      - :doc:`Humanitarians <club_humanitarians>`
+    * - :doc:`Temperaments <temperament>`
+      - :doc:`EP <EP>`
+      - :doc:`EJ <EJ>`
+      - :doc:`IP <IP>`
+      - :doc:`IJ <IJ>`
+    * - :doc:`Communication Styles <communication_styles>`
+      - Business-like
+      - Passionate
+      - Cold-blooded
+      - Sincere
+    * - :doc:`Romance Styles <romance_styles>`
+      - :doc:`Aggressor <aggressor>`
+      - :doc:`Victim <victim>`
+      - :doc:`Caring <caring>`
+      - :doc:`Childlike <childlike>`
+
+
+
+.. |symbol_f.gif| image:: Symbol_f.gif
+.. |symbol_t.gif| image:: Symbol_t.gif
+.. |symbol_s.gif| image:: Symbol_s.gif
+.. |symbol_i.gif| image:: Symbol_i.gif

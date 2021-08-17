@@ -1,0 +1,65 @@
+Ganin, Sergei
+=====================
+
+Owner of `Socionics.com <http://socionics.com>`_ , the first (since 1997) and most visited site on socionics on the web. Ganin studied socionics in Kiev, Ukraine before emigrating to London, England in the early 90s. He employs a four-function model of the psyche, :doc:`visual identification <vi>`, and four-letter type names (i.e. ESTp, INFj, etc.), and actively types celebrities. 
+
+.. _ganin-VI:
+
+Ganin's views on :doc:`visual identification <vi>`
+----------------------------------------------------------------------
+
+Ganin's articles on :doc:`visual identification <vi>` (particularly `this one <http://www.socionics.com/advan/vi/vi.htm>`_ and :doc:`Gulenko <gulenko>`-based descriptions that include typical body features) have sparked considerable controversy among people in and out of socionics. Many readers in the English-speaking world have gotten the impression that visual identification is the leading method of :doc:`type identification <diagnosis>` used in socionics. To fuel the controversy, Ganin has not provided any V.I. guidelines, giving the impression that it is a purely intuitive process or that the physical traits mentioned in the `type descriptions <http://www.socionics.com/prof/prof.htm>`_ on his site are sufficient to begin typing people. 
+
+Ganin's introductory article to V.I., his "V.I. skills test" — which is based on just one picture of each person without any other information or discussion and simply presents one "correct" answer, and his large gallery of celebrities with no commentary or discussion except for a single small picture, all suggesting that he typed them using V.I. methods alone. This gives newcomers to socionics the impression that single-picture V.I. is a reliable typing method that can be learned quickly. 
+
+However, Ganin has also said that he does not actually practice this type of :doc:`visual identification <vi>`. A `further article on the subject <http://www.socionics.com/advan/comments.html?notes.html>`_ suggests several points: 
+
+* V.I. can only be mastered after one has mastered socionics theory. 
+* Learning to visually identify types takes years of practice and vast experience studying people of known types (in other words, typed using different methods such as an understanding of functions or :doc:`intertype interaction <intertype>`). 
+* One photograph is almost never enough to make an accurate type diagnosis, and aging, plastic surgery, and makeup can make diagnosis more difficult. 
+* Ganin's own approach is not formulaic and not based on specific physical features, but is based on a more general intuitive impression or overall feel. 
+* Videos and meetings in person are considerably more informative than photographs. 
+
+These points would make it seem that Ganin's views on visual identification are actually rather moderate. However, the article is not featured prominently on the site, and readers are generally left with a different impression. 
+
+.. _ganin-HA:
+
+Ganin's views on the "hidden agenda" 
+-----------------------------------------
+
+Ganin's articles on what he calls the types's "hidden agenda", especially `this one <http://www.socionics.com/articles/hiddena.htm>`_ , have had a large impact on those for whom his site is the first introduction to socionics, and the concept also remains influential for those who later discover other socionics sources. 
+
+"Hidden agenda" is Ganin's name for the :ref:`mobilizing function <activating-func>`. He states that this function can be observed as a sort of background motivation for a type's actions, not as immediately obvious as those related to the :ref:`Ego <ego-block>` functions, but still there. 
+
+His list of the hidden agendas goes as follows: 
+
+* :doc:`ENTp <ILE>`, :doc:`ESTp <SLE>` => to be loved
+* :doc:`INTj <LII>`, :doc:`INFj <EII>` => to be healthy
+* :doc:`ESFj <ESE>`, :doc:`ESTj <LSE>` => to be perfect
+* :doc:`ISFp <SEI>`, :doc:`INFp <IEI>` => to understand
+* :doc:`ENFj <EIE>`, :doc:`ENTj <LIE>` => to be wealthy
+* :doc:`ISTj <LSI>`, :doc:`ISFj <ESI>` => to believe
+* :doc:`ESFp <SEE>`, :doc:`ENFp <IEE>` => to know
+* :doc:`INTp <ILI>`, :doc:`ISTp <SLI>` => to love 
+
+This concept is fairly consistent :doc:`classical socionics <classic_socionics>` if it is properly understood what those agendas mean, and their functional causes, but they have led to some interpretations that exaggerate the significance and visibility of the mobilizing function and so be mistaken for the :ref:`leading function <leading-func>` or the :ref:`creative function <creative-func>` for :doc:`typing <diagnosis>` purposes. 
+
+For example, "to know" refers to |Te| as a mobilizing function, and "to understand" to |Ti|. By that it is meant that the :doc:`SEE <SEE>` and the :doc:`IEE <IEE>` will be inclined to give priority to accumulating pieces of knowledge on matters of their interest — "to know" — over trying to make those pieces of knowledge fit together in a logically-consistent system (as in an ideology etc). By contrast, the :doc:`SEI <SEI>` and the :doc:`IEI <IEI>` will be inclined to focus on maintaining and improving their understanding of a consistent system of ideas and concepts — "to understand" — over accumulating information against which to check the validity of their concept. 
+
+That is valid of course for all types with the correspondent functional preference regarding |Ti| and |Te|, but in the case of types with them as :ref:`mobilizing <activating-func>` and :ref:`vulnerable functions <PoLR-func>`, Ganin points out that some specific behavioral traits can be observed, especially after longer observation. This is of course a perfectly valid point according to :doc:`classical socionics <classic_socionics>`; the risk lies in the misinterpretation of those brief definitions and how significant they are when typing. 
+
+See also
+-------------
+
+* `Socionics.com <http://www.socionics.com/>`_
+* `Page on Zanoza.ru <http://zanoza.socioland.ru/wiki/%D0%93%D0%B0%D0%BD%D0%B8%D0%BD,_%D0%A1%D0%B5%D1%80%D0%B3%D0%B5%D0%B9>`_
+
+
+.. |Ne| image:: Symbol_i.gif
+.. |Ti| image:: Symbol_l.gif
+.. |Ni| image:: Symbol_t.gif
+.. |Te| image:: Symbol_p.gif
+.. |Fe| image:: Symbol_e.gif
+.. |Se| image:: Symbol_f.gif
+.. |Fi| image:: Symbol_r.gif
+.. |Si| image:: Symbol_s.gif

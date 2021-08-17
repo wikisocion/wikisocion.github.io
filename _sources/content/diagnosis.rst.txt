@@ -1,0 +1,95 @@
+Type diagnosis
+=====================
+
+.. warning::
+    This page or section is **incomplete**. Additional contributions are needed.
+
+There are many approaches used to identify socionic types.
+
+Theory
+------
+
+Approaches
+----------
+
+
+
+Comparison to type descriptions
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+One of the most common and obvious methods to type someone, and oneself,
+is to make comparisons to type descriptions written by presumably
+qualified socionists. This is probably the preferred method to all
+newcomers to socionics, not so much by more experienced socionists, who
+eventually build up their own conception of each type in their minds,
+not needing to rely very often on descriptions written by others.
+
+For the less experienced socionists, type descriptions ideally provide a
+quick glimpse of what representatives of each type typically are in real
+life, "on average" so to speak, and are often helpful in at least
+eliminating types that are very obviously different from the person
+being typed.
+
+The major flaw of this approach is the risk of confusing information
+conveyed by the type description as being essential to the type when
+that is not the case. For instance, a description may mention that
+representatives of one type tend to display particular behavioral
+traits, or interests in certain activities, which may well be indeed
+very common among that type and yet not be essential to it functionally.
+This may lead one to dismiss a certain type as likely for a given person
+for what is in reality a minor reason.
+
+Type descriptions are very useful as illustrations of how the functional
+preferences are commonly manifested in external behavioral traits, but
+they can also be misleading if such behavioral traits have other origins
+in particular individuals. Above all, the "check-list" approach to type
+descriptions, as in marking which percentage of the traits described in
+descriptions can be observed in the person being typed, maximizes this
+problem and should be avoided.
+
+Some socionists are of the opinion that type descriptions should be best
+regarded as a didactic tool to learn socionics rather than tools for
+typing.
+
+
+
+Written tests
+~~~~~~~~~~~~~
+
+Usually written tests provide multiple-choice options that are supposed
+to distinguish between poles of :doc:`dichotomies <dich>`. The goal
+of written tests is to objectively assess type, eliminating any one
+socionist's biases from the procedure. However, the difficulty is to
+accurately convey to the test-taker what the dichotomies or
+:doc:`elements <elements>` really mean. Problems of interpretation get in
+the way, especially if the test-taker is unfamiliar with socionic types.
+An experienced socionist often does not expect these problems, and gets
+a rude shock when they appear.
+
+If the socionist augments multiple-choice tests with further explanation
+and examples, their accuracy can increase.
+
+
+
+Interview methods
+~~~~~~~~~~~~~~~~~
+
+
+
+Visual identification
+~~~~~~~~~~~~~~~~~~~~~
+
+Challenges
+----------
+
+Many professional socionists who use an interviewing method have to deal
+with the issue of "**masks**," or behavior that people exhibit in
+unfamiliar or unwelcoming circumstances or when they are asked about
+themselves. Some of these masks can even be explained socionically.
+
+Self-concept, or one's self-knowledge, is the basis
+of one's answers to traditional type tests and is not necessarily
+exactly in line with one's socionic type. Many circumstances can
+influence self-concept and make the individual present a picture of
+himself that may be inaccurate. However, the objectivity of self-concept
+is almost impossible to assess during one visit or interview.

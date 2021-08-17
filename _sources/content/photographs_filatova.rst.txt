@@ -1,0 +1,255 @@
+Photographs of Types by Filatova
+=========================================
+
+These particular portraits are from :doc:`Ekaterina Filatova <filatova>`'s book "Personality in the Mirror of Socionics" (2001). 
+
+
+
+Foreword
+--------------------
+
+About Filatova's portraits - from Wikisocion: 
+
+    It should be noted that :doc:`Ekaterina Filatova <filatova>` did not use visual identification ("V.I.") to diagnose types. She relied on questionnaires and interviews to establish socionics types and later began to notice similarities between people of the same type, which she tried to capture in her type photo albums. 
+
+Who are the people in the pictures? from Socioniko.net: 
+
+    Visitors of our site often ask us whether the people whose pictures are placed together with type descriptions have been “typed” correctly. OK, we answer. 
+
+    These portraits have been photographed by :doc:`Yekaterina S. Filatova <filatova>`, a socionist from St. Petersburg, since 1991. She gave us her permission to place some of her pictures at our site. She did not use any “visual identification” methods – she is rather much critical towards such methods, and never wants to “type” pictures which some people send to her. On the contrary, she first determined the type of the person (by interviewing, in course of long contacts, etc.) and only then, when this person expressed his/her agreement with the type description and his/her permission for being photographed, she made his/her pictures in several standard perspectives (which allowed comparing pictures of different people with each other). In addition, she often received feedback from these people and kept contacts with them, since many of them were her former students, colleague professors or even practicing socionists. If anybody later expressed his doubts about the correctness of his/her type identification, then his/her pictures were removed from the collection to a separate folder marked “dubious” for future verification. The total number of portraits made by her exceeds several thousands, and the most reliable of them have been published in her books. 
+
+    Later she compared her pictures, and discovered so-called “quasi-twin” series within each of the 16 types. However, they were similar not as much by facial traits (form of nose, lips etc.) as by their characteristic mimicry (facial expressions). For this reason, we strongly disagree with the approach of Sergei Ganin, the owner of ₪₪₪ Socionics - The New Psychology ₪₪₪, who determines types of celebrities using the method 'he/she facially reminds me a person whose type is XYZ". As a part of psychology, socionics should use scientific approach of studying people characters, instead of physiognomics and other pseudo-sciences. 
+
+Alpha Quadra Portraits
+-----------------------------------
+
+.. _SEI-photos:
+
+SEI/ISFp
+^^^^^^^^^^^^^
+
+**[Si,Fe]**
+
+.. image:: images/SEI1.png
+    :align: center
+
+.. image:: images/SEI2.png
+    :align: center
+
+.. _ILE-photos:
+
+ILE/ENTp
+^^^^^^^^^^^^^^
+
+**[Ne,Ti]**
+
+.. image:: images/ILE1.png
+    :align: center
+
+.. image:: images/ILE2.png
+    :align: center
+
+.. _LII-photos:
+
+LII/INTj
+^^^^^^^^^^^^^^
+
+**[Ti,Ne]**
+
+.. image:: images/LII1.png
+    :align: center
+
+.. image:: images/LII2.png
+    :align: center
+
+.. image:: images/LII3.png
+    :align: center
+
+
+.. _ESE-photos:
+
+ESE/ESFp
+^^^^^^^^^^^^^^
+
+**[Fe,Si]**
+
+.. image:: images/ESE1.png
+    :align: center
+
+.. image:: images/ESE2.png
+    :align: center
+
+Beta Quadra Portraits
+------------------------------
+
+.. _LSI-photos:
+
+LSI/ISTj
+^^^^^^^^^^^^^^
+
+**[Ti,Se]**
+
+.. image:: images/LSI1.png
+    :align: center
+
+.. image:: images/LSI2.png
+    :align: center
+
+
+.. _EIE-photos:
+
+EIE/ENFj
+^^^^^^^^^^^^^^
+
+**[Fe,Ni]**
+
+.. image:: images/EIE1.png
+    :align: center
+
+.. image:: images/EIE2.png
+    :align: center
+
+
+.. _IEI-photos:
+
+IEI/INFp
+^^^^^^^^^^^^^^
+
+**[Ni,Fe]**
+
+.. image:: images/IEI1.png
+    :align: center
+
+.. image:: images/IEI2.png
+    :align: center
+
+
+.. _SLE-photos:
+
+SLE/ESTp
+^^^^^^^^^^^^^^
+
+**[Se,Ti]**
+
+.. image:: images/SLE1.png
+    :align: center
+
+.. image:: images/SLE2.png
+    :align: center
+
+Gamma Quadra Portraits
+------------------------------
+
+.. _ILI-photos:
+
+ILI/INTp
+^^^^^^^^^^^^^^
+
+**[Ni,Te]**
+
+.. image:: images/ILI1.png
+    :align: center
+
+.. image:: images/ILI2.png
+    :align: center
+
+
+.. _SEE-photos:
+
+SEE/ESFp
+^^^^^^^^^^^^^^
+
+**[Se,Fi]**
+
+.. image:: images/SEE1.png
+    :align: center
+
+.. image:: images/SEE2.png
+    :align: center
+
+
+.. _ESI-photos:
+
+ESI/ISFj
+^^^^^^^^^^^^^^
+
+**[Fi,Se]**
+
+.. image:: images/ESI1.png
+    :align: center
+
+.. image:: images/ESI2.png
+    :align: center
+
+
+.. _LIE-photos:
+
+LIE/ENTj
+^^^^^^^^^^^^^^
+
+**[Te,NI]**
+
+.. image:: images/LIE1.png
+    :align: center
+
+.. image:: images/LIE2.png
+    :align: center
+
+
+Delta Quadra Portraits
+-----------------------------
+
+.. _EII-photos:
+
+EII/INFj
+^^^^^^^^^^^^^^
+
+**[Fi,Ne]**
+
+.. image:: images/EII1.png
+    :align: center
+
+.. image:: images/EII2.png
+    :align: center
+
+
+.. _LSE-photos:
+
+LSE/ESTj
+^^^^^^^^^^^^^^
+
+**[Te,SI]**
+
+.. image:: images/LSE1.png
+    :align: center
+
+.. image:: images/LSE2.png
+    :align: center
+
+
+.. _SLI-photos:
+
+SLI/ISTp
+^^^^^^^^^^^^^^
+
+**[Si,Te]**
+
+.. image:: images/SLI1.png
+    :align: center
+
+.. image:: images/SLI2.png
+    :align: center
+
+
+.. _IEE-photos:
+
+IEE/ENFp
+^^^^^^^^^^^^^^
+
+**[Ne,Fi]**
+
+.. image:: images/IEE1.png
+    :align: center
+
+.. image:: images/IEE2.png
+    :align: center

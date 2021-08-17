@@ -1,0 +1,651 @@
+<!doctype html>
+<html class="no-js">
+  <head><meta charset="utf-8"/>
+    <meta name="viewport" content="width=device-width,initial-scale=1"/>
+    <meta name="color-scheme" content="light dark"><link rel="index" title="Index" href="../genindex.html" /><link rel="search" title="Search" href="../search.html" /><link rel="next" title="Socioscope ESE" href="socioscope_ESE.html" /><link rel="prev" title="Socioscope ILE" href="socioscope_ILE.html" />
+
+    <meta name="generator" content="sphinx-4.1.2, furo 2021.08.11.beta42"/>
+        <title>Socioscope SEI - Wikisocion</title>
+      <link rel="stylesheet" type="text/css" href="../_static/pygments.css" />
+    <link rel="stylesheet" type="text/css" href="../_static/styles/furo.css?digest=197f00461d56902ea7ca048ec6e6ba026f62c97b" />
+    <link rel="stylesheet" type="text/css" href="../_static/styles/furo-extensions.css?digest=93475b62d1c3bc01323a0eefdc14a62d77b12690" />
+    
+    
+
+
+<style>
+  body {
+    --color-code-background: #f8f8f8;
+  --color-code-foreground: black;
+  
+  }
+  body[data-theme="dark"] {
+    --color-code-background: #202020;
+  --color-code-foreground: #d0d0d0;
+  
+  }
+  @media (prefers-color-scheme: dark) {
+    body:not([data-theme="light"]) {
+      --color-code-background: #202020;
+  --color-code-foreground: #d0d0d0;
+  
+    }
+  }
+</style>
+    <link media="(prefers-color-scheme: dark)" rel="stylesheet" href="../_static/pygments_dark.css"></head>
+  <body>
+    
+<svg xmlns="http://www.w3.org/2000/svg" style="display: none;">
+  <symbol id="svg-toc" viewBox="0 0 24 24">
+    <title>Contents</title>
+    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+      stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+      <path stroke="none" d="M0 0h24v24H0z" />
+      <line x1="4" y1="6" x2="20" y2="6" />
+      <line x1="10" y1="12" x2="20" y2="12" />
+      <line x1="6" y1="18" x2="20" y2="18" />
+    </svg>
+  </symbol>
+  <symbol id="svg-menu" viewBox="0 0 24 24">
+    <title>Menu</title>
+    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+      stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather-menu">
+      <line x1="3" y1="12" x2="21" y2="12"></line>
+      <line x1="3" y1="6" x2="21" y2="6"></line>
+      <line x1="3" y1="18" x2="21" y2="18"></line>
+    </svg>
+  </symbol>
+  <symbol id="svg-arrow-right" viewBox="0 0 24 24">
+    <title>Expand</title>
+    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+      stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather-chevron-right">
+      <polyline points="9 18 15 12 9 6"></polyline>
+    </svg>
+  </symbol>
+  <symbol id="svg-sun" viewBox="0 0 24 24">
+    <title>Light mode</title>
+    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+      stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" class="feather-sun">
+      <circle cx="12" cy="12" r="5"></circle>
+      <line x1="12" y1="1" x2="12" y2="3"></line>
+      <line x1="12" y1="21" x2="12" y2="23"></line>
+      <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
+      <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
+      <line x1="1" y1="12" x2="3" y2="12"></line>
+      <line x1="21" y1="12" x2="23" y2="12"></line>
+      <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
+      <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
+    </svg>
+  </symbol>
+  <symbol id="svg-moon" viewBox="0 0 24 24">
+    <title>Dark mode</title>
+    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+      stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" class="icon-tabler-moon">
+      <path stroke="none" d="M0 0h24v24H0z" fill="none" />
+      <path d="M12 3c.132 0 .263 0 .393 0a7.5 7.5 0 0 0 7.92 12.446a9 9 0 1 1 -8.313 -12.454z" />
+    </svg>
+  </symbol>
+  <symbol id="svg-sun-half" viewBox="0 0 24 24">
+    <title>Auto light/dark mode</title>
+    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+      stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" class="icon-tabler-shadow">
+      <path stroke="none" d="M0 0h24v24H0z" fill="none"/>
+      <circle cx="12" cy="12" r="9" />
+      <path d="M13 12h5" />
+      <path d="M13 15h4" />
+      <path d="M13 18h1" />
+      <path d="M13 9h4" />
+      <path d="M13 6h1" />
+    </svg>
+  </symbol>
+</svg>
+
+<input type="checkbox" class="sidebar-toggle" name="__navigation" id="__navigation">
+<input type="checkbox" class="sidebar-toggle" name="__toc" id="__toc">
+<label class="overlay sidebar-overlay" for="__navigation">
+  <div class="visually-hidden">Hide navigation sidebar</div>
+</label>
+<label class="overlay toc-overlay" for="__toc">
+  <div class="visually-hidden">Hide table of contents sidebar</div>
+</label>
+
+
+
+<div class="page">
+  <header class="mobile-header">
+    <div class="header-left">
+      <label class="nav-overlay-icon" for="__navigation">
+        <div class="visually-hidden">Toggle site navigation sidebar</div>
+        <i class="icon"><svg><use href="#svg-menu"></use></svg></i>
+      </label>
+    </div>
+    <div class="header-center">
+      <a href="../index.html"><div class="brand">Wikisocion</div></a>
+    </div>
+    <div class="header-right">
+      <div class="theme-toggle-container theme-toggle-header">
+        <button class="theme-toggle">
+          <div class="visually-hidden">Toggle Light / Dark / Auto color theme</div>
+          <svg class="theme-icon-when-auto"><use href="#svg-sun-half"></use></svg>
+          <svg class="theme-icon-when-dark"><use href="#svg-moon"></use></svg>
+          <svg class="theme-icon-when-light"><use href="#svg-sun"></use></svg>
+        </button>
+      </div>
+      <label class="toc-overlay-icon toc-header-icon" for="__toc">
+        <div class="visually-hidden">Toggle table of contents sidebar</div>
+        <i class="icon"><svg><use href="#svg-toc"></use></svg></i>
+      </label>
+    </div>
+  </header>
+  <aside class="sidebar-drawer">
+    <div class="sidebar-container">
+      
+      <div class="sidebar-sticky"><div class="sidebar-scroll"><a class="sidebar-brand" href="../index.html">
+  
+  
+  <span class="sidebar-brand-text">Wikisocion</span>
+  
+</a><form class="sidebar-search-container" method="get" action="../search.html" role="search">
+  <input class="sidebar-search" placeholder=Search name="q" aria-label="Search">
+  <input type="hidden" name="check_keywords" value="yes">
+  <input type="hidden" name="area" value="default">
+</form>
+<div id="searchbox"></div>
+</div>
+      </div>
+      
+    </div>
+  </aside>
+  <div class="main">
+    <div class="content">
+      <article role="main">
+        <div class="content-icon-container">
+          <div class="theme-toggle-container theme-toggle-content">
+            <button class="theme-toggle">
+              <div class="visually-hidden">Toggle Light / Dark / Auto color theme</div>
+              <svg class="theme-icon-when-auto"><use href="#svg-sun-half"></use></svg>
+              <svg class="theme-icon-when-dark"><use href="#svg-moon"></use></svg>
+              <svg class="theme-icon-when-light"><use href="#svg-sun"></use></svg>
+            </button>
+          </div>
+          <label class="toc-overlay-icon toc-content-icon" for="__toc">
+            <div class="visually-hidden">Toggle table of contents sidebar</div>
+            <i class="icon"><svg><use href="#svg-toc"></use></svg></i>
+          </label>
+        </div>
+        <div class="section" id="socioscope-sei">
+<h1>Socioscope SEI<a class="headerlink" href="#socioscope-sei" title="Permalink to this headline">¶</a></h1>
+<div class="section" id="sensory-ethical-introtim-dumas">
+<h2>Sensory ethical introtim (Dumas)<a class="headerlink" href="#sensory-ethical-introtim-dumas" title="Permalink to this headline">¶</a></h2>
+<blockquote>
+<div><p><em>Silk Heart</em></p>
+</div></blockquote>
+<p>I - like a bunch of feelings. My body is woven only of sensations and
+emotions. This “lump” - hyperfine of nature. So I’m in a special and
+unique world - a world of pristine harmony. “Black” impulses, evil,
+hatred, destructive element - categories that are alien to my world
+harmony. And it’s not just words - it’s a state of mind. Excuse me, but
+the feelings or is, or not, to lie, as it does sometimes mind, they can
+not.</p>
+<p>I feel a need to give yourself an inexhaustible others, “to sow
+reasonable, good, eternal.” Madly in love is life in all its forms (I
+always I can ignite, even in everyday situations ochazhok holiday
+comfort).</p>
+<p>… I can not see, “feel.” I can only feel - I’m invisible, I - Harmony
+(subconsciously, of course). In dialogue appears kind of “shirt-guy.”
+But this is only the outer shell. Even after the revelations almost
+impossible to feel the true state of my soul …</p>
+</div>
+<div class="section" id="well-how">
+<h2>Well, how…<a class="headerlink" href="#well-how" title="Permalink to this headline">¶</a></h2>
+<p>Quiet, friendly, smiling, shy, handsome with a soft, pliable grace. He
+simply enjoys the fact that he lives. The multi-faceted luxury
+sensations, fine sensitivity to all external influences determine its
+relevance to their lives. If regular chocolate is the richest source of
+gustatory pleasures, what is a man need in life: to eat - and order! If
+heavy sediment of trouble with interest interrupted the joy of tickling
+breeze caressing the face, then why try to cope with these troubles …</p>
+<p>SEI is completely immersed in the reality of this world, constantly
+feeling it with all my heart. He sees the world as somewhat chaotic
+mosaic of sounds, people, sights, strange conversations unpredictable
+people.</p>
+<p>As for himself, most (and best) part of his busy life perception by the
+five senses - sight, hearing, touch, taste, smell. But it makes it so
+much that just amazed! Even if he has poor eyesight (which is, in
+general, not often), he sees a little more rest.</p>
+<p>I do not look - I see.</p>
+<p>He notices and aware of everything that gets in his field of vision.
+Scattered SEI - something out of science fiction. In order to hear, he
+does not have to listen. Whatever worked, he always keeps track of all
+emerging sounds or other changes in the environment - skvoznyachok, a
+pebble in the shoe, and the like. For any confusion in the room remember
+where everything is.</p>
+<p>But especially it is your own physical condition. Only a small EIS says
+that he has a stomach ache. After a few years he learned to see the
+difference between pain due to indigestion and gastritnoy pain. When
+hungry, will know not only the degree of hunger, but also the fact that
+it was he would now like to eat and how much.</p>
+</div>
+<div class="section" id="i-always-thought-that-the-chips-this-dish-but-it-was-a-side-dish">
+<h2>I always thought that the chips - this dish, but it was a side dish!<a class="headerlink" href="#i-always-thought-that-the-chips-this-dish-but-it-was-a-side-dish" title="Permalink to this headline">¶</a></h2>
+<p>Food - it’s all a special part of his life. He is able to for a long
+time, detail and describe a variety of taste, odor, and other nuances of
+the most common dishes such as sandwiches. In honor of the same
+chocolates can compose an ode in high style.</p>
+<p>His love for food SEI little embarrassed and tries it does not stick
+out.</p>
+<p>Why would you think of me, that I for candy at all agree?</p>
+<p>For one, maybe not, but a kilo’s worth a try.</p>
+<p>He has almost no strong preferences for food, but if something does not
+like - make him eat it almost impossible. Him from an early age can give
+freedom to the question of its own power. SEI will never forget to eat
+and will not pitch in candy at the expense of soup. He always knows when
+you need to set aside a plate, not to overeat. You can not learn to cook
+- he himself is able to do it perfectly. There are cases when
+representatives of this type by the smell or appearance of food or more
+precisely, what components it lacks - such as salt.</p>
+<p>In life SEI seeks and creates sensory harmony. Typing easier and faster
+than writing by hand. And if it’s broken and are missing “o”? You can,
+of course, replace it by zero, and most so and did - but not EIC. For
+him it is not harmonious and comfortable.</p>
+</div>
+<div class="section" id="convenient-it-s-nice-when">
+<h2>Convenient - it’s nice when<a class="headerlink" href="#convenient-it-s-nice-when" title="Permalink to this headline">¶</a></h2>
+<p>Discomfort (in any form) for it hard to bear. In the uncomfortable,
+awkward situation, his mood drops. If he can not fix it, try to look
+inward, immersed in some memories, “the good” and does not like to be
+“pulled out” of them in an unpleasant reality.</p>
+<p>The interior should be cozy and beautiful (for it is one and the same).
+In this respect he maximalist, any, even the slightest, the retreat from
+its representation brings harmony “with no” all the fun of life. He does
+not like physical overload, trying to avoid the conditions that require
+a stamina or health risks (EIA, to put it mildly, not very brave man).</p>
+<p>According to him, life is different without good feeling poor. If it
+reduces the severity of sensory perception, it is a sign of illness or
+exhaustion. And God forbid him to say: “I already do not feel anything”
+- can not be a louder cry for help, otherwise it will be too late …</p>
+<p>And the EIA says the best thing he can do for people - is that it
+creates a pleasant and comfortable environment. He likes to take care of
+all others: to correct clothes, and give the person where it’s best to
+sit down, draw the curtains when the sun hits someone in the eye. This
+is all done without a request, not for show - even involuntarily. For
+him, it is as natural as breathing (but if it is with gratitude notice
+will be happy). His foresight comes to what it has to offer more water a
+person before he himself realizes his thirst. This is another feature of
+it - see the subtle physical desires of others.</p>
+<p>SEI best, perhaps, can not find a common language with their peers and
+with children. SEI any gender and age next to them is affectionate and
+caring grandmother, who knows how to sprout delicate shoots of their
+talents, and it is - the highest purpose of this type of people. SEI is
+not no one better able to turn an ugly duckling into a beautiful swan.</p>
+<p>Another of his talent - the ability to create around himself a happy,
+pleasant, light mood. I must say that personally he himself occasionally
+melancholy attacks are different degrees of severity.</p>
+</div>
+<div class="section" id="mind-is-full-of-bright-expectations-heart-feels-new-trouble">
+<h2>Mind is full of bright expectations heart feels new trouble<a class="headerlink" href="#mind-is-full-of-bright-expectations-heart-feels-new-trouble" title="Permalink to this headline">¶</a></h2>
+<p>At these moments, it tends to be alone, “to hide in its burrow,” wait
+for the blues will pass. If you can not hide from the people, will be
+quite skillfully play “and I have everything in order.” It’s because he
+feels a deep inner prohibition: no one can spoil the mood. Even his
+close it with caution talk about their problems, that in no case did not
+disappoint them. So sometimes it is: it amuses someone, tells jokes, and
+he himself at this point in my soul cat scratching.</p>
+<p>In case of trouble EIS can easily give up and quietly watch the approach
+of trouble, do not try to do. But it is mainly only if it applies only
+to one. If the problem threatens his family, he can pretty actively and
+successfully deal with it. True, his last property is also highly
+dependent on the level of spiritual development.</p>
+</div>
+<div class="section" id="have-to-live-without-straining">
+<h2>Have to live without straining<a class="headerlink" href="#have-to-live-without-straining" title="Permalink to this headline">¶</a></h2>
+<p>In order to do something, he needs a mood. Long may wait until it comes,
+and then quickly to do everything. SEI does not like to work for people
+who do not tolerate any interference in their work, as well as criticism
+(and even when praised) his ability to work. He believes that work
+should be viewed only by the result.</p>
+<p>In matters of business, he is quite helpless. In fact, the concept of
+“benefit”, “payment” for it is immoral, and the idea that, in their view
+should be used other people think it blasphemous. Comes to the fact that
+it can be prepared a few hours to make a business phone call and
+eventually give up on the whole thing. He was greatly afraid of even the
+thought, as if people did not think he was imposed.</p>
+<p>The remarkable organizational and penetration EIS can reveal only one
+where it is unselfishly trying to do something useful for other people.
+But we have only a little thoughts creep in his head, “What’s in it for
+me?” Like all immediately collapse. Personally about their interests to
+take care someone else.</p>
+</div>
+<div class="section" id="takes-a-back-seat-but-i-m-happy-when-i-find-there">
+<h2>Takes a back seat, but I’m happy when I find there<a class="headerlink" href="#takes-a-back-seat-but-i-m-happy-when-i-find-there" title="Permalink to this headline">¶</a></h2>
+<p>Who is he, what is and what can - for SEI closely guarded secret.
+Therefore, it is very difficult to understand your job role. He may lose
+a lot of time, until one day it does not overshadow, “This is mine! And
+I had not noticed!”</p>
+<p>Their opinions about their abilities at it, especially in youth, no.
+What would he not have said so, and agrees. Be called a fool - upset,
+but believes. They will say that he has outstanding mathematical
+abilities - like he had not noticed before, but they were something more
+visible. Praise he believes is still less than the criticism.</p>
+<p>Because of the almost total inability to realistically assess their
+creativity and inner essence of the “problem” SEI simultaneously
+characterized by two diametrically opposed opinions of themselves. The
+first, which is almost always around and shows can be summarized by the
+phrase “I can not find a place on this earth …”. The second, which is
+the opposite extreme, huge internal states of wealth his sensitive soul,
+that other people have not able to properly assess.</p>
+<p>True, it is (of course) the opinion carefully hidden from everyone and
+can occasionally slip a hint.</p>
+<p>A SEI badly needs to tell him the truth about himself, not only of his
+talent and ability, domestic content and prospects of personal
+development on future life goals, but also about the “pitfalls” of his
+soul. Without the support of SEI will go out and in the end come to
+naught.</p>
+<p>Almost as important to him is the same information about the people
+around him, the meaning and content of all phenomena of the world, the
+relevance and prospects of various undertakings. If we manage to
+interest him, to show the meaning of a case, he spared no effort
+vigorously joined in the work, not only coming up with original ideas,
+and realizing new and emerging opportunities.</p>
+</div>
+<div class="section" id="in-order-to-act-he-needs-a-real-push-sense">
+<h2>In order to act, he needs a real push sense<a class="headerlink" href="#in-order-to-act-he-needs-a-real-push-sense" title="Permalink to this headline">¶</a></h2>
+<p>He reaches out to those who can constantly generate new and unusual
+ideas and scientific hypotheses and logically justify them. Here he
+shows omnivorous and uncritical, able to instantly accept as true almost
+any statement, any theory - but not necessarily that he will remain
+faithful and constant supporter.</p>
+<p>The bottom line is that I can not find a point in my life, which
+attracted me altogether entirely.</p>
+<p>And any information on the people around him, he needs almost like air.
+In all the conversations - personal or business - SEI gently and quietly
+try to pull out of the interlocutor everything he knows about someone
+(sometimes comes to the fact that natural reluctance interlocutor exhume
+another’s “dirty laundry” SEI takes almost as insult for himself, though
+outwardly it and not tell).</p>
+<p>He has tried and tested in life are certain logical criteria, all of
+which must match. For example, in any game EIS is watching, that all
+went according to accepted rules. External consistency in the
+presentation of the material is so impressed that he sometimes abuse
+this. And then the second-graders from the pen leaves a classic phrase:
+“Cabbage is formed by folding the cabbage leaves around the stalk.” This
+is his style - complicate and rounded design proposals to the detriment
+of the ease of understanding.</p>
+<p>SEI feels like translucent and tries to hide from prying eyes “of the
+systems phrases”, pulling clothes over other people’s ideas and
+thoughts. He lives with the constant feeling that people often miss him
+by attention - do not want to understand it and to listen to his
+opinion. If ingested by a sympathetic ear, it is verbose (sometimes
+zanudlivosti), but even in this case, the EIC with internal
+dissatisfaction feels that his speech is somewhat fresh and
+inexpressive.</p>
+<p>Respect to people that are not from himself can develop sufficiently, -
+the ability to condense thoughts.</p>
+<p>Therefore, the conversation always trying to remember other people’s
+“smart” remarks and opportunity, then displays them as if for their
+thoughts (and such plagiarism, which he sees in others, its annoying).</p>
+<p>Other people think words are very comfortable, not responsible for them
+if they prove to be incorrect.</p>
+<p>However, he has a great emotional “hearing” the words: in the most
+common and become familiar phrase, he is able to see something original
+and can subtly beat him, suddenly giving it a funny sense.</p>
+<p>Sometimes, if the EIS sincerely think that their cost, but they do not
+want to openly and directly at odds with those whom they consider their
+enemies, they are carefully looking out for all of their “pain points”
+and then easily screw into them serrated stinger looks as if a harmless
+joke.</p>
+<p>SEI is constantly creating the impression of being “on your mind”, even
+during the confidential conversation pursue their own hidden agendas. In
+fact it is not so - so it appears introverted immersion in his inner
+world. On the other side - the impression that he is adept at creating
+for himself in many things is very different from its real essence. For
+example, his famous charming smile - the best way to effectively “hide”
+themselves from the speaker. The more smiles SEI “without cause”, the
+more he is not sincere.</p>
+<p>Unsurpassed master of giving evasive answers to direct questions. If he
+is asked a question that did not find any other answer than “yes” or
+“no” - will still find a loophole. Sometimes it seems that SEI
+organically unable to make a final choice, even in trifles.</p>
+<p>Every solution is self-restraint.</p>
+<p>To all innovations and brilliant business perspective it is initially
+wary, the first reaction to them is almost always skeptical. He should
+be given time to ensure that his firm “no” by itself was changed to
+“yes.” If this is not taken into account and begin to rush or pressure
+him, things will not: stubbornness he has enough for ten. He will not
+think of the consequences - there can at least count on the head
+bellies! He withdraws into himself and becomes impenetrable to any
+reasonable arguments and exhortations. In this case it is best to give
+him the opportunity to weigh up the situation very sensibly.</p>
+<p>SEI himself cleverly persuades and convinces people. This helps his
+ability to understand their interests and desires, as well as the
+ability to demonstrate good will in their address (apparently it looks
+so convincing that often causes interlocutors almost confessional
+candor, however, from SEI hard to wait this sympathy). But the request
+or require likes, can only hint at his interlocutor difficulties.</p>
+</div>
+<div class="section" id="hint-please-sensitive-to-smart">
+<h2>Hint - please sensitive to smart<a class="headerlink" href="#hint-please-sensitive-to-smart" title="Permalink to this headline">¶</a></h2>
+<p>He does not like to be obligated to anyone. Very worried that the ones
+he does not like, can impose a close relationship. In this case, the EIS
+does not say directly, “Get out of my sandbox.” His style is to get rid
+of an unwanted partner - it is subtly and unobtrusively give him the
+life that he was very happy to run away from him. As a result, his side
+are only the “thick-skinned.”</p>
+<p>Sometimes it seems that the EIS is much easier to tolerate almost
+complete mismatch with your loved one an ideal than a small annoyance
+with him. Incidentally, this leads to the fact that the people of this
+type are more often associated with his life psychologically suitable
+partners.</p>
+<p>And people SEI understands poorly, could easily be mistaken who his
+enemy, and who - a friend who you can trust, who can not, and who will
+do just to use it, because the reasons for all the actions of others -
+unknowable mystery to him. But he also can not understand the reasons
+and their own actions, and this is, after all, leads to the fact that
+sometimes he did not feel responsible for everything he does.</p>
+<p>At SEI is a real danger for the fault to lose true friends. It easily
+can cause self-love, but often go away from him, even those who loved
+him.</p>
+</div>
+<div class="section" id="cardboard-wings-of-love">
+<h2>Cardboard wings of love<a class="headerlink" href="#cardboard-wings-of-love" title="Permalink to this headline">¶</a></h2>
+<p>Russian literature is rich with interesting images of people of this
+type: it Clim, and the famous master Oblomov, and forever “superfluous
+man” Eugene Onegin. And by different authors of the many complex issues
+raised one big question Search this hero’s place in life.</p>
+<p>My inner impulse erupts only when there is a close and understanding
+man. After all, in itself, I just bunch of feelings, passive energy.</p>
+<p>In the soul lives SEI image of the ideal friend, a loved one with whom
+he could fully develop their spiritual wealth. It, sometimes not
+consciously feel that just next to the man, is identical to his ideal,
+he can live and work in full force. But when he finally meets this, then
+stubbornly expecting a full conformity to the ideal. Anyone, even the
+slightest deviation from it its sensitive soul perceives as a betrayal
+of her lofty expectations. It turns out that it deprives him of the
+right to be loved yourself, demanding from him, that he made ??all his
+hopes and desires.</p>
+<p>Naturally, such a stubborn mood for a perfect harmony (and sometimes
+just for yourself) destroys existing but “not enough” in his view
+harmony. The inner sense of self-righteousness (“Is it possible to back
+away from their own ideals?”) Does not allow him to admit that he is
+partly responsible for this destruction. He genuinely confident in his
+sinlessness, does not seem to understand that by doing so shifts the
+entire blame on loved ones, and liability only on the circumstances.</p>
+</div>
+<div class="section" id="and-whose-fault-is-that-the-day-to-day-care-living-by-someone-else-s">
+<h2>And whose fault is that the day-to-day care living by someone else’s?<a class="headerlink" href="#and-whose-fault-is-that-the-day-to-day-care-living-by-someone-else-s" title="Permalink to this headline">¶</a></h2>
+<p>SEI reluctance to accept the fact that there is no perfect harmony,
+leads to the fact that in his life disappear almost any form, which most
+approaches her. This applies not only to his personal life, but also
+creativity.</p>
+<p>Each type has its own unique features, its “highlights” in the works,
+its capabilities of maximum expression. A sensory-ethical introvert -
+one of the few personality types, which is the best possible. The reason
+is its strongest feature - introverted sensors, which allows him to more
+fully accept the reality of the world, the fullness of life. He feels
+like no other physical harmony of the world .</p>
+<p>But everything in this world has a price. Once he thinks (and quite
+objectively) that it is available all the harmony of the world, it is
+easy to make a tiny step away from the feeling that he is harmony . And
+most of the people of this type, though unconsciously, but is a strong
+belief that, as a self-critical as they are in words.</p>
+<p>Such arrogance is very harmful to EIA, often turning to a creative
+sterility: the creative process is the increment of harmony, and what
+kind of growth it may be a question if he feels boundless world harmony?
+As they say, let well enough alone.</p>
+<p>And so it goes - what would now no matter what happens in life, no
+matter how developed its relationships with the people in case of any
+failure, it will be absolutely adamant that the blame lies on someone
+else, but not on it - because it itself perfection …</p>
+<p>Rich sensory EIS giving joy of harmony, may turn to him as a generous
+gift of the benevolent fate and eternal boredom. After all, is not
+enough to feel harmony - much more fun to create it.</p>
+</div>
+<div class="section" id="functional-description">
+<h2>Functional description<a class="headerlink" href="#functional-description" title="Permalink to this headline">¶</a></h2>
+<p><strong>First function: sensory experiences</strong></p>
+<p>Subtle and multifaceted sense of the physical world. The richness of
+sensory perception. High sensitivity to all physical influences. Perfect
+job senses. The desire and ability to surround himself and other comfort
+and convenience. Constant ability to perceive the beauty of the world.
+Developed taste, aesthetics, self-indulgence, a tendency to touch
+pleasures.</p>
+<p><strong>The second function: the ethics of emotions</strong></p>
+<p>Emotional perception of the world. The desire for a positive and happy
+emotions. Understanding the emotional state of others. The ability to
+create a festive mood. The desire to make the world a more joyful,
+people bring pleasant moments. Reluctance to spoil the mood of anyone.
+Sense of humor, smiling.</p>
+<p><strong>The third function: the intuition of time</strong></p>
+<p>Constant desire to develop in a sense of time, punctuality. The desire
+to learn to see potential hazards. Demonstration of ability to make it
+in time for part-time assurance of their abilities. The desire to learn
+from other people’s foresight. Good memory for dates, anticipation of
+possible trouble, sometimes the desire to go “out of the circle of
+events.”</p>
+<p><strong>The fourth function: the business logic</strong></p>
+<p>Not understanding how to achieve success in their actions. Lack of
+business acumen. Categorical refusal to use other people for their own
+business interests. Rejection of any criticism or praise for the way
+they performed any work. Unwillingness to demonstrate the process of
+their work. Inability to count their steps. Work only on the mood,
+others tips and advice takes on a “luck conductor: buy a ticket - go on
+foot,” infantilism, irresponsibility.</p>
+<p><strong>The fifth function: Intuition opportunities</strong></p>
+<p>Willingness lap new ideas and hypotheses. Constant expectation that
+people around will help him find the meaning of life. Love to all new
+and original. Lack of understanding of their abilities and the essence
+of the phenomena of the world. Uncritical attitude to other people’s
+ideas. Insult to life, if it is meaningful enough. Complex and often
+unsuccessful search for his place in life.</p>
+<p><strong>The sixth function: the logic of relations</strong></p>
+<p>The desire to make the world was organized more logically. Waiting for
+the right information from relatives. Reduced activity in the work when
+it is insufficient rationale. Lack of flexibility in the analysis of the
+situation. Weak ability to separate the important from the unimportant.
+The desire to show off your analytical skills. Adherence to rules and
+regulations, the attention to detail.</p>
+<p><strong>Seventh function: volitional sensing</strong></p>
+<p>Internal hard, but passive desire to achieve. The presence of internal
+volitional capacity and ability to use it if necessary. Not always aware
+of the desire to keep the will power of other people. With external
+levity ability not to lose sight of the goal. Stubbornness, pressure
+from the opposition, the ability to resist it.</p>
+<p><strong>Eighth function: the ethics of relations</strong></p>
+<p>Constant smoothing of sharp corners in the process of communication
+between people, the ability to put out the conflicts and quarrels.
+Unconscious attention to other people’s desires. Not declared, but a
+clear demonstration of his friendly attitude and attention to the
+interests of the people. Willingness to compromise for the sake of peace
+and harmony, even if others do not do reciprocal steps in this
+direction. Agreement on the words with all statements and partner with
+the desire to act only in their own way. Demonstration of sensitivity,
+the ability to “get into the soul,” sometimes ostentatious love without
+real content.</p>
+</div>
+</div>
+
+      </article>
+      <footer>
+        
+        <div class="related-pages">
+          <a class="next-page" href="socioscope_ESE.html">
+              <div class="page-info">
+                <div class="context">
+                  <span>Next</span>
+                </div>
+                <div class="title">Socioscope ESE</div>
+              </div>
+              <svg><use href="#svg-arrow-right"></use></svg>
+            </a>
+          <a class="prev-page" href="socioscope_ILE.html">
+              <svg><use href="#svg-arrow-right"></use></svg>
+              <div class="page-info">
+                <div class="context">
+                  <span>Previous</span>
+                </div>
+                
+                <div class="title">Socioscope ILE</div>
+                
+              </div>
+            </a>
+        </div>
+
+        <div class="related-information">
+              Copyright &#169; 2021, Wikisocion Authors
+            |
+            Built with <a href="https://www.sphinx-doc.org/">Sphinx</a>
+              and
+              <a class="muted-link" href="https://pradyunsg.me">@pradyunsg</a>'s
+              <a href="https://github.com/pradyunsg/furo">Furo theme</a>.
+            |
+            <a class="muted-link" href="../_sources/content/socioscope_SEI.rst.txt"
+               rel="nofollow">
+              Show Source
+            </a>
+        </div>
+        
+      </footer>
+    </div>
+    <aside class="toc-drawer">
+      
+      
+      <div class="toc-sticky toc-scroll">
+        <div class="toc-title-container">
+          <span class="toc-title">
+            Contents
+          </span>
+        </div>
+        <div class="toc-tree-container">
+          <div class="toc-tree">
+            <ul>
+<li><a class="reference internal" href="#">Socioscope SEI</a><ul>
+<li><a class="reference internal" href="#sensory-ethical-introtim-dumas">Sensory ethical introtim (Dumas)</a></li>
+<li><a class="reference internal" href="#well-how">Well, how…</a></li>
+<li><a class="reference internal" href="#i-always-thought-that-the-chips-this-dish-but-it-was-a-side-dish">I always thought that the chips - this dish, but it was a side dish!</a></li>
+<li><a class="reference internal" href="#convenient-it-s-nice-when">Convenient - it’s nice when</a></li>
+<li><a class="reference internal" href="#mind-is-full-of-bright-expectations-heart-feels-new-trouble">Mind is full of bright expectations heart feels new trouble</a></li>
+<li><a class="reference internal" href="#have-to-live-without-straining">Have to live without straining</a></li>
+<li><a class="reference internal" href="#takes-a-back-seat-but-i-m-happy-when-i-find-there">Takes a back seat, but I’m happy when I find there</a></li>
+<li><a class="reference internal" href="#in-order-to-act-he-needs-a-real-push-sense">In order to act, he needs a real push sense</a></li>
+<li><a class="reference internal" href="#hint-please-sensitive-to-smart">Hint - please sensitive to smart</a></li>
+<li><a class="reference internal" href="#cardboard-wings-of-love">Cardboard wings of love</a></li>
+<li><a class="reference internal" href="#and-whose-fault-is-that-the-day-to-day-care-living-by-someone-else-s">And whose fault is that the day-to-day care living by someone else’s?</a></li>
+<li><a class="reference internal" href="#functional-description">Functional description</a></li>
+</ul>
+</li>
+</ul>
+
+          </div>
+        </div>
+      </div>
+      
+      
+    </aside>
+  </div>
+</div><script data-url_root="../" id="documentation_options" src="../_static/documentation_options.js"></script>
+    <script src="../_static/jquery.js"></script>
+    <script src="../_static/underscore.js"></script>
+    <script src="../_static/doctools.js"></script>
+    <script src="../_static/scripts/main.js"></script>
+    </body>
+</html>

@@ -1,0 +1,779 @@
+<!doctype html>
+<html class="no-js">
+  <head><meta charset="utf-8"/>
+    <meta name="viewport" content="width=device-width,initial-scale=1"/>
+    <meta name="color-scheme" content="light dark"><link rel="index" title="Index" href="../genindex.html" /><link rel="search" title="Search" href="../search.html" /><link rel="next" title="Reverse Benefit and Supervision" href="reverse_relations.html" /><link rel="prev" title="Benefit" href="benefit.html" />
+
+    <meta name="generator" content="sphinx-4.1.2, furo 2021.08.11.beta42"/>
+        <title>Supervision - Wikisocion</title>
+      <link rel="stylesheet" type="text/css" href="../_static/pygments.css" />
+    <link rel="stylesheet" type="text/css" href="../_static/styles/furo.css?digest=197f00461d56902ea7ca048ec6e6ba026f62c97b" />
+    <link rel="stylesheet" type="text/css" href="../_static/styles/furo-extensions.css?digest=93475b62d1c3bc01323a0eefdc14a62d77b12690" />
+    
+    
+
+
+<style>
+  body {
+    --color-code-background: #f8f8f8;
+  --color-code-foreground: black;
+  
+  }
+  body[data-theme="dark"] {
+    --color-code-background: #202020;
+  --color-code-foreground: #d0d0d0;
+  
+  }
+  @media (prefers-color-scheme: dark) {
+    body:not([data-theme="light"]) {
+      --color-code-background: #202020;
+  --color-code-foreground: #d0d0d0;
+  
+    }
+  }
+</style>
+    <link media="(prefers-color-scheme: dark)" rel="stylesheet" href="../_static/pygments_dark.css"></head>
+  <body>
+    
+<svg xmlns="http://www.w3.org/2000/svg" style="display: none;">
+  <symbol id="svg-toc" viewBox="0 0 24 24">
+    <title>Contents</title>
+    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+      stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+      <path stroke="none" d="M0 0h24v24H0z" />
+      <line x1="4" y1="6" x2="20" y2="6" />
+      <line x1="10" y1="12" x2="20" y2="12" />
+      <line x1="6" y1="18" x2="20" y2="18" />
+    </svg>
+  </symbol>
+  <symbol id="svg-menu" viewBox="0 0 24 24">
+    <title>Menu</title>
+    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+      stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather-menu">
+      <line x1="3" y1="12" x2="21" y2="12"></line>
+      <line x1="3" y1="6" x2="21" y2="6"></line>
+      <line x1="3" y1="18" x2="21" y2="18"></line>
+    </svg>
+  </symbol>
+  <symbol id="svg-arrow-right" viewBox="0 0 24 24">
+    <title>Expand</title>
+    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+      stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather-chevron-right">
+      <polyline points="9 18 15 12 9 6"></polyline>
+    </svg>
+  </symbol>
+  <symbol id="svg-sun" viewBox="0 0 24 24">
+    <title>Light mode</title>
+    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+      stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" class="feather-sun">
+      <circle cx="12" cy="12" r="5"></circle>
+      <line x1="12" y1="1" x2="12" y2="3"></line>
+      <line x1="12" y1="21" x2="12" y2="23"></line>
+      <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
+      <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
+      <line x1="1" y1="12" x2="3" y2="12"></line>
+      <line x1="21" y1="12" x2="23" y2="12"></line>
+      <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
+      <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
+    </svg>
+  </symbol>
+  <symbol id="svg-moon" viewBox="0 0 24 24">
+    <title>Dark mode</title>
+    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+      stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" class="icon-tabler-moon">
+      <path stroke="none" d="M0 0h24v24H0z" fill="none" />
+      <path d="M12 3c.132 0 .263 0 .393 0a7.5 7.5 0 0 0 7.92 12.446a9 9 0 1 1 -8.313 -12.454z" />
+    </svg>
+  </symbol>
+  <symbol id="svg-sun-half" viewBox="0 0 24 24">
+    <title>Auto light/dark mode</title>
+    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+      stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" class="icon-tabler-shadow">
+      <path stroke="none" d="M0 0h24v24H0z" fill="none"/>
+      <circle cx="12" cy="12" r="9" />
+      <path d="M13 12h5" />
+      <path d="M13 15h4" />
+      <path d="M13 18h1" />
+      <path d="M13 9h4" />
+      <path d="M13 6h1" />
+    </svg>
+  </symbol>
+</svg>
+
+<input type="checkbox" class="sidebar-toggle" name="__navigation" id="__navigation">
+<input type="checkbox" class="sidebar-toggle" name="__toc" id="__toc">
+<label class="overlay sidebar-overlay" for="__navigation">
+  <div class="visually-hidden">Hide navigation sidebar</div>
+</label>
+<label class="overlay toc-overlay" for="__toc">
+  <div class="visually-hidden">Hide table of contents sidebar</div>
+</label>
+
+
+
+<div class="page">
+  <header class="mobile-header">
+    <div class="header-left">
+      <label class="nav-overlay-icon" for="__navigation">
+        <div class="visually-hidden">Toggle site navigation sidebar</div>
+        <i class="icon"><svg><use href="#svg-menu"></use></svg></i>
+      </label>
+    </div>
+    <div class="header-center">
+      <a href="../index.html"><div class="brand">Wikisocion</div></a>
+    </div>
+    <div class="header-right">
+      <div class="theme-toggle-container theme-toggle-header">
+        <button class="theme-toggle">
+          <div class="visually-hidden">Toggle Light / Dark / Auto color theme</div>
+          <svg class="theme-icon-when-auto"><use href="#svg-sun-half"></use></svg>
+          <svg class="theme-icon-when-dark"><use href="#svg-moon"></use></svg>
+          <svg class="theme-icon-when-light"><use href="#svg-sun"></use></svg>
+        </button>
+      </div>
+      <label class="toc-overlay-icon toc-header-icon" for="__toc">
+        <div class="visually-hidden">Toggle table of contents sidebar</div>
+        <i class="icon"><svg><use href="#svg-toc"></use></svg></i>
+      </label>
+    </div>
+  </header>
+  <aside class="sidebar-drawer">
+    <div class="sidebar-container">
+      
+      <div class="sidebar-sticky"><div class="sidebar-scroll"><a class="sidebar-brand" href="../index.html">
+  
+  
+  <span class="sidebar-brand-text">Wikisocion</span>
+  
+</a><form class="sidebar-search-container" method="get" action="../search.html" role="search">
+  <input class="sidebar-search" placeholder=Search name="q" aria-label="Search">
+  <input type="hidden" name="check_keywords" value="yes">
+  <input type="hidden" name="area" value="default">
+</form>
+<div id="searchbox"></div>
+</div>
+      </div>
+      
+    </div>
+  </aside>
+  <div class="main">
+    <div class="content">
+      <article role="main">
+        <div class="content-icon-container">
+          <div class="theme-toggle-container theme-toggle-content">
+            <button class="theme-toggle">
+              <div class="visually-hidden">Toggle Light / Dark / Auto color theme</div>
+              <svg class="theme-icon-when-auto"><use href="#svg-sun-half"></use></svg>
+              <svg class="theme-icon-when-dark"><use href="#svg-moon"></use></svg>
+              <svg class="theme-icon-when-light"><use href="#svg-sun"></use></svg>
+            </button>
+          </div>
+          <label class="toc-overlay-icon toc-content-icon" for="__toc">
+            <div class="visually-hidden">Toggle table of contents sidebar</div>
+            <i class="icon"><svg><use href="#svg-toc"></use></svg></i>
+          </label>
+        </div>
+        <div class="section" id="supervision">
+<h1>Supervision<a class="headerlink" href="#supervision" title="Permalink to this headline">¶</a></h1>
+<p><em>See also</em> <a class="reference internal" href="supervision_observations.html"><span class="doc">Supervision observations</span></a></p>
+<p><em>Back to</em> <a class="reference internal" href="intertype.html"><span class="doc">Intertype relations</span></a></p>
+<div class="section" id="introduction">
+<h2>Introduction<a class="headerlink" href="#introduction" title="Permalink to this headline">¶</a></h2>
+<p><strong>Supervision</strong>, also called relations of <strong>audit</strong> or <strong>revision</strong>, is
+an <a class="reference internal" href="intertype.html"><span class="doc">asymmetric relation</span></a>
+in which one partner, the <strong>supervisor</strong>, also called the <strong>auditor</strong> or
+<strong>revisor</strong>, is in a more powerful position psychologically than the
+other, the <strong>supervisee</strong>, also called the <strong>audited</strong> or <strong>revised</strong>.
+This is due to the correlation of partners’ functions, which allows the
+supervisor to put more psychological pressure on the supervisee through
+his leading function than vice versa. Typically, the supervisee feels
+somewhat wary or careful about his words when approaching a supervisor.
+This innate wariness can develop into a full-fledged supervision
+“syndrome” if given the right conditions, or it can remain at a
+manageable level if neither person is in a position of power over the
+other, and partners do not overstep the natural bounds of the
+relationship.</p>
+<p>Common ground between supervision partners is usually attained by the
+supervisor resonating with the leading function of the supervisee (which
+is his creative function). The attitudes expressed as absolute values by
+the supervisee are worthwhile to the supervisor, but are seen as a
+by-product of more important pursuits. Common ground can also be reached
+through the suggestive function of the supervisee, which is the valued
+mobilizing function of the supervisor. However, both are weak in this
+area and tend to only discuss their pursuits rather than actually doing
+them together.</p>
+<p>The supervisor is usually interested in what the supervisee does and
+says, but at the same time feels like it is often in need of
+modification or reformulation from the point of view of his <a class="reference internal" href="functions.html#leading-func"><span class="std std-ref">leading function</span></a>. Because this reframing of issues
+corresponds to their <a class="reference internal" href="functions.html#polr-func"><span class="std std-ref">vulnerable function</span></a>, the
+supervisee may often feel frustrated with the supervisor’s statements.
+If the supervisee begins to argue with the supervisor, the differences
+of viewpoint may quickly become more personal when the supervisor points
+out perceived ‘flaws’ in the supervisee’s thinking style or way of doing
+things. Such comments are usually not intended to be damning criticism
+from the supervisor’s point of view, but may well be interpreted as such
+by the supervisee, due to the inherent sensitivity of the vulnerable
+function. If they live together, the supervisee may find he can never
+live up to the supervisor’s expectations or achieve his genuine
+appreciation. For a working relationship or friendship to work, the
+supervisor must exercise discipline and avoid commenting on the
+supervisee’s weak points as he sees them.</p>
+<p>Though the supervisee’s discomfort can become quite intense, it is often
+not evident at first glance. He will usually only talk about it with
+closer friends, finding it difficult to express to the supervisor
+without sounding childish. To the supervisor it will appear that the
+supervisee is overreacting. In the romantic sphere, the supervisor often
+finds the supervisee’s use of his <a class="reference internal" href="functions.html#demonstrative-func"><span class="std std-ref">demonstrative function</span></a> alluring, but will ultimately be
+unsatisfied with its sporadic nature. The supervisee in turn sees the
+supervisor as an admirable but somewhat bewildering persona.</p>
+</div>
+<div class="section" id="descriptions-by-various-authors">
+<h2>Descriptions by various authors<a class="headerlink" href="#descriptions-by-various-authors" title="Permalink to this headline">¶</a></h2>
+<p><strong>Valentina Meged, Anatoly Ovcharov</strong></p>
+<p>This is one of the most difficult types of relationships in which there
+is no equality. At first the revisee suffers more from obstinacy and
+uncompromising attitude of the revisor, who is convinced in his
+rightness. Revisee feels that the partner is dissatisfied with him and
+is seeking to re-educate him, imposing his own values. In response,
+revisee begins to monitor each slip that the revisor makes, proving to
+him that he is not without sin. Mutual allegations and uncompromising
+attitude can destroy their relations.</p>
+<p>At best, the partners appreciate each other for the ability to solve
+what would be a difficult problem for the other. In these relations
+understanding exists as long as the revisor does not show excessive
+adherence to his principles, which will hurt the revisee. Then the
+revisee may start to avoid communication with the revisor, or may start
+to pick on him. To the revisor the revisee seems slow-witted, or
+deliberately trying to avoid his responsibilities. A desire arises to
+help the revisee, to teach him something. However, the partner resists
+accepting such advice and demands, thereby causing confusion and even
+anger in the revisor. Talking over all the grievances can escalate into
+open conflict, in which case the other person’s complaints will seem
+unfounded, while their shortcoming will be exaggerated.</p>
+<p>If the revisor ceases attempts to re-educate the revisee and allows room
+for compromise, and the revisee stops picking through the shortcomings
+of the revisor, these relations can be stimulating and fruitful. Only
+both need to remember that it is the revisor who sets the tone in this
+relationship, and the revisee is the follower. The leader must be
+humane, but the led should not put claims to leadership to keep
+relations in a positive tone.</p>
+<p>One cannot underestimate the potential for the application of Socionics
+in personal life, and in other areas, such as in medicine.
+Unfortunately, for many physicians it remains a mystery why, despite the
+success of the surgery or treatment, some patients for a long time are
+unable to recover. This is often so because they are roomed with people
+who suppress them in communication which is morally depressing.
+Hopefully, the knowledge of the fundamentals of Socionics will help
+future generations in building more harmonious relationships in a more
+harmonious society.</p>
+<p><strong>O.B. Slinko, “The key to heart - Socionics”</strong></p>
+<p>Much more strict are the relations of social control or audit.
+Supervisor’s dominant function coincides with Supervisee’s most
+vulnerable and painful function. However, in contrast to the relations
+of conflict, this situation is not symmetric. Supervisor can monitor
+every step the Supervisee takes, while Supervisee is powerless to resist
+this influence: all of his strong features “drown” in the appropriate
+function of the Supervisor. Supervisee tries to resist and even to fight
+back: puts on a show of deliberate crudeness, orders the Supervisor
+around, gives him assignments. Things may even progress to use of
+physical force. In this manner, Supervisee can create a lot of problems
+for the Supervisor, but the effect in the opposite direction is much
+more devastating. Close and prolonged contact with one’s Supervisor, for
+example, in a family situation, can have dire consequences for the
+Supervisee, even the development of mental illness. In more favorable
+cases, namely when the communication in the audit pair is short and both
+people keep some distance, or if the Supervisor knowingly “disables” own
+leading function, he may then seem to the Supervisee to be a person
+worthy of respect, but at the same time also instilling unease. From the
+point of view of the Supervisor, Supervisee seems to be endowed with
+great abilities, even talented, but also somehow deficient, “pathetic”,
+and deserving of pity. The meaning of these relations, apparently, lies
+in the execution of social order. If you pass your social order to
+certain type (relations of benefit), then you are also the Supervisor of
+this type’s Dual.</p>
+<p><strong>R.K. Sedih, “Information psychoanalysis”</strong></p>
+<p>These IV, we shall investigate as a combination of quasi-identical and
+mirror relations. By the way, here again we are dealing with a change
+order of functions within a block, compared with just described IV. This
+makes these relations much more strict.</p>
+<p>C/O-Revision</p>
+<p>Ego - Ego plus Superego. Although it is true that the more developed
+both people are, the better their relations will be, but even in ideal
+cases these relations are heavy if sustained for long periods of time,
+especially in the absence of duals of both partners. The reason for this
+is clear: partners look from the perspective of each other too critical,
+too picky, too suspicious. Indeed, in these relations there is a
+tendency to constantly test and re-test one another. People who are
+forced to live together often become completely worn out by these
+constant checks. Putting an end to this unpleasant process is often
+difficult even for their duals. But as soon as the distance between them
+is increased, partners stop causing unfounded suspicions in each other.
+Subject to this condition, relations of Supervision are not much worse
+than relations of Quasi-identity. Sometimes it can be quite fascinating,
+so unexpected is the train of thought of the other person. Interaction
+of SuperId - SuperId plus Id blocks presents its own problems. Despite
+the sincere efforts of partners to help each other, however useful the
+assistance offered, it is rarely accepted for the same reasons of
+distrust. These two types are poorly suited for marriage. Collaboration
+can be interesting, but it goes much easier in presence of Duals of each
+partner and opportunities to take a break from each other.</p>
+<p><strong>E. Shepetko, “Descriptions of intertype relations”</strong></p>
+<p>This is an asymmetric relation, so the description below is from the
+point of view of the supervisee.</p>
+<p>“Your supervisor is your conscience” - this is what characterizes this
+relationship. Supervisee listens the voice of the supervisor, since he
+or she can solve your unsolvable problems, alleviate or sharpen the
+issues that concern you.</p>
+<p>Supervisor is the type that can outwardly solve problems that are
+internal to the supervisee. But these are conflicting relations, because
+supervisor will openly discuss themes that are painful and private for
+the supervisee, and demand that in which the supervisee is weak.
+Supervisor will be picky in areas where supervisee needs to be left
+alone.</p>
+<p>But there is also a shade of understanding. The words and objectives of
+supervisor are partially clear. The supervisee is able to see his point
+of view. But these relations are asymmetric: you partially understand
+him, but he does not understand you. For the supervisee, assistance from
+the supervisor is entirely absent. This relationship can be called
+one-sided conflict.</p>
+<p><strong>Laima Stankevichyute, “Intertype relations”</strong></p>
+<p>These are the type of relations where a person is most vulnerable and
+unable to defend themselves. Supervisor, drawing from his first element,
+frequently hits the third element of the supervisee. Supervisor speaks
+in the most offensive to the supervisee words, but himself also doesn’t
+feel well in these relations. Supervisee is persistently and
+unconsciously annoying and frustrating his supervisor. Although they
+both feel stressed, since this is an asymmetric relationship, the
+supervisee suffers more.</p>
+<p><strong>I.D. Vaisband, publications on Socionics</strong></p>
+<p>One of the most dangerous types of relationships. People regularly hit
+each others’ most painful areas . Both suffer from social control -
+Supervisee constantly suffers from the Supervisor, but cannot “get back”
+at him. Supervisor suffers as well and is annoyed by the Supervisee.
+Supervisee feels extremely uncomfortable. The Supervisor seems picky to
+the Supervisee and meticulous in a petty way, with a tendency to focus
+exactly on the issues to which Supervisee would not want to draw
+attention of others.</p>
+<p><strong>A.V. Bukalov, G. Boiko, “Why Saddam Hussein made a mistake, or what is
+Socionics”</strong></p>
+<p>These are also asymmetrical relations, very deceptive and dangerous. One
+partner is a social supervisor (auditor) for the other, who is called
+the controlled (audited). These relations are characterized by the fact
+that the auditor, as a rule, is always dissatisfied with the actions of
+audited person. As soon as supervisee shows some initiative or expresses
+a thought, he may feel bombarded with corrections and criticisms by the
+supervisor or have them simply dismissed. At the same time, supervisee
+cannot counter these charges - supervisor suppresses him. From his side,
+supervisee sees the supervisor as a picky, petty, annoying person who
+for some inexplicable reason is constantly dissatisfied. Supervisee gets
+tired of all this and wants to leave. On the other hand, supervisee
+thinks that may be supervisor is not such a bad person, and his quirks
+can be endured. However, in this the supervisee is profoundly mistaken:
+such suppression and control where the supervisor does not allow more
+intelligence to the supervisee than he possesses himself leads to
+permanent negative effects on the psyche and functioning of the
+supervisee. As a result of this, supervisee can develop a variety of
+neuroses and psychosomatic disorders. Very often there is willful
+retreat into disease; the body finds a way out - when you are sick, you
+will not be criticized. There are cases where supervisee picks up such
+illnesses as asthma. At the same time, even though the supervisor
+criticizes his partner, he feels some pity for him, believing that
+supervisee will not be able to function without him. These relationships
+are dangerous by the fact that unlike conflict relations, it is very
+difficult to break them, but their effects on the person can be
+deleterious.</p>
+<p><strong>Victor Gulenko, “Criteria of reciprocity”</strong></p>
+<p><em>Direct revision - fear of disorientation</em></p>
+<p>Communication is attractive in that it gives you [as a supervisor] a
+sense of own value based on feeling of a certain superiority over the
+partner. Unjustified actions or statements on his part get involuntarily
+repressed by you, as they seem to be unacceptable deviations from the
+main goal. However, you also fear that the partner will be offended, so
+you may try to restrain yourself. There is a desire to help him, to take
+care of him. If your partner understands that your actions are not
+caused by personal hostility, but by fear of disorientation, then he
+will change his behavior in your desired direction. If not, then
+relations may end.</p>
+<p><em>Reverse revision - disorienting intervention</em></p>
+<p>Partner is very appealing to their way of thinking and style of
+behavior. From him comes information that is interesting and valuable to
+you, but it seems incomplete and in need of clarification. When you
+relay your corrections to the partner, a dispute usually starts, as a
+result of which your criticisms will be taken into consideration, though
+not immediately. If the partner is trying to shamelessly impose their
+opinion on you, the relations can come to an end. However, if relations
+have been established, partner develops a habit to contact you for
+advice on matters in which you have demonstrated your competence.</p>
+<p>The reader, perhaps, is surprised to see new types of intertype
+relations - <a class="reference internal" href="reverse_relations.html"><span class="doc">reverse request and reverse supervision</span></a>. Two reasons
+substantiate their existence. First, there should be sixteen types of
+intertype relations, not fourteen as with Aushra (request-fulfillment as
+audit-report are two sides of the same relation). Second, as was
+demonstrated in practice, in involutionary rings of socioprogress the
+rules are inverse, making benefit and supervision in involutionary and
+evolutionary rings be different types of relations. If evolutionary
+supervision consists of suppression of any deviations, then
+involutionary supervision is demand for more precise formulations and
+additions. (Involution / Evolution also called Process / Result is one
+of <a class="reference internal" href="process_result.html"><span class="doc">Reinin dichotomies</span></a>)</p>
+<p><em>Binary attributes of intertype relationships</em></p>
+<p>Balance is achieved only if the influence from outside world is limited.
+It is only then that the educational effect, the impact of auditor on
+internal world of the audited to change it, can be achieved.
+Intervention from outside makes these relations simply intolerable.</p>
+<p>In a well-functioning audit pair, neither the auditor nor the audited
+make any sudden, unpredictable actions that can annul mutual agreements.
+Opposite behavior is very destructive as it leads to mutual distrust.
+Relations of revision promote discussions of issues over which there has
+been disagreement, otherwise there is internal accumulation of problems.
+When the problem is felt but ignored, this is the first sign of a future
+outbreak of emotions.</p>
+<p>Revision-minus strengthens the logical direction of thinking: revisee
+seeks to control the logic of behavior of the auditor. All illogical
+statements and actions do not slip by his attention. Revisee may feel
+the need to expose inconsistencies of the auditor, to identify errors in
+his reasoning.</p>
+<p>Revision-plus is relations of hidden, internal feelings. Despite the
+negative assessment of behavior of the partner, the revisor frequently
+forgives his revisee, hoping to eventually “re-educate” him. Sudden
+rebuff to actions of revisee is given only when he loses all shame and
+behaves in unscrupulous manner. Auditor feels pity and sympathy for the
+revisee. He alternates encouragement and suppression of revisee’s weak
+function but without any thought-out system.</p>
+<p>Revision-minus intensifies attentiveness and thoroughness. Revisee pays
+a lot of attention to the details in the behavior of his auditor,
+watches his almost every step, collects accurate information about him.
+This revision disciplines a person, but at the same time narrows his
+view.</p>
+<p>Revision-plus is intuitive relations. Auditor is not able to control the
+behavior of the audited in particular situations. He exerts effect on
+the inner world of the audited only over long stretches of time,
+changing his system of beliefs and common perceptions. This kind of
+audit is felt on psychological rather than physical level. Its
+educational effect - positive or negative - is realized only over long
+period of time.</p>
+<p>Revision is a process of painful jumps from one stable state to another.
+Auditor is constantly imposing the same system of values and behaviors
+on the audited, while the latter stubbornly resists. The ways he
+counters the auditor remain virtually unchanged: finding faults and
+mistakes in his judgments and actions. These relations require maximum
+tolerance and humanity towards one another.</p>
+<p>The auditor acting on and influencing the audited person, molds his
+inner world to his own image. The audited while highly (albeit
+critically) valuing the auditor seeks to attain similar inner qualities
+as him. In the process of mutual control partners hone out an acceptable
+pattern of behavior. Tensions of supervision relations reach a high
+point, waver for a while, and then markedly diminish, which is
+indicative that relations have entered the final phase - completed their
+educational mission and lost their energy saturation.</p>
+<p><em>Advice on getting along</em></p>
+<p>These relations can progress in two ways. If the auditor is more active
+and the audited is subordinate to him, then they assume an instructive,
+educational character. If the audited is resisting the auditor, then
+relations assume the character of criticism and control.</p>
+<p>These relations are stable only if interactions are calm and balanced.
+Avoid surprises, jointly plan your day, warn each other about any
+changes in your plans. Any problems should be clarified directly and in
+private, without eruptions of emotions.</p>
+<p>The auditor must patiently relay the information to the audited, so that
+the audited can calmly analyze it and make conclusions. If the audited
+refers to the auditor with his personal problems, the auditor should
+graciously comfort him and justify his behavior in difficult situations.
+The auditor should try to defend him against outside attacks, take care
+of him, to help him build relationships in the sphere where the auditor
+is influential.</p>
+<p>Take into account the critical attitude towards each other. The audited
+criticizes the auditor not as a whole, but his specific action, while
+forgiving him as a whole. The auditor, to the contrary, forgives the
+audited specific flaws and actions, but criticizes his position or
+beliefs as a whole.</p>
+<p><strong>V.V. Gulenko, A.V. Molodtsov, “Introduction to socionics”</strong></p>
+<p>This is a second type of asymmetric relations in the socion. Auditor as
+if constantly monitors revisee, drawing attention to his weak spot. The
+impression is that the auditor constantly wants to figure out what
+revisee is doing and how he is doing it. Revisee often gets the
+impression that he is being watched all the time alike a guinea pig.
+However, this does not mean that the auditor always verbally points out
+perceived shortcomings of revisee. Revisee internally feels that the
+auditor can do so at any time and, therefore, initially in his presence
+revisee exists in a state of tension. Auditor seems like a significant
+person; how he acts deserves attention. Revisee wants to earn
+recognition of the auditor, his praise is much appreciated.</p>
+<p>However, the revisor always underestimates the revisee and perceives his
+thoughts and actions as insignificant, which incites resentment in the
+revisee. At first, revisee may be encouraged by this and want to prove
+his usefulness to the auditor, but all attempts are unsuccessful. The
+revisor seems smug and petty; he finds faults, tries to teach and
+re-educate the revisee. Revisee seems interesting and capable, but he is
+missing something and seems to require help and suggestions. However,
+all advice proves useless; revisee does not accept it, which further
+increases the desire of auditor to re-audit. Revisee seems stupid not
+because he is unable (which is how it actually is), but simply because
+it’s as if he does not want to listen. This periodically causes
+frustration for the auditor. These relations may be called
+“guardianship” of auditor over the audited, which can be very annoying
+for the later. Sensing his vulnerability, revisee is inclined to make
+attempts to escape this control, especially around other people: he
+one-ups the auditor, tries to argue with him, gives him orders. However,
+such attempts are fruitless. Auditor, as a rule, does not take offense
+but continues with his re-education attempts. These relationships are
+well illustrated by an analogy “mother-naughty child”. (Also see
+<a class="reference external" href="http://www.keirsey.com/mirror_of_fiction.aspx">Pygmalion project</a>.)</p>
+<p>Sometimes supervision couple is very tightly knit together. This is
+because both people can feel their social significance: the auditor as
+the guardian or the benefactor, without whose care and guidance the
+audited would be lost, and audited - as the object of care, whose value
+is recognized in this way. In relations of benefit, this feeling is much
+less expressed, because the benefactor does not make attempts to
+re-educate his beneficiary.</p>
+<p><strong>Ekaterina Filatova, “Art of understanding yourself and others”</strong></p>
+<p>In this case, the functions of two people are positioned such that the
+most powerful function of one (called the auditor) presses on vulnerable
+function of the other (called the audited). But, in turn, the audited
+does not have direct access to the weak function of the auditor.</p>
+<p>Peculiarity of these relations is in their asymmetry, in that auditor,
+not feeling any pressure on himself, can get close to the audited to a
+dangerously close distance. Of course, he would have not attempted this
+if these were relations of conflict, where the danger is felt both ways.
+All 16 types have an auditor and an audited. Thus we get four rings of
+supervision.</p>
+<p>In principle, for each person it is natural to speak on those issues
+where he directs most of his attention, especially if the circle of
+these issues relate to his base function. People may express an interest
+or indifference to his statements. But suppose that close to this man
+was a person of his audited type … And it turns out that any harmless
+remark is perceived with great sensitivity, that he takes it all too
+close to heart, because here pressure is exerted on his vulnerable third
+function.</p>
+<p>Generally speaking, the closer the relationship, the more dangerous the
+situation is. This is especially true for family relationships, where
+communication takes place at very close distances. The process of
+communication in such situations involves all functions, so that the
+audit can be quite severe. When it is impossible to avoid such
+communication the audited may even suffer mental illness. To author it
+is known one case of a relatively prosperous family husband being LSI
+and wife being SEE, where both people nevertheless learned to get along
+with each other. Having studied socionics and realized the reasons for
+their conflicts, they organized their lives in such a way that they can
+periodically “rest” from each other: the husband obtained a job that
+requires travel and leaves every three months left for business trips.
+Even with such provisions, the wife (audited) feels heavy pressure from
+her husband, but the issue of divorce in this family is not discussed.</p>
+<p><strong>Eugene Gorenko, Vladimir Tolstikov, “Nature of self”</strong></p>
+<p>Another version of the asymmetrical relationship. For Revisee they are
+of a very unpleasant character. Revisee reacts to the slightest move of
+his Revisor. At the same time, the Revisor usually has no idea about
+such a strong effect of his behavior. For Revisee these relations are
+perhaps even more painful than, for example, the relations of conflict.</p>
+<p><strong>Sergei Ganin</strong></p>
+<p><em>Heteroverted - Asymmetrical - Arrhythmical</em></p>
+<p>These relations are also asymmetrical as are relations of Benefit. One
+partner, called the Supervisor, is always in a more favorable position
+in respect to the other partner who is known as Supervisee.</p>
+<p>Relations of Supervision can give the impression that Supervisor is
+constantly watching every step of the Supervisee. The latter usually
+feels this control even if the Supervisor does not say or do anything.
+The explanation for this is that the Supervisee weak point is
+defenceless against the Supervisor’s strong point. This makes the
+Supervisee nervous and expect the worse.</p>
+<p>Although the Supervisor can seem self-satisfied, petty, faultfinding and
+narrative, the Supervisee pays attention to their actions and considers
+the Supervisor as consequential. The Supervisee normally wants to gain
+recognition and commendation from the Supervisor. However, it may seem
+like the Supervisor always undervalues the abilities of the Supervisee.
+This stimulates the Supervisee into proving their own worthiness with
+various actions, yet there is little chance that they will succeed.</p>
+<p>The Supervisor sees the Supervisee as quite interesting and capable, but
+incomplete and therefore in need of some help and advice. The Supervisee
+does not respond to this aid as expected and this will often increase
+the Supervisor’s attempts to change the Supervisee. Because the
+Supervisee naturally does not understand what it is that the Supervisor
+wants from them, this may irritate the Supervisor, who thinks that the
+Supervisee simply does not want to understand.</p>
+<p>In relations of Supervision it may also appear as if the Supervisor
+patronises the Supervisee, which can be quite obtrusive for the latter.
+When there are more than two people present, the Supervisee often
+attempts to release themselves from the control of the Supervisor by
+starting arguments for the sake of it or by attempting to manoeuvre
+themselves into the commanding position. Unfortunately, these attempts
+lead nowhere. The Supervisor may think instead that the Supervisee
+simply requires more attention.</p>
+<p>Supervision partners often look like good friends. The reason for this
+is that in these relations both partners can sense their social value:
+the Supervisor as a “guardian angel”, without whom the Supervisee will
+get into trouble, and the Supervisee as the object of attention.</p>
+</div>
+<div class="section" id="supervision-rings">
+<h2>Supervision Rings<a class="headerlink" href="#supervision-rings" title="Permalink to this headline">¶</a></h2>
+<p>Supervisor  Supervisee (e.g. SEI is the Supervisor of EIE, and so
+forth.)</p>
+<p><strong>Left Ring of Supervision</strong>  These types are <a class="reference internal" href="process_result.html"><span class="doc">Process</span></a>
+under the <a class="reference internal" href="reinin_dich.html"><span class="doc">Reinin dichotomies</span></a>.</p>
+<ul class="simple">
+<li><p><a class="reference internal" href="SEI.html"><span class="doc">SEI</span></a> -&gt; <a class="reference internal" href="EIE.html"><span class="doc">EIE</span></a> -&gt; <a class="reference internal" href="ILI.html"><span class="doc">ILI</span></a> -&gt; <a class="reference internal" href="LSE.html"><span class="doc">LSE</span></a> -&gt; <a class="reference internal" href="SEI.html"><span class="doc">SEI</span></a>  …</p></li>
+<li><p><a class="reference internal" href="ILE.html"><span class="doc">ILE</span></a> -&gt; <a class="reference internal" href="LSI.html"><span class="doc">LSI</span></a> -&gt; <a class="reference internal" href="SEE.html"><span class="doc">SEE</span></a> -&gt; <a class="reference internal" href="EII.html"><span class="doc">EII</span></a> -&gt; <a class="reference internal" href="ILE.html"><span class="doc">ILE</span></a>  …</p></li>
+</ul>
+<p><strong>Right Ring of Supervision</strong>  These types are <cite>Result &lt;Result&gt;</cite>
+under the <cite>Reinin dichotomies &lt;Reinin_dichotomies&gt;</cite>.</p>
+<ul class="simple">
+<li><p><a class="reference internal" href="LII.html"><span class="doc">LII</span></a> -&gt; <a class="reference internal" href="IEE.html"><span class="doc">IEE</span></a> -&gt; <a class="reference internal" href="ESI.html"><span class="doc">ESI</span></a> -&gt; <a class="reference internal" href="SLE.html"><span class="doc">SLE</span></a> -&gt; <a class="reference internal" href="LII.html"><span class="doc">LII</span></a>  …</p></li>
+<li><p><a class="reference internal" href="ESE.html"><span class="doc">ESE</span></a> -&gt; <a class="reference internal" href="SLI.html"><span class="doc">SLI</span></a> -&gt; <a class="reference internal" href="LIE.html"><span class="doc">LIE</span></a> -&gt; <a class="reference internal" href="IEI.html"><span class="doc">IEI</span></a> -&gt; <a class="reference internal" href="ESE.html"><span class="doc">ESE</span></a>  …</p></li>
+</ul>
+</div>
+<div class="section" id="theoretical-properties-of-supervision-relations">
+<h2>Theoretical properties of supervision relations<a class="headerlink" href="#theoretical-properties-of-supervision-relations" title="Permalink to this headline">¶</a></h2>
+<p>Types united in one ring of supervision share <a class="reference internal" href="reinin_dich.html"><span class="doc">Reinin dichotomies</span></a> of Static / Dynamic, Positivist /
+Negativists, and Process / Result. This is further explored in the
+article by Victor Gulenko <a class="reference internal" href="cognitive_styles.html"><span class="doc">Forms of Cognition</span></a>.</p>
+<div class="section" id="model-a">
+<h3>Model A<a class="headerlink" href="#model-a" title="Permalink to this headline">¶</a></h3>
+<ul class="simple">
+<li><p>Supervisor: Functions 1, 2, 3, 4, 5, 6, 7, 8 reflect on functions 4, 1, 2, 3, 8, 5, 6, 7.</p></li>
+<li><p>Supervisee: Functions 1, 2, 3, 4, 5, 6, 7, 8 reflect on functions 2, 3, 4, 1, 6, 7, 8, 5.</p></li>
+</ul>
+<div class="table-wrapper"><table class="docutils align-default" id="id1">
+<caption><span class="caption-text">Functions of <a class="reference internal" href="model_a.html"><span class="doc">Model A</span></a></span><a class="headerlink" href="#id1" title="Permalink to this table">¶</a></caption>
+<colgroup>
+<col style="width: 50%"/>
+<col style="width: 50%"/>
+</colgroup>
+<thead>
+<tr class="row-odd"><th class="head"><p>Partner 1</p></th>
+<th class="head"><p>Partner 2</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="row-even"><td><p><a class="reference internal" href="functions.html#leading-func"><span class="std std-ref">base function</span></a></p></td>
+<td><p><a class="reference internal" href="functions.html#polr-func"><span class="std std-ref">vulnerable function</span></a></p></td>
+</tr>
+<tr class="row-odd"><td><p><a class="reference internal" href="functions.html#creative-func"><span class="std std-ref">creative function</span></a></p></td>
+<td><p><a class="reference internal" href="functions.html#leading-func"><span class="std std-ref">base function</span></a></p></td>
+</tr>
+<tr class="row-even"><td><p><a class="reference internal" href="functions.html#role-func"><span class="std std-ref">role function</span></a></p></td>
+<td><p><a class="reference internal" href="functions.html#creative-func"><span class="std std-ref">creative function</span></a></p></td>
+</tr>
+<tr class="row-odd"><td><p><a class="reference internal" href="functions.html#polr-func"><span class="std std-ref">vulnerable function</span></a></p></td>
+<td><p><a class="reference internal" href="functions.html#role-func"><span class="std std-ref">role function</span></a></p></td>
+</tr>
+<tr class="row-even"><td><p><a class="reference internal" href="functions.html#suggestive-func"><span class="std std-ref">suggestive function</span></a></p></td>
+<td><p><a class="reference internal" href="functions.html#demonstrative-func"><span class="std std-ref">demonstrative function</span></a></p></td>
+</tr>
+<tr class="row-odd"><td><p><a class="reference internal" href="functions.html#activating-func"><span class="std std-ref">mobilizing function</span></a></p></td>
+<td><p><a class="reference internal" href="functions.html#suggestive-func"><span class="std std-ref">suggestive function</span></a></p></td>
+</tr>
+<tr class="row-even"><td><p><a class="reference internal" href="functions.html#ignoring-func"><span class="std std-ref">ignoring function</span></a></p></td>
+<td><p><a class="reference internal" href="functions.html#activating-func"><span class="std std-ref">mobilizing function</span></a></p></td>
+</tr>
+<tr class="row-odd"><td><p><a class="reference internal" href="functions.html#demonstrative-func"><span class="std std-ref">demonstrative function</span></a></p></td>
+<td><p><a class="reference internal" href="functions.html#ignoring-func"><span class="std std-ref">ignoring function</span></a></p></td>
+</tr>
+</tbody>
+</table></div>
+</div>
+<div class="section" id="reinin-traits">
+<h3>Reinin traits<a class="headerlink" href="#reinin-traits" title="Permalink to this headline">¶</a></h3>
+<p>As with all non-identical types, supervision partners have exactly 7
+<a class="reference internal" href="reinin_dich.html"><span class="doc">Reinin traits</span></a> in common, with the remaining 8 not in
+common.</p>
+<p>If the supervisior is <a class="reference internal" href="ration_irration.html"><span class="doc">rational</span></a>:</p>
+<ul class="simple">
+<li><p><strong>In Common</strong>: <a class="reference internal" href="statics_dynamics.html"><span class="doc">static and dynamic</span></a> · <a class="reference internal" href="positivist_negativist.html"><span class="doc">positivist and negativist</span></a> · <a class="reference internal" href="process_result.html"><span class="doc">process and result</span></a> · <a class="reference internal" href="sensing_intuition.html"><span class="doc">sensing and intuition</span></a> · <a class="reference internal" href="yielding_obstinate.html"><span class="doc">yielding and obstinate</span></a> · <a class="reference internal" href="constructivist_emotivist.html"><span class="doc">constructivist and emotivist</span></a> · <a class="reference internal" href="judicious_decisive.html"><span class="doc">judicious and decisive</span></a></p></li>
+<li><p><strong>Not in Common</strong>: <a class="reference internal" href="ethics_logic.html"><span class="doc">ethics and logic</span></a> · <a class="reference internal" href="carefree_farsighted.html"><span class="doc">carefree and farsighted</span></a> · <a class="reference internal" href="tactical_strategic.html"><span class="doc">tactical and strategic</span></a> · <a class="reference internal" href="merry_serious.html"><span class="doc">merry and serious</span></a> · <a class="reference internal" href="extra_intro.html"><span class="doc">extraversion and introversion</span></a> · <a class="reference internal" href="ration_irration.html"><span class="doc">rationality and irrationality</span></a> · <a class="reference internal" href="democratic_aristocratic.html"><span class="doc">democratic and aristocratic</span></a> · <a class="reference internal" href="asking_declaring.html"><span class="doc">asking and declaring</span></a></p></li>
+</ul>
+<p>If the supervisor is <a class="reference internal" href="ration_irration.html"><span class="doc">irrational</span></a>:</p>
+<ul class="simple">
+<li><p><strong>In Common</strong>: <a class="reference internal" href="statics_dynamics.html"><span class="doc">static and dynamic</span></a> · <a class="reference internal" href="positivist_negativist.html"><span class="doc">positivist and negativist</span></a> · <a class="reference internal" href="process_result.html"><span class="doc">process and result</span></a> · <a class="reference internal" href="ethics_logic.html"><span class="doc">ethics and logic</span></a> · <a class="reference internal" href="carefree_farsighted.html"><span class="doc">carefree and farsighted</span></a> · <a class="reference internal" href="tactical_strategic.html"><span class="doc">tactical and strategic</span></a> · <a class="reference internal" href="merry_serious.html"><span class="doc">merry and serious</span></a></p></li>
+<li><p><strong>Not in Common</strong>: <a class="reference internal" href="sensing_intuition.html"><span class="doc">sensing and intuition</span></a> · <a class="reference internal" href="yielding_obstinate.html"><span class="doc">yielding and obstinate</span></a> · <a class="reference internal" href="constructivist_emotivist.html"><span class="doc">constructivist and emotivist</span></a> · <a class="reference internal" href="judicious_decisive.html"><span class="doc">judicious and decisive</span></a> · <a class="reference internal" href="extra_intro.html"><span class="doc">extraversion and introversion</span></a> · <a class="reference internal" href="ration_irration.html"><span class="doc">rationality and irrationality</span></a> · <a class="reference internal" href="democratic_aristocratic.html"><span class="doc">democratic and aristocratic</span></a> · <a class="reference internal" href="asking_declaring.html"><span class="doc">asking and declaring</span></a></p></li>
+</ul>
+</div>
+</div>
+<div class="section" id="external-links">
+<h2>External links<a class="headerlink" href="#external-links" title="Permalink to this headline">¶</a></h2>
+<ul class="simple">
+<li><p><a class="reference external" href="http://www.socionics.com/rel/sp.htm">Relations of Supervision</a> by <a class="reference internal" href="ganin.html"><span class="doc">Sergei Ganin</span></a></p></li>
+</ul>
+</div>
+</div>
+
+      </article>
+      <footer>
+        
+        <div class="related-pages">
+          <a class="next-page" href="reverse_relations.html">
+              <div class="page-info">
+                <div class="context">
+                  <span>Next</span>
+                </div>
+                <div class="title">Reverse Benefit and Supervision</div>
+              </div>
+              <svg><use href="#svg-arrow-right"></use></svg>
+            </a>
+          <a class="prev-page" href="benefit.html">
+              <svg><use href="#svg-arrow-right"></use></svg>
+              <div class="page-info">
+                <div class="context">
+                  <span>Previous</span>
+                </div>
+                
+                <div class="title">Benefit</div>
+                
+              </div>
+            </a>
+        </div>
+
+        <div class="related-information">
+              Copyright &#169; 2021, Wikisocion Authors
+            |
+            Built with <a href="https://www.sphinx-doc.org/">Sphinx</a>
+              and
+              <a class="muted-link" href="https://pradyunsg.me">@pradyunsg</a>'s
+              <a href="https://github.com/pradyunsg/furo">Furo theme</a>.
+            |
+            <a class="muted-link" href="../_sources/content/supervision.rst.txt"
+               rel="nofollow">
+              Show Source
+            </a>
+        </div>
+        
+      </footer>
+    </div>
+    <aside class="toc-drawer">
+      
+      
+      <div class="toc-sticky toc-scroll">
+        <div class="toc-title-container">
+          <span class="toc-title">
+            Contents
+          </span>
+        </div>
+        <div class="toc-tree-container">
+          <div class="toc-tree">
+            <ul>
+<li><a class="reference internal" href="#">Supervision</a><ul>
+<li><a class="reference internal" href="#introduction">Introduction</a></li>
+<li><a class="reference internal" href="#descriptions-by-various-authors">Descriptions by various authors</a></li>
+<li><a class="reference internal" href="#supervision-rings">Supervision Rings</a></li>
+<li><a class="reference internal" href="#theoretical-properties-of-supervision-relations">Theoretical properties of supervision relations</a><ul>
+<li><a class="reference internal" href="#model-a">Model A</a></li>
+<li><a class="reference internal" href="#reinin-traits">Reinin traits</a></li>
+</ul>
+</li>
+<li><a class="reference internal" href="#external-links">External links</a></li>
+</ul>
+</li>
+</ul>
+
+          </div>
+        </div>
+      </div>
+      
+      
+    </aside>
+  </div>
+</div><script data-url_root="../" id="documentation_options" src="../_static/documentation_options.js"></script>
+    <script src="../_static/jquery.js"></script>
+    <script src="../_static/underscore.js"></script>
+    <script src="../_static/doctools.js"></script>
+    <script src="../_static/scripts/main.js"></script>
+    </body>
+</html>

@@ -1,0 +1,348 @@
+<!doctype html>
+<html class="no-js">
+  <head><meta charset="utf-8"/>
+    <meta name="viewport" content="width=device-width,initial-scale=1"/>
+    <meta name="color-scheme" content="light dark"><link rel="index" title="Index" href="../genindex.html" /><link rel="search" title="Search" href="../search.html" /><link rel="next" title="Wikisocion IEE composite" href="IEE_comp.html" /><link rel="prev" title="Wikisocion LIE composite" href="LIE_comp.html" />
+
+    <meta name="generator" content="sphinx-4.1.2, furo 2021.08.11.beta42"/>
+        <title>Wikisocion ESI composite - Wikisocion</title>
+      <link rel="stylesheet" type="text/css" href="../_static/pygments.css" />
+    <link rel="stylesheet" type="text/css" href="../_static/styles/furo.css?digest=197f00461d56902ea7ca048ec6e6ba026f62c97b" />
+    <link rel="stylesheet" type="text/css" href="../_static/styles/furo-extensions.css?digest=93475b62d1c3bc01323a0eefdc14a62d77b12690" />
+    
+    
+
+
+<style>
+  body {
+    --color-code-background: #f8f8f8;
+  --color-code-foreground: black;
+  
+  }
+  body[data-theme="dark"] {
+    --color-code-background: #202020;
+  --color-code-foreground: #d0d0d0;
+  
+  }
+  @media (prefers-color-scheme: dark) {
+    body:not([data-theme="light"]) {
+      --color-code-background: #202020;
+  --color-code-foreground: #d0d0d0;
+  
+    }
+  }
+</style>
+    <link media="(prefers-color-scheme: dark)" rel="stylesheet" href="../_static/pygments_dark.css"></head>
+  <body>
+    
+<svg xmlns="http://www.w3.org/2000/svg" style="display: none;">
+  <symbol id="svg-toc" viewBox="0 0 24 24">
+    <title>Contents</title>
+    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+      stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+      <path stroke="none" d="M0 0h24v24H0z" />
+      <line x1="4" y1="6" x2="20" y2="6" />
+      <line x1="10" y1="12" x2="20" y2="12" />
+      <line x1="6" y1="18" x2="20" y2="18" />
+    </svg>
+  </symbol>
+  <symbol id="svg-menu" viewBox="0 0 24 24">
+    <title>Menu</title>
+    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+      stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather-menu">
+      <line x1="3" y1="12" x2="21" y2="12"></line>
+      <line x1="3" y1="6" x2="21" y2="6"></line>
+      <line x1="3" y1="18" x2="21" y2="18"></line>
+    </svg>
+  </symbol>
+  <symbol id="svg-arrow-right" viewBox="0 0 24 24">
+    <title>Expand</title>
+    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+      stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather-chevron-right">
+      <polyline points="9 18 15 12 9 6"></polyline>
+    </svg>
+  </symbol>
+  <symbol id="svg-sun" viewBox="0 0 24 24">
+    <title>Light mode</title>
+    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+      stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" class="feather-sun">
+      <circle cx="12" cy="12" r="5"></circle>
+      <line x1="12" y1="1" x2="12" y2="3"></line>
+      <line x1="12" y1="21" x2="12" y2="23"></line>
+      <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
+      <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
+      <line x1="1" y1="12" x2="3" y2="12"></line>
+      <line x1="21" y1="12" x2="23" y2="12"></line>
+      <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
+      <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
+    </svg>
+  </symbol>
+  <symbol id="svg-moon" viewBox="0 0 24 24">
+    <title>Dark mode</title>
+    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+      stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" class="icon-tabler-moon">
+      <path stroke="none" d="M0 0h24v24H0z" fill="none" />
+      <path d="M12 3c.132 0 .263 0 .393 0a7.5 7.5 0 0 0 7.92 12.446a9 9 0 1 1 -8.313 -12.454z" />
+    </svg>
+  </symbol>
+  <symbol id="svg-sun-half" viewBox="0 0 24 24">
+    <title>Auto light/dark mode</title>
+    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+      stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" class="icon-tabler-shadow">
+      <path stroke="none" d="M0 0h24v24H0z" fill="none"/>
+      <circle cx="12" cy="12" r="9" />
+      <path d="M13 12h5" />
+      <path d="M13 15h4" />
+      <path d="M13 18h1" />
+      <path d="M13 9h4" />
+      <path d="M13 6h1" />
+    </svg>
+  </symbol>
+</svg>
+
+<input type="checkbox" class="sidebar-toggle" name="__navigation" id="__navigation">
+<input type="checkbox" class="sidebar-toggle" name="__toc" id="__toc">
+<label class="overlay sidebar-overlay" for="__navigation">
+  <div class="visually-hidden">Hide navigation sidebar</div>
+</label>
+<label class="overlay toc-overlay" for="__toc">
+  <div class="visually-hidden">Hide table of contents sidebar</div>
+</label>
+
+
+
+<div class="page">
+  <header class="mobile-header">
+    <div class="header-left">
+      <label class="nav-overlay-icon" for="__navigation">
+        <div class="visually-hidden">Toggle site navigation sidebar</div>
+        <i class="icon"><svg><use href="#svg-menu"></use></svg></i>
+      </label>
+    </div>
+    <div class="header-center">
+      <a href="../index.html"><div class="brand">Wikisocion</div></a>
+    </div>
+    <div class="header-right">
+      <div class="theme-toggle-container theme-toggle-header">
+        <button class="theme-toggle">
+          <div class="visually-hidden">Toggle Light / Dark / Auto color theme</div>
+          <svg class="theme-icon-when-auto"><use href="#svg-sun-half"></use></svg>
+          <svg class="theme-icon-when-dark"><use href="#svg-moon"></use></svg>
+          <svg class="theme-icon-when-light"><use href="#svg-sun"></use></svg>
+        </button>
+      </div>
+      <label class="toc-overlay-icon toc-header-icon" for="__toc">
+        <div class="visually-hidden">Toggle table of contents sidebar</div>
+        <i class="icon"><svg><use href="#svg-toc"></use></svg></i>
+      </label>
+    </div>
+  </header>
+  <aside class="sidebar-drawer">
+    <div class="sidebar-container">
+      
+      <div class="sidebar-sticky"><div class="sidebar-scroll"><a class="sidebar-brand" href="../index.html">
+  
+  
+  <span class="sidebar-brand-text">Wikisocion</span>
+  
+</a><form class="sidebar-search-container" method="get" action="../search.html" role="search">
+  <input class="sidebar-search" placeholder=Search name="q" aria-label="Search">
+  <input type="hidden" name="check_keywords" value="yes">
+  <input type="hidden" name="area" value="default">
+</form>
+<div id="searchbox"></div>
+</div>
+      </div>
+      
+    </div>
+  </aside>
+  <div class="main">
+    <div class="content">
+      <article role="main">
+        <div class="content-icon-container">
+          <div class="theme-toggle-container theme-toggle-content">
+            <button class="theme-toggle">
+              <div class="visually-hidden">Toggle Light / Dark / Auto color theme</div>
+              <svg class="theme-icon-when-auto"><use href="#svg-sun-half"></use></svg>
+              <svg class="theme-icon-when-dark"><use href="#svg-moon"></use></svg>
+              <svg class="theme-icon-when-light"><use href="#svg-sun"></use></svg>
+            </button>
+          </div>
+          <label class="toc-overlay-icon toc-content-icon" for="__toc">
+            <div class="visually-hidden">Toggle table of contents sidebar</div>
+            <i class="icon"><svg><use href="#svg-toc"></use></svg></i>
+          </label>
+        </div>
+        <div class="section" id="wikisocion-esi-composite">
+<h1>Wikisocion ESI composite<a class="headerlink" href="#wikisocion-esi-composite" title="Permalink to this headline">¶</a></h1>
+<p>Ethical Sensing Introtim, ESI, <img alt="Fi" src="../_images/Symbol_r.gif"/> <img alt="Se" src="../_images/Symbol_f.gif"/>, ISFj, RF, Guardian, Conservator, or archetype Theodore Dreiser.</p>
+<div class="section" id="ego-block">
+<h2>Ego Block<a class="headerlink" href="#ego-block" title="Permalink to this headline">¶</a></h2>
+<p>With Fi blocked with Se in their ego block, ESIs’ primary focus in life is on stable inner criteria for personal relationships, therefore ethical principles through which they evaluate their own and others’ behavior and ideas, backed by input from what they perceive as the real world and how people really are rather than idealism, imagination or not-demonstrated potential in people.</p>
+<div class="section" id="fi-introverted-ethics">
+<h3>1. Fi Introverted Ethics<a class="headerlink" href="#fi-introverted-ethics" title="Permalink to this headline">¶</a></h3>
+<p>The ESI sees reality primarily through static personal ethics and stable interpersonal bonds between individuals, including himself, where the status of such interpersonal bonds is determined by his personal ethics. The ESI is very confident in evaluating the ethical or moral qualities, and their consistency, of other people as well of himself. This makes ESIs seem “judgmental” or “self-righteous” to people less so inclined. If an ESI has difficulty in deciding the status of a personal relationship, he will take action to try to reach a conclusion, but if that continues to elude him, he will regard the relationship as not worth it. His own sense of constancy in personal ethics and in his relationships with others is a very strong factor in his sense of self-worth.</p>
+<p>This is manifested as a very high regard for personal loyalty and integrity, both on the part of the ESI and of others towards each other and towards the ESI. The idea that he failed on that is extremely upsetting to an ESI, and such a suggestion, made by others, is seen as the ultimate insult if the ESI himself does not agree. The same goes for accusations of unethical or unprincipled behavior that the ESI regards as unjustified.</p>
+<p>ESIs are very often more confident of the status of a personal relationship - and of what it should be in their view - than other persons; therefore ESIs often take it upon themselves to establish, maintain, preserve, or change the status of such relationships.</p>
+</div>
+<div class="section" id="se-extraverted-sensing">
+<h3>2. Se Extraverted Sensing<a class="headerlink" href="#se-extraverted-sensing" title="Permalink to this headline">¶</a></h3>
+<p>ESIs take direct action to accomplish their goals and desires in the face of external obstacles, and also the interests of their close friends, family, or associates. This may involve prodding others to take necessary action, deliberately applying pressure in specific situations, or abruptly taking on an organizational role. ESIs do not generally seek out confrontation, but neither are they afraid of it. They are inclined to be resolute in taking action and value this quality in themselves and others; however, this also leads to occasional impulsiveness, leading to actions that the ESI later regrets and wishing he hadn’t taken, with considerable self-criticism.</p>
+<p>ESIs take their responsibilities seriously and tend to perform them diligently and with care. They expect the same of others and make that clear. They can be very demanding co-workers and bosses, but not more than they are of themselves.</p>
+<p>ESIs tend to evaluate people’s ethical behavior “as it is” and not “as it could be” or “as it could be interpreted according to the context or another person’s point of view”. That means that they can be perceived as unrelentingly harsh, even unforgiving or vindictive, when correcting, punishing or even avenging what they see as unethical behavior, especially betrayal of trust. “Evil must be punished” or even “destroyed” is one of the ESI’s mottos.</p>
+<p>ESIs place great value in long-term achievement and accumulation of wealth, but only as long as those do not conflict with their Fi priorities.</p>
+<p>ESIs have a strong sense of what is and is not physically attractive, and will often judge themselves against a very difficult criteria.</p>
+</div>
+</div>
+<div class="section" id="super-ego-block">
+<h2>Super-Ego Block<a class="headerlink" href="#super-ego-block" title="Permalink to this headline">¶</a></h2>
+<p>With Ne blocked with Ti in the super-ego, ESIs essentially see little point in discussing speculative ideas, however logically consistent, if they have no obvious connection to reality and do not take into consideration how they affect individuals.</p>
+<div class="section" id="ti-introverted-logic">
+<h3>3. Ti Introverted Logic<a class="headerlink" href="#ti-introverted-logic" title="Permalink to this headline">¶</a></h3>
+<p>The ESI is able to talk about things from a dispassionate academic or theoretical point of view for brief periods of time, but seems overly bookish when doing so and tends to grow tense. When feeling obliged to justify logically a personal decision taken for reasons determined by Fi, the ESI attempts to do so but grows quickly annoyed especially if the inconsistency in the logical argument is pointed out. He then either explains the ethical motivation or avoids the issue altogether.</p>
+<p>ESIs see the value of logical consistency in systems for areas or tasks they see as useful, but do not see the point of lingering on that if the pursuit of such consistency deviates too long or deeply from practical reality or from concerns relating to individuals and their relationships, and they are not really interested in discussions by others who choose to do so.</p>
+</div>
+<div class="section" id="ne-extraverted-intuition">
+<h3>4. Ne Extraverted Intuition<a class="headerlink" href="#ne-extraverted-intuition" title="Permalink to this headline">¶</a></h3>
+<p>The ESI is highly skeptical about ideas and opportunities that may appear not to lead anywhere specifically, and seeks concrete assurance that actual material benefits will be achieved. The ESI prefers the kind of ideation that seems to lead somewhere (offer solutions) rather than the sort that is most likely to bring upheaval and unwanted changes. So they don’t want to hear about all the possible problems in a situation, they’d rather hear only the very likely problems if there are any, and the benefits.</p>
+<p>The ESI dislikes evaluations of people’s potential to engage in activities or develop skills in which they haven’t had experience yet; above all he is uncomfortable with such discussions by other people regarding himself. This makes the ESI concerned about the impression he makes on other people in those areas. He is inclined to be either over-skeptical of his own potential or going to the other extreme and overestimate his possibilities in specific areas on occasion.</p>
+<p>ESIs are often amused by, and attracted to, demonstrations of the intense use of Ne by others if at least tangentially connected to ideas that might have some practical use (Te); but they are repelled by it if used in such a way as to excessively contextualize Fi ethics to the point of irrelevancy.</p>
+</div>
+</div>
+<div class="section" id="super-id-block">
+<h2>Super-Id Block<a class="headerlink" href="#super-id-block" title="Permalink to this headline">¶</a></h2>
+<p>With Te blocked with Ni in their super-id, ESIs greatly value accurate and useful information, coupled with a sense of opportunity for when to act on it or not. They eagerly accumulate information and use it productively, but are often insecure as to their accuracy and efficiency, and as to the timing for their best application, usually anxious about putting it off for later and so inclined to take precipitated action. Input from others on those areas is most appreciated.</p>
+<div class="section" id="te-extraverted-logic">
+<h3>5. Te Extraverted Logic<a class="headerlink" href="#te-extraverted-logic" title="Permalink to this headline">¶</a></h3>
+<p>The ESI is attracted to people seen as knowledgeable, as well as truthful and willing to share that knowledge, in matters seen as interesting and useful to the ESI towards achieving productivity and efficiency. Reliable information rather than the finished analysis is what attracts the ESI: facts and explanations, not answers limited to the conclusions, which they tend to see as mere opinions. For the same reason, the ESI avoids people who are inclined to give out unreliable, or simply untruthful, information.</p>
+<p>The ESI tends to be unsure the productivity of his actions and unconsciously relies on others to give him impressions and advice about the best, most productive ways of doing things. He has difficulties measuring how much work he has done, whether it is sufficient, and how much it is actually worth. The individual admires people who are aware of the productivity of their actions and are always trying to do something rational and worthwhile.</p>
+<p>ESIs are very keen to accumulate information on matters they find useful or just interesting, but they also need the company of persons with whom they can exchange evaluations as to the accuracy and usefulness of that information.</p>
+</div>
+<div class="section" id="ni-introverted-intuition">
+<h3>6. Ni Introverted Intuition<a class="headerlink" href="#ni-introverted-intuition" title="Permalink to this headline">¶</a></h3>
+<p>ESIs appreciate periodically having an outside evaluation of how a situation is likely to develop in order to keep from worrying excessively. Without an outside reassurance that a task can be accomplished in time without hurry, or that there is no need to deal with an ongoing development and that for the moment it’s best to wait and see, ESIs tend to get anxious about running out of time, and inclined to try to deal with such issues immediately and sometimes impulsively.</p>
+<p>ESIs are resolute and decisive in dealing with situations they see developing or already in front of them, but at the same time they are keen to avoid being too impulsive and taking actions they will regret later. They admire people who always seem to know when it is best to act or to bid your time for a more opportune moment, and aim at emulating such people, often succeeding; but at the same time the ESIs are worried that they are thinking too much of the consequences instead of acting, so sometimes acting impulsively.</p>
+<p>ESIs place great value in thinking about the consequences of actions and whether they are opportune or not, but such considerations are often overruled by their inclination to take action before it’s too late.</p>
+</div>
+</div>
+<div class="section" id="id-block">
+<h2>Id Block<a class="headerlink" href="#id-block" title="Permalink to this headline">¶</a></h2>
+<p>With Fe blocked with Si in their Id, ESIs are confident in their ability to promote a pleasant, cozy emotional and sensorial atmosphere in themselves and others, and in their evaluation of such matters; but they regard them as a source of amusement and not as a priority. Accordingly, they tend to be put off by people who make such matters the top goals in their lives.</p>
+<div class="section" id="fe-extraverted-ethics">
+<h3>7. Fe Extraverted Ethics<a class="headerlink" href="#fe-extraverted-ethics" title="Permalink to this headline">¶</a></h3>
+<p>The ESI is perfectly able to integrate in a group emotional situation, such as of people having fun and trading jokes, and sustain that mood in himself for a long period of time. The ESI is also usually adept at promoting such an atmosphere himself. However, he sees no point in doing so if his own inner emotional state does not prompt him towards that, especially if he does not have positive private feelings towards the other people involved.</p>
+<p>The ESI is aware of the need to keep a “polite façade” in certain social and professional situations, even in the presence of people he personally dislikes, or during periods of negative inner emotions, but he refuses to actively attempt to integrate in, or promote, a positive external emotional atmosphere in such occasions: to the ESI, that would mean crossing the line from politeness into hypocrisy. The ESI’s disinclination for doing so increases along with his feelings of closeness with the individuals present.</p>
+<p>Accordingly, the ESI is very confident in spotting when another person is “spoiling” a group emotional atmosphere without noticing it, and will discreetly warn that person if the ESI judges it to be advisable in that situation. However, the ESI does not regard such social missteps as a character flaw in the person, and may even be reassured by this kind of awkwardness.</p>
+<p>The ESI’s ability to merge into a pleasant social atmosphere if he sees no strong reasons for not doing so, and yet actively go against it if he considers it called for, may be perceived as intentional “bitchiness” by those more sensitive to Fe.</p>
+</div>
+<div class="section" id="si-introverted-sensing">
+<h3>8. Si Introverted Sensing<a class="headerlink" href="#si-introverted-sensing" title="Permalink to this headline">¶</a></h3>
+<p>The ESI is confident of his ability to recognize and evaluate the physical condition and well-being of himself and others; also aesthetic sensations, and the internal effects of sensory stimulants, such as good food and relaxing situations. He can provide a convincing evaluation of these when prompted, however, the ESI regards soothing, relaxing things and discussions of them as sources of amusement rather than a priority in life. He does not treat them very seriously, or allow himself to engage in them very often, despite his overall confidence in these areas. When he does choose to focus attention on his physical condition and well-being, he is more likely to prefer an Se approach and impose a strict, demanding dietary or exercise regimen upon himself or others.</p>
+<p>Accordingly, the ESI will be ready to provide advice on such matters to others, if asked or if he considers it really necessary, but he will not consider it a very important skill or priority in other persons and, in fact, will be put off by persons who make such considerations the central focus of their lives.</p>
+<p>ESIs are usually inclined to devote a significant part of their free time and available income to matters related to Si such as fine food, relaxing atmospheres in pleasant locations, and outdoor activities, also with the aim of promoting Fi bonds; but only as long as such activities do not jeopardize the ESIs’ main goals in life, in which case they will be dropped.</p>
+</div>
+</div>
+<div class="section" id="common-social-roles">
+<h2>Common social roles<a class="headerlink" href="#common-social-roles" title="Permalink to this headline">¶</a></h2>
+<ol class="arabic simple">
+<li><p>The moralist who is quick to judge people for good and bad behavior, finds fault easily, and punishes just as easily.</p></li>
+<li><p>The devoted worker who quietly and unfailingly fulfills his or her duty and expects the same from others.</p></li>
+<li><p>The sentimental yet tenacious achiever who has a very strong motivation to achieve a specific prestigious career goal, yet has a great deal of interpersonal sensitivity and often insecurity.</p></li>
+</ol>
+</div>
+</div>
+
+      </article>
+      <footer>
+        
+        <div class="related-pages">
+          <a class="next-page" href="IEE_comp.html">
+              <div class="page-info">
+                <div class="context">
+                  <span>Next</span>
+                </div>
+                <div class="title">Wikisocion IEE composite</div>
+              </div>
+              <svg><use href="#svg-arrow-right"></use></svg>
+            </a>
+          <a class="prev-page" href="LIE_comp.html">
+              <svg><use href="#svg-arrow-right"></use></svg>
+              <div class="page-info">
+                <div class="context">
+                  <span>Previous</span>
+                </div>
+                
+                <div class="title">Wikisocion LIE composite</div>
+                
+              </div>
+            </a>
+        </div>
+
+        <div class="related-information">
+              Copyright &#169; 2021, Wikisocion Authors
+            |
+            Built with <a href="https://www.sphinx-doc.org/">Sphinx</a>
+              and
+              <a class="muted-link" href="https://pradyunsg.me">@pradyunsg</a>'s
+              <a href="https://github.com/pradyunsg/furo">Furo theme</a>.
+            |
+            <a class="muted-link" href="../_sources/content/ESI_comp.rst.txt"
+               rel="nofollow">
+              Show Source
+            </a>
+        </div>
+        
+      </footer>
+    </div>
+    <aside class="toc-drawer">
+      
+      
+      <div class="toc-sticky toc-scroll">
+        <div class="toc-title-container">
+          <span class="toc-title">
+            Contents
+          </span>
+        </div>
+        <div class="toc-tree-container">
+          <div class="toc-tree">
+            <ul>
+<li><a class="reference internal" href="#">Wikisocion ESI composite</a><ul>
+<li><a class="reference internal" href="#ego-block">Ego Block</a><ul>
+<li><a class="reference internal" href="#fi-introverted-ethics">1. Fi Introverted Ethics</a></li>
+<li><a class="reference internal" href="#se-extraverted-sensing">2. Se Extraverted Sensing</a></li>
+</ul>
+</li>
+<li><a class="reference internal" href="#super-ego-block">Super-Ego Block</a><ul>
+<li><a class="reference internal" href="#ti-introverted-logic">3. Ti Introverted Logic</a></li>
+<li><a class="reference internal" href="#ne-extraverted-intuition">4. Ne Extraverted Intuition</a></li>
+</ul>
+</li>
+<li><a class="reference internal" href="#super-id-block">Super-Id Block</a><ul>
+<li><a class="reference internal" href="#te-extraverted-logic">5. Te Extraverted Logic</a></li>
+<li><a class="reference internal" href="#ni-introverted-intuition">6. Ni Introverted Intuition</a></li>
+</ul>
+</li>
+<li><a class="reference internal" href="#id-block">Id Block</a><ul>
+<li><a class="reference internal" href="#fe-extraverted-ethics">7. Fe Extraverted Ethics</a></li>
+<li><a class="reference internal" href="#si-introverted-sensing">8. Si Introverted Sensing</a></li>
+</ul>
+</li>
+<li><a class="reference internal" href="#common-social-roles">Common social roles</a></li>
+</ul>
+</li>
+</ul>
+
+          </div>
+        </div>
+      </div>
+      
+      
+    </aside>
+  </div>
+</div><script data-url_root="../" id="documentation_options" src="../_static/documentation_options.js"></script>
+    <script src="../_static/jquery.js"></script>
+    <script src="../_static/underscore.js"></script>
+    <script src="../_static/doctools.js"></script>
+    <script src="../_static/scripts/main.js"></script>
+    </body>
+</html>

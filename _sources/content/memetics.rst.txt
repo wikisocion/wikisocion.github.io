@@ -1,0 +1,21 @@
+Memetics
+===============================
+
+**Memetics** is an approach to evolutionary models of information
+transfer based on the concept of the *meme*. The term "meme" (IPA:
+/mi?m/), coined and popularized in 1976 by the biologist Richard
+Dawkins, refers to a "unit of cultural information" which can propagate
+from one mind to another in a manner analogous to genes (i.e., the units
+of genetic information).
+
+-  `Wikipedia article <http://en.wikipedia.org/wiki/Memetics>`__
+
+Memetics shares some common ground with socionics. Both are highly
+theoretical fields (memetics even more so than socionics) that struggle
+with the process of concreticizing concepts and generating falsifiable
+predictions. Both arose as a sort of "thought experiment" that later
+found applications in reality. Socionics could possibly be applied to
+memetics and provide a language for describing different kinds of memes
+(based on the eight :doc:`information aspects <information_aspect>`).
+:doc:`Types <socionic_type>` may be more susceptible to memes that are conveyed
+using their :ref:`valued <valued>` :doc:`elements <elements>`.

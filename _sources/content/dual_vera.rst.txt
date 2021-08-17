@@ -1,0 +1,16 @@
+Relations of Duality Essays by Stratiyevskaya
+=====================================================
+
+.. toctree::
+    :maxdepth: 1
+
+    dual_ISFp_ENTp_vera
+    dual_INTj_ESFj_vera
+    dual_INFp_ESTp_vera
+    dual_ISTj_ENFj_vera
+    dual_INTp_ESFp_vera
+    dual_ISFj_ENTj_vera
+    dual_ISTp_ENFp_vera
+    dual_INFj_ESTj_vera
+
+    

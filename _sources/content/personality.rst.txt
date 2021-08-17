@@ -1,0 +1,297 @@
+Personality
+================
+
+In psychology, **personality** is a description of consistent emotional,
+thought, and behavior patterns in a person.
+
+Personality psychology is a branch of psychology which studies
+personality and individual differences. One emphasis in this area is to
+construct a coherent picture of a person and his or her major
+psychological processes. Another emphasis views personality as the study
+of individual differences, in other words, how people differ from each
+other. A third area of emphasis examines human nature and how all people
+are similar to one other. These three viewpoints merge together in the
+study of personality.
+
+Personality can be defined as a dynamic and organized set of
+characteristics possessed by a person that uniquely influences his or
+her cognitions, motivations, and behaviors in various situations
+(Ryckman, 2004). The word "personality" originates from the greek
+persona, which means mask. Significantly, in the theatre of the ancient
+Latin-speaking world, the mask was not used as a plot device to disguise
+the identity of a character, but rather was a convention employed to
+represent or typify that character.
+
+The pioneering American psychologist, Gordon Allport (1937) described
+two major ways to study personality, the nomothetic and the idiographic.
+Nomothetic psychology seeks general laws that can be applied to many
+different people, such as the principle of self-actualization, or the
+trait of extraversion. Idiographic psychology is an attempt to
+understand the unique aspects of a particular individual.
+
+The study of personality has a rich and varied history in psychology,
+with an abundance of theoretical traditions. Some psychologists have
+taken a highly scientific approach, whereas others have focused their
+attention on theory development.
+
+Critics of personality theory claim that personality is "plastic" across
+time, places, moods, and situations. Changes in personality may indeed
+result from diet (or lack thereof), medical effects, significant events,
+or learning. However, most personality theories emphasize stability over
+fluctuation.
+
+
+
+Trait theories
+--------------
+
+According to the Diagnostic and Statistical Manual of the American
+Psychiatric Association, personality traits are "enduring patterns of
+perceiving, relating to, and thinking about the environment and oneself
+that are exhibited in a wide range of social and personal contexts."
+Theorists generally assume that a) traits are relatively stable over
+time, b) traits differ among individuals (e.g. some people are outgoing
+while others are shy), and c) traits influence behavior.
+
+The most common models of traits incorporate three to five broad
+dimensions or factors. The least controversial dimension, observed as
+far back as the ancient Greeks, is simply extraversion vs. introversion
+(outgoing and physical-stimulation-oriented vs. quiet and
+physical-stimulation-averse).
+
+-  Gordon Allport delineated different kinds of traits, which he also
+   called dispositions. Central traits are basic to an individual's
+   personality, while secondary traits are more peripheral. Common
+   traits are those recognized within a culture and thus may vary from
+   culture to culture. Cardinal traits are those by which an individual
+   may be strongly recognized.
+
+-  Raymond Cattell's research propagated a two-tiered personality
+   structure with sixteen "primary factors" (16 Personality Factors) and
+   five "secondary factors." A different model was proposed by Hans
+   Eysenck, who believed that just three traits - extraversion,
+   neuroticism and psychoticism - were sufficient to describe human
+   personality. Differences between Cattell and Eysenck emerged due to
+   preferences for different forms of factor analysis, with Cattell
+   using oblique, Eysenck orthogonal, rotation to analyse the factors
+   that emerged when personality questionnaires were subjected to
+   statistical analysis. Today, the Big Five factors have the weight of
+   a considerable amount of empirical research behind them. Building on
+   the work of Cattell and others, Lewis Goldberg proposed a
+   five-dimension personality model, nicknamed the "Big Five":
+
+#. Extraversion - outgoing and stimulation-oriented vs. quiet and
+   stimulation-avoiding
+#. Neuroticism - emotionally reactive, prone to negative emotions vs.
+   calm, imperturbable, optimistic
+#. Agreeableness - affable, friendly, conciliatory vs.
+   aggressive, dominant, disagreeable
+#. Conscientiousness - dutiful, planful, and orderly vs. laidback,
+   spontaneous, and unreliable
+#. Openness to experience - open to new ideas and change vs. traditional
+   and oriented toward routine
+
+For ease of remembrance this can be written as OCEAN
+
+-  John L. Holland's RIASEC vocational model, commonly referred to as
+   the Holland Codes, stipulates that there are six personality traits
+   that lead people to choose their career paths. This model is widely
+   used in vocational counseling and is a circumplex model where the six
+   types are represented as a hexagon where adjacent types are more
+   closely related than those more distant.
+
+Trait models have been criticized as being purely descriptive and
+offering little explanation of the underlying causes of personality.
+Eysenck's theory, however, does propose biological mechanisms as driving
+traits, and modern behavior genetics researchers have demonstrated a
+clear genetic substrate to them. Another potential weakness with trait
+theories is that they lead people to accept oversimplified
+classifications, or worse offer advice, based on a superficial analysis
+of one's personality. Finally, trait models often underestimate the
+effect of specific situations on people's behavior. It is important to
+remember that traits are statistical generalizations that do not always
+correspond to an individual's behavior.
+
+
+
+Type theories
+-------------
+
+Personality type refers to the psychological classification of different
+types of people. Personality types are distinguished from personality
+traits, which come in different levels or degrees. According to type
+theories, for example, there are two types of people, introverts and
+extraverts. According to trait theories, introversion and extraversion
+are ends of a continuous spectrum, with many people in the middle. The
+idea of psychological types originated in the theoretical work of Carl
+Jung.
+
+
+
+Psychoanalytic theories
+-----------------------
+
+Psychoanalytic theories explain human behaviour in terms of the
+interaction of various components of personality. Sigmund Freud was the
+founder of this school. Freud drew on the physics of his day
+(thermodynamics) to coin the term psychodynamics. Based on the idea of
+converting heat into mechanical energy, he proposed that psychic energy
+could be converted into behavior. Freud's theory places central
+importance on dynamic, unconscious psychological conflicts.
+
+
+
+Behaviorist theories
+--------------------
+
+Behaviorists explain personality in terms of reactions to external
+stimuli, and was a radical shift away from Freudian philosophy. This
+school of thought was developed by B. F. Skinner who put forth a model
+which emphasized the mutual interaction of the person or "the organism"
+with its environment. Skinner believed that children do bad things in
+order to get the attention that they crave. For example: a child cries
+because the child desires attention and knows it will be given. These
+are the stimulus, response, and consequences. The stimulus is the child
+being ignored, the response is the child acting out, and the attention
+that child gets is the consequence. According to this theory, people's
+behavior is formed by processes such as operant conditioning. Skinner
+put forward a 'three term contingency model' which helped promote
+analysis of behavior based on the 'Stimulus - Response - Consequence
+Model' in which the critical question is: "Under which circumstances or
+antecedent "stimuli" does the organism engage in a particular behavior
+or "response," which in turn produces a particular "consequence"?"
+
+Ivan Pavlov is another notable influence. He is well known for his
+classical conditions experiments involving a dog. These physiological
+studies on this dog led him to discover the foundation of behaviorism as
+well as classical conditioning. Pavlov would begin his experiment by
+first ringing a bell, which would cause no response from the dog. He
+would proceed to place food in front of the dog's face, causing the dog
+to salivate. Several seconds later, he would ring the bell again,
+causing the dog to now salivate. After continuing this experiment
+several times, the dog would salivate at just the ring of the bell.
+These conditioning experiments can be used for many different types of
+experiments. He can do these experiments for any situation. For example,
+If every time someone ate fish they got sick, and he rang the bell when
+they ate the fish, eventually they would get sick from just the sound of
+the bell.
+
+John B. Watson, The Father of American Behaviorism, made four major
+assumptions about radical Behaviorisms -
+
+#. Evolutionary Continuity: The laws of behavior are applied equally to
+   all living organisms, so we can study animals as simple models of
+   complex human responses.
+#. Reductionism: All behaviors are linked to physiology.
+#. Determinism: Animals do not respond freely, they respond in a
+   programmed way to external stimuli. Biological organisms respond to
+   outside influences.
+#. Empiricism: Only our actions are observable evidence of our
+   personality. Psychology should involve the study of observable
+   (overt) behavior.
+
+All behaviorists focus on observable behavior. Thus there is no emphasis
+on unconscious motives, internal traits, introspection, or self
+analysis. Behavior modification is a form of therapy that applies the
+principles of learning to achieve changes in behavior.
+
+
+
+Cognitive theories
+------------------
+
+In cognitivism, behavior is explained as guided by cognitions (e.g.
+expectations) about the world, especially those about other people.
+Cognitive theories are theories of personality that emphasize cognitive
+processes such as thinking and judging.
+
+Albert Bandura, a social learning theorist suggested that the forces of
+memory and emotions worked in conjunction with environmental influences.
+Bandura was known mostly for his studies involving his "bobo doll."
+During these experiments, Bandura video taped a college student kicking
+and verbally abusing a bobo doll. He then showed this video to a class
+of kindergartners who were getting ready to go out to play. When they
+entered the play room, they saw bobo dolls, and some hammers. The people
+observing these children at play saw a group of children beating the
+doll. He called this study and his findings observational learning, or
+modeling.
+
+Early examples of approaches to cognitive style are listed by Baron
+(1982). These include Witkin's (1965) work on field dependency,
+Gardner's (1953) discovering people had consistent preference for the
+number of categories they used to categorise heterogeneous objects, and
+Block and Petersen's (1955) work on confidence in line discrimination
+judgments. More central to this field have been:
+
+#. Self-efficacy work, dealing with confidence people have in abilities
+   to do tasks (Bandura, 1997);
+#. Locus of control theory (Lefcourt, 1966; Rotter, 1966) dealing with
+   different beliefs people have about whether their worlds are
+   controlled by themselves or external factors;
+#. Attributional style theory (Abramson, Seligman and Teasdale, 1978)
+   dealing with different ways in which people explain events in their
+   lives. This approach builds upon locus of control, but extends it by
+   stating that we also need to consider whether people attribute to
+   stable causes or variable causes, and to global causes or specific
+   causes.
+
+
+
+Humanistic theories
+-------------------
+
+In humanistic psychology it is emphasized that people have free will and
+that they play an active role in determining how they behave.
+Accordingly, humanistic psychology focuses on subjective experiences of
+persons as opposed to forced, definitive factors that determine
+behaviour. Abraham Maslow and Carl Rogers were proponents of this view.
+
+Maslow and Rogers emphasized a view of the person as an active,
+creative, experiencing human being who lives in the present and
+subjectively responds to current perceptions, relationships, and
+encounters. They disagree with the dark, pessimistic outlook of those in
+the Freudian psychoanalysis ranks, but rather view humanistic theories
+as positive and optimistic proposals which stress the tendency of the
+human personality toward growth and self-actualization. This progressing
+self will remain the center of its constantly changing world; a world
+that will help mold the self but not necessarily confine it. Rather, the
+self has opportunity for maturation based on its encounters with this
+world. This understanding attempts to reduce the acceptance of hopeless
+redundancy. Humanistic therapy typically relies on the client for
+information of the past and its effect on the present, therefore the
+client dictates the type of guidance the therapist may initiate. This
+allows for an individualized approach to therapy.Rogers found that
+patients differ in how they respond to other people. Rogers tried to
+model a particular approach to therapy- he stressed the response. These
+responses came in a variety of fashions:
+
+A. Evaluative Response  Place a value judgment on persons feelings B.
+Interpretive Response- tells the person what theyre really thinking or
+feeling. C. Reflective Response- Captures how someone is feeling right
+now about the situation.
+
+
+
+Biopsychological theories
+-------------------------
+
+Around the 1990s, neuroscience entered the domain of personality
+psychology. Whereas previous efforts for identifying personality
+differences relied upon simple, direct, human observation, neuroscience
+introduced powerful brain analysis tools like Electroencephalography
+(EEG), Positron Emission Tomography (PET), and Functional Magnetic
+Resonance Imaging (fMRI) to this study. One of the founders of this area
+of brain research is Richard Davidson of the University of
+Wisconsin-Madison. Davidson's research lab has focussed on the role of
+the prefrontal cortex (PFC) and amygdala in manifesting human
+personality. In particular, this research has looked at hemispheric
+asymmetry of activity in these regions. Neuropsychological studies have
+illustrated how hemispheric asymmetry can affect an individual's
+personality (particularly in social settings) for individuals who have
+NLD (non-verbal learning disorder) which is marked by the impairment of
+nonverbal information controlled by the right hemisphere of the brain.
+Difficulties will arise in the areas of gross motor skills, inability to
+organize visual-spatial relations, or adapt to novel social situations.
+Frequently, a person with NLD is unable to interpret non-verbal cues,
+and therefore experiences difficulty interacting with peers in socially
+normative ways.

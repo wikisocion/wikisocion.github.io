@@ -1,0 +1,442 @@
+<!doctype html>
+<html class="no-js">
+  <head><meta charset="utf-8"/>
+    <meta name="viewport" content="width=device-width,initial-scale=1"/>
+    <meta name="color-scheme" content="light dark"><link rel="index" title="Index" href="../genindex.html" /><link rel="search" title="Search" href="../search.html" /><link rel="next" title="LIE subtypes" href="LIE_subtypes.html" /><link rel="prev" title="SEE subtypes" href="SEE_subtypes.html" />
+
+    <meta name="generator" content="sphinx-4.1.2, furo 2021.08.11.beta42"/>
+        <title>ILI subtypes - Wikisocion</title>
+      <link rel="stylesheet" type="text/css" href="../_static/pygments.css" />
+    <link rel="stylesheet" type="text/css" href="../_static/styles/furo.css?digest=197f00461d56902ea7ca048ec6e6ba026f62c97b" />
+    <link rel="stylesheet" type="text/css" href="../_static/styles/furo-extensions.css?digest=93475b62d1c3bc01323a0eefdc14a62d77b12690" />
+    
+    
+
+
+<style>
+  body {
+    --color-code-background: #f8f8f8;
+  --color-code-foreground: black;
+  
+  }
+  body[data-theme="dark"] {
+    --color-code-background: #202020;
+  --color-code-foreground: #d0d0d0;
+  
+  }
+  @media (prefers-color-scheme: dark) {
+    body:not([data-theme="light"]) {
+      --color-code-background: #202020;
+  --color-code-foreground: #d0d0d0;
+  
+    }
+  }
+</style>
+    <link media="(prefers-color-scheme: dark)" rel="stylesheet" href="../_static/pygments_dark.css"></head>
+  <body>
+    
+<svg xmlns="http://www.w3.org/2000/svg" style="display: none;">
+  <symbol id="svg-toc" viewBox="0 0 24 24">
+    <title>Contents</title>
+    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+      stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+      <path stroke="none" d="M0 0h24v24H0z" />
+      <line x1="4" y1="6" x2="20" y2="6" />
+      <line x1="10" y1="12" x2="20" y2="12" />
+      <line x1="6" y1="18" x2="20" y2="18" />
+    </svg>
+  </symbol>
+  <symbol id="svg-menu" viewBox="0 0 24 24">
+    <title>Menu</title>
+    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+      stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather-menu">
+      <line x1="3" y1="12" x2="21" y2="12"></line>
+      <line x1="3" y1="6" x2="21" y2="6"></line>
+      <line x1="3" y1="18" x2="21" y2="18"></line>
+    </svg>
+  </symbol>
+  <symbol id="svg-arrow-right" viewBox="0 0 24 24">
+    <title>Expand</title>
+    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+      stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather-chevron-right">
+      <polyline points="9 18 15 12 9 6"></polyline>
+    </svg>
+  </symbol>
+  <symbol id="svg-sun" viewBox="0 0 24 24">
+    <title>Light mode</title>
+    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+      stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" class="feather-sun">
+      <circle cx="12" cy="12" r="5"></circle>
+      <line x1="12" y1="1" x2="12" y2="3"></line>
+      <line x1="12" y1="21" x2="12" y2="23"></line>
+      <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
+      <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
+      <line x1="1" y1="12" x2="3" y2="12"></line>
+      <line x1="21" y1="12" x2="23" y2="12"></line>
+      <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
+      <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
+    </svg>
+  </symbol>
+  <symbol id="svg-moon" viewBox="0 0 24 24">
+    <title>Dark mode</title>
+    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+      stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" class="icon-tabler-moon">
+      <path stroke="none" d="M0 0h24v24H0z" fill="none" />
+      <path d="M12 3c.132 0 .263 0 .393 0a7.5 7.5 0 0 0 7.92 12.446a9 9 0 1 1 -8.313 -12.454z" />
+    </svg>
+  </symbol>
+  <symbol id="svg-sun-half" viewBox="0 0 24 24">
+    <title>Auto light/dark mode</title>
+    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+      stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" class="icon-tabler-shadow">
+      <path stroke="none" d="M0 0h24v24H0z" fill="none"/>
+      <circle cx="12" cy="12" r="9" />
+      <path d="M13 12h5" />
+      <path d="M13 15h4" />
+      <path d="M13 18h1" />
+      <path d="M13 9h4" />
+      <path d="M13 6h1" />
+    </svg>
+  </symbol>
+</svg>
+
+<input type="checkbox" class="sidebar-toggle" name="__navigation" id="__navigation">
+<input type="checkbox" class="sidebar-toggle" name="__toc" id="__toc">
+<label class="overlay sidebar-overlay" for="__navigation">
+  <div class="visually-hidden">Hide navigation sidebar</div>
+</label>
+<label class="overlay toc-overlay" for="__toc">
+  <div class="visually-hidden">Hide table of contents sidebar</div>
+</label>
+
+
+
+<div class="page">
+  <header class="mobile-header">
+    <div class="header-left">
+      <label class="nav-overlay-icon" for="__navigation">
+        <div class="visually-hidden">Toggle site navigation sidebar</div>
+        <i class="icon"><svg><use href="#svg-menu"></use></svg></i>
+      </label>
+    </div>
+    <div class="header-center">
+      <a href="../index.html"><div class="brand">Wikisocion</div></a>
+    </div>
+    <div class="header-right">
+      <div class="theme-toggle-container theme-toggle-header">
+        <button class="theme-toggle">
+          <div class="visually-hidden">Toggle Light / Dark / Auto color theme</div>
+          <svg class="theme-icon-when-auto"><use href="#svg-sun-half"></use></svg>
+          <svg class="theme-icon-when-dark"><use href="#svg-moon"></use></svg>
+          <svg class="theme-icon-when-light"><use href="#svg-sun"></use></svg>
+        </button>
+      </div>
+      <label class="toc-overlay-icon toc-header-icon" for="__toc">
+        <div class="visually-hidden">Toggle table of contents sidebar</div>
+        <i class="icon"><svg><use href="#svg-toc"></use></svg></i>
+      </label>
+    </div>
+  </header>
+  <aside class="sidebar-drawer">
+    <div class="sidebar-container">
+      
+      <div class="sidebar-sticky"><div class="sidebar-scroll"><a class="sidebar-brand" href="../index.html">
+  
+  
+  <span class="sidebar-brand-text">Wikisocion</span>
+  
+</a><form class="sidebar-search-container" method="get" action="../search.html" role="search">
+  <input class="sidebar-search" placeholder=Search name="q" aria-label="Search">
+  <input type="hidden" name="check_keywords" value="yes">
+  <input type="hidden" name="area" value="default">
+</form>
+<div id="searchbox"></div>
+</div>
+      </div>
+      
+    </div>
+  </aside>
+  <div class="main">
+    <div class="content">
+      <article role="main">
+        <div class="content-icon-container">
+          <div class="theme-toggle-container theme-toggle-content">
+            <button class="theme-toggle">
+              <div class="visually-hidden">Toggle Light / Dark / Auto color theme</div>
+              <svg class="theme-icon-when-auto"><use href="#svg-sun-half"></use></svg>
+              <svg class="theme-icon-when-dark"><use href="#svg-moon"></use></svg>
+              <svg class="theme-icon-when-light"><use href="#svg-sun"></use></svg>
+            </button>
+          </div>
+          <label class="toc-overlay-icon toc-content-icon" for="__toc">
+            <div class="visually-hidden">Toggle table of contents sidebar</div>
+            <i class="icon"><svg><use href="#svg-toc"></use></svg></i>
+          </label>
+        </div>
+        <div class="section" id="ili-subtypes">
+<h1>ILI subtypes<a class="headerlink" href="#ili-subtypes" title="Permalink to this headline">¶</a></h1>
+<div class="section" id="intuitive-subtype-ni-intp-ni-ili">
+<h2>Intuitive subtype Ni-INTp (Ni-ILI)<a class="headerlink" href="#intuitive-subtype-ni-intp-ni-ili" title="Permalink to this headline">¶</a></h2>
+<div class="section" id="description-by-v-meged-and-a-ovcharov">
+<h3>Description by V. Meged and A. Ovcharov<a class="headerlink" href="#description-by-v-meged-and-a-ovcharov" title="Permalink to this headline">¶</a></h3>
+<p><strong>Appearance</strong></p>
+<p>The intuitive subtype seems balanced, calm, and even slow. Possesses
+well-developed figurative and associative thinking. Reads a lot and is
+given to contemplation and reflection. Likes to converse at length,
+narrating something on various subjects or retelling something which he
+has previously read. In conversation he is usually tactful, polite,
+somewhat reserved, tries to avoid being overly direct and critical.
+Frequently he feels suppressed and dissatisfied by something  either by
+his state of health, or by being in poor spirits, or due to some other
+cause. He rarely discusses his problems with others and holds himself
+somewhat at a distance. Internally he is rather timid, contradictory,
+and vulnerable, although he tries not to show this. His movements are
+fluid and unhurried. Sometimes his figure is tall and lanky, other times
+it is proportional, but he always seems calm and filled with a sense of
+his own value. His gait and movements are smooth, may be somewhat
+swinging and wavering.</p>
+<p><strong>Character</strong></p>
+<p>Possesses well-developed imagination and creative faculties. Inclined to
+contemplation and passive life of an observer. Often lacks in
+determination and confidence in himself. In his soul he is an idealist
+who envisions a beautiful, harmonious, and prosperous life, but is quite
+passive in finding the means to achieve it. Internally contradictory,
+critical and distrusting, though doesn’t always show this. Subject to
+frequent doubts and fluctuations. Through his strong intuition he is
+able to predict the outcome of any undertaking or behavior of a person
+in any given situation. Often gives advice to exercise caution to avoid
+unpleasant surprises and troubles. Appreciates old, time-tested truths.
+Feels susceptible to the fluctuations of life thus he tries to foresee
+everything; for example, before a trip he thinks over all the details
+and brings with him everything that may become necessary. Prone to
+remembering his failures and mishaps for a long time. Frequently falls
+into melancholy due to excessive pessimism. Though he is often endowed
+with a fertile imagination and loves new experiences, in reality he
+gravitates towards stability, safety and security. When he feels too
+bogged down by the monotony, he gladly takes on traveling.</p>
+<p>Farsighted and prudent in the acquisition of new things or changing his
+way of life. He rarely rushes the course of events and may delay and
+postpone making important decisions. Thinks through everything in
+advance. Dislikes activities and undertakings that are risky and require
+improvisations. Careful, cautious and indecisive in new endeavors.
+Person of habit. Dislikes unpleasant surprises.</p>
+<p>Typically leads a somewhat reversed style of life and has a small circle
+of friends. Rarely takes the initiative in interaction himself, doesn’t
+want to seem intrusive. Stable in his affections. Feels uncomfortable in
+new company of people. Polite and easy in communication, but dislikes
+familiarity and boisterous displays of emotion. Considers excessive
+emotions just like any other extreme to be objectionable and unneeded
+and calls on others to be calm and reasonable. Loyal, typically tolerant
+of people and forgiving of their shortcomings. Shows magnanimity and
+generosity towards others in difficult situations. Aware of his
+obligations and does not promise anything if he is not sure that he will
+be able to deliver it.</p>
+<p>Values conveniences and comfort. Can work at a measured and constant
+pace to provide for a comfortable and prosperous life. If he is drawn to
+creative work, can become a tireless researcher. Whether he is engaged
+in his work or domestic chores, he is thorough, conscientious, and
+carries out his tasks to completion even if he doesn’t make it by the
+deadlines. Demanding of himself, can force himself to do work that is
+unpleasant and uninteresting but necessary. Finds it difficult to
+pressure and persuade anyone into anything - prefers reaching an
+agreement on mutually beneficial terms. However, sometimes he becomes
+very stubborn and intractable, especially if he sees that a person acts
+without taking into account his advice or interests.</p>
+<p>Tries to look after his appearance and health, keep himself neat and
+clean, and dress tastefully. Rarely allows for bright color combinations
+and decorations, as well as any other excesses.</p>
+<p>Has difficulty maintaining an inner balance due to heightened
+sensitivity and vulnerability. Due to his inability to control his moods
+and to switch his attention to something else, sometimes he is
+excessively fault-finding and cantankerous and other times too kind and
+accommodating. His emotions transfer to others. Knowing this, he prefers
+to spend time in solitude when he is in a poor mood, so as not to regret
+later something said or done in the heat of the moment. In a good mood,
+he is a charming and pleasant companion who with his attentiveness and
+sensitivity predisposes toward trust and willingly shares his advice.</p>
+</div>
+<div class="section" id="description-by-victor-gulenko">
+<h3>Description by Victor Gulenko<a class="headerlink" href="#description-by-victor-gulenko" title="Permalink to this headline">¶</a></h3>
+<p>Researcher-theorist who paves the way with fundamental developments. By
+use of analogies is often able to predict how an ongoing process will
+unfold. Has a good sense for socio-economic tendencies. Possesses
+extensive erudition and good memory, frequently gets stuck in details.
+Is well able to provoke a situation, including a commercial one.
+Experiences difficulties in communication. Searches for an opponent,
+criticizes with a dose of biliousness, likes to underline deficiencies.
+Ascetic and grumbling. Often has an asthenic figure, may be negligent of
+his appearance and take poor care of his health.</p>
+</div>
+</div>
+<div class="section" id="logical-subtype-te-intp-te-ili">
+<h2>Logical subtype Te-INTp (Te-ILI)<a class="headerlink" href="#logical-subtype-te-intp-te-ili" title="Permalink to this headline">¶</a></h2>
+<div class="section" id="id1">
+<h3>Description by V. Meged and A. Ovcharov<a class="headerlink" href="#id1" title="Permalink to this headline">¶</a></h3>
+<p><strong>Appearance</strong></p>
+<p>The logical subtype makes an impression of a self-confident,
+sober-minded, rational person. Most often he is courteous, demonstrates
+a critical turn of mind and possesses a sense of humor. He smiles
+frequently but his smile seems somewhat monotonous and set. He tries to
+be polite, therefore doesn’t always voice all of his thoughts and
+observations. Likes to subject things to analysis. Sometimes he seems
+haughty and derisive. Skeptical, ironic, and mistrustful. Trusts more in
+figures and facts than in hastily drawn conclusions. A good
+rationalizer; he is able to discern the main points and avoid engaging
+in tasks and projects that are futile in his opinion. Most often his
+figure is heavy-set and pycnic. His gait is usually quick, movements are
+purposeful and resolute. May actively gesticulate while speaking.
+Appears somewhat gusty and impulsive, but usually holds himself with
+integrity and calm dignity.</p>
+<p><strong>Character</strong></p>
+<p>Quickly assesses a situation or a new project from the point of view of
+its feasibility and practicality. Likes realistic goals, while the
+methods of achieving them he finds himself or through intermediaries.
+Inclined to make rational actions. Takes note of all the details of the
+case presented to him, emphasizing main ones and brushing unimportant
+ones aside. Is able to extract maximum returns while applying minimum of
+effort. Capable of making accurate economic and political predictions.
+Encourages people to be active, but also warns against any activities
+that are useless in his opinion. Notices all the contradictions and
+imperfections of his surrounding world. Due to a developed sense of
+skepticism it is difficult for him to properly assess the potential of
+new ventures and people’s abilities. While calling for prudence, he can
+cool any excessive enthusiasm with subtle irony.</p>
+<p>Possesses organizational skills. Tries to be able in his affairs and
+knowledgeable over a variety of issues. Appreciative of quality work and
+high qualifications. Has an interest in laws and regulations, collects
+necessary and interesting information. It’s hard to reconvince him in an
+argument because he often proves his point of view supplying factual
+information. Sufficiently stubborn, does not yield to direct pressure.</p>
+<p>May have a wide circle of professional or business acquaintances, but
+rarely becomes truly close with anyone. Fearing becoming dependent on
+someone tries to appear self-sufficient and confident in himself.
+Despite this, he is often in need of moral support. Likes people who
+with their optimism can instill confidence in success. Critically
+perceives the shortcomings of others. Sometimes cannot withhold himself
+from making a critical remark, due to which it is difficult for him to
+maintain smooth relations with others.</p>
+<p>Internally emotional, but tries to be self-sustained. Dislikes falling
+to extremes, but if his principles are violated he may flare up. Usually
+restrained in expression of his feelings, dislikes making compliments,
+considers that it’s more sincere to talk of shortcomings. In this case,
+with his straightforwardness may not spare another’s self-esteem. Poorly
+tolerates discomfort, both external and internal, and therefore tries to
+smooth out a bad impression left by something he has said.</p>
+<p>Thrifty, economical and practical. Dislikes excesses, can suffice with
+less. Skillfully handles objects and finances. Good with handling his
+documentation. Shows creativity in handling practical matters. Can adapt
+and extract use from things that to others seem to have outlived their
+use. Modest in his appearance and in everyday life. Feels awkward
+claiming for himself any material privileges or rewards. Does not
+attribute much value to accessories, but feels insecure if his
+appearance does not match the tastes of his society. Rather passive when
+resting. Due to weak self-discipline and certain measure of inertia he
+underestimates the role of a healthy lifestyle, due to which his health
+may suffer.</p>
+</div>
+<div class="section" id="id2">
+<h3>Description by Victor Gulenko<a class="headerlink" href="#id2" title="Permalink to this headline">¶</a></h3>
+<p>Practical, operational, maneuverable. Avoids taking up useless tasks and
+activities. Tries to extract benefit from everything, does not allow for
+waste in industry - everything must be reasonably used. Loves
+gatherings, company, friends, a good table. Has a developed sense of
+humor. Knows how to get along with those around him. Outwardly elegant
+and sociable, however, of somewhat loose and relaxed in constitution.</p>
+</div>
+</div>
+<div class="section" id="additional-links">
+<h2>Additional Links<a class="headerlink" href="#additional-links" title="Permalink to this headline">¶</a></h2>
+<ul class="simple">
+<li><p><a class="reference external" href="http://www.the16types.info/vbulletin/showthread.php/15943-INTp-ILI-Subtypes">Discussion of ILI (INTp)
+subtypes</a></p></li>
+<li><p><a class="reference internal" href="contact_inert_subtypes.html"><span class="doc">Contact and Inert Subtypes by Meged and Ovcharov</span></a></p></li>
+<li><p><a class="reference internal" href="subtype.html"><span class="doc">Subtyping systems and related articles</span></a></p></li>
+<li><p><a class="reference internal" href="romantic_quadra.html"><span class="doc">Romantic and Sexual Behavior of Quadras and Subtypes</span></a></p></li>
+</ul>
+</div>
+</div>
+
+      </article>
+      <footer>
+        
+        <div class="related-pages">
+          <a class="next-page" href="LIE_subtypes.html">
+              <div class="page-info">
+                <div class="context">
+                  <span>Next</span>
+                </div>
+                <div class="title">LIE subtypes</div>
+              </div>
+              <svg><use href="#svg-arrow-right"></use></svg>
+            </a>
+          <a class="prev-page" href="SEE_subtypes.html">
+              <svg><use href="#svg-arrow-right"></use></svg>
+              <div class="page-info">
+                <div class="context">
+                  <span>Previous</span>
+                </div>
+                
+                <div class="title">SEE subtypes</div>
+                
+              </div>
+            </a>
+        </div>
+
+        <div class="related-information">
+              Copyright &#169; 2021, Wikisocion Authors
+            |
+            Built with <a href="https://www.sphinx-doc.org/">Sphinx</a>
+              and
+              <a class="muted-link" href="https://pradyunsg.me">@pradyunsg</a>'s
+              <a href="https://github.com/pradyunsg/furo">Furo theme</a>.
+            |
+            <a class="muted-link" href="../_sources/content/ILI_subtypes.rst.txt"
+               rel="nofollow">
+              Show Source
+            </a>
+        </div>
+        
+      </footer>
+    </div>
+    <aside class="toc-drawer">
+      
+      
+      <div class="toc-sticky toc-scroll">
+        <div class="toc-title-container">
+          <span class="toc-title">
+            Contents
+          </span>
+        </div>
+        <div class="toc-tree-container">
+          <div class="toc-tree">
+            <ul>
+<li><a class="reference internal" href="#">ILI subtypes</a><ul>
+<li><a class="reference internal" href="#intuitive-subtype-ni-intp-ni-ili">Intuitive subtype Ni-INTp (Ni-ILI)</a><ul>
+<li><a class="reference internal" href="#description-by-v-meged-and-a-ovcharov">Description by V. Meged and A. Ovcharov</a></li>
+<li><a class="reference internal" href="#description-by-victor-gulenko">Description by Victor Gulenko</a></li>
+</ul>
+</li>
+<li><a class="reference internal" href="#logical-subtype-te-intp-te-ili">Logical subtype Te-INTp (Te-ILI)</a><ul>
+<li><a class="reference internal" href="#id1">Description by V. Meged and A. Ovcharov</a></li>
+<li><a class="reference internal" href="#id2">Description by Victor Gulenko</a></li>
+</ul>
+</li>
+<li><a class="reference internal" href="#additional-links">Additional Links</a></li>
+</ul>
+</li>
+</ul>
+
+          </div>
+        </div>
+      </div>
+      
+      
+    </aside>
+  </div>
+</div><script data-url_root="../" id="documentation_options" src="../_static/documentation_options.js"></script>
+    <script src="../_static/jquery.js"></script>
+    <script src="../_static/underscore.js"></script>
+    <script src="../_static/doctools.js"></script>
+    <script src="../_static/scripts/main.js"></script>
+    </body>
+</html>

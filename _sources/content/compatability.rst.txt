@@ -1,0 +1,57 @@
+Psychological compatibility
+==================================
+
+**Psychological compatibility** is a somewhat vague term that
+intuitively makes sense but has not been extensively researched. By
+psychological compatibility people usually mean the degree to which
+people inherently "fit" or "match" each other in interaction over a long
+period of time. Implied in the term is the idea that certain personal
+qualities influence the character of one's relationships, that these
+qualities differ from person to person, and that they are permanent.
+Most people would probably agree that such qualities must exist, but
+that they are very hard to put your finger on. In addition, most people
+would agree that there are a host of situational factors that influence
+relationship quality as well.
+
+Part of the nature of psychological compatibility is that it is easier
+to recognize **in**\ compatibility than compatibility, since negative
+emotions are easier to recognize than the absence thereof. In addition,
+there are different varieties of incompatibility. In one situation you
+might feel repulsed by a person, in another you might feel strained and
+self-conscious, and in another you might have a sense of competition.
+Psychological compatibility probably applies almost equally to both
+same-sex and inter-sex relationships
+
+In the absence of physical attraction, you would probably avoid building
+relationships with people you are incompatible with. Physical attraction
+can "override" and quelch feelings of incompatibility. This suggests
+that in humans the biological program of reproduction is more powerful
+than the psychological program of productivity, happiness, and
+self-realization. Perhaps, then, satisfaction of one's more basic needs
+leads to an increased focus on pursuing psychologically compatible
+relationships, in accordance with `Maslow's hierarchy of
+needs <http://en.wikipedia.org/wiki/Maslow's_hierarchy_of_needs>`__.
+
+
+
+Socionics and psychological compatibility
+-----------------------------------------
+
+Socionics deals primarily with unchanging qualities of people - for
+example, the prevalence of one mode of thinking and behavior over
+another. Changes in people's attitudes and behavior can also be
+described in socionics terms, but they do not change a person's
+:doc:`socionic type <socionic_type>` and, hence, their pattern of
+:doc:`intertype relations <intertype>` with other types.
+
+Socionics qualifies as a theory of psychological compatibility, though
+much work remains to be done to elaborate different varieties of
+relationships within a certain :doc:`intertype relation <intertype>` and the causes of this variation.
+
+
+
+Research on psychological compatibility
+---------------------------------------
+
+-  `Assortive Mating and Marital Quality in Newlyweds: A Couple-Centered
+   Approach <http://www.apa.org/journals/releases/psp882304.pdf>`__

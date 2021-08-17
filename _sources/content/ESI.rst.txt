@@ -1,0 +1,184 @@
+Ethical Sensing Introtim (ESI)
+=======================================
+
+**Ethical Sensing Introtim**
+
+Type abbreviations: ESI, ISFj, RF 
+
+Ego Block Elements: FiSe (|Fi| |Se|) 
+
+Nicknames: Guardian, Conservator, Dreiser, or archetype **Theodore Dreiser**. 
+
+.. list-table:: ESI(ISFj) Model A
+    :header-rows: 1
+    :align: center
+
+    * - :ref:`Inert <contact>`
+      - :ref:`Contact <contact>`
+      - Properties
+      - Blocks
+    * - | **Fi**
+        | 1st :ref:`Program function <leading-func>`
+      - | **Se**  
+        | 2nd :ref:`Creative function <creative-func>`
+      - | *conscious* 
+        | *valued*
+      - :ref:`Ego <ego-block>`
+    * - | **Ne**
+        | 4th :ref:`Vulnerable function <PoLR-func>`
+      - | **Ti**  
+        | 3rd :ref:`Role function <role-func>`
+      - | *conscious* 
+        | *not valued*
+      - :ref:`Super-ego <superego-block>`
+    * - | **Ni**
+        | 6th :ref:`Activating function <activating-func>`
+      - | **Te** 
+        | 5th :ref:`Suggestive function <suggestive-func>`
+      - | *unconscious* 
+        | *valued*
+      - :ref:`Super-id <superid-block>`
+    * - | **Fe**
+        | 7th :ref:`Ignoring function <ignoring-func>`
+      - | **Si**
+        | 8th :ref:`Demonstrative function <demonstrative-func>`
+      - | *unconscious* 
+        | *not valued*
+      - :ref:`Id <id-block>`
+
+.. list-table:: ESI :doc:`Dichotomies <dich>` and :doc:`Small Groups <small_groups>`
+    :header-rows: 0
+
+    * - :doc:`Jungain <jungian>` : :doc:`Introverted <extra_intro>` · :doc:`Sensing <sensing_intuition>` · :doc:`Ethical <ethics_logic>` · :doc:`Rational <ration_irration>`
+    * - :doc:`Reinin <reinin_dich>` : :doc:`Static <statics_dynamics>` · :doc:`Yielding <yielding_obstinate>` · :doc:`Democratic <democratic_aristocratic>` · :doc:`Tactical <tactical_strategic>` · :doc:`Constructivist <constructivist_emotivist>` · :doc:`Carefree <carefree_farsighted>` · :doc:`Serious <merry_serious>` · :doc:`Decisive <judicious_decisive>` · :doc:`Negativist <positivist_negativist>` · :doc:`Result <process_result>` · :doc:`Asking <asking_declaring>`
+    * - :doc:`Small groups <small_groups>` : :doc:`Gamma Quadra <quadra>` · :doc:`Socials <club>` · :doc:`IJ temperament <temperament>` · :doc:`Sincere <communication_styles>` · :doc:`Aggressor <romance_styles>` · :ref:`Project Groups <project-groups>`
+    * - :doc:`Forms of Thinking <cognitive_styles>` : :ref:`Holographical-Panoramic Cognition <HP-cog>`
+
+**Type Profiles**:
+
+* :doc:`ESI Profile by Gulenko <ESI_gulenko>`
+* :ref:`ESI Profile by Filatova <ESI-Filatova>`
+* :doc:`ESI Profile by Stratiyevskaya <ESI_vera>`
+* :ref:`ESI type description by Grigory Reinin <ESI-Reinin>`
+* :ref:`ESI characteristic by Meged and Ovcharov <ESI-Meged>`
+* :ref:`ESI male and female portraits by Beskova <ESI-Beskova>`
+* :ref:`ESI description by Bukalov and Boiko <ESI-Bukalov>`
+* :doc:`Wikisocion ESI composite <ESI_comp>`
+* :ref:`Socionics Type Profiles by T. Prokofieva and M. Kuzmina <ESI-Prokofieva>`
+* :ref:`ESI description from Socionics.ua <ESI-ua>`
+* :ref:`ESI description by Weisband and Aushra <ESI-Weisband>`
+* :ref:`ESI profile by Golihov <ESI-Golihov>`
+* :ref:`ESI profile by Zamanskaya <ESI-Zamanskaya>`
+* :ref:`ESI description by Voroschenko - pathologies <ESI-Voroschenko>`
+* :ref:`ESI description by Blohin - associative <ESI-Blohin>`
+* :doc:`ESI description from Socioscope.com <socioscope_ESI>`
+* :ref:`ESI profile by Piatnitskiy <ESI-Piatnitskiy>`
+
+**See also**:
+
+* :doc:`ESI subtypes <ESI_subtypes>`
+* :ref:`ESI photographs by Filatova <ESI-photos>`
+* :doc:`ESI observations <ESI_observations>`
+* :doc:`Type names <type_names>`
+* :doc:`Famous people <famous_people>`
+
+**Intertype relations**:
+
+* :ref:`LIE-ESI dual relations by Meged and Ovcharov <LIE-ESI-Meged>`
+* :ref:`LIE-ESI dual relations by Meged (extended) <LIE-ESI-work>`
+* :ref:`LIE-ESI Recommendations for Harmonization of Relations by Meged <LIE-ESI-har>`
+* :ref:`LIE-ESI dual relations by Gulenko <LIE-ESI-Gulenko>`
+* :ref:`LIE-ESI dual relations by A. Aushra <LIE-ESI-Aushra>` (untranslated)
+* :doc:`LIE-ESI dual relations by Stratiyevskaya <dual_ISFj_ENTj_vera>` (untranslated)
+* :doc:`Romantic and Sexual Behavior of Quadras and Subtypes <romantic_quadra>`
+
+.. list-table:: ESI :doc:`Intertype relations <intertype>`
+    :header-rows: 0
+
+    * - | :doc:`Identical <identity>`
+        | |ESI|
+      - | :doc:`Dual <duality>`
+        | |LIE|
+      - | :doc:`Activator <activation>`
+        | |ILI|
+      - | :doc:`Mirror <mirror>`
+        | |SEE|
+    * - | :doc:`Kindred <kindred>`
+        | |EII|
+      - | :doc:`Semi-dual <semi_dual>`
+        | |LSE|
+      - | :doc:`Benefactor <benefit>`
+        | |SLI|
+      - | :doc:`Supervisor <supervision>`
+        | |IEE|
+    * - | :doc:`Super-Ego <superego>`
+        | |LII|
+      - | :doc:`Extinguishment <extinguishment>`
+        | |ESE|
+      - | :doc:`Quasi-identical <quasi_identity>`
+        | |SEI|
+      - | :doc:`Conflictor <conflict>`
+        | |ILE|
+    * - | :doc:`Business <business>`
+        | |LSI|
+      - | :doc:`Mirage <illusionary>`
+        | |EIE|
+      - | :doc:`Beneficiary <benefit>`
+        | |IEI|
+      - | :doc:`Supervisee <supervision>`
+        | |SLE|
+
+.. list-table:: Socionics Type Descriptions
+    :header-rows: 0
+    :stub-columns: 1
+
+    * - Alpha Quadra
+      - :doc:`ILE(ENTp) <ILE>`
+      - :doc:`SEI(ISFp) <SEI>`
+      - :doc:`ESE(ESFj) <ESE>`
+      - :doc:`LII(INTj) <LII>`
+    * - Beta Quadra
+      - :doc:`SLE(ESTp) <SLE>`
+      - :doc:`IEI(INFp) <IEI>`
+      - :doc:`EIE(ENFj) <EIE>`
+      - :doc:`LSI(ISTj) <LSI>`
+    * - Gamma Quadra
+      - :doc:`SEE(ESFp) <SEE>`
+      - :doc:`ILI(INTp) <ILI>`
+      - :doc:`LIE(ENTj) <LIE>`
+      - :doc:`ESI(ISFj) <ESI>`
+    * - Delta Quadra
+      - :doc:`IEE(ENFp) <IEE>`
+      - :doc:`SLI(ISTp) <SLI>`
+      - :doc:`LSE(ESTj) <LSE>`
+      - :doc:`EII(INFj) <EII>`
+
+
+
+.. |Ne| image:: Symbol_i.gif
+.. |Ti| image:: Symbol_l.gif
+.. |Ni| image:: Symbol_t.gif
+.. |Te| image:: Symbol_p.gif
+.. |Fe| image:: Symbol_e.gif
+.. |Se| image:: Symbol_f.gif
+.. |Fi| image:: Symbol_r.gif
+.. |Si| image:: Symbol_s.gif
+
+
+.. |ILE| replace:: :doc:`ILE <ILE>`
+.. |SEI| replace:: :doc:`SEI <SEI>`
+.. |ESE| replace:: :doc:`ESE <ESE>`
+.. |LII| replace:: :doc:`LII <LII>`
+.. |SLE| replace:: :doc:`SLE <SLE>`
+.. |IEI| replace:: :doc:`IEI <IEI>`
+.. |EIE| replace:: :doc:`EIE <EIE>`
+.. |LSI| replace:: :doc:`LSI <LSI>`
+.. |SEE| replace:: :doc:`SEE <SEE>`
+.. |ILI| replace:: :doc:`ILI <ILI>`
+.. |LIE| replace:: :doc:`LIE <LIE>`
+.. |ESI| replace:: :doc:`ESI <ESI>`
+.. |IEE| replace:: :doc:`IEE <IEE>`
+.. |SLI| replace:: :doc:`SLI <SLI>`
+.. |LSE| replace:: :doc:`LSE <LSE>`
+.. |EII| replace:: :doc:`EII <EII>`
+

@@ -1,0 +1,599 @@
+Socionics Type and Intertype Relations Statistics by Filatova
+===================================================================
+
+| Published by :doc:`Ekaterina Filatova <filatova>` in
+  "Socionics, Mentology, and Psychology of Personality", 2000,  6.
+| `Original article <http://uchebilka.ru/voennoe/8590/index.html>`__.
+
+
+   **Abstract:** This article outlines the results of a statistical
+   study that was conducted on 105 families, numbering 299 people in
+   total. Four main socionic dichotomies were examined and uneven
+   distributions were found. The distribution of couples according to
+   intertype relations and the socionics relations of children to their
+   parents were also investigated. Some correlations were identified in
+   the frequency of sociotypes among children in relation to the
+   sociotypes of their parents.
+
+*Key words:* socionics, socionics types, intertype relations, family
+relations, distrubtion of types, statistics of types and intertype
+relations.
+
+This work was originally conceived as a study of relations between types
+of children and types of their parents. For this purpose, I have
+collected and stored relevant data of many years of my work, including
+data on people who sought my counseling to resolve conflicts with their
+family members. Information presented here does not relate to people
+engaged in a certain field or profession, but is completely random, and
+also contains data from the relatives, friends, neighbors, etc.
+
+Accordingly, it seemed appropriate to use this data for other socionic
+research that can be conducted on a sufficiently random sample of 299
+people, and thus, this work was broken down into two parts. The first
+part presents research of distribution of types according to gender and
+socionics dichotomies, while the second part touches upon intertype
+relations in the families, and the relation of children's sociotypes to
+types of their parents and other family members. This study in part also
+concerns similar type of research that was carried out by Bukalov,
+Karpenko, and Chykyrysova (1), thus some comparisons are presented.
+
+At the end of the article a complete list of the data on which this
+study was based is presents. Data on the first 71 families were gathered
+during many years of my research work; the rest was kindly provided by
+\E. Malskaya, A. Filimonov, D. Shulman, for which I am thankful to them.
+
+
+
+Part 1. General Research.
+-------------------------
+
+The total number of people surveyed (parents and their children) is 299
+people, out of which 161 individuals were female and 138 individual were
+male. The list includes 27 single-parent families. For 24 of them the
+type of father is unknown, and for 3 of them - the type of mother is
+unknown. Adding the number of missing parents to the total number of
+representatives we obtain an almost equal number of both sexes: 164
+women and 162 men. This is consistent with the known statistics on the
+distribution of men and women.
+
+The following table shows type distribution among 299 people broken down
+by gender.
+
+
+
+Table 1. Summary statistics.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+=========== === ===== ===== ====== ============= === ===== ===== ======
+Pragmatists Men Women Total %      Socials       Men Women Total %
+=========== === ===== ===== ====== ============= === ===== ===== ======
+LSE         11  8     19    6.35%  ESI           2   11    13    4.35%
+LSI         10  9     19    6.35%  ESE           1   9     10    3.34%
+SLE         4   9     13    4.35%  SEE           2   16    18    6.02%
+SLI         5   5     10    3.34%  SEI           11  7     18    6.02%
+Total:      30  31    61    20.40% Total:        16  43    59    19.73%
+Researchers Men Women Total %      Humanitarians Men Women Total %
+LIE         12  9     21    7.02%  EII           3   6     9     3.01%
+LII         13  14    27    9.03%  EIE           22  16    38    2.71%
+ILE         9   6     15    5.02%  IEE           6   7     13    4.35%
+ILI         19  14    33    11.04% IEI           8   15    23    7.69%
+Total:      53  43    96    32.11% Total:        39  44    83    27.76%
+=========== === ===== ===== ====== ============= === ===== ===== ======
+
+Quite unexpected was the general inequality in the distribution of
+sociotypes. The most frequent types were EIE and ILI (38 and 33,
+respectively), while the least numerous types were EII, ESE, and SLI (9,
+10, and 10, respectively). There were significantly fewer
+representatives of Pragmatist and Social clubs in this sample (40.13%)
+than Researchers and Humanitarians (59.87%).
+
+These findings differ significantly from the data from [1]
+where the authors observed a uniform distribution, as follows:
+
+
+
+Table 2. Comparative statistics.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
++---------------------+----------------------+----------------------+
+|                     | Distribution from    | Distribution from [1]|
+|                     | this study           |                      |
++=====================+======================+======================+
+| Pragmatists [STs]   | 20.40%               | 26.5%                |
++---------------------+----------------------+----------------------+
+| Researchers [NTs]   | 32.11%               | 25.2%                |
++---------------------+----------------------+----------------------+
+| Socials [SFs]       | 27.76%               | 24.40%               |
++---------------------+----------------------+----------------------+
+| Humanitarians [NFs] | 27.76%               | 24.40%               |
++---------------------+----------------------+----------------------+
+
+Of course, we can assume that the disproportionate number of Researchers
+compared to other clubs is due to the fact that the circle of scientific
+intelligentsia, to which all those who who provided the data belong, is
+closest to the Researchers club. However, the children, who comprised
+half the list, have not yet chosen their occupation and interests. It is
+also noteworthy is that the second largest group is the Humanitarian
+club, in which the most numerous type belongs to the representative of
+Humanitarians - EIE. This cannot be explained the preferred social
+circle.
+
+Evaluation of the confidence probability using statistics of Student
+(t-test) that the obtained values are not random:
+
+=================== ========== ========== ========== ===========
+Pragmatists [STs]   LSE - 0.15 LSI - 0.15 SLE - 0.95 SLI - 0.985
+Researchers [NTs]   LIE - 0.95 LII - 0.99 ILE - 0.85 ILI - 0.99
+Socials [SFs]       ESI - 0.95 ESE - 0.98 SEE - 0.20 SEI - 0.20
+Humanitarians [NFs] EII - 0.98 EIE - 0.99 IEE - 0.95 IEI - 0.97
+=================== ========== ========== ========== ===========
+
+These results show a sufficient high probability of uneven distribution
+of sociotypes in most cases.
+
+This data may reflect the observation that in presence of significant
+number of inventions and discoveries, of high level of philosophical
+thought, culture and spirituality, our country was never distinguished
+by practical ability, while social services always occupied the last
+place. Of course, we cannot confidently draw any conclusions at this
+point, only forward possible arguments about the consistency of the
+data.
+
+Distribution by Quadra:
+
+
+
+Table 4. Distribution by Quadra.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
++----------------------+----------------------+----------------------+
+| Quadra               | Distribution from    | Distribution from [1]|
+|                      | this study           |                      |
++======================+======================+======================+
+| First Quadra (Alpha) | 23.41%               | 23%                  |
++----------------------+----------------------+----------------------+
+| Second Quadra (Beta) | 31.10%               | 29%                  |
++----------------------+----------------------+----------------------+
+| Third Quadra (Gamma) | 28.43%               | 26%                  |
++----------------------+----------------------+----------------------+
+| Fourth Quadra        | 17.06%               | 22%                  |
+| (Delta)              |                      |                      |
++----------------------+----------------------+----------------------+
+
+The fourth squadra is the smallest, while the second is almost double
+the size of the fourth. This trend, however, is less expressed in work
+of Bukalov. et al
+[1]
+that studied only married couples.
+
+Now, let us examine the distribution of sociotypes by Jungian
+dichotomies. This data is presented below by gender.
+
+
+
+Table 5. Gender distribution along the socionics dichotomy of rationality-irrationality.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+=========== === ===== ===== ========= === ===== =====
+Irrationals Men Women Total Rationals Men Women Total
+=========== === ===== ===== ========= === ===== =====
+IEI         8   15    23    EIE       22  16    38
+ILI         19  14    33    ESE       1   9     10
+SEI         11  7     18    LIE       12  9     21
+SLI         5   5     10    LSE       11  8     19
+IEE         6   7     13    EII       23  6     29
+SEE         2   16    18    ESI       2   11    13
+ILE         9   6     15    LII       13  14    27
+SLE         4   9     13    LSI       10  9     19
+Totals:     64  79    143   Totals:   74  82    156
+=========== === ===== ===== ========= === ===== =====
+
+The distribution in this case is almost equal. Given that there are 21
+more women on our list than men, we can assume women are no less
+rational than men. Summary of the results:
+
+| **For women: rational types** - 49.7 % (79/161), **irrational types**
+  - 50.93% (8/161)
+| **For men: rational types** - 46,38% (64/138), **irrational types** -
+  53,62% (74/138)
+
+
+
+Table 6. Gender distribution along the socionics dichotomy of extraversion-introversion.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+========== === ===== ===== ========== === ===== =====
+Extroverts Men Women Total Introverts Men Women Total
+========== === ===== ===== ========== === ===== =====
+LSE        11  8     19    IEI        8   15    23
+LIE        12  9     21    SEI        11  7     18
+ESE        1   9     10    ILI        19  14    33
+EIE        22  16    38    SLI        5   5     10
+IEE        6   7     13    EII        3   6     9
+SEI        2   16    18    ESI        2   11    13
+ILE        9   6     15    LII        13  14    27
+SLE        4   9     13    LSI        10  9     19
+Totals:    67  80    147   Totals     71  81    162
+========== === ===== ===== ========== === ===== =====
+
+Data on the parameter of extraversion / introversion is similar to the
+data on the rationality / irrationality. Just as in the previous case,
+the number of extraverts is comparable to the number of introverts, and
+given the larger number of women (21) we can assume that the
+distribution of extraversion / introversion trait according to gender is
+essentially the same.
+
+| **For women: extroverted types** - 49.69% (80/161), **introverted
+  types** - 50.31% (81/161)
+| **For men: extroverted types** - 48.55% (67/138), **introverted
+  types** - 51.45% (71/138)
+
+
+
+Table 7. Gender distribution along the socionics dichotomy of logic-ethics.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+======= === ===== ===== ======= === ===== =====
+Logical Men Women Total Ethical Men Women Total
+======= === ===== ===== ======= === ===== =====
+LSE     11  8     19    IEI     8   15    23
+LIE     12  9     21    SEI     11  7     18
+SLE     4   9     13    EII     3   6     9
+ILE     9   6     15    ESI     2   11    13
+LSI     10  9     19    IEE     6   7     13
+LII     13  14    27    SEE     2   16    18
+SLI     5   5     10    EIE     22  16    38
+ILI     19  14    33    ESE     1   9     10
+Totals: 83  74    157   Totals: 55  87    142
+======= === ===== ===== ======= === ===== =====
+
+From the above table we can see that among men the relative number of
+logical types is greater than ethical types, while the reverse is true
+for women. The overall ratio of logical to ethical types is about even
+(157 to 142). This difference is within the margin of error associated
+with the small sample of 299 people. Possibly, with more statistics this
+data may even out or diverse even further. There is nothing more
+specific that could be said at this point.
+
+| **For women: logical types** - 46%, **ethical types** - 54%
+| **For men: logical types** - 60%, **ethical types** - 40%
+
+The difference in distribution of logical and ethical types is less
+among women than among men. A difference of 8% makes it less likely that
+there is a difference in distribution of ethical and logical types among
+women, while for men the results are more supportive of the existence of
+such difference.
+
+These results are also markedly different from the data of [1],
+where in the sample group 68% of women were ethical types while 71% of
+men were logical types.
+
+
+
+Table 8. Gender distribution along the socionics dichotomy of sensing-intuition.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+======= === ===== ===== ========= === ===== =====
+Sensing Men Women Total Intuitive Men Women Total
+======= === ===== ===== ========= === ===== =====
+LSE     11  8     19    LIE       12  9     21
+ESE     1   9     10    EIE       22  16    38
+SLE     4   9     13    ILE       9   6     15
+SEE     2   16    18    IEE       6   7     13
+LSI     10  9     19    LII       13  14    27
+ESI     2   11    13    EII       3   6     9
+SLI     5   5     10    ILI       19  14    33
+SEI     11  7     18    IEI       8   15    23
+Totals: 46  74    120   Totals:   92  87    179
+======= === ===== ===== ========= === ===== =====
+
+For this last dichotomy, an overall significant shift toward intuitive
+types is evident (179-120), and this cannot be attributed to
+insufficient statistics. The confidence level for both sensing and
+intuitive numbers is greater than 0.7 applying Student statistics. The
+distribution according to gender is as follows:
+
+For women: sensing types - 46%, intuitive types - 54% For men: sensing
+types - 67%, intuitive types - 33%
+
+Here, just as with the dichotomy "logic-ethics", the differences for
+women lies within the statistical error (8%), while for men the
+difference is more significant.
+
+In summary, dichotomies of ationality / irrationality, and extraversion
+/ introversion show an equal distribution according to gender.
+Dichotomies of logic / ethics and sensing / intuition show uneven gender
+distributions. Our data also shows that nature takes care of the
+availability of all poles of the dichotomies. The only major shift in
+the poles, in our case, was presents in the dichotomy of
+intuition-sensing towards the intuitive side. The distribution of
+sociotypes was extreemely uneven (EIE - 39, IEI - 9), such that not
+everyone, in theory, would be able to find a dual.
+
+
+
+Part 2. Study of sociotypes and intertype relations in families.
+----------------------------------------------------------------
+
+Now let's examine the parameters of families, and above all, let us
+analyze the distribution of couples to intertype relations. The result
+is shown below:
+
+
+
+Table 9. Distribution of families by intertype relations.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
++----------------------+----------------------+----------------------+
+|                      | Distribution from    | Distribution from [1]|
+|                      | this study           |                      |
++======================+======================+======================+
+| Duallity             | 12 (15.6%)           | 45%                  |
++----------------------+----------------------+----------------------+
+| Activation           | 12 (15.6%)           | 45%                  |
++----------------------+----------------------+----------------------+
+| Semi-duality         | 9 (11.7%)            |                      |
++----------------------+----------------------+----------------------+
+| Mirrow               | 8 (10.4%)            | 5%                   |
++----------------------+----------------------+----------------------+
+| Quasi-identity       | 7 (9.1%)             |                      |
++----------------------+----------------------+----------------------+
+| Benefit              | 6 (7.8%)             | 10%                  |
++----------------------+----------------------+----------------------+
+| Supervision          | 5 (6.5%)             | 5%                   |
++----------------------+----------------------+----------------------+
+| Extinguishment       | 4 (5.2%)             |                      |
++----------------------+----------------------+----------------------+
+| Conflict             | 4 (5.2%)             |                      |
++----------------------+----------------------+----------------------+
+| Business             | 3 (3.9%)             |                      |
++----------------------+----------------------+----------------------+
+| Superego             | 3 (3.9%)             |                      |
++----------------------+----------------------+----------------------+
+| Illusionary          | 2 (2.6%)             |                      |
++----------------------+----------------------+----------------------+
+| Kindred              | 1 (1.3%)             |                      |
++----------------------+----------------------+----------------------+
+| Identity             | 1 (1.3%)             | 6%                   |
++----------------------+----------------------+----------------------+
+| Total                | 77 (100%)            |                      |
++----------------------+----------------------+----------------------+
+
+Note: According to our information, two families in supervision
+relations fell apart shortly after they had a child.
+
+**Our results diverge strongly from the data of A. V. Bukalov et al. in
+citation (1) which estimated dual pairs to be at 45% compared to our
+15.6%.** Other data can be considered qualitatively consistent, given
+the small sample size.
+
+Next we present a very interesting result concerning the distribution of
+sociotypes of children and the sociotypes of their parents. The
+following table shows the child's type's socionics relation to the type
+of his or her mother and father:
+
+
+
+Table 10. The correlation of types of children to the types of their parents.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
++-------+-------+-------+-------+-------+-------+-------+-------+
+|       | Dual  | Semi  | M     | M     | Con   | Con   | S     |
+|       |       | -dual | irage | irror | trary | flict | uperv |
+|       |       |       |       |       |       |       | ision |
++=======+=======+=======+=======+=======+=======+=======+=======+
+| F     | 5     | 6     | 8     | 10    | 3     | 6     | 5     |
+| ather |       |       |       |       |       |       |       |
++-------+-------+-------+-------+-------+-------+-------+-------+
+| M     | 36    | 6     | 6     | 5     | 15    | 7     | 11    |
+| other |       |       |       |       |       |       |       |
++-------+-------+-------+-------+-------+-------+-------+-------+
+|       | Iden  | Ki    | Bus   | Sup   | Quasi | Act   | Be    |
+|       | tical | ndred | iness | erego | -iden | ivity | nefit |
+|       |       |       |       |       | tical |       |       |
++-------+-------+-------+-------+-------+-------+-------+-------+
+| F     | 31    | 9     | 8     | 3     | 5     | 5     | 3     |
+| ather |       |       |       |       |       |       |       |
++-------+-------+-------+-------+-------+-------+-------+-------+
+| M     | 11    | 6     | 6     | 2     | 7     | 7     | 12    |
+| other |       |       |       |       |       |       |       |
++-------+-------+-------+-------+-------+-------+-------+-------+
+
+Two sharp outliers in intertype relations of children to their parents
+immediately attract attention: *duality of children to their mothers and
+identity to their fathers* are strongly represented in comparison to all
+other types of relations. Indeed, among the full number of children,
+which is 142, we were able to trace 136 having relation to mother and
+108 having relation to father.
+
+| **25.7% (35/136) cases when the child was dual to mother**
+| **28.7% (31/108) cases when the child was identical to father**
+
+This strong deviation is hardly accidental. Confidence level of these
+results according to Student's test is greater than 0.7. At the same
+time, identity relation to mothers and duality to fathers is not
+particularly distinguished from other types of intertype relations.
+(Note that the numbers of children related to their mothers and their
+fathers were not the same because in some families it was not possible
+to obtain the type of one of the parents).
+
+This different could be due to various reasons, in particular, children
+often tend to mimic and play into the roles of their parents (boys
+imitate their fathers, and girls - their mothers), which increases the
+potential error in determining their sociotypes. However, in this case,
+the identical relations deviated only in relations to the fathers, while
+identity to the mothers was very weak. For mothers, by contrast,
+according to our data, it is more characteristic to have children who
+are not identical but dual. Furthermore, out of 31 children who were
+identical to their fathers, 11 were girls and 20 were boys. It can be
+proposed that some of the boys ended up on this list only on the basis
+of roles, since there were 9 more boys than girls. Even if you subtract
+that number 9 of total 31 yielding 22, this number of children identical
+to their fathers still strongly stands out of the picture.
+
+If, however, role imitation was not the decisive fact here, it is
+possible that the inheritance of sociotype is uneven according to the
+child's gender: boys more often inherit the sociotype of their fathers.
+Course, all this is still only be considered as a preliminary results to
+which I would like to draw the attention of my colleagues and invite
+them to take part in this type of research.
+
+Another number that stands out is contrary intertype relations of
+children to their mothers, while in relation to the fathers this figure
+is likely an underestimate. Significantly high is the number of
+supervision relationships of children to their mothers. Here, however, I
+would like to share some observations: in three of these families, with
+which I'm familiar enough, there is the most tender friendship, I would
+say even excessive attachment between the parent and the child in
+supervision relations. Apparently, the difference in levels of
+development has an effect here, as the parent is either particularly
+careful of the vulnerable function of the child, or, if the child is the
+supervisor, is in excessive admiration of the child.
+
+It was customary to believe that the trait of rationality-irrationality
+is transmitted to the children provided that both parents are same on
+this trait. It turned out that this is not so: for 25 pairs on the above
+list this is indeed the case, however, two rational parents may have an
+irrational child, and vice versa, irrational parents may produce an
+irrational child as has been observed in 10 cases; that is, this is not
+so rare.
+
+Since 25 +10 = 35 - this is the total number of families where parents
+are both rational or irrational types, we have: 25/35 = 0.71, that is,
+**in 71% of cases, the child is on the same side of the
+rational-irrational dichotomy as the parents, and in 29% of cases - on
+the other side**. This question hasn't been considered for the other
+dichotomies since the fact that the other traits are not conserved is
+quite obvious from the data.
+
+It may be surmised that there is reproducibility of the same sociotypes
+within families across several generations. Unfortunately, there is not
+enough data for such analysis due to the difficulty of determining the
+sociotypes even within three generations, for obvious reasons, but it
+should be noted that such proposition makes sense.
+
+Here is a list of "kindred" families. The elder generation is at the top
+of the list, and below it is the younger generation.
+
+-  Families, numbered 1-3. Curiously, the rational parents in this
+   couple had two rational children, EIE son and daughter, and then
+   suddenly an irrational child of type IEI (family 1). The same
+   situation occurred in the family 2, in which the mother EIE (daughter
+   of family 1) had a daughter of sociotype IEI.
+-  Families 20-21. In family 21, a grandson appeared of same type as his
+   grandfather, SEI.
+-  Families 24-25. Almost all of members are of sociotype LSI. The
+   grandson is of the same type as the grandmother.
+-  Families 32-33. SEE grandson is of the same type as that of his
+   grandmother.
+-  Families 52-54. Frequent repetition of sociotype ILI. In particular,
+   in family 54 son repeats the type of his grandfather of the family 53.
+-  Families 83-85. Here grandfather LSE of family has grandaughter LSE
+   in family 3.
+-  Families 71-74. Children in family 72, LII and IEI, with their
+   families (73 and 74) reproduced types LIE and IEI.
+-  Families 95-96. Any patterns are not noticeable.
+-  Families 99-100. Family 100 had a grandson of type LIE, same type as
+   his grandfather.
+
+In all of these above listed families we were able to identify
+sociotypes of 21 grandchildren, out of whom 8 were repeating the
+sociotype of one of their ancestors. But we have managed to trace only a
+single vertical line. However, each grandchild has two grandmothers and
+two grandfathers, therefore, the likelihood of recurrence of sociotypes
+is doubled, as a result, confidence level is more than 0.99.
+
+Thus, we see that the most frequent distribution of sociotypes is when a
+grandchild is repeating the sociotype of grandparents: could this be the
+reason for the special tender affection of grandparents for their
+grandchildren? At the very least, even this small statistical sample
+reveals such a trend quite confidently.
+
+Another frequently encountered view in socionics is that dual parents
+have dual or identical children. This opinion was not confirmed: in dual
+families we did find 10 children who were dual or identical types to
+their parents, but there were also 5 children of other types; that is,
+sufficiently frequently this hypothesis is not supported.
+
+The above data, namely, the appearance of children who are dual to their
+mothers and identical to their fathers with probability greater than
+25%, and the frequent recurrence of the same sociotypes within several
+generations, implies a possible genetic origins of socionics types.
+
+Indeed, a fertilized egg already carries some genetic information that
+in case of normal development of the fetus does not change and remains
+the same after birth.
+
+The assumption of the genetic nature of the formation of sociotype, in
+my opinion, is also confirmed by a strong external similarities of
+sub-types within a type. This is particularly evident in those cases
+where the investigator is working with sufficient relevant data.
+Currently I have the photo library numbering several thousand
+photographs of at least a thousand representatives of different types
+(shots were made from three or more angles for each person). In cases
+where there is large amount of data for members of the same type (for
+example, more than 100 people of type ILI), groups of similar faces
+become apparent, sometimes producing an impression of well-known twins.
+Pictures of ILIs in my photo library naturally form around a dozen such
+clusters, eight pairs of which can be found in my book (2).
+
+**In this regard, I would like to remind the reader of a very
+interesting, from my point of view the work D. A. Ivanova (3), which has
+shown that identical twins have same sociotypes, as well as being very
+similar in appearance and various physiological parameters.** In this
+case, their genetic sameness is obvious. Also I can recollect a private
+communication of director of the St. Petersburg Institute of
+Psychoanalysis M. M. Reshetnikov concerning the work of one physician
+who studied medical parameters of identical twins and found that these
+parameters were almost completely identical. Unfortunately, he could not
+provide any coordinates of this work.
+
+Apparently, in socionics, observing groups of people who are nearly
+identical externally and by physiological manifestations we have come
+close to the "elementary", so to speak, type, whose properties can be
+described as a specific genetic code, and thus, the question of total
+number of such "elementary" types can be resolved. Already, it seems
+clear that the traditional socionic count of 16 types is some kind of
+intermediate stage of classification. Each of the 16 psychological types
+naturally breaks down to a number of smaller groups (in my photo library
+this number varies from 14 to 16), the exact value of which can be
+determined with sufficiently large amount of data. Currently, the most
+important question in my view is the basis for these divisions.
+
+In conclusion, I want to sincerely thank A. M. Elyashevich who took the
+trouble to present the material of this paper to the socionics
+conference in September 1999, and with a high degree of understanding of
+the work answered numerous questions of the audience.
+
+Supporting data:
+
+Each family is assigned a serial number. The next column contains
+sociotypes of mother, father, their socionics intertype relation, then
+the types of their children and their intertype relations to each
+parent. The letter "s" and "d" indicate the sex of the child (son or
+daughter), while in the column of children intertype relations with
+their parents the letters "m" and "f" "characterize the relationship
+with her mother and father, respectively.
+
+The names of all the families are recorded in my file cabinet according
+to their numerical order, however, as there have been numerous requests
+to not publish their full names, these were removed from the list below.
+
+It may be useful to provide complete, detailed set of data instead of
+just the end result for my colleagues who may want to extract additional
+information that may be of interest to them.
+
+Table 11. Summary Table of intertype relations for 299 families
+
+[Table not included. Full table can be found at:
+http://uchebilka.ru/voennoe/8590/index.html?page=3]
+
+References
+----------
+
+#. Bukalov A.V., Karpenko O.B., Chykyrysova G.V., "On statistics of
+   relations within couples. // Socionics, Mentology, and Psychology of
+   Perosnality",  1, Kiev, 1999.
+#. Filatov E.S., "Socionics for everyone", BSK, St. Petersburg, 1999.
+#. Ivanov D. A. "Some features of thinking that twins with mental
+   infantilism. // Socionics, Mentology, and Psychology of Personality", 6, Kiev, 1997

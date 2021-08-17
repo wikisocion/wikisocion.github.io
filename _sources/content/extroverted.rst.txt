@@ -1,0 +1,9 @@
+Extroverted
+=======================
+
+In socionics the term **extraverted** can refer to individuals (:doc:`socionic types <socionic_type>`), :doc:`IM elements <elements>`, or :doc:`information aspects <information_aspect>`. 
+
+Extraverts, or extratims
+-----------------------------------
+
+Read more about :doc:`extratims <extra_intro>`, or individuals whose :ref:`leading function <leading-func>` is extraverted. 

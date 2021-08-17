@@ -1,0 +1,144 @@
+Extraversion and introversion
+=================================
+
+**Extraversion** / **Introversion** is one of the 4 :doc:`Jungian dichotomies <jungian>`, and one of the 15 :doc:`Reinin dichotomies <reinin_dich>`.
+
+Introduction
+------------
+
+Extraversion as a socionic trait is defined by the :ref:`leading function <leading-func>` of a type. If the leading function is
+extraverted, the type is called "extraverted" or "extratim"; conversely
+if the leading function of type is introverted, then this type is called
+"introverted" or "introtim". It should be kept in mind that the
+:doc:`model <model_a>` of every type has both extraverted and introverted
+elements. Depending on which element is involved, a person may appear to
+be more "extraverted" or more "introverted" in that moment.
+
+In socionics, "extraversion" is a perceptual quality defined by a focus
+on the characteristics and behavior of objects (people, things, events)
+outside the observer. In contrast, "introversion" means a focus on the
+observer's response to and perception of objects.
+
+| **Extraverts:** qualities of objects are taken for granted, while
+  interrelationships between objects are seen as being malleable; change
+  interaction of objects to better fit qualities of objects.
+| **Introverts:** interrelationships are taken for granted, while
+  qualities of object are seen as being malleable; adapt qualities of
+  objects to better fit their interrelationships.
+
+:doc:`Augusta <augusta>` likened the difference between extraverted and
+introverted perception to the difference between :doc:`bodies <bodies_fields>` and
+:doc:`fields <bodies_fields>` in physics. "Bodies" are objects with mass and
+certain qualities, while "fields" are the realm of interaction between
+bodies.
+
+Carl Jung believed that introversion and extraversion were present in
+everyone, but that one attitude-type is invariably dominant. He
+described the extravert as trusting what is received from the outside
+world while regarding implicit factors and motivations of secondary
+importance, while the introvert may be well aware of external
+conditions, but he is not motivated by them, rather he responds
+primarily to his internal impressions of the external events. See :doc:`the extraverted type <psychological_types>`, :doc:`the introverted type <psychological_types>`, and
+`extraversion and introversion <http://www.the16types.info/vbulletin/content.php/190-Introduction-to-Jung-Lexicon>`_.
+
+In socionics, :doc:`IM elements <elements>`, :doc:`information aspects <information_aspect>`, and types can all be treated as
+extraverted or introverted.
+
+Extraverted and introverted types
+---------------------------------
+
+-  Extraverted :doc:`IM types <socionic_type>` are: :doc:`ILE <ILE>`, :doc:`ESE <ESE>`, :doc:`EIE <EIE>`, :doc:`SLE <SLE>`, :doc:`SEE <SEE>`, :doc:`LIE <LIE>`, :doc:`LSE <LSE>`, and :doc:`IEE <IEE>`.
+-  Introverted :doc:`IM types <socionic_type>` are: :doc:`SEI <SEI>`, :doc:`LII <LII>`, :doc:`LSI <LSI>`, :doc:`IEI <IEI>`, :doc:`ILI <ILI>`, :doc:`ESI <ESI>`, :doc:`EII <EII>`, and :doc:`SLI <SLI>`.
+-  Using the :doc:`four-letter code <type_names>`: Extraverted types have an *E*, introverted types have an *I* as first letter.
+
+
+Typical characteristics
+-----------------------
+
+
+Extraverted types
+~~~~~~~~~~~~~~~~~
+
+#. Psychic energy more often flows outwards.
+#. Energy level increases when interacting with a large group of people.
+#. Energy level decreases when they are alone.
+#. Energy level is generally higher.
+#. More often focused on their surroundings.
+#. Tend to be more active and initiating.
+#. Often make new friends easily.
+#. Often better at presenting themselves.
+#. Often prefer to work in a team.
+
+Introverted types
+~~~~~~~~~~~~~~~~~
+
+#. Psychic energy more often flows inwards.
+#. Energy level increases when they are alone.
+#. Energy level decreases when interacting with a large group of people.
+#. Energy level is generally lower.
+#. More often focused on their thoughts and feelings.
+#. Tend to be more passive, less initiating.
+#. Often do not have many friends.
+#. Often better at concentrating.
+#. Often prefer to work alone.
+
+Note on sociability and extraversion/introversion
+-------------------------------------------------
+
+A common misconception, also compounded by some interpretations of
+:doc:`MBTI <MBTI>` or even of :doc:`Jung's typology <jung_typology>`, is
+that extratims are extraverted as in "socially outgoing", and intratims
+are introverted as in "socially reserved". In socionics terms, however,
+that is not the case. An introtim may be socially outgoing and even
+prefer a situation with broad and intensive social interaction as in a
+large group; an extratim may be socially reserved in terms of preferring
+social interactions limited to a very small number of select
+individuals. What is more important, in terms of socionics
+extraversion/introversion, is whether the individual is inclined to take
+the initiative in establishing the social interaction (of whatever
+kind), or prefers to let others take this initiative.
+
+
+Further reading
+---------------
+
+-  :doc:`On the Correct Understanding of Dichotomy Extroversion-Introversion by Trehov and
+   Tsypin <understand_e_i>`
+-  :doc:`Extraversion and introversion (psychology) <extra_intro_psy>`
+
+
+.. list-table:: Type :doc:`dichotomies <dich>`
+    :header-rows: 0
+    :align: center
+
+    * - |jp|
+      - |EI|
+      - |NS|
+    * - |TF|
+      - |SD|
+      - |PR|
+    * - |PN|
+      - |AD|
+      - |CE|
+    * - |CF|
+      - |YO|
+      - |TS|
+    * - |MS|
+      - |JD|
+      - |AD|
+
+.. |EI| replace:: :doc:`Extraversion and introversion <extra_intro>`
+.. |DA| replace:: :doc:`Democratic and aristocratic <democratic_aristocratic>`
+.. |TS| replace:: :doc:`Tactical and strategic <tactical_strategic>`
+.. |CE| replace:: :doc:`Constructivist and emotivist <constructivist_emotivist>`
+.. |PN| replace:: :doc:`Positivist and negativist <positivist_negativist>`
+.. |JD| replace:: :doc:`Judicious and decisive <judicious_decisive>`
+.. |MS| replace:: :doc:`Merry and serious <merry_serious>`
+.. |NS| replace:: :doc:`Sensing and intuition <sensing_intuition>`
+.. |TF| replace:: :doc:`Ethics and logic <ethics_logic>`
+.. |jp| replace:: :doc:`Rationality and irrationality <ration_irration>`
+.. |CF| replace:: :doc:`Carefree and farsighted <carefree_farsighted>`
+.. |YO| replace:: :doc:`Yielding and obstinate <yielding_obstinate>`
+.. |SD| replace:: :doc:`Static and dynamic <statics_dynamics>`
+.. |PR| replace:: :doc:`Process and result <process_result>`
+.. |AD| replace:: :doc:`Asking and declaring <asking_declaring>`

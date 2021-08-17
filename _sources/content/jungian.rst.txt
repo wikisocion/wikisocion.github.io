@@ -1,0 +1,11 @@
+Jungian foundation
+==========================
+
+The **Jungian foundation** (*базис Юнга* in Russian) refers to the original four dichotomies proposed by :doc:`Jung <jung>` and adapted somewhat by :doc:`Augusta <augusta>`:
+
+* :doc:`Extraversion / Introversion <extra_intro>` (sometimes called 'Extratim / Introtim')
+* :doc:`Sensing / Intuition <sensing_intuition>` (Sensing is sometimes called 'Sensory')
+* :doc:`Ethical / Logical <ethics_logic>`
+* :doc:`Rational / Irrational <ration_irration>` (occasionally called 'Shizotyme / Cyclotyme' or 'Rigid / Labile') 
+
+One trait of each dichotomy is dominant for each type. Any combination of these traits is possible, producing 16 types (24 = 16). Two of Jung's dichotomies -- rational/irrational and extraverted/introverted -- are uniform across all types. In other words, an IEE is just as extraverted (in the Jungian sense!) as an SLE. The other two dichotomies -- sensing/intuitive and ethical/logical -- are non-uniform. In other words, an ESE is not sensing in the same way that an SEE is, and an ILI is "more" intuitive than an LIE. 

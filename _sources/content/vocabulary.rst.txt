@@ -1,0 +1,587 @@
+Vocabulary
+=================
+
+This project was inspired by the book :doc:`The Semantics of the Information Aspects <semantic_aspects>`, which attempted
+to concreticize the way different :doc:`IM elements <elements>` manifest
+themselves in people's speech. Here we are looking for real-life phrases
+that reflect the point of view of different IM elements (or 'psychic
+functions'). An equivalent project has been started on the `Russian
+version of
+Wikisocion <http://wikisocion.org/~wikisoci/ru/index.php?title=%D0%A1%D0%BB%D0%BE%D0%B2%D0%B0%D1%80%D1%8C_%D0%B8%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D1%8B%D1%85_%D0%B0%D1%81%D0%BF%D0%B5%D0%BA%D1%82%D0%BE%D0%B2#.5B.5B.D0.AD.D0.BA.D1.81.D1.82.D1.80.D0.B0.D0.B2.D0.B5.D1.80.D1.82.D0.BD.D0.B0.D1.8F_.D0.B8.D0.BD.D1.82.D1.83.D0.B8.D1.86.D0.B8.D1.8F.5D.5D_.28.5B.5BImage:symbol_i.gif.5D.5D.29>`__.
+If this page grows too large, it will be split into eight separate
+pages.
+
+
+
+|symbol_i.gif| (:doc:`extraverted intuition <Ne>`)
+------------------------------------------------------------------
+
+
+
+|symbol_i.gif| related words
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+-  idea, realization, epiphany, revelation
+-  general, overall, basic, main, core, fundamental
+-  important, key, critical, crucial
+-  enlightening, illuminating, insightful
+-  overview, glance (*figurative*)
+-  initially, recently, eventually, ultimately, finally
+-  in general, basically, for the most part, more or less, pretty much
+-  generate, engender, spawn, breed, give birth to, give rise to (*all
+   figurative*)
+-  origin, crux, root, source
+-  any moment now, at the moment, until, since, later, once again,
+   sometimes, occasionally, frequently, often, all the time, every time,
+   for a while, periodically, regularly
+-  sudden, abrupt, unpredictable
+-  option, alternative, choice
+-  crossroads, juncture
+-  possibility, potential, likelihood, opportunity, chance, luck,
+   fortune
+-  coincidence, concurrence
+-  come together, fall into place (*of events*)
+-  guess, suppose, imagine, reckon, conjecture, venture, hazard
+-  random (*figurative*)
+
+
+
+|symbol_i.gif| related statements (real-life only, please)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+-  get to the root of
+-  you basically imply that...
+-  What I really meant was more that... (*some symbol_l.gif here?*)
+-  Here's another idea.
+-  I have a career {*or any other idea*} for you.
+-  Just some random thoughts...
+-  in the long run it makes more sense to... (*some symbol_p.gif here?*)
+-  ... and discovered lots of parallels with other things
+-  Within a week or so
+-  that's the main commercial activity I've been involved in here
+   recently since...
+-  it seems that things are coming together to allow me to do this
+-  Any ideas where we can...?
+-  ... has real potential
+-  did you learn anything about yourself, people, country, you did not
+   know before? (*some symbol_r.gif here as well*)
+-  You seem to have found a great niche
+-  Imagine that!
+-  Something really interesting is...
+-  Now just imagine for a second that...
+-  Suppose we go there and...
+-  I happen to have just spoken to him.
+-  Now is the critical moment.
+-  If I had gotten there earlier, I would have had time to figure things
+   out first.
+-  One thing I have noticed is that...
+-  It has become clear to me lately that...
+-  I'm starting to realize...
+-  I'm pretty good at figuring out...
+-  So hypothetically...
+-  Well I think in that situation I would have responded in
+   such-and-such a way.
+
+
+
+Features of |symbol_i.gif| speech
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+-  A tendency to use the conditional tense frequently ("would have
+   been," "what might happen," etc.)
+
+
+
+|symbol_t.gif| (:doc:`introverted intuition <Ni>`)
+------------------------------------------------------------------
+
+
+
+|symbol_t.gif| related words
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+-  anticipate, expect, envision, await, sense, foresee
+-  cause, causation, influence, consequence
+-  reflect, mirror, signal, indicate, point to (*all figurative*)
+-  clear, muddy, muddled, foggy, hazy, murky, blurry, fuzzy, faint (*all
+   figurative*)
+-  bode, foreshadow, predict, promise, portend
+-  destiny, dream, echo (*figurative*), calamity
+-  disturbing, troublesome, troubling, worrisome, troubling, foreboding,
+   sinister, ominous, fateful
+-  calm, serene, tranquil, idyllic
+-  din, commotion, hustle and bustle
+-  mysterious, cryptic, deep, shallow, obscure
+-  recollect, remember, retrieve, recall, call up, hark back to
+-  indefinite, vague, uncertain, unclear, nebulous, unknowable
+-  mire, quagmire, morass (*all figurative*)
+-  contemplate, think over, mull over, ponder, chew over, muse, reflect,
+   ruminate, meditate
+-  transitory, ephemeral, fleeting, passing, short-lived, transient
+
+
+
+|symbol_t.gif| related statements (real-life only, please)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+-  Another week has vanished into the netherness of "history".
+-  Everything is a blur.
+-  I guess it's a matter of interpretation...
+-  It feels like an eternity.
+-  The thing I still find mysterious is...
+-  in the spirit of...
+-  perhaps we shall meet in person again... indeed time will tell...
+-  I recently got the clearest vision I ever had in my life
+-  All I knew was that it was inevitable; I had lost the battle against
+   time from the very beginning, and I was finally paying the price.
+-  It was the culmination of the ineffable poignancy of my youth. (*some
+   symbol_e.gif here?*)
+-  Yesterday was long. Unfortunately long.
+-  this might seem to suggest that...
+-  she's taking her time
+-  I just couldn't put my finger on it.
+-  It flows smoothly between them rather than switching suddenly from
+   one to the other across a gap.
+-  I'll be leaving early today. The last time I had a premonition,
+   something bad happened.
+
+
+
+Features of |symbol_t.gif| speech
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Surrealism and symbolism. Use of imagery to represent events and
+concepts, painting things in such a way that they seem grander than they
+really are. Because |symbol_t.gif| types naturally look beyond what
+happens on the surface to the underlying bigger picture, some may
+complain about the omission of details (when, where, who, what) or of
+mysticism. Except |symbol_t.gif| types have enough difficulty putting
+their thought processes into words, much less converting what they see
+into details that may reflect corporal reality, but mean nothing. So
+those who don't value |symbol_t.gif| may either fail to follow or
+respond with criticism, or both.
+
+More importantly, the imagery is not static, but evolving due to their
+progressive thought process. When you listen to someone explain
+something in |symbol_t.gif|, it is like watching a video. One sees
+easily sees how one thing leads to another (if-this-then-that), as well
+as the interaction between symbols.
+
+
+
+|symbol_f.gif| (:doc:`extraverted sensing <Se>`)
+--------------------------------------------------------------
+
+
+
+|symbol_f.gif| related words
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+-  want, need, must have
+-  have, own, lack, get
+-  adversity, challenge, obstacle, threat
+-  determination, resolve, will
+-  encounter, run-in, contention, confrontation, resistence, retaliation
+-  brave, courageous, strong, unflinching
+-  throw, take, pull out, push, stuff, open, let out, hang, pick up,
+   set, squeeze, crush, pick, shake, grab, snap up, shove, stick, jab,
+   yank, whack, fling, thrash, bang, bump, slice, cut
+-  break, crush, beat, beat up, rip into, conquer, size up, take down,
+   bring down, tear down, build up, tackle, finish off, wipe out,
+   overcome (*psychologically and emotionally as well as physically*)
+-  hold up, withstand, take, handle, lock on
+-  flinch, vacillate, crack, collapse, cave in, give in, crumble,
+   capitulate, submit to
+-  protect, fight, strengthen, weaken, intrude, defend, put up with,
+   resist
+-  restrain, control, submit, subdue (*all figurative as well as
+   literal*)
+-  appearance, looks
+-  beautiful, good-looking, gorgeous
+-  ugly, hideous, deformed, disfigured
+-  appear, show up, pop up, flash by, disappear
+-  notice, look, find, take a look, look around, stare
+-  flash, sparkle, twinkle, light up, burn, glitter, glare
+-  shape, size, mass, weight, dimensions, length, width, height, depth
+-  big, huge, tiny, small, enormous, large, round, square, bent,
+   straight, flat, stretched out, wide, high, low, narrow, thin
+-  this high, this low, this much, this little (*while showing with your
+   hands*)
+-  hole, opening, limit, peak, top, middle, edge, bend
+-  stick out, protrude, jut out, hang out, bulge, pop out
+-  inside, around, behind, far away, across, in the middle, backwards,
+   at a slant, from the side, nearby, right in front of
+-  that one, this one, this thing, that one over there, here, there,
+   from here, over here
+-  thingy, thingamajig, thingamabob, doodad
+-  mighty, solid, limp, weak, strong, active, relaxed, restrained,
+   energetic, mobilized, ready
+-  energy, power, strength, force, drive
+-  mine
+
+
+
+|symbol_f.gif| related statements (real-life only, please)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+-  Shove that into your mind.
+-  Get a life, stop harassing people.
+-  You are completely useless.
+-  throw around words
+-  amorphous butts
+-  Be good.
+-  my restless desire to just graduate is getting the best of me
+-  she's after me
+-  I'm coming for you.
+-  You can't win.
+-  on the ball
+-  im totally retardededededed (*some symbol_e.gif here, too*)
+-  I'm gonna beat you, I'm gonna beat you in every round
+-  People just want to see me crumble.
+-  When life throws you a curve ball, you've got to handle it.
+-  No, stop! Stop it now!
+-  Stop bullshitting.
+-  I'm just messing with you.
+-  Just sit down!
+-  Oh shut up, man! (*in jest*)
+-  Don't even start!
+-  I have to take a lot of crap.
+-  Don't cry over spilled milk.
+-  They cornered me
+-  No matter what, I'll be on top.
+-  fold under pressure
+-  clean up your act
+-  We need to keep our eyes on the ball.
+-  How dare you!
+-  She has what it takes.
+-  They'll get what's coming to them.
+
+
+
+Features of |symbol_f.gif| speech
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+
+|symbol_s.gif| (:doc:`introverted sensing <Si>`)
+--------------------------------------------------------------
+
+
+
+|symbol_s.gif| related words
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+-  sensation, impression
+-  sense, feel (*not emotionally, but physiologically or 'in one's
+   gut*')
+-  get into, adapt, adjust, make oneself at home
+-  stomach (*verb*), stand, tolerate
+-  digest, swallow (*figurative as well as literal*), chew, cough,
+   sneeze, sweat, blow nose, wheeze, pee, poop, freeze, fatten up, put
+   on weight, shower, rinse off
+-  aroma, smell, taste, aftertaste, twinge
+-  sour, sweet, salty, rotten, bitter, putrid, fresh, crisp, juicy
+   (*figurative as well as literal*)
+-  smooth, rough, sharp, dull, glossy, sleek, slick (*figurative as well
+   as literal*)
+-  dry, parched, baked, moist, wet, damp, hot, boiling, sweltering,
+   steamy, muggy, toasty, warm, lukewarm, cold, freezing, frigid, cool,
+   refreshing, chilly
+-  touch, hold, clutch, grip, grasp, tickle, wiggle, pet, caress,
+   stroke, squeeze, scratch, rub
+-  pain, ache, burning, itch, chafe, chafing, soreness, warmth, rumbling
+-  bliss, cloud nine, rest, relaxation
+-  uncomfortable, restless, fidgety
+-  comfortable, cozy, intimate, snug, soothing, homely
+-  enjoy, satisfy, sate, humor, indulge
+-  be hungry, be in the mood for, try, snack, have a bite, have enough,
+   get full, eat, feed, feast, overeat, pig out
+-  health (physical condition), condition, illness, sickness, malady,
+   ailment
+-  healthy, good for you, unhealthy, bad for you (of food and
+   activities)
+-  miserable, wretched (*how one is feeling*), under the weather
+-  get dirty, soil, clean up, mess up, care for, wash, clean off,
+   cleanse
+-  dirt, mess, stain, wear and tear, filth, grime, grease
+-  sticky, gluey, gummy, pasty, runny, stringy, grimey, greasy
+-  pliable, flexible, elastic, malleable, supple, firm, hard, solid,
+   stiff, steady
+-  reliable, tangible, stable
+-  sprezzatura
+
+
+
+|symbol_s.gif| related statements (real-life only, please)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+-  It turned into this squishy mass.
+-  She looks yummy.
+-  You look the same as you always did.
+-  It's blazing hot
+-  I feel great!
+-  a flood of spring sunlight
+-  The heat is about to kill me, but I'm getting used to it.
+-  ... which you'll get tired of quickly
+-  get settled {*or* get settled in}
+-  at least I feel comfortable in it
+-  Once life settles into an even rhythm I hope to...
+-  just enjoying life
+-  drenched in sweat
+-  The right side of my head is kind of tender.
+-  I was weak, sweating, and shaking
+-  puked out my guts (*some symbol_e.gif here?*)
+-  pukey green color
+-  my body still thinks I need to...
+-  Music today is like a big bowl of soup.
+-  I cannot stomach it.
+
+
+
+Features of |symbol_s.gif| speech
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+-  A preference for simple sentence constructions that cannot produce
+   confusion.
+
+
+
+|symbol_p.gif| (:doc:`extraverted logic <Te>`)
+----------------------------------------------------------
+
+
+
+|symbol_p.gif| related words
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+-  efficiency, effectiveness, rationale, sense (*i.e. the sense in doing
+   something*), expedience
+-  productive, rational, justified, unjustified
+-  movement, motion, speed, acceleration, displacement, rotation
+-  production, work
+-  algorithm, calculation
+-  profit, finance, market
+-  management, administration
+-  diligence, industriousness, industry, conscientiousness
+-  confirm, substantiate, prove, verify, support, test, double check,
+   refute, disprove, debunk
+-  information source
+-  factual, reliable, confirmed, observed, unreliable, unconfirmed,
+   hypothetical, unverified
+
+
+
+|symbol_p.gif| related statements (real-life only, please)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+-  It provides both usefulness and a way to double-check...
+-  What are you trying to accomplish?
+-  What you did was really pointless, it achieved nothing.
+-  Where's the evidence for this statement?
+-  I'm still planning on applying within the next couple of weeks.
+-  How often do you use the ATM?
+-  you might get more value for your money with...
+-  I don't... {*do something*} enough to justify the extra expense
+-  take advantage of this opportunity you are providing
+-  You'll be able to lift it easier if you move your hands further
+   apart.
+-  I have read several books on that subject.
+-  This is confirmed by all the available evidence.
+-  You are just talking out of thin air.
+-  You don't know what you are talking about.
+-  Get a clue.
+-  I am just so sick of people's incompetence.
+
+
+
+Features of |symbol_p.gif| speech
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+
+|symbol_l.gif| (:doc:`introverted logic <Ti>`)
+----------------------------------------------------------
+
+
+
+|symbol_l.gif| related words
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+-  logical, systematic, consistent, coherent
+-  system, scheme, ordering, classification, grouping, framework,
+   structure, law, rule
+-  correlation, similarity, distinction, compatibility
+-  controversial, compliant
+-  denote, define, mean, signify, designate, refer to, constitute,
+   correspond to, pertain to
+-  satisfy (*i.e. a requirement*), comply with, match
+-  establish (a rule or principle)
+-  counterpart, analogue, equivalent
+-  characteristic of, of a \___\_ nature
+-  according to, corresponding to, in view of, in terms of, apart from,
+   given \___, equivalent to, tantamount to
+-  in principle, strictly speaking, by definition
+-  consider, call, deem, regard, associate \___\_ with
+-  therefore, consequently, thus, hence
+
+
+
+|symbol_l.gif| related statements (real-life only, please)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+-  extremely similar in nature
+-  correlate rather poorly
+-  Now on that point, I'm going to have to take issue.
+-  I think a study of... {*someone's*} usage of the word will give a
+   more accurate interpretation
+-  inconsistent in his punctuation
+-  We are obligated to abide by certain rules.
+-  Do you understand what I'm trying to say?
+-  Only when absolutely necessary.
+-  He knew what not to do is what he did do.
+-  Is it or isn't it?
+-  What does that refer to?
+-  You are contradicting yourself.
+
+
+
+Features of |symbol_l.gif| speech
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+-  A penchant for concise formulations ("No. That is incorrect." or "A
+   holon is a whole that is also a part.").
+-  Tend to define new words (jargon) and then use them extensively.
+
+
+
+|symbol_e.gif| (:doc:`extraverted ethics <Fe>`)
+------------------------------------------------------------
+
+
+
+|symbol_e.gif| related words
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+-  excitement, hype, hullabaloo, hoopla, uproar, mayhem, madness,
+   hubbub, brouhaha, ballyhoo
+-  mood, demeanor
+-  vibrant, vivacious, excited, energized, zesty
+-  dark, dour, glowering, glum, moody, morose, brooding, sour, sullen
+-  delirious, frantic, mad, unrestrained, uninhibited
+-  dazzle, wow, tantalize, torment
+-  escalate, intensify
+-  bedevil, befuddle, discombobulate
+-  howl, wail, bawl, roar
+-  honk, blare, beep, toot
+-  congruity, harmony
+
+
+
+|symbol_e.gif| related statements (real-life only, please)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+-  amazingly awesome
+-  sooooo cool
+-  ineffably cool
+-  superly duperly nifty :P
+-  GAAAAAAAAH
+-  This is gonna be so dang sweet. :-D
+-  we're very very very excited!
+-  you've got to see this painting- it's totally 'nutzo'.
+-  he usually dies laughing
+-  ...and lived in the pits of depression
+-  I was shocked and overjoyed to hear of that
+-  You're just so beautiful! [blows a kiss]
+-  Pretty mellow.
+-  I had a freaking crush on him!
+-  I don't want to criticize her [in person] because I'm afraid of
+   hurting her feelings. I can't do it even if she's going to run out of
+   business at this rate.
+-  play it cool
+-  He's usually really easy to cheer up.
+-  make an ass of oneself
+-  [boisterous laughter]
+
+
+
+Features of |symbol_e.gif| speech
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+-  Many illustrative adverbs and superlatives (e.g. *absolutely
+   amazing!*).
+
+
+
+|symbol_r.gif| (:doc:`introverted ethics <Fi>`)
+------------------------------------------------------------
+
+
+
+|symbol_r.gif| related words
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+-  sentiment
+-  relate to, sympathize with
+-  relationship (*both figurative and literal*)
+-  support (*i.e. supporting something*)
+-  community
+-  share
+-  to bring (people) together
+-  to open up (*figurative*)
+
+
+
+|symbol_r.gif| related statements (real-life only, please)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+-  This bugs me.
+-  I just don't care for...
+-  I am truly grateful for...
+-  It is just exciting to be around things that old.
+-  We'd appreciate it a lot.
+-  I felt bad about the situation
+-  when everyone gets together I feel a bit of alienation or distance
+-  I just wanted to say how touched I was that...
+-  thinking of you (*e.g. at end of letter*)
+-  He is a good person.
+-  I can relate to you a lot.
+-  How sad.
+-  I have a lasting gift from you which some of my friends do not have:
+   the knowledge that you are there when I need you, and the knowledge
+   that you really care.
+-  Thank you for understanding.
+-  There are good and bad people everywhere.
+-  The son is so mean and impatient with his dad.
+-  I must have the most considerate son. How well he knows me!
+-  I surely missed you all and thought of you a lot.
+-  I did not realize how terribly alone and lonely she must have been.
+-  Be close to your extended family; you need them more than you think.
+-  How exciting! I'm happy for you.
+-  I am concerned about...
+-  I sent that old monster off yesterday. (referring to an appliance)
+-  What a terrible thought!
+-  I really do care about you, so much...
+-  It's fun to have you around.
+-  I am so glad you are in my life.
+-  Everybody is happy that we could meet.
+-  Do you feel different now?
+-  She's really frustrated by...
+-  I feel sorry for you for...
+-  I am so much looking forward to spending some time with you.
+-  Wishing you were here...
+-  I just love [a person, thing, situation].
+
+
+
+Features of |symbol_r.gif| speech
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+.. |symbol_i.gif| image:: Symbol_i.gif
+.. |symbol_t.gif| image:: Symbol_t.gif
+.. |symbol_f.gif| image:: Symbol_f.gif
+.. |symbol_s.gif| image:: Symbol_s.gif
+.. |symbol_p.gif| image:: Symbol_p.gif
+.. |symbol_l.gif| image:: Symbol_l.gif
+.. |symbol_e.gif| image:: Symbol_e.gif
+.. |symbol_r.gif| image:: Symbol_r.gif

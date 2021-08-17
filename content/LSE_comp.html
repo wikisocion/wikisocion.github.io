@@ -1,0 +1,358 @@
+<!doctype html>
+<html class="no-js">
+  <head><meta charset="utf-8"/>
+    <meta name="viewport" content="width=device-width,initial-scale=1"/>
+    <meta name="color-scheme" content="light dark"><link rel="index" title="Index" href="../genindex.html" /><link rel="search" title="Search" href="../search.html" /><link rel="next" title="Wikisocion EII composite" href="EII_comp.html" /><link rel="prev" title="Wikisocion SLI composite" href="SLI_comp.html" />
+
+    <meta name="generator" content="sphinx-4.1.2, furo 2021.08.11.beta42"/>
+        <title>Wikisocion LSE composite - Wikisocion</title>
+      <link rel="stylesheet" type="text/css" href="../_static/pygments.css" />
+    <link rel="stylesheet" type="text/css" href="../_static/styles/furo.css?digest=197f00461d56902ea7ca048ec6e6ba026f62c97b" />
+    <link rel="stylesheet" type="text/css" href="../_static/styles/furo-extensions.css?digest=93475b62d1c3bc01323a0eefdc14a62d77b12690" />
+    
+    
+
+
+<style>
+  body {
+    --color-code-background: #f8f8f8;
+  --color-code-foreground: black;
+  
+  }
+  body[data-theme="dark"] {
+    --color-code-background: #202020;
+  --color-code-foreground: #d0d0d0;
+  
+  }
+  @media (prefers-color-scheme: dark) {
+    body:not([data-theme="light"]) {
+      --color-code-background: #202020;
+  --color-code-foreground: #d0d0d0;
+  
+    }
+  }
+</style>
+    <link media="(prefers-color-scheme: dark)" rel="stylesheet" href="../_static/pygments_dark.css"></head>
+  <body>
+    
+<svg xmlns="http://www.w3.org/2000/svg" style="display: none;">
+  <symbol id="svg-toc" viewBox="0 0 24 24">
+    <title>Contents</title>
+    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+      stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+      <path stroke="none" d="M0 0h24v24H0z" />
+      <line x1="4" y1="6" x2="20" y2="6" />
+      <line x1="10" y1="12" x2="20" y2="12" />
+      <line x1="6" y1="18" x2="20" y2="18" />
+    </svg>
+  </symbol>
+  <symbol id="svg-menu" viewBox="0 0 24 24">
+    <title>Menu</title>
+    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+      stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather-menu">
+      <line x1="3" y1="12" x2="21" y2="12"></line>
+      <line x1="3" y1="6" x2="21" y2="6"></line>
+      <line x1="3" y1="18" x2="21" y2="18"></line>
+    </svg>
+  </symbol>
+  <symbol id="svg-arrow-right" viewBox="0 0 24 24">
+    <title>Expand</title>
+    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+      stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather-chevron-right">
+      <polyline points="9 18 15 12 9 6"></polyline>
+    </svg>
+  </symbol>
+  <symbol id="svg-sun" viewBox="0 0 24 24">
+    <title>Light mode</title>
+    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+      stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" class="feather-sun">
+      <circle cx="12" cy="12" r="5"></circle>
+      <line x1="12" y1="1" x2="12" y2="3"></line>
+      <line x1="12" y1="21" x2="12" y2="23"></line>
+      <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
+      <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
+      <line x1="1" y1="12" x2="3" y2="12"></line>
+      <line x1="21" y1="12" x2="23" y2="12"></line>
+      <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
+      <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
+    </svg>
+  </symbol>
+  <symbol id="svg-moon" viewBox="0 0 24 24">
+    <title>Dark mode</title>
+    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+      stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" class="icon-tabler-moon">
+      <path stroke="none" d="M0 0h24v24H0z" fill="none" />
+      <path d="M12 3c.132 0 .263 0 .393 0a7.5 7.5 0 0 0 7.92 12.446a9 9 0 1 1 -8.313 -12.454z" />
+    </svg>
+  </symbol>
+  <symbol id="svg-sun-half" viewBox="0 0 24 24">
+    <title>Auto light/dark mode</title>
+    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+      stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" class="icon-tabler-shadow">
+      <path stroke="none" d="M0 0h24v24H0z" fill="none"/>
+      <circle cx="12" cy="12" r="9" />
+      <path d="M13 12h5" />
+      <path d="M13 15h4" />
+      <path d="M13 18h1" />
+      <path d="M13 9h4" />
+      <path d="M13 6h1" />
+    </svg>
+  </symbol>
+</svg>
+
+<input type="checkbox" class="sidebar-toggle" name="__navigation" id="__navigation">
+<input type="checkbox" class="sidebar-toggle" name="__toc" id="__toc">
+<label class="overlay sidebar-overlay" for="__navigation">
+  <div class="visually-hidden">Hide navigation sidebar</div>
+</label>
+<label class="overlay toc-overlay" for="__toc">
+  <div class="visually-hidden">Hide table of contents sidebar</div>
+</label>
+
+
+
+<div class="page">
+  <header class="mobile-header">
+    <div class="header-left">
+      <label class="nav-overlay-icon" for="__navigation">
+        <div class="visually-hidden">Toggle site navigation sidebar</div>
+        <i class="icon"><svg><use href="#svg-menu"></use></svg></i>
+      </label>
+    </div>
+    <div class="header-center">
+      <a href="../index.html"><div class="brand">Wikisocion</div></a>
+    </div>
+    <div class="header-right">
+      <div class="theme-toggle-container theme-toggle-header">
+        <button class="theme-toggle">
+          <div class="visually-hidden">Toggle Light / Dark / Auto color theme</div>
+          <svg class="theme-icon-when-auto"><use href="#svg-sun-half"></use></svg>
+          <svg class="theme-icon-when-dark"><use href="#svg-moon"></use></svg>
+          <svg class="theme-icon-when-light"><use href="#svg-sun"></use></svg>
+        </button>
+      </div>
+      <label class="toc-overlay-icon toc-header-icon" for="__toc">
+        <div class="visually-hidden">Toggle table of contents sidebar</div>
+        <i class="icon"><svg><use href="#svg-toc"></use></svg></i>
+      </label>
+    </div>
+  </header>
+  <aside class="sidebar-drawer">
+    <div class="sidebar-container">
+      
+      <div class="sidebar-sticky"><div class="sidebar-scroll"><a class="sidebar-brand" href="../index.html">
+  
+  
+  <span class="sidebar-brand-text">Wikisocion</span>
+  
+</a><form class="sidebar-search-container" method="get" action="../search.html" role="search">
+  <input class="sidebar-search" placeholder=Search name="q" aria-label="Search">
+  <input type="hidden" name="check_keywords" value="yes">
+  <input type="hidden" name="area" value="default">
+</form>
+<div id="searchbox"></div>
+</div>
+      </div>
+      
+    </div>
+  </aside>
+  <div class="main">
+    <div class="content">
+      <article role="main">
+        <div class="content-icon-container">
+          <div class="theme-toggle-container theme-toggle-content">
+            <button class="theme-toggle">
+              <div class="visually-hidden">Toggle Light / Dark / Auto color theme</div>
+              <svg class="theme-icon-when-auto"><use href="#svg-sun-half"></use></svg>
+              <svg class="theme-icon-when-dark"><use href="#svg-moon"></use></svg>
+              <svg class="theme-icon-when-light"><use href="#svg-sun"></use></svg>
+            </button>
+          </div>
+          <label class="toc-overlay-icon toc-content-icon" for="__toc">
+            <div class="visually-hidden">Toggle table of contents sidebar</div>
+            <i class="icon"><svg><use href="#svg-toc"></use></svg></i>
+          </label>
+        </div>
+        <div class="section" id="wikisocion-lse-composite">
+<h1>Wikisocion LSE composite<a class="headerlink" href="#wikisocion-lse-composite" title="Permalink to this headline">¶</a></h1>
+<p>Logical Sensing Extratim, LSE, <img alt="Te" src="../_images/Symbol_p.gif"/> <img alt="Si" src="../_images/Symbol_s.gif"/>, ESTj, PS, Director, Administrator, or archetype Sherlock Holmes.</p>
+<div class="section" id="ego-block">
+<h2>Ego Block<a class="headerlink" href="#ego-block" title="Permalink to this headline">¶</a></h2>
+<p>With Te blocked with Si, LSEs are primarily interested in productive activity that meets real needs. Their main activities are focused on addressing needs that are relevant today, not things that may or may not produce benefit some time down the road.</p>
+<div class="section" id="te-extraverted-logic">
+<h3>1. Te Extraverted Logic<a class="headerlink" href="#te-extraverted-logic" title="Permalink to this headline">¶</a></h3>
+<p>LSEs are sensitive to the productivity, quality, and effectiveness of everything around them. These are topics that they discuss frequently and have strong opinions about. They tend to freely comment on that which is pointless, poorly done, bound to fail, and all manifestations of unprofessionalism, as well as offer numerous tips and pointers for how these things can be improved.</p>
+<p>LSEs are drawn to efficient technology — all manner of devices, gadgets, things, and methods that perform a certain job perfectly, decreasing the amount of energy required to achieve a desired result. Their expectations for quality and performance are high, and they are highly aware of how well the things they have actually meet their needs.</p>
+<p>LSEs’ approach to life is practical and realistic. They tend to have a clear idea of the results they would like to achieve, and set forth finding ways to achieve those results in the most rational way possible.</p>
+<p>LSEs’ primary mode of talking about things is to use a factual, non-emotional perspective. They are interested in objective events, facts, and knowledge that cannot easily be called into question. They may come across as dry or monotone because of their emphasis on objective, rather than emotional aspects of communication.</p>
+<p>LSEs try hard to be people of their word. They remember agreements made and do not take promises lightly. They judge other people by how conscientious and reliable they are in interaction and cooperation. LSEs expect people to say what they mean and do what they say. As their innate understanding of personality is not very fine-tuned, they judge others’ character more by their objective deeds than by their attitudes and motives, which can be hard for the LSE to discern.</p>
+<p>LSEs are proponents of an orderly, stable, and rational society with efficient mechanisms in place to address all of society’s needs. They view trustworthy cooperation on all levels as the foundation of such a society, beginning with their own families.</p>
+</div>
+<div class="section" id="si-introverted-sensing">
+<h3>2. Si Introverted Sensing<a class="headerlink" href="#si-introverted-sensing" title="Permalink to this headline">¶</a></h3>
+<p>The comfort and convenience of things and living space is very important to LSEs. Living spaces need to be conducive to rest, work, or recreation. LSEs take it into their own hands to reorganize or redesign living spaces to make them more comfortable and convenient.</p>
+<p>LSEs typically love recreation with a physical element, such as picnics, walking, hiking, sports, etc. They recognize the need to relax and unwind and typically plan these activities into their schedule at regular intervals and involve other people in the activities. Nonetheless, relaxation is secondary to the LSE’s main pursuits, which is generally their work. LSEs with families typically organize recreation with their families to combine quality family time with relaxation.</p>
+<p>Unlike leading Si types, LSEs usually cannot switch into relaxation mode at the drop of a hat. They need to finish tasks that they expected to accomplish before they can consciously allow themselves to relax. Relaxation, like their other activities, must be approached rationally with an eye to the overall results, rather than allowing oneself to be guided by the impulses of the moment. When they willingly switch to a “vacation” mode and know that they have adequate leisure time, LSEs will delve into relaxation with gusto. Without adequate time, they tend to avoid relaxing too much, as it jeopardizes their productivity.</p>
+<p>Aesthetic appeal is very important to LSEs. This applies to all aspects of their lives — clothes, work tools, living environment, etc. Most LSEs have an orderly home and work area and select their clothes carefully. They have a relatively easy time matching clothes, colors, textures, and other aesthetic properties. Many LSEs are conneisseurs of good food, good clothes, household products, and hygienic products.</p>
+<p>LSEs typically have a strong caretaking streak; they enjoy having others to care or provide for who are dependent on their assistance.</p>
+</div>
+</div>
+<div class="section" id="super-ego-block">
+<h2>Super-Ego Block<a class="headerlink" href="#super-ego-block" title="Permalink to this headline">¶</a></h2>
+<p>With Fe blocked with Ni, LSEs are generally dismissal of lofty rhetoric and hype, or visions of the future that are not securely based on facts. Their own emotional expression and personal vision tends to be simplistic and clearly secondary to their more important, practical activities.</p>
+<div class="section" id="fe-extraverted-ethics">
+<h3>3. Fe Extraverted Ethics<a class="headerlink" href="#fe-extraverted-ethics" title="Permalink to this headline">¶</a></h3>
+<p>LSEs value facts and objectivity over emotions, and are not generally highly animated or expressive. Due to their businesslike approach to things, LSEs may sometimes worry about making a fool of themselves in informal settings where the emphasis is on joking, laughter, and fun.</p>
+<p>LSEs’ emotional expression tends to be either subdued and understated or unusually sudden and obvious.</p>
+<p>LSEs are resistant to emphatic emotional appeals and try not to let themselves get carried away with any feelings.</p>
+<p>LSEs are often unable to control their emotions. They can easily loose their temper with people if their instructions are not followed or if someone’s behavior goes against their logic and understanding. When they are in a bad mood they can be very direct, sometimes even to the point of being verbally abrasive to loved ones and complete strangers.</p>
+</div>
+<div class="section" id="ni-introverted-intuition">
+<h3>4. Ni Introverted Intuition<a class="headerlink" href="#ni-introverted-intuition" title="Permalink to this headline">¶</a></h3>
+<p>In order to be happy and productive, LSEs need a stable environment without sudden, unexpected changes. It takes them a while to get into a “groove” and find their rhythm, and any uncertainty about the future tends to fill them with a dread that makes it hard to be productive at all.</p>
+<p>LSEs tend to express a simplistic vision of the future where their hard work pays off in the long run, or where everything in society goes hopelessly awry. They are not easily able to incorporate many different forecasts into their view of the future, relying instead on the trend of visible changes around them.</p>
+<p>LSEs generally avoid talking about things that might or might not happen that don’t depend on them, though they may think about these things to themselves. Discussions about what might or might not happen that are not based on provable facts distress them. Speculation not steeped in reality is a waste of time.</p>
+<p>LSEs They prefer to believe that change depends on our actions and choices rather than on external events over which we have no control.</p>
+<p>LSEs tend to have an unchanging habit of either being chronically late or chronically early. They rarely know or think about how long things will take, and their estimates are often way off. They are often surprised by the amount of time that has passed between events, and wonder where the time has gone. LSEs tend to want everything done as well as possible and to the highest possible quality, often failing to consider the amount of time necessary to do the job in such a way.</p>
+<p>When making plans for the future, LSEs typically do not leave room for unforeseen obstacles. These obstacles frustrate the LSE because they destroy the established rhythm of operations and require switching gears. In talking about their goals for the future, LSEs often leave out intermediate steps, leading others to consider them naive. In LSEs’ opinion, the important thing is to express a clear goal; the step-by-step process of getting there is less important.</p>
+<p>LSEs get irritated by people who take forever to do things, or who slow down the overall pace of work for no good reason. If someone appears to be doing nothing, the LSE will assume that nothing beneficial is taking place.</p>
+</div>
+</div>
+<div class="section" id="super-id-block">
+<h2>Super-Id Block<a class="headerlink" href="#super-id-block" title="Permalink to this headline">¶</a></h2>
+<p>With Fi blocked with Ne in the Super-Id, LSEs are particularly responsive to people with a strong set of personal values who recognize the LSE’s noble intentions and goodness and spur him or her to develop his potential.</p>
+<div class="section" id="fi-introverted-ethics">
+<h3>5. Fi Introverted Ethics<a class="headerlink" href="#fi-introverted-ethics" title="Permalink to this headline">¶</a></h3>
+<p>LSEs have a great reverence for good will, moral support, reliability, traditions, and stability in relationships. Yet they are unable to generate these things on their own as they focus on rational activity, comfort, and efficiency. They have a deep need for someone to help them express and make sense of their feelings towards things on a very regular basis.</p>
+<p>LSEs approach relationships on their own terms, typically taking on the initiative to get to know the other person. What they are looking for — moral support and stability — they are dependent on other people to provide. LSEs’ approach to dating typically follows traditional gender roles, as they feel uncertain when being too creative in initiating relationships.</p>
+<p>LSEs are typically unsure of their personal feelings about people and relationships, as well as unsure of their right to harbor personal sentiments in the first place. They need someone they can trust to recognize and substantiate their feelings from a psychological or spiritual standpoint. This helps them learn over time to recognize and trust their feelings more.</p>
+<p>LSEs often have a hard time discerning the true nature of people and their intentions towards the LSE. This can lead to the LSE being “unapproachable” in some aspects, or particularly wary or suspicious of others. To overcome their doubts, they need very clear demonstrations of good will and friendship.</p>
+<p>Although LSEs may be social and have many acquaintances, particularly through work or leisure activities, they are cautious about building closer friendships. They tend to build relationships by doing activities together or doing useful services for people, unconsciously expecting the other person to initiate emotional intimacy in return.</p>
+<p>LSEs revere their emotional intimate friendships and can go to great lengths to make sure that the needs of these close friends or partners are met, in hopes that people will reward these efforts with a stable relationship and emotional security.</p>
+</div>
+<div class="section" id="ne-extraverted-intuition">
+<h3>6. Ne Extraverted Intuition<a class="headerlink" href="#ne-extraverted-intuition" title="Permalink to this headline">¶</a></h3>
+<p>LSEs generally believe they have talent and are exceptional in some way, but they need others to confirm this and point out what exactly distinguishes them from other people. This understanding can help the LSE focus his activities in the areas where he has the greatest advantage and probability of success.</p>
+<p>LSEs are interested in all innovations and new opportunities that relate to their line of work and can given them advantage and benefit. They are quick to jump on new opportunities if they see immediate practical application to their own work.</p>
+<p>LSEs themselves are typically innovative and inventive in practical matters (Te + Si inventiveness), but much less so in their worldviews, which tend to change only slightly over time.</p>
+<p>Knowing about general trends and the latest developments provides LSEs with the assurance that they are not falling behind the times, but they largely rely on other people to provide them with this information rather than actively seeking it out themselves.</p>
+<p>LSE often hold deep convictions about what a perfect world should look like. More often than not, they have no clue as to what changes would have to occur to bring about that world about.</p>
+</div>
+</div>
+<div class="section" id="id-block">
+<h2>Id Block<a class="headerlink" href="#id-block" title="Permalink to this headline">¶</a></h2>
+<p>With Ti blocked with Se, LSEs feel fairly confident dealing with power structures and organizational hierarchies, but much prefer to live and work in an environment where responsibility is shared, individuality is fostered, and people are pretty much free to do what seems prudent to them personally.</p>
+<div class="section" id="ti-introverted-logic">
+<h3>7. Ti Introverted Logic<a class="headerlink" href="#ti-introverted-logic" title="Permalink to this headline">¶</a></h3>
+<p>LSEs may become interested in abstract concepts and don’t generally have difficulty understanding them, but they are almost always more interested in the practical application. If a concept or idea has none, it is worthless. LSEs are more focused on what works in real life than on what seems to fit together logically.</p>
+</div>
+<div class="section" id="se-extraverted-sensing">
+<h3>8. Se Extraverted Sensing<a class="headerlink" href="#se-extraverted-sensing" title="Permalink to this headline">¶</a></h3>
+<p>LSEs prefer to maintain a steady rhythm and energy output, avoiding projects that require a great deal of energy for a short period of time, or courses of action that are clearly ridden with obstacles.</p>
+<p>They try not to be too forceful, controlling, or demanding and try to avoid coming across this way. They may, however, show brief flashes of protectiveness and confrontation if they have been attacked in any way.</p>
+<p>LSEs have a clear awareness of how they look to those around them. They craft their appearance and their belongings to create an impression that is welcoming and approachable rather than eye-catching or status-oriented.</p>
+</div>
+</div>
+<div class="section" id="common-social-roles">
+<h2>Common social roles<a class="headerlink" href="#common-social-roles" title="Permalink to this headline">¶</a></h2>
+<ol class="arabic simple">
+<li><p>The social protestor who campaigns against deceit, mismanagement, injustice, or disorder in society, without necessarily offering a clear solution.</p></li>
+<li><p>The busy worker bee who spends considerable effort on the quotidian details of work, while neglecting the “big picture”.</p></li>
+</ol>
+</div>
+</div>
+
+      </article>
+      <footer>
+        
+        <div class="related-pages">
+          <a class="next-page" href="EII_comp.html">
+              <div class="page-info">
+                <div class="context">
+                  <span>Next</span>
+                </div>
+                <div class="title">Wikisocion EII composite</div>
+              </div>
+              <svg><use href="#svg-arrow-right"></use></svg>
+            </a>
+          <a class="prev-page" href="SLI_comp.html">
+              <svg><use href="#svg-arrow-right"></use></svg>
+              <div class="page-info">
+                <div class="context">
+                  <span>Previous</span>
+                </div>
+                
+                <div class="title">Wikisocion SLI composite</div>
+                
+              </div>
+            </a>
+        </div>
+
+        <div class="related-information">
+              Copyright &#169; 2021, Wikisocion Authors
+            |
+            Built with <a href="https://www.sphinx-doc.org/">Sphinx</a>
+              and
+              <a class="muted-link" href="https://pradyunsg.me">@pradyunsg</a>'s
+              <a href="https://github.com/pradyunsg/furo">Furo theme</a>.
+            |
+            <a class="muted-link" href="../_sources/content/LSE_comp.rst.txt"
+               rel="nofollow">
+              Show Source
+            </a>
+        </div>
+        
+      </footer>
+    </div>
+    <aside class="toc-drawer">
+      
+      
+      <div class="toc-sticky toc-scroll">
+        <div class="toc-title-container">
+          <span class="toc-title">
+            Contents
+          </span>
+        </div>
+        <div class="toc-tree-container">
+          <div class="toc-tree">
+            <ul>
+<li><a class="reference internal" href="#">Wikisocion LSE composite</a><ul>
+<li><a class="reference internal" href="#ego-block">Ego Block</a><ul>
+<li><a class="reference internal" href="#te-extraverted-logic">1. Te Extraverted Logic</a></li>
+<li><a class="reference internal" href="#si-introverted-sensing">2. Si Introverted Sensing</a></li>
+</ul>
+</li>
+<li><a class="reference internal" href="#super-ego-block">Super-Ego Block</a><ul>
+<li><a class="reference internal" href="#fe-extraverted-ethics">3. Fe Extraverted Ethics</a></li>
+<li><a class="reference internal" href="#ni-introverted-intuition">4. Ni Introverted Intuition</a></li>
+</ul>
+</li>
+<li><a class="reference internal" href="#super-id-block">Super-Id Block</a><ul>
+<li><a class="reference internal" href="#fi-introverted-ethics">5. Fi Introverted Ethics</a></li>
+<li><a class="reference internal" href="#ne-extraverted-intuition">6. Ne Extraverted Intuition</a></li>
+</ul>
+</li>
+<li><a class="reference internal" href="#id-block">Id Block</a><ul>
+<li><a class="reference internal" href="#ti-introverted-logic">7. Ti Introverted Logic</a></li>
+<li><a class="reference internal" href="#se-extraverted-sensing">8. Se Extraverted Sensing</a></li>
+</ul>
+</li>
+<li><a class="reference internal" href="#common-social-roles">Common social roles</a></li>
+</ul>
+</li>
+</ul>
+
+          </div>
+        </div>
+      </div>
+      
+      
+    </aside>
+  </div>
+</div><script data-url_root="../" id="documentation_options" src="../_static/documentation_options.js"></script>
+    <script src="../_static/jquery.js"></script>
+    <script src="../_static/underscore.js"></script>
+    <script src="../_static/doctools.js"></script>
+    <script src="../_static/scripts/main.js"></script>
+    </body>
+</html>

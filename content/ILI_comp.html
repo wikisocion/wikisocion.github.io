@@ -1,0 +1,353 @@
+<!doctype html>
+<html class="no-js">
+  <head><meta charset="utf-8"/>
+    <meta name="viewport" content="width=device-width,initial-scale=1"/>
+    <meta name="color-scheme" content="light dark"><link rel="index" title="Index" href="../genindex.html" /><link rel="search" title="Search" href="../search.html" /><link rel="next" title="Wikisocion LIE composite" href="LIE_comp.html" /><link rel="prev" title="Wikisocion SEE composite" href="SEE_comp.html" />
+
+    <meta name="generator" content="sphinx-4.1.2, furo 2021.08.11.beta42"/>
+        <title>Wikisocion ILI composite - Wikisocion</title>
+      <link rel="stylesheet" type="text/css" href="../_static/pygments.css" />
+    <link rel="stylesheet" type="text/css" href="../_static/styles/furo.css?digest=197f00461d56902ea7ca048ec6e6ba026f62c97b" />
+    <link rel="stylesheet" type="text/css" href="../_static/styles/furo-extensions.css?digest=93475b62d1c3bc01323a0eefdc14a62d77b12690" />
+    
+    
+
+
+<style>
+  body {
+    --color-code-background: #f8f8f8;
+  --color-code-foreground: black;
+  
+  }
+  body[data-theme="dark"] {
+    --color-code-background: #202020;
+  --color-code-foreground: #d0d0d0;
+  
+  }
+  @media (prefers-color-scheme: dark) {
+    body:not([data-theme="light"]) {
+      --color-code-background: #202020;
+  --color-code-foreground: #d0d0d0;
+  
+    }
+  }
+</style>
+    <link media="(prefers-color-scheme: dark)" rel="stylesheet" href="../_static/pygments_dark.css"></head>
+  <body>
+    
+<svg xmlns="http://www.w3.org/2000/svg" style="display: none;">
+  <symbol id="svg-toc" viewBox="0 0 24 24">
+    <title>Contents</title>
+    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+      stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+      <path stroke="none" d="M0 0h24v24H0z" />
+      <line x1="4" y1="6" x2="20" y2="6" />
+      <line x1="10" y1="12" x2="20" y2="12" />
+      <line x1="6" y1="18" x2="20" y2="18" />
+    </svg>
+  </symbol>
+  <symbol id="svg-menu" viewBox="0 0 24 24">
+    <title>Menu</title>
+    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+      stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather-menu">
+      <line x1="3" y1="12" x2="21" y2="12"></line>
+      <line x1="3" y1="6" x2="21" y2="6"></line>
+      <line x1="3" y1="18" x2="21" y2="18"></line>
+    </svg>
+  </symbol>
+  <symbol id="svg-arrow-right" viewBox="0 0 24 24">
+    <title>Expand</title>
+    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+      stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather-chevron-right">
+      <polyline points="9 18 15 12 9 6"></polyline>
+    </svg>
+  </symbol>
+  <symbol id="svg-sun" viewBox="0 0 24 24">
+    <title>Light mode</title>
+    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+      stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" class="feather-sun">
+      <circle cx="12" cy="12" r="5"></circle>
+      <line x1="12" y1="1" x2="12" y2="3"></line>
+      <line x1="12" y1="21" x2="12" y2="23"></line>
+      <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
+      <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
+      <line x1="1" y1="12" x2="3" y2="12"></line>
+      <line x1="21" y1="12" x2="23" y2="12"></line>
+      <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
+      <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
+    </svg>
+  </symbol>
+  <symbol id="svg-moon" viewBox="0 0 24 24">
+    <title>Dark mode</title>
+    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+      stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" class="icon-tabler-moon">
+      <path stroke="none" d="M0 0h24v24H0z" fill="none" />
+      <path d="M12 3c.132 0 .263 0 .393 0a7.5 7.5 0 0 0 7.92 12.446a9 9 0 1 1 -8.313 -12.454z" />
+    </svg>
+  </symbol>
+  <symbol id="svg-sun-half" viewBox="0 0 24 24">
+    <title>Auto light/dark mode</title>
+    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+      stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" class="icon-tabler-shadow">
+      <path stroke="none" d="M0 0h24v24H0z" fill="none"/>
+      <circle cx="12" cy="12" r="9" />
+      <path d="M13 12h5" />
+      <path d="M13 15h4" />
+      <path d="M13 18h1" />
+      <path d="M13 9h4" />
+      <path d="M13 6h1" />
+    </svg>
+  </symbol>
+</svg>
+
+<input type="checkbox" class="sidebar-toggle" name="__navigation" id="__navigation">
+<input type="checkbox" class="sidebar-toggle" name="__toc" id="__toc">
+<label class="overlay sidebar-overlay" for="__navigation">
+  <div class="visually-hidden">Hide navigation sidebar</div>
+</label>
+<label class="overlay toc-overlay" for="__toc">
+  <div class="visually-hidden">Hide table of contents sidebar</div>
+</label>
+
+
+
+<div class="page">
+  <header class="mobile-header">
+    <div class="header-left">
+      <label class="nav-overlay-icon" for="__navigation">
+        <div class="visually-hidden">Toggle site navigation sidebar</div>
+        <i class="icon"><svg><use href="#svg-menu"></use></svg></i>
+      </label>
+    </div>
+    <div class="header-center">
+      <a href="../index.html"><div class="brand">Wikisocion</div></a>
+    </div>
+    <div class="header-right">
+      <div class="theme-toggle-container theme-toggle-header">
+        <button class="theme-toggle">
+          <div class="visually-hidden">Toggle Light / Dark / Auto color theme</div>
+          <svg class="theme-icon-when-auto"><use href="#svg-sun-half"></use></svg>
+          <svg class="theme-icon-when-dark"><use href="#svg-moon"></use></svg>
+          <svg class="theme-icon-when-light"><use href="#svg-sun"></use></svg>
+        </button>
+      </div>
+      <label class="toc-overlay-icon toc-header-icon" for="__toc">
+        <div class="visually-hidden">Toggle table of contents sidebar</div>
+        <i class="icon"><svg><use href="#svg-toc"></use></svg></i>
+      </label>
+    </div>
+  </header>
+  <aside class="sidebar-drawer">
+    <div class="sidebar-container">
+      
+      <div class="sidebar-sticky"><div class="sidebar-scroll"><a class="sidebar-brand" href="../index.html">
+  
+  
+  <span class="sidebar-brand-text">Wikisocion</span>
+  
+</a><form class="sidebar-search-container" method="get" action="../search.html" role="search">
+  <input class="sidebar-search" placeholder=Search name="q" aria-label="Search">
+  <input type="hidden" name="check_keywords" value="yes">
+  <input type="hidden" name="area" value="default">
+</form>
+<div id="searchbox"></div>
+</div>
+      </div>
+      
+    </div>
+  </aside>
+  <div class="main">
+    <div class="content">
+      <article role="main">
+        <div class="content-icon-container">
+          <div class="theme-toggle-container theme-toggle-content">
+            <button class="theme-toggle">
+              <div class="visually-hidden">Toggle Light / Dark / Auto color theme</div>
+              <svg class="theme-icon-when-auto"><use href="#svg-sun-half"></use></svg>
+              <svg class="theme-icon-when-dark"><use href="#svg-moon"></use></svg>
+              <svg class="theme-icon-when-light"><use href="#svg-sun"></use></svg>
+            </button>
+          </div>
+          <label class="toc-overlay-icon toc-content-icon" for="__toc">
+            <div class="visually-hidden">Toggle table of contents sidebar</div>
+            <i class="icon"><svg><use href="#svg-toc"></use></svg></i>
+          </label>
+        </div>
+        <div class="section" id="wikisocion-ili-composite">
+<h1>Wikisocion ILI composite<a class="headerlink" href="#wikisocion-ili-composite" title="Permalink to this headline">¶</a></h1>
+<p>Intuitive Logical Introtim, ILI, <img alt="Ni" src="../_images/Symbol_t.gif"/> <img alt="Te" src="../_images/Symbol_p.gif"/>, INTp, TP, Critic, Observer, or archetype Honoré de Balzac.</p>
+<div class="section" id="ego-block">
+<h2>Ego Block<a class="headerlink" href="#ego-block" title="Permalink to this headline">¶</a></h2>
+<div class="section" id="ni-introverted-intuition">
+<h3>1. Ni Introverted Intuition<a class="headerlink" href="#ni-introverted-intuition" title="Permalink to this headline">¶</a></h3>
+<p>Introverted intuition in ILIs is often characterized by well-developed imaginative abilities and mental wanderings. They can spend a great deal of time simply thinking and may appear to live ‘in their heads’. This mental focus is demonstrated through reflection on scenarios, pondering bodies of information, etc. They can be prone to excessive daydreaming, creation of intricate inner worlds or universes, or considering the past or future. ILIs may even have novelistic tendencies with the ability to create intricate plots, characters and places. ILIs, however, are not necessarily inclined to share their imagination with others.</p>
+<p>ILIs are naturally attuned to hidden connections between things as well as hints of greater implications in everyday reality. They easily recognize patterns of events, repeating outcomes and contradictory messages. This overarching understanding of patterns and behavior allows ILIs to critically analyze present situations and determine both immediate and far-reaching consequences of certain actions. The mind of an ILI is an oasis of sorts where knowledge is treated as a toy or even a vehicle that allows them to visit complex mental landscapes that are continually shaped and revised by new information. Nonetheless, they are likely to find the process of gathering new information tiresome compared to their mental explorations; new information is often accumulated and updated in a rather lethargic, periodic, and occasionally incomplete fashion.</p>
+<p>ILIs are often stereotypically represented as reclusive scholars, philosophers, scientists, artists, seers, and sages. With their often unusual perceptions, they may come across as unreachable, esoteric eccentrics. Because of their confidence about analyzing the implications of their gathered knowledge, ILIs often appear perceptive, especially in fields of interest, and commonly tend to view the ideas of others with skepticism and scrutiny. They may even see others’ intellectual contributions as deeply misguided or limited in scope.</p>
+<p>ILIs often predict inevitable disasters. This type of fatalism is fueled by their ability to see the negative in anything, which has its roots in the ILI’s general dislike of expressing or reinforcing positive emotions. For an ILI, it may be easier to predict pessimistic results in order to avoid unpleasant emotional reactions. Likewise, the ILI’s sense of self doubt leads him to be very conservative in his general outlook; why unnecessarily subject oneself to the uncertainty of possible disappointment?</p>
+<p>ILIs typically exhibit a general detachment from day-to-day affairs. While an ILI might devote a great deal of time to pondering the possible consequences of some political decision, very little attention is likely to be paid to such tasks as household maintenance or cleanliness, which the ILI sees as trivial matters undeserving of his time or effort.</p>
+<p>ILIs can, in certain situations, act very tentatively. In many situations they are inclined to hesitate prior to taking any action or making important decisions. They often prefer to observe and gather an understanding of a situation rather than actively participate. The ILI’s restraint complements the hyperactivity of his dual, the SEE.</p>
+</div>
+<div class="section" id="te-extraverted-logic">
+<h3>2. Te Extraverted Logic<a class="headerlink" href="#te-extraverted-logic" title="Permalink to this headline">¶</a></h3>
+<p>ILIs place great importance on factual accuracy and a basic understanding of how things work. They may be inclined to look down on or pity people who consistently demonstrate ignorance of what they consider to be simple, essential facts. It is often also very important to ILIs that a person’s beliefs account for any new factual information. For this reason, ILI’s are often characterized by a nagging and constant sense of doubt, contradiction, and misinformation. They tend to be skeptical of other people’s positions, and even frequently question their own. In groups the ILI will often question the validity of the information exchanged. Likewise, many ILIs will use a mocking and aggressive tone if they believe that the information being presented is incorrect or absurd. ILIs can also be very adept at removing errors in facts and statistical data, especially in undertakings that they consider as high priorities. ILIs may brush off failure unconcernedly, viewing it as merely a necessary misstep on the road towards success.</p>
+<p>A sense of the efficiency in an ILI’s life is a prerequisite for his inner peace. This manifests very differently in ILIs than SLIs; the latter are much more likely to be proactive about making their physical environment comfortable and managed with an efficient use of resources. In contrast, ILIs are largely indifferent to their physical surroundings, and their desire for efficient allocation of resources may extend to less tangible forms, e.g. the allocation of resources in a game or hypothetical political scenario, the efficiency of a computer program or corresponding piece of code. An ILI will demonstrate perfectionistic tendencies most clearly in such situations where they can work out the details in their heads or on paper.</p>
+<p>ILIs can differ significantly from Te dominant types in that they are less likely to take direct action to achieve practical and societal gain, and may not even choose to gather new information very actively. ILIs often do not acquire knowledge with any clear purpose other than to further their own understanding. When ILIs do use their knowledge for specific purposes, such knowledge is not usually considered a means to an end. When ILIs are required to pursue practical knowledge required for some aspect of their functioning – such as how to fill out a series of bureaucratic forms – sometimes ILIs embrace this information and quickly assimilate every aspect of it. More often, they will be disinterested and spurn this activity to whatever extent possible.</p>
+<p>ILIs tend to have a deep, factual understanding of subjects or fields of interest. Sometimes ILIs perceive the real-world occurrences around them, such as the daily tedium of work or school, through a lens created to understand the information that they care about most, though they may choose not to share this perception with others. They often have little to contribute in many social situations, but when a topic of interest comes around they can end up being the center of attention, disseminating the information of their expertise.</p>
+<p>ILI humor is typically saturated with irony, cynicism, witticisms, and sarcasm. When provoked, an ILI can engage in highly toxic sarcasm, insulting the offender’s intelligence. In such situations, the ILI can come across as cold and malicious, but the ILI will see himself as simply punishing an obnoxious individual for his foolishness.</p>
+<p>ILIs are often highly critical of others’ ideas and actions. Typically this is because these ideas violate the ILI’s understanding of the facts, or because ILIs see more efficient or realistic solutions. ILIs often channel their energy towards constructive criticism because they frequently lack the initiative to take decisive action themselves.</p>
+</div>
+</div>
+<div class="section" id="super-ego-block">
+<h2>Super-Ego Block<a class="headerlink" href="#super-ego-block" title="Permalink to this headline">¶</a></h2>
+<div class="section" id="si-introverted-sensing">
+<h3>3. Si Introverted Sensing<a class="headerlink" href="#si-introverted-sensing" title="Permalink to this headline">¶</a></h3>
+<p>ILIs generally place moderate to minimal importance on such matters as cleanliness, comfort, and sensory stimuli. Some ILIs may consider them distractions. It is not atypical of ILIs to be completely uninterested by and unable to find any value in something like a fine piece of artwork. Different ILIs respond to different artistic stimuli in different ways; for example, an ILI might think painting is worthless but possess sufficient background to enjoy other media, such as sculpture or music.</p>
+<p>ILIs are often uncertain about the messages they receive from their bodies. An ILI might feel some irregularity in their own body and not realize its significance to the overall functioning of the body. An ILI will often try to determine the consequence of such symptoms through their own understanding of anatomy (or ‘google it’), often blowing things out of proportion. An ILI’s sense of self doubt may lead to such assumptions as the presence of a brain tumor as the result of a mere headache. In contrast to Si valuing types, ILIs are significantly less adept at making adjustments to their lifestyle to correct these minor ailments.</p>
+<p>Even so, ILIs are capable of placing a moderate focus on maintaining their physical comfort. ILIs often construct a lifestyle based on various activities that feed their own intellectual stimulation. Though attention to comfort is never a priority, it is not completely ignored, as some attention to it goes hand in hand with their inactive lifestyle. Still, ILIs often neglect the world around them and become consistently mired in their own inertia, and are unlikely to notice that anything is missing.</p>
+<p>ILIs are often hesitant or resistant towards lifestyle changes that threaten the commodiously constructed surroundings that they create for themselves. No one is better suited to opening the ILI for change than the hyperactive SEE, whose flurry of constant activity is seen by the ILI as refreshingly active.</p>
+</div>
+<div class="section" id="fe-extraverted-ethics">
+<h3>4. Fe Extraverted Ethics<a class="headerlink" href="#fe-extraverted-ethics" title="Permalink to this headline">¶</a></h3>
+<p>ILIs analyze situations and make decisions in a very logical and scientific manner. Their reliance on objectivity and accumulation of factual knowledge leaves very little room for decisions based on emotional considerations. ILIs deeply dislike being asked or coerced to express their emotions. They are most comfortable expressing negative sentiments which indicate their disdain for required emotional participation, such as wry, sardonic pessimism. Some ILIs have very poor control over their emotions, and may lash out angrily if provoked.</p>
+<p>When discussing important matters, ILIs often betray a harsh, critical perspective on viewpoints and ideas that they find particularly stupid or insensible. ILIs do not attach emotions to factual information, and so do not consider such criticism to be offensive. If confronted with somebody whose intelligence, persona, or ideas they do not respect, they may react in a hostile fashion, which can be perceived as arrogant or insensitive; not all ILIs, obviously, will react this way.</p>
+<p>ILIs’ reactions to the sphere of emotions can vary greatly, but they are particularly apparent in the sphere of social relations. ILIs are typically not social creatures. Some do not understand the importance of social connections and choose to ignore the area of emotional involvement with others altogether, instead delving into virtual reality, mystical introspection, or private study. Others trudge through the social landscape without truly understanding the art of socialization, ignoring politeness and not caring about offending others. ILIs may view people who constantly try to make others happy as foolishly involving themselves in a completely pointless exercise.</p>
+<p>ILIs tend to be nervous about interacting with other people due to lack of confidence in their social abilities, and often feel that they are not socially respected. They find it difficult to gauge a person’s mood without an obvious expression or gesture. Only with a small number of people whom the ILI trusts deeply does the ILI let down his emotional guard. To these people, the ILI can be surprisingly sincere and kind. Nonetheless, the ILI will be little more than an acquaintance to the mass of people that the ILI does not completely trust.</p>
+</div>
+</div>
+<div class="section" id="super-id-block">
+<h2>Super-Id Block<a class="headerlink" href="#super-id-block" title="Permalink to this headline">¶</a></h2>
+<div class="section" id="se-extraverted-sensing">
+<h3>5. Se Extraverted Sensing<a class="headerlink" href="#se-extraverted-sensing" title="Permalink to this headline">¶</a></h3>
+<p>ILIs are often characterized by their inertia. If left to their own devices, they may choose to do relatively little to interact with the outside world. When they do interact, they often find their activities empty and unsatisfying. To ILIs, life is characterized by periods of stimulation. True stimulation is spontaneous, and the intervals between periods of stimulation are often characterized by tedium, inertia, and apathy. ILIs are not very adept at finding new areas of interest, and may seek to continue to reproduce past experiences instead of moving on to new things. In order to break out of this cycle, ILIs require an active, external, spontaneous stimulus. This spontaneity allows the ILI to discover new experiences and escape from the confines of his own mind.</p>
+<p>ILIs are also very indecisive. They may lack the ability to make important decisions, especially regarding their own future. ILIs do not always know what they want out of life and may have difficulty setting or achieving long term goals. In order to act, the ILI needs a clear, tangible signal from somebody who is well grounded in external reality and knows exactly what must be done in a certain situation.</p>
+<p>ILIs may consider work-related or intellectual pursuits important in the long term, but not in the short term. Even so, losing himself in these interests will rarely suffice as a true replacement for the discomfort that he may feel at his lack of decisiveness or inertia.</p>
+</div>
+<div class="section" id="fi-introverted-ethics">
+<h3>6. Fi Introverted Ethics<a class="headerlink" href="#fi-introverted-ethics" title="Permalink to this headline">¶</a></h3>
+<p>ILIs deeply value feelings of attachment to those whom engage them in a deep and lasting emotional kinship. They have a hard time establishing these sentiments as they are naturally disinterested in most people, who seem outwardly unremarkable or have nothing in common with them. But when an ILI has developed deep interpersonal bonds, he makes an effort to hold on to them. ILIs are almost always deeply unconfident about their social abilities and, consequently, they rarely speak of their most valued relationships with others to common outsiders that they consider superficial acquaintances. Feelings of this sort are rarely talked about with others, but the ILI may be painfully aware of these sentiments for fear of appearing overly sentimental or having feelings that are “out of line” or inappropriate to their present level of social interaction. ILIs may love from afar and in their solitude if there is something or someone they love, due to their lack of confidence in their own feelings. Some ILIs may even be closet romantics. ILIs can also be quite sensitive, despite their outward emotional reservation, and are sometimes far more emotionally vulnerable than they appear.</p>
+<p>In general, ILIs are fundamentally good-natured and conscionable people who may place a great deal of importance on ethical principles. In fact, ILIs have a very strong sense of good will and loyalty towards others if they find the others to be similarly reasonable, trustworthy individuals. ILIs will not usually demonstrate this loyalty explicitly. As a consequence, ILIs are not always seen as kind people, and more often appear standoffish, cold, or hostile. If an ILI is drawn in by sincere and engaging individuals, his sense of compassion may be realized and so surface. ILIs can be calm, attentive, and sympathetic listeners to the plights of their emotionally volatile duals, easily establishing a relationship of deep affection with them.</p>
+<p>Many less actualized ILIs hold a far more vindictive attitude. This occurs, among other scenarios, when ILIs are depressed about people, especially when ILIs are suffering from a lack of Fi support from others. In these scenarios the ILI can aggressively attack people’s intelligence, ideas, or character rather unrelentlessly. Even so, such actions may precipitate conflict which the ILI is liable to find highly tiresome and frustrating – blurring the ILI’s mental image of the facts and making him feel as though his work is unfinished. Such people who have been ‘blacklisted’ are often in the ILI’s eyes very deserving of this role, but the ILI may find that other people do not agree and faces the choice of either withdrawing in order to avoid interacting with the object of derision, or else continuing to interact, thus perpetuating the process and compounding the ILI’s frustration. Such judgments may be very difficult to extract from the ILI; such a process requires a copious amount of often thankless moral support and truth; SEEs are the only persons well-equipped for this task, and may in their occasional naivete of others’ motivations benefit from the ILI’s harsh stances. Typically, however, if the ILI is engaged with people with whom he feels very close and who accept his observations, explanations, and expositions (his mental image of the facts, as it were), he sees little need to interact with individuals that would inspire his aggression.</p>
+<p>ILIs rarely, if ever, take it upon themselves to display emotional, social, or physical initiative. To engage other people, especially in unfamiliar circumstances, can be a harrowing task for ILIs, one from which most try to refrain. Nonetheless, ILIs are often treated with uncertainty or hesitance by others due to their inability to give off clear emotional data; ILIs can appear overly polite, formal, and robotic in social situations. ILIs seeking emotional ties with individuals may find themselves forced to take the initiative with others, a task for which even friendly ILIs are ill-equipped. Even when ILIs do take some initiative, they rarely succeed at reaching a depth of emotional connection that truly satisfies them.</p>
+<p>Realization and development of Fi in ILIs as a weak and unconscious function is a process of growth. Some ILIs with minimally developed Fi can be far less aware of the importance of lasting emotions, and can appear much more insensitive, unfriendly, and antagonistic.</p>
+</div>
+</div>
+<div class="section" id="id-block">
+<h2>Id Block<a class="headerlink" href="#id-block" title="Permalink to this headline">¶</a></h2>
+<div class="section" id="ne-extraverted-intuition">
+<h3>7. Ne Extraverted Intuition<a class="headerlink" href="#ne-extraverted-intuition" title="Permalink to this headline">¶</a></h3>
+<p>Although ILIs may have the ability to brainstorm and develop lots of new and unconventional ideas, they prefer not to do so while interacting with others. ILIs often believe that a well-developed understanding of a situation is of greater importance than an understanding of several potential outcomes. To an ILI, it would be a silly and pointless exercise to simply list an infinite number of possible outcomes without assessing their relevance or the likelihood of their realization. In contrast to Ne leading types, ILIs are likely to be relatively immotile in the ideas that they consider. Whereas Ne leading types may jump from idea to idea in succession, ILIs are likely to focus closely on a more limited batch of mental themes. ILIs are also often critical of new ideas which do not correspond to their overall understanding of a subject.</p>
+<p>ILIs may be more apt to take a more practical approach to evaluating the outside world. They seek to expand upon aspects of their own internal realities, e.g. thinking of possible characteristics or plots for inner mental universes. Additionally, they prefer to use their imagination to solve real-world issues, like those regarding economics, politics, or the development of modern society.</p>
+<p>ILIs often have difficulty adapting themselves to new intellectual interests. They would rather limit the amount of new information that they have to learn. Consequently, they may be prone to recycling interests until the same interests become a drudgery, even so much that intellectual progress becomes stunted.</p>
+</div>
+<div class="section" id="ti-introverted-logic">
+<h3>8. Ti Introverted Logic<a class="headerlink" href="#ti-introverted-logic" title="Permalink to this headline">¶</a></h3>
+<p>ILIs naturally possess a strong command of logical systems such as formal logic and mathematics, but may find them uninteresting. They also tend to be very skeptical of overly systematic explanations of real-world phenomena. While they readily acknowledge the utility of many proven systematic, mathematical, and scientific systems, they tend to criticize theories that describe an absolute reality or that do not have any empirical basis. The ILI vision of reality – scientific, philosophical, or otherwise – is a self-contained universe with too many processes and mysteries to count.</p>
+<p>ILIs often reject absolutist explanations, constantly reevaluating their informational outlook (e.g. “this may change, but at the moment I am kind of inclined to think that droog is better than blinth, despite these probable alternatives”).</p>
+<p>In socionics, ILIs often reject or place little importance on certain extensively systematic and unproven aspects of the theory, such as Supersocion theory.</p>
+</div>
+</div>
+<div class="section" id="common-social-roles">
+<h2>Common social roles<a class="headerlink" href="#common-social-roles" title="Permalink to this headline">¶</a></h2>
+<ol class="arabic simple">
+<li><p>The computer geek who lives in virtual reality and understands computers and Internet communication, but lacks experience in real-life social situations.</p></li>
+<li><p>The mystic or spiritual philosopher who is into all things mystical, esoteric, or eastern and makes little sense to the material-minded.</p></li>
+<li><p>The encyclopedist or librarian type who knows literally all there is to know about vast areas of knowledge, but does not use his or her knowledge at work.</p></li>
+<li><p>The office introvert who will not let a sentence mean anything but what was technically said, and doesn’t care about how uncomfortable he is making his co-workers.</p></li>
+</ol>
+</div>
+</div>
+
+      </article>
+      <footer>
+        
+        <div class="related-pages">
+          <a class="next-page" href="LIE_comp.html">
+              <div class="page-info">
+                <div class="context">
+                  <span>Next</span>
+                </div>
+                <div class="title">Wikisocion LIE composite</div>
+              </div>
+              <svg><use href="#svg-arrow-right"></use></svg>
+            </a>
+          <a class="prev-page" href="SEE_comp.html">
+              <svg><use href="#svg-arrow-right"></use></svg>
+              <div class="page-info">
+                <div class="context">
+                  <span>Previous</span>
+                </div>
+                
+                <div class="title">Wikisocion SEE composite</div>
+                
+              </div>
+            </a>
+        </div>
+
+        <div class="related-information">
+              Copyright &#169; 2021, Wikisocion Authors
+            |
+            Built with <a href="https://www.sphinx-doc.org/">Sphinx</a>
+              and
+              <a class="muted-link" href="https://pradyunsg.me">@pradyunsg</a>'s
+              <a href="https://github.com/pradyunsg/furo">Furo theme</a>.
+            |
+            <a class="muted-link" href="../_sources/content/ILI_comp.rst.txt"
+               rel="nofollow">
+              Show Source
+            </a>
+        </div>
+        
+      </footer>
+    </div>
+    <aside class="toc-drawer">
+      
+      
+      <div class="toc-sticky toc-scroll">
+        <div class="toc-title-container">
+          <span class="toc-title">
+            Contents
+          </span>
+        </div>
+        <div class="toc-tree-container">
+          <div class="toc-tree">
+            <ul>
+<li><a class="reference internal" href="#">Wikisocion ILI composite</a><ul>
+<li><a class="reference internal" href="#ego-block">Ego Block</a><ul>
+<li><a class="reference internal" href="#ni-introverted-intuition">1. Ni Introverted Intuition</a></li>
+<li><a class="reference internal" href="#te-extraverted-logic">2. Te Extraverted Logic</a></li>
+</ul>
+</li>
+<li><a class="reference internal" href="#super-ego-block">Super-Ego Block</a><ul>
+<li><a class="reference internal" href="#si-introverted-sensing">3. Si Introverted Sensing</a></li>
+<li><a class="reference internal" href="#fe-extraverted-ethics">4. Fe Extraverted Ethics</a></li>
+</ul>
+</li>
+<li><a class="reference internal" href="#super-id-block">Super-Id Block</a><ul>
+<li><a class="reference internal" href="#se-extraverted-sensing">5. Se Extraverted Sensing</a></li>
+<li><a class="reference internal" href="#fi-introverted-ethics">6. Fi Introverted Ethics</a></li>
+</ul>
+</li>
+<li><a class="reference internal" href="#id-block">Id Block</a><ul>
+<li><a class="reference internal" href="#ne-extraverted-intuition">7. Ne Extraverted Intuition</a></li>
+<li><a class="reference internal" href="#ti-introverted-logic">8. Ti Introverted Logic</a></li>
+</ul>
+</li>
+<li><a class="reference internal" href="#common-social-roles">Common social roles</a></li>
+</ul>
+</li>
+</ul>
+
+          </div>
+        </div>
+      </div>
+      
+      
+    </aside>
+  </div>
+</div><script data-url_root="../" id="documentation_options" src="../_static/documentation_options.js"></script>
+    <script src="../_static/jquery.js"></script>
+    <script src="../_static/underscore.js"></script>
+    <script src="../_static/doctools.js"></script>
+    <script src="../_static/scripts/main.js"></script>
+    </body>
+</html>

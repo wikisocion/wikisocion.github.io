@@ -1,0 +1,72 @@
+Oldham styles
+=====================
+
+`John M.
+Oldham <http://www.forensicpanel.com/members/john_oldham_md.htm>`_,
+M.D. is a professional psychiatrist renowned for his work on personality
+disorders. Based on them, he proposed that healthy people have 16
+personality styles, and the likeliest personality disorder they are
+prone to eventually develop is correlated to which of the 16 is the most
+predominant.
+
+Since it is concerned with how healthy persons of different types become
+psychologically unhealthy along different paths, it has similarities
+with the :doc:`Enneagram of Personality <e9>` but
+probably backed by more concrete empirical observations. Attempts have
+been made to correlate his personality styles with the types of other
+theories as in this
+`site <http://www.geocities.com/lifexplore/oldham.htm>`_.
+
+His personality styles are:
+
+-  Adventurous
+-  Aggressive
+-  Artistic
+-  Conscientious
+-  Devoted
+-  Dramatic
+-  Idiosyncratic
+-  Inventive
+-  Leisurely
+-  Mercurial
+-  Self-Confident
+-  Self-Sacrificing
+-  Sensitive
+-  Serious
+-  Solitary
+-  Vigilant
+
+
+
+Correlation to socionics types
+------------------------------
+
+On occasion suggestions have been made about possible correlations
+between Oldham's styles and the 16 socionics types, for example the
+original creator of :doc:`The16types.info <the16types>`. This is
+perhaps a possibility worth investigating, since psychiatric statistics
+of the frequence of the relevant disorder might say something about the
+distribution of the socionics types.
+
+This approach would present some difficulties, though. For example, a
+superficial reading of brief descriptions of Oldham's styles suggests
+the following:
+
+-  :doc:`SLE <SLE>` seems to be the best fit for three styles: Adventurous,
+   Aggressive, and Self-Confident.
+-  :doc:`SEI <SEI>` is the best fit for Artistic.
+-  all logical introverts, and especially logical
+   :doc:`IJs <IJ>`, can fit Solitary.
+-  :doc:`LSE <LSE>`, :doc:`ESI <ESI>` and :doc:`LSI <LSI>` could fit
+   Conscientious.
+-  :doc:`SEI <SEI>` and :doc:`ESE <ESE>` fit Devoted best.
+-  :doc:`EIE <EIE>` is the best fit for Dramatic.
+-  :doc:`ILI <ILI>`, :doc:`IEI <IEI>` and perhaps :doc:`LII <LII>` fit
+   Idiosyncratic best.
+-  :doc:`ILE <ILE>` and :doc:`IEE <IEE>` fit Inventive best.
+-  :doc:`SLI <SLI>` is the best match for Leisurely.
+-  :doc:`SEE <SEE>` and :doc:`SEI <SEI>` fit Mercurial partly, but not very
+   well.
+-  :doc:`EII <EII>` is perhaps a match for Self-sacrificing in some
+   situations.
+-  :doc:`LIE <LIE>` might be one match for Vigilant.

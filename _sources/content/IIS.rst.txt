@@ -1,0 +1,27 @@
+International Institute of Socionics
+=============================================
+
+.. warning::
+    This page or section is **incomplete**. Additional contributions are needed.
+
+The `International Institute of
+Socionics <http://socionic.info/et/buklet.html>`__ was founded in Kiev,
+Ukraine in 1991. It publishes a quarterly journal called *Socionics,
+Mentology, and Personality Psychology* (in Russian only), as well as
+four other journals. The Institute brings together nearly ten socionists
+- each of whom is well-known in his own right. Three of them do
+consulting work together - Dr. :doc:`Aleksandr Bukalov <bukalov>` (Director of the institute), Dr. Olga
+Karpenko, and Dr. Galyna Chykyrysova. These members make frequent trips
+around Russia, Germany, Ukraine and other countries to do management and
+production consulting projects using "S-Technologies" - their name for
+their socionic know-how and consulting methodology.
+
+The institute is an officially registered organization. It hosts annual
+international socionics conferences, publishes scientific journals
+"Socionics, mentology and personality psychology", "Management and
+Personnel: Psychology of management, Socionics and Sociology",
+"Psychology and Socionics of interpersonal relations","Pedagogics,
+Psychology and Socionics of Education".
+
+-  `Website of the International Intitute of
+   Socionics <http://socionic.info>`__

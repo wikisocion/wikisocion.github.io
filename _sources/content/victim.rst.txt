@@ -1,0 +1,164 @@
+Victim
+================
+
+The **Victim** types, identified as such by :doc:`Viktor Gulenko <gulenko>`, are the four types with Ni |symbol_t.gif| in their
+:ref:`ego <ego-block>`, two each in :doc:`Beta <beta_quadra>` and :doc:`Gamma <gamma_quadra>`:
+:doc:`EIE <EIE>`, :doc:`IEI <IEI>`, :doc:`LIE <LIE>`, and :doc:`ILI <ILI>`.
+
+Despite the differences between these types in terms of
+:doc:`temperament <temperament>`, :ref:`base function <leading-func>`, and
+:doc:`quadra <quadra>` :doc:`values <quadra>`, it seems that in the area of
+physical attraction, desire, and flirting, the `Ego <Ego>`
+:doc:`element <elements>` Ni |symbol_t.gif|, coupled with their
+expectations of Se |symbol_f.gif| style behavior in intimate partners,
+is the most visible factor in a Victim's behavior.
+
+
+Typical characteristics of the Victim romance style
+---------------------------------------------------
+
+-  prone to initial doubts about intensity of own interest in another
+   person
+-  not always confident about revealing that interest
+-  inclined to focus on whether or not the other person might
+   reciprocate the interest
+-  inclined to question whether or not the other person's interest will
+   remain constant with time
+-  preference for partners that provoke in the individual a certain
+   sense of awe in terms of power, physical presence, and the like
+-  appreciation for the sense of power-play present when interacting
+   with such partners, with acceptance of a slight sense of superiority
+   on the part of the partner, without ever actually "submitting" to
+   them
+-  this takes the form of the individual somewhat expecting the partner
+   to be "mean" on occasion
+-  in the case of Victim males with female partners, this latter trait
+   assumes a characteristic analogous to a "knight devoted to his
+   princess"
+-  inclination to openly admit to a relationship having been ended by
+   the partner rather than by the individual himself
+
+This romance style is defined by focus on |symbol_t.gif| which is
+dynamic, irrational, and introverted, with perceptions of inner imagery
+away from the present physical reality. This means that a Victim sees
+attraction between two individuals as a dynamic state, which he feels is
+completely natural. This accounts for a Victim's inclination to focus on
+the mutual attraction, or particularly the attraction felt by the other
+person, as to its longer-term perspectives and implications, as well as
+a certain expectation that the partner will continuously take action to
+confirm the attraction. Failure on the partner to do so results on the
+individual assuming that it's already changing. The individual counts on
+the partner to forcefully bring the individual "down to earth from his
+thoughts " and focus on the immediate physical reality, continuously.
+
+Perception of other romance styles
+----------------------------------
+
+This refers to perceptions of the partner in a romantic or prospective
+relationship.
+
+:doc:`Aggressor <aggressor>`\ **:** Victims tend to perceive Aggressors as
+pleasantly reassuring, providing direct unequivocal signals to their
+interests and intents, given to taking concrete actions and initiatives
+to meet their goals. They find Aggressor's conscious realization of
+their sexual desires to be attractive and reflecting positively on their
+own level of romantic motivation.
+
+:doc:`Victim <victim>`\ **:** Victims tend to perceive other Victims as
+puzzling, evasive, even non-committal, not giving them clear signals and
+given to playing "waiting" and "push-pull" games that slow down
+relationship development, but also as exciting partners if a certain
+stage of "certainty" is finally reached. Courting of two Victims types
+resemble attempts to make the other adopt Aggressor behavior or to
+patiently wait out until the other person does so on their own.
+
+:doc:`Caring <caring>`\ **:** Victims tend to perceive Caring types as a
+reassuring, supportive, smooth and stable presence in their life, but
+also somewhat dull and monotonous. The excessive attention of Caring
+type to Victim's needs and statements is confusing and irritating to the
+Victim type. Caring type's inclination to safeguard and protect Victim
+types from life's troubles is at first appreciated and viewed as
+supportive, but eventually as intrusive and unnecessary.
+
+:doc:`Childlike <childlike>`\ **:** Victims tend to perceive Childlike
+types as interesting, refreshing, and captivating in intellectual sense,
+but ultimately too focused on mental explorations and idle talk in
+absence of any realistic initiatives. In everyday life, Victims may see
+Childlike types as too demanding and capricious, expecting too much care
+that Victims find exhausting to provide; Victim women are prone to
+seeing Childlike men not capable of providing solid support and concrete
+initiatives as well as slightly irritating.
+
+
+Description from :doc:`Life Scenarios <life_scenarios>` by V. Gulenko
+----------------------------------------------------------------------------------------
+
+**"Victim"** man (ILI, LIE, EIE, IEI). Idealizes a commanding woman.
+Adapts to her tastes, respects volitional qualities in her. In his
+behavior at times he emphasizes dependence and obedience, and other
+times comes out of control. In relationship with a woman he
+subconsciously awaits orders, catches, reprimands. Not receiving these
+kinds of reactions, he involuntarily provokes their manifestation.
+
+**"Victim"** woman (ILI, LIE, EIE, IEI). The ideal of this woman is a
+physically strong man, reminiscent of lead roles in action movies. She
+wishes to experience his force on herself, to resist his pressure, to
+feel herself a victim. In love games, she prefers different forms of
+opposition and confrontation, that fuel the passions of her partner.
+Women of this type sometimes have inherent masochistic traits, though
+not all of them consciously acknowledge it.
+
+"Victim" woman cleverly plays on her weakness, vulnerability, or
+disorganization, thus provoking "Aggressive" man to undertake prompt
+decisive actions. In love games, the greatest value for her are strong
+embraces and feeling the power of the male body, yielding to which she
+shows her submission to his will. "Caring" men seem comfortable to her,
+but too dull partners, while "Childlike" men in her heart she views as
+not sufficiently strong and resolute. With similar to her "Victim" men
+this woman enters into complex, full of subtext relations, competing
+with them in sacrificial attitudes and demanding for it special
+privileges. Frequently such games literally wear out and exhaust both of
+them.
+
+At this point, I consider it necessary to mention that these
+psychoanalytic groups are not being considered in all detail, so some
+more subtle differences within them disappear. In particular, among
+"Victim" types the fact remains unnoticed that they can further be
+divided into the "tragic victims" (IEI and EIE) and "comic victims" (ILI
+and LIE).
+
+
+.. list-table:: Small Groups
+    :header-rows: 0
+    :stub-columns: 1
+
+    * - :doc:`Quadras <quadra>`
+      - :doc:`Alpha <alpha_quadra>`
+      - :doc:`Beta <beta_quadra>`
+      - :doc:`Gamma <gamma_quadra>`
+      - :doc:`Delta <delta_quadra>`
+    * - :doc:`Clubs <club>`
+      - :doc:`Researchers <club_researchers>`
+      - :doc:`Socials <club_socials>`
+      - :doc:`Pragmatists <club_pragmatists>`
+      - :doc:`Humanitarians <club_humanitarians>`
+    * - :doc:`Temperaments <temperament>`
+      - :doc:`EP <EP>`
+      - :doc:`EJ <EJ>`
+      - :doc:`IP <IP>`
+      - :doc:`IJ <IJ>`
+    * - :doc:`Communication Styles <communication_styles>`
+      - Business-like
+      - Passionate
+      - Cold-blooded
+      - Sincere
+    * - :doc:`Romance Styles <romance_styles>`
+      - :doc:`Aggressor <aggressor>`
+      - :doc:`Victim <victim>`
+      - :doc:`Caring <caring>`
+      - :doc:`Childlike <childlike>`
+
+
+
+.. |symbol_t.gif| image:: Symbol_t.gif
+.. |symbol_f.gif| image:: Symbol_f.gif

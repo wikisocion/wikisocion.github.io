@@ -1,0 +1,174 @@
+Yielding and obstinate
+===============================
+
+**Yielding** / **Obstinate**, sometimes called **Resource-protecting** /
+**Interest-protecting**, is one of the 15 `Reinin dichotomies <reinin_dich>`.
+
+
+Yielding and obstinate types
+----------------------------
+
+-  Yielding types are :doc:`SEI <SEI>`, :doc:`ILE <ILE>`, :doc:`IEI <IEI>`, :doc:`SLE <SLE>`, :doc:`ESI <ESI>`, :doc:`LIE <LIE>`, :doc:`EII <EII>`, :doc:`LSE <LSE>`
+-  Obstinate types are :doc:`LII <LII>`, :doc:`ESE <ESE>`, :doc:`LSI <LSI>`, :doc:`EIE <EIE>`, :doc:`ILI <ILI>`, :doc:`SEE <SEE>`, :doc:`SLI <SLI>`,    :doc:`IEE <IEE>`
+-  Using the :doc:`four-letter code <type_names>`: yielding types are ET or IF, obstinate types are EF or IT.
+
+
+Theoretical properties of yielding and obstinate types
+------------------------------------------------------
+
+Yielding/obstinate corresponds with the
+:ref:`evaluatory <evaluatory>`/ :ref:`situational <evaluatory>` dichotomy for
+:doc:`rational <ration_irration>` :doc:`information elements <elements>`:
+
+-  The yielding types have evaluatory |symbol_p.gif| |symbol_r.gif| and
+   situational |symbol_l.gif| |symbol_e.gif| .
+-  The obstinate types have evaluatory |symbol_l.gif| |symbol_e.gif| and
+   situational |symbol_p.gif| |symbol_r.gif|.
+
+Typical characteristics
+-----------------------
+
+Yielding types
+~~~~~~~~~~~~~~
+
+#. Resources are 'sacred', but ideas are freely shared and manipulated.
+#. Easily aware of the boundaries between their and others' interests.
+#. Protect their resources to the point of conflict, and their reaction
+   may be unduly strong.
+#. If I know I can't do something, I won't and will forget all about
+   it.
+
+Obstinate types
+~~~~~~~~~~~~~~~
+
+#. Ideas are 'sacred', but resources are freely shared and manipulated.
+#. Easily aware of the boundaries between their and others' resources.
+#. Guard their interests from intrusions, and their reaction to such
+   intrusions may be quite sharp.
+#. I won't abandon my interests just because my resources are
+   inadequate, but simply work towards improving my resources until they
+   ARE adequate.
+
+Extended characteristics
+------------------------
+
+Taken from :doc:`2003 study of Reinin traits <reinin_study>`.
+
+Yielding
+~~~~~~~~
+
+-  For the Yielding type, personal resources falls into their "inner
+   personal space" (i.e. something that cannot be compromised), which is
+   outlined with a "personal boundary", while interests constitute an
+   object to be manipulated. Interest is evoked only if it can be
+   supported by an adequate, corresponding resource or opportunity.
+-  Yielding type, while interacting with other people, freely express
+   their interests (they readily share photographs, voice their
+   disagreements, consider counterarguments, are ready to share their
+   interests with other people and collaborate on them). These types
+   clearly delineate interests as "my own" and "those of others".
+-  Yielding types protect themselves during conflicts over resources,
+   but they do not monitor encroachments on their interests. If anyone
+   attempts to claim their resources, thus intruding into their
+   "personal space", they react sharply, which can even seem a bit over
+   the edge and aggressive. (This reaction is associated with
+   "inviolability" of their resources.)
+
+Obstinate
+~~~~~~~~~
+
+-  For Obstinate types, their interest fall into their "personal
+   ("inviolable") space", which is outlined with a "personal boundary",
+   while resources are an object to be manipulated. In the presence of
+   an interest, their will seek suitable resources and opportunities.
+-  The Obstinate interacting with other people freely operates with
+   their resources (they can "share" and "trade" them, purposefully
+   replenish them and use them up). They are acutely aware of the
+   dividing line between their own resources and those of others.
+-  Obstinate types guard themselves from intrusions into their personal
+   sphere of interests, while at the same time they pay no heed to
+   intrusions on their resources. If someone tries to impose their
+   interests on Obstinate types, thus intruding into their personal
+   space, their reaction will be sufficiently deterring and sharp (such
+   a reaction occurs in cases when other's interests do not become their
+   interests).
+
+**Notes**
+
+Key concepts of this dichotomy are "personal space", "resources" (what
+we have available at our disposal) and "personal interests" (what is
+meant here are not personal interests, but pursuits we find interesting
+and feel personal responsibility and attachment to). "Personal space" is
+something that an individual feels is an integral part of himself or
+herself, cannot renounce it, and will defend it from impositions and
+intrusions from outside. For the Yielding types, this space is occupied
+by their resources, while for the Obstinate typesby their interests.
+Correspondingly, Yielding types manipulate interests (freely change
+them, adjust them in accordance with their resources) and
+Obstinatetheir resources (they adjust them to their interests).
+
+**Examples**
+
+*Compliant:* "Affairs can be yours and those of other people who can
+compel you with their requests" "Interests that cannot be realized
+eventually become uninteresting. I let go of old interests easily" "I
+try to limit my affairs, how many things I'm involved with, how many
+things I am suppose to do. Potentially this is interesting to me but I
+will not undertake it" "If I know that I can't do something, I will
+reject it and will forget about it" "If I have an interest, it is,
+naturally, reflected by capabilities. If something is impossible I won't
+go wasting my time and effort on it." "I don't understand people who
+list all kinds of interests... personally I clearly know what my
+capabilities are"
+
+*Obstinate:* "I never let go of my favorite occupations. I will do them
+at expense of sleep, food..." "I certainly won't abandon it.... I'm
+inclined to squeeze the situation to the very end" "I can't let go of my
+interests out of fear of destruction and loss of my personality" "My
+interests are at the limits of my physical capabilities. When my
+physical capabilities show me their limitsI back away, but I will do
+this only as a very last resort... but even then I will not abandon them
+but "postpone" them and await the moment when I have sufficient
+resources. I won't let go of my interests, even though the resources are
+already insufficient..."
+
+.. list-table:: Type :doc:`dichotomies <dich>`
+    :header-rows: 0
+    :align: center
+
+    * - |jp|
+      - |EI|
+      - |NS|
+    * - |TF|
+      - |SD|
+      - |PR|
+    * - |PN|
+      - |AD|
+      - |CE|
+    * - |CF|
+      - |YO|
+      - |TS|
+    * - |MS|
+      - |JD|
+      - |AD|
+
+.. |EI| replace:: :doc:`Extraversion and introversion <extra_intro>`
+.. |DA| replace:: :doc:`Democratic and aristocratic <democratic_aristocratic>`
+.. |TS| replace:: :doc:`Tactical and strategic <tactical_strategic>`
+.. |CE| replace:: :doc:`Constructivist and emotivist <constructivist_emotivist>`
+.. |PN| replace:: :doc:`Positivist and negativist <positivist_negativist>`
+.. |JD| replace:: :doc:`Judicious and decisive <judicious_decisive>`
+.. |MS| replace:: :doc:`Merry and serious <merry_serious>`
+.. |NS| replace:: :doc:`Sensing and intuition <sensing_intuition>`
+.. |TF| replace:: :doc:`Ethics and logic <ethics_logic>`
+.. |jp| replace:: :doc:`Rationality and irrationality <ration_irration>`
+.. |CF| replace:: :doc:`Carefree and farsighted <carefree_farsighted>`
+.. |YO| replace:: :doc:`Yielding and obstinate <yielding_obstinate>`
+.. |SD| replace:: :doc:`Static and dynamic <statics_dynamics>`
+.. |PR| replace:: :doc:`Process and result <process_result>`
+.. |AD| replace:: :doc:`Asking and declaring <asking_declaring>`
+
+.. |symbol_p.gif| image:: symbol_p.gif
+.. |symbol_r.gif| image:: symbol_r.gif
+.. |symbol_l.gif| image:: symbol_l.gif
+.. |symbol_e.gif| image:: symbol_e.gif

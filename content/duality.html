@@ -1,0 +1,521 @@
+<!doctype html>
+<html class="no-js">
+  <head><meta charset="utf-8"/>
+    <meta name="viewport" content="width=device-width,initial-scale=1"/>
+    <meta name="color-scheme" content="light dark"><link rel="index" title="Index" href="../genindex.html" /><link rel="search" title="Search" href="../search.html" /><link rel="next" title="Relations of extinguishment" href="extinguishment.html" /><link rel="prev" title="Conflict" href="conflict.html" />
+
+    <meta name="generator" content="sphinx-4.1.2, furo 2021.08.11.beta42"/>
+        <title>Duality - Wikisocion</title>
+      <link rel="stylesheet" type="text/css" href="../_static/pygments.css" />
+    <link rel="stylesheet" type="text/css" href="../_static/styles/furo.css?digest=197f00461d56902ea7ca048ec6e6ba026f62c97b" />
+    <link rel="stylesheet" type="text/css" href="../_static/styles/furo-extensions.css?digest=93475b62d1c3bc01323a0eefdc14a62d77b12690" />
+    
+    
+
+
+<style>
+  body {
+    --color-code-background: #f8f8f8;
+  --color-code-foreground: black;
+  
+  }
+  body[data-theme="dark"] {
+    --color-code-background: #202020;
+  --color-code-foreground: #d0d0d0;
+  
+  }
+  @media (prefers-color-scheme: dark) {
+    body:not([data-theme="light"]) {
+      --color-code-background: #202020;
+  --color-code-foreground: #d0d0d0;
+  
+    }
+  }
+</style>
+    <link media="(prefers-color-scheme: dark)" rel="stylesheet" href="../_static/pygments_dark.css"></head>
+  <body>
+    
+<svg xmlns="http://www.w3.org/2000/svg" style="display: none;">
+  <symbol id="svg-toc" viewBox="0 0 24 24">
+    <title>Contents</title>
+    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+      stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+      <path stroke="none" d="M0 0h24v24H0z" />
+      <line x1="4" y1="6" x2="20" y2="6" />
+      <line x1="10" y1="12" x2="20" y2="12" />
+      <line x1="6" y1="18" x2="20" y2="18" />
+    </svg>
+  </symbol>
+  <symbol id="svg-menu" viewBox="0 0 24 24">
+    <title>Menu</title>
+    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+      stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather-menu">
+      <line x1="3" y1="12" x2="21" y2="12"></line>
+      <line x1="3" y1="6" x2="21" y2="6"></line>
+      <line x1="3" y1="18" x2="21" y2="18"></line>
+    </svg>
+  </symbol>
+  <symbol id="svg-arrow-right" viewBox="0 0 24 24">
+    <title>Expand</title>
+    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+      stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather-chevron-right">
+      <polyline points="9 18 15 12 9 6"></polyline>
+    </svg>
+  </symbol>
+  <symbol id="svg-sun" viewBox="0 0 24 24">
+    <title>Light mode</title>
+    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+      stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" class="feather-sun">
+      <circle cx="12" cy="12" r="5"></circle>
+      <line x1="12" y1="1" x2="12" y2="3"></line>
+      <line x1="12" y1="21" x2="12" y2="23"></line>
+      <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
+      <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
+      <line x1="1" y1="12" x2="3" y2="12"></line>
+      <line x1="21" y1="12" x2="23" y2="12"></line>
+      <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
+      <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
+    </svg>
+  </symbol>
+  <symbol id="svg-moon" viewBox="0 0 24 24">
+    <title>Dark mode</title>
+    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+      stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" class="icon-tabler-moon">
+      <path stroke="none" d="M0 0h24v24H0z" fill="none" />
+      <path d="M12 3c.132 0 .263 0 .393 0a7.5 7.5 0 0 0 7.92 12.446a9 9 0 1 1 -8.313 -12.454z" />
+    </svg>
+  </symbol>
+  <symbol id="svg-sun-half" viewBox="0 0 24 24">
+    <title>Auto light/dark mode</title>
+    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+      stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" class="icon-tabler-shadow">
+      <path stroke="none" d="M0 0h24v24H0z" fill="none"/>
+      <circle cx="12" cy="12" r="9" />
+      <path d="M13 12h5" />
+      <path d="M13 15h4" />
+      <path d="M13 18h1" />
+      <path d="M13 9h4" />
+      <path d="M13 6h1" />
+    </svg>
+  </symbol>
+</svg>
+
+<input type="checkbox" class="sidebar-toggle" name="__navigation" id="__navigation">
+<input type="checkbox" class="sidebar-toggle" name="__toc" id="__toc">
+<label class="overlay sidebar-overlay" for="__navigation">
+  <div class="visually-hidden">Hide navigation sidebar</div>
+</label>
+<label class="overlay toc-overlay" for="__toc">
+  <div class="visually-hidden">Hide table of contents sidebar</div>
+</label>
+
+
+
+<div class="page">
+  <header class="mobile-header">
+    <div class="header-left">
+      <label class="nav-overlay-icon" for="__navigation">
+        <div class="visually-hidden">Toggle site navigation sidebar</div>
+        <i class="icon"><svg><use href="#svg-menu"></use></svg></i>
+      </label>
+    </div>
+    <div class="header-center">
+      <a href="../index.html"><div class="brand">Wikisocion</div></a>
+    </div>
+    <div class="header-right">
+      <div class="theme-toggle-container theme-toggle-header">
+        <button class="theme-toggle">
+          <div class="visually-hidden">Toggle Light / Dark / Auto color theme</div>
+          <svg class="theme-icon-when-auto"><use href="#svg-sun-half"></use></svg>
+          <svg class="theme-icon-when-dark"><use href="#svg-moon"></use></svg>
+          <svg class="theme-icon-when-light"><use href="#svg-sun"></use></svg>
+        </button>
+      </div>
+      <label class="toc-overlay-icon toc-header-icon" for="__toc">
+        <div class="visually-hidden">Toggle table of contents sidebar</div>
+        <i class="icon"><svg><use href="#svg-toc"></use></svg></i>
+      </label>
+    </div>
+  </header>
+  <aside class="sidebar-drawer">
+    <div class="sidebar-container">
+      
+      <div class="sidebar-sticky"><div class="sidebar-scroll"><a class="sidebar-brand" href="../index.html">
+  
+  
+  <span class="sidebar-brand-text">Wikisocion</span>
+  
+</a><form class="sidebar-search-container" method="get" action="../search.html" role="search">
+  <input class="sidebar-search" placeholder=Search name="q" aria-label="Search">
+  <input type="hidden" name="check_keywords" value="yes">
+  <input type="hidden" name="area" value="default">
+</form>
+<div id="searchbox"></div>
+</div>
+      </div>
+      
+    </div>
+  </aside>
+  <div class="main">
+    <div class="content">
+      <article role="main">
+        <div class="content-icon-container">
+          <div class="theme-toggle-container theme-toggle-content">
+            <button class="theme-toggle">
+              <div class="visually-hidden">Toggle Light / Dark / Auto color theme</div>
+              <svg class="theme-icon-when-auto"><use href="#svg-sun-half"></use></svg>
+              <svg class="theme-icon-when-dark"><use href="#svg-moon"></use></svg>
+              <svg class="theme-icon-when-light"><use href="#svg-sun"></use></svg>
+            </button>
+          </div>
+          <label class="toc-overlay-icon toc-content-icon" for="__toc">
+            <div class="visually-hidden">Toggle table of contents sidebar</div>
+            <i class="icon"><svg><use href="#svg-toc"></use></svg></i>
+          </label>
+        </div>
+        <div class="section" id="duality">
+<h1>Duality<a class="headerlink" href="#duality" title="Permalink to this headline">¶</a></h1>
+<p><em>See also</em> <a class="reference internal" href="dual_observations.html"><span class="doc">Duality observations</span></a></p>
+<p><em>Back to</em> <a class="reference internal" href="intertype.html"><span class="doc">Intertype relations</span></a></p>
+<div class="section" id="introduction">
+<h2>Introduction<a class="headerlink" href="#introduction" title="Permalink to this headline">¶</a></h2>
+<p><strong>Duality</strong> is the relations of two TIMs that fit each other ideally
+according to <a class="reference internal" href="model_a.html"><span class="doc">Model A</span></a> according to the principles of
+complementarity. Duality is a fundamental concept of socionics, and was
+introduced by <a class="reference internal" href="augusta.html"><span class="doc">Aushra Augusta</span></a>.</p>
+<p>Duals can interact on many levels and in a variety of ways, which
+creates a sense of fullness and variety in the relationship. Duals
+almost always bring something unexpected to the relationship for the
+other person and end up affecting them in ways they did not expect. This
+is because duals see certain abilities, problems, and traits in each
+other person that the other person is not fully aware of. However, duals
+must remove psychological barriers in order for expectations to be met
+completely. Otherwise, they will be unsatisfied.</p>
+<p>In dual relations one partner’s <a class="reference internal" href="model_a.html#ego-block"><span class="std std-ref">ego</span></a> <a class="reference internal" href="functions.html"><span class="doc">functions</span></a>
+(1 and 2) fill the expectations of the other person’s
+<a class="reference internal" href="model_a.html#superid-block"><span class="std std-ref">Super-Id</span></a> functions (5 and 6). Likewise, duals’
+<a class="reference internal" href="model_a.html#superego-block"><span class="std std-ref">Super-Ego</span></a> and <a class="reference internal" href="model_a.html#id-block"><span class="std std-ref">Id</span></a> blocks, though less important
+to the individuals’ lives, interact with each other in complementary
+ways. Duals help each other to face their super-ego troubles in a
+healthy way, usually indirectly.</p>
+<p>Descriptions of duality often assume that the relationship is romantic
+and between people of the opposite sex. But it should be noted that dual
+relations occur between same-sex partners, in non-romantic friendship,
+in various settings, (e.g. at work,) and between people with different
+backgrounds.</p>
+<div class="section" id="dual-pairs">
+<h3>Dual pairs<a class="headerlink" href="#dual-pairs" title="Permalink to this headline">¶</a></h3>
+<p>Each <a class="reference internal" href="quadra.html"><span class="doc">quadra</span></a> contains two dual pairs, or <strong>dyads</strong>.</p>
+<ul class="simple">
+<li><p><a class="reference internal" href="ILE.html"><span class="doc">ILE</span></a> and <a class="reference internal" href="SEI.html"><span class="doc">SEI</span></a> (<a class="reference internal" href="alpha_quadra.html"><span class="doc">Alpha</span></a> irrational dyad)</p></li>
+<li><p><a class="reference internal" href="LII.html"><span class="doc">LII</span></a> and <a class="reference internal" href="ESE.html"><span class="doc">ESE</span></a> (Alpha rational dyad)</p></li>
+<li><p><a class="reference internal" href="SLE.html"><span class="doc">SLE</span></a> and <a class="reference internal" href="IEI.html"><span class="doc">IEI</span></a> (<a class="reference internal" href="beta_quadra.html"><span class="doc">Beta</span></a> irrational dyad)</p></li>
+<li><p><a class="reference internal" href="LSI.html"><span class="doc">LSI</span></a> and <a class="reference internal" href="EIE.html"><span class="doc">EIE</span></a> (Beta rational dyad)</p></li>
+<li><p><a class="reference internal" href="SEE.html"><span class="doc">SEE</span></a> and <a class="reference internal" href="ILI.html"><span class="doc">ILI</span></a> (<a class="reference internal" href="gamma_quadra.html"><span class="doc">Gamma</span></a> irrational dyad)</p></li>
+<li><p><a class="reference internal" href="ESI.html"><span class="doc">ESI</span></a> and <a class="reference internal" href="LIE.html"><span class="doc">LIE</span></a> (Gamma rational dyad)</p></li>
+<li><p><a class="reference internal" href="IEE.html"><span class="doc">IEE</span></a> and <a class="reference internal" href="SLI.html"><span class="doc">SLI</span></a> (<a class="reference internal" href="delta_quadra.html"><span class="doc">Delta</span></a> irrational dyad)</p></li>
+<li><p><a class="reference internal" href="EII.html"><span class="doc">EII</span></a> and <a class="reference internal" href="LSE.html"><span class="doc">LSE</span></a> (Delta rational dyad)</p></li>
+</ul>
+</div>
+<div class="section" id="in-friendships">
+<h3>In friendships<a class="headerlink" href="#in-friendships" title="Permalink to this headline">¶</a></h3>
+<p>Problems between Duality partners has an almost uncanny way of working
+itself out. Things that dual partners do that are cruel or mean-hearted
+in the eyes of external observers are often passed over as meaningless
+by the other partner. At the same time, common activities are often
+romanticized and seen as extremely meaningful to dual partners.</p>
+</div>
+<div class="section" id="at-work">
+<h3>At work<a class="headerlink" href="#at-work" title="Permalink to this headline">¶</a></h3>
+<p>It is sometimes hard to notice your dual in the workplace at first, but
+once you do, they quickly become much more enjoyable to work with than
+others. When you start to connect, it can often make you wonder “wow!
+how did i miss this before?” Your dual will defend you against the petty
+squibbling of other coworkers, as well as aid you in the basic, mundane
+tasks of the job, making life a lot easier and much less stressful. It
+can sometimes be hard to stay on task when you get carried away
+communicating, which is often broken up by a supervisor who brings the
+duals back to “reality.” If duals develop their relationship properly
+and take an interest in each other, the extravert can show initiative in
+forming a more intimate relationship (friendship or romance).</p>
+</div>
+<div class="section" id="in-romance">
+<h3>In romance<a class="headerlink" href="#in-romance" title="Permalink to this headline">¶</a></h3>
+<p>Romantic relationships affect the most intimate areas of a person’s
+functioning, so dualization in this area will have the greatest affect
+on a person’s life.</p>
+<p>The early stages of a dual romance may be similar to any other
+relationship where infatuation is present, but what is different is the
+psychological distance between the partners. The naturally close
+distance causes partners to relax internally and be more spontaneous
+than they would be in most other relationships. Duals quickly recognize
+that their partner is not overly concerned with their weaknesses and is
+not going to criticize sore spots. In romance dual partners quickly move
+from stereotyped romantic behavior to what is actually natural and
+sincere for them. Partners may find that they “discover themselves”
+through the dual relationship. By seeking out their true desires and
+natural tendencies and ignoring societal expectations, they actually
+enrich the relationship and gladden their partner. If a person has not
+enjoyed dual relations before, experiencing them for the first time will
+likely be a transformational experience. In the initial stage of a dual
+relationship, partners often “drop out” of society for a period of time
+to devote energy to the new relationship and the exciting process of
+self-discovery.</p>
+<p>After infatuation diminishes, stable romantic relationships between
+duals generally grow into tender friendships with a strong element of
+playfulness. No matter how old the relationship is, duals are
+continually able to press their partner’s buttons through playfully
+“tickling” his or her <a class="reference internal" href="functions.html#suggestive-func"><span class="std std-ref">suggestive function</span></a>.
+Since this is the person’s <a class="reference internal" href="functions.html#leading-func"><span class="std std-ref">base function</span></a>, this comes
+naturally, even automatically. Often, simply displaying very typical
+behaviors associated with the partner’s suggestive function makes the
+other person smile or laugh. Over the long term, duals tend to divide
+responsibilities for different areas of their life together along the
+lines of their <a class="reference internal" href="model_a.html#ego-block"><span class="std std-ref">Ego</span></a> functions, even if this contradicts popular
+ideas about gender roles. This relieves psychological strain and frees
+up energy.</p>
+<p>Dual relations in romance develop partners’ individuality, and different
+dual pairs may exhibit different external behavior. Some couples may
+seem like they fight a lot; in actuality, they are expressing emotions
+that neither partner takes personally, and letting off steam and
+demonstrating playful aggression may well be part of the “game” that the
+partners have developed. Other couples may seem businesslike or even
+disinterested in each other in public until you get to know them better.
+In each case, the couple’s behavior will center around the elements of
+each partner’s <a class="reference internal" href="model_a.html#ego-block"><span class="std std-ref">Ego</span></a> functions  especially the <a class="reference internal" href="functions.html#leading-func"><span class="std std-ref">base
+function</span></a>.</p>
+<p>Dual romantic relations can have elements of conflict just like any
+other as irritation and stress build up and the couple experiences
+external pressures. The key difference is the inherent psychological
+comfort level and the letting down of barriers that automatically occurs
+in dual relations. The conflicts that do arise are usually worked
+through carefully (which means different things for each dual pair) and
+ultimately enhance the relationship and partners’ individuality.</p>
+<p>Dual relations are a “closed system” in that partners in a successful
+dual relationship (see disclaimer below) satisfy most of each others’
+psychological needs and become a self-sufficient unit. They may seem
+closed off and inaccessible to some outsiders, but partners have simply
+become more selective about their activities and outside contacts as
+they help each other remove unnecessary irritants and stresses in their
+lives. Such conditions encourage self-realization, which requires
+focusing energy on things that are important to you and ignoring much
+else.</p>
+<p>Some romantic dual couples who spend the vast majority of their time
+together may experience an “identity blurring” effect. In this
+circumstance, the couple may lose most sense of distinction between one
+another, functioning not as two parts of a whole, but merely as a whole
+itself. This can be accompanied by a distancing of the idea of the
+individuals’ physical selves and names from the actual conception of the
+partner. This can eventually reach point where the partner becomes
+difficult to conceive of or even picture externally– as though images
+of them or their name are actually referring to some third old friend
+whom the partner has not seen in a while. Duality in this form could
+well be termed “integration”; neither partner could fully define their
+identity without some inclusion of the other.</p>
+<p><strong>Disclaimer</strong></p>
+<p>All of the above  as well as numerous other descriptions of dual
+relations  assumes that partners have an unfeigned, deep interest in
+each other and genuinely fell in love. In many cases duals do not form
+romantic relationships because they are indifferent to each other or
+there are important differences between them that keep them from
+considering a relationship in the first place. Dual relations only imply
+a certain close psychological distance and ease of interaction. If
+partners are not compatible with each other in other ways, but form a
+relationship anyway, they will have unresolvable conflicts despite the
+psychological comfort. This leads partners to not involve each other in
+many of their activities, show less interest in the other person’s inner
+life, and be less conscientious and understanding. Such a relationship
+will not be completely fulfilling, and partners will not feel united.
+Even if partners are united and experience all of the above description,
+there is no guarantee that something non-socionic may cause them to
+separate at some point, although the likelihood of this is probably less
+than for other relationships.</p>
+</div>
+<div class="section" id="meeting">
+<h3>Meeting<a class="headerlink" href="#meeting" title="Permalink to this headline">¶</a></h3>
+<p>According to socionics.com “Nature has played a little trick on us. It
+is difficult to notice your Dual partner among all the other types and
+even easier to pass them by. Usually during first contact extroverts
+think about their introvert Dual as ordinary and simple, therefore not
+deserving their personal attention. In return introverts consider their
+extrovert Dual to be too good for them and therefore unattainable. Both
+positions usually belong to people who had a lack of Duality interaction
+during childhood.”</p>
+<p>It is also possible that duals pass each other by because when they
+first meet they are likely to act through their Super-Ego functions,
+which is received with boredom from the other party.</p>
+</div>
+</div>
+<div class="section" id="additional-links">
+<h2>Additional Links<a class="headerlink" href="#additional-links" title="Permalink to this headline">¶</a></h2>
+<ul class="simple">
+<li><p><a class="reference internal" href="dual_shulman.html"><span class="doc">On Dual Contact by Shulman</span></a></p></li>
+<li><p><a class="reference internal" href="gulenko_lectures.html"><span class="doc">Lecture on Dual Relations</span></a> by <a class="reference internal" href="gulenko.html"><span class="doc">Victor Gulenko</span></a>.</p></li>
+<li><p><a class="reference external" href="https://web.archive.org/web/20140322091010/http://www.socionics.us/practice/duality.shtml">Dual Relations</a> by <a class="reference internal" href="delong.html"><span class="doc">Rick DeLong</span></a></p></li>
+<li><p><a class="reference external" href="http://socionics.com/rel/dlt.htm">Relations of Duality</a> by <a class="reference internal" href="ganin.html"><span class="doc">Sergei Ganin</span></a></p></li>
+<li><p><a class="reference internal" href="making_duality_work.html"><span class="doc">Making Duality Work by Meged</span></a></p></li>
+<li><p><a class="reference internal" href="dual_meged.html"><span class="doc">Duality Descriptions by Meged and Ovcharov</span></a></p></li>
+<li><p><a class="reference internal" href="dual_vera.html"><span class="doc">Essays on Dual Relations by Stratievskaya</span></a></p></li>
+<li><p><a class="reference internal" href="dual_gulenko.html"><span class="doc">Short Duality Descriptions by Gulenko</span></a></p></li>
+</ul>
+</div>
+<div class="section" id="background">
+<h2>Background<a class="headerlink" href="#background" title="Permalink to this headline">¶</a></h2>
+<p><a class="reference internal" href="augusta.html"><span class="doc">Augusta</span></a>, herself in an unhappy marriage, may have
+exaggerated the role of duality in human life. There has been an
+unspoken assumption that duals are “specially designed” for each other.
+Indeed, Augusta remarks in one of her works, it is unclear from <a class="reference internal" href="model_a.html"><span class="doc">Model A</span></a> how people even function without duals. The answer to her
+question may be that people pick up different kinds of information in
+bits and pieces from lots of different sources, not only from the
+specific person that they are in a close relationship with.</p>
+<p>Discussions about whether or not people are “meant” to be with duals are
+like discussions about whether humans are monogamous or polygamous by
+nature. There is always disagreement and arguments in favor of both
+sides. Most socionists believe dual relations play a special role in
+people’s lives, but dual relations are generally not seen as the cure
+for all psychological and social ills as Augusta seemed to suggest in
+her works.</p>
+<p>Simplified descriptions of <a class="reference internal" href="intertype.html"><span class="doc">intertype relations</span></a>, including duality, sometimes give
+the impression that they are all the same, or that duals are somehow
+supposed to “balance” each other or “neutralize” each other’s
+weaknesses, so that every dual couple will end up looking the same or
+having the same kind of relationship. This is a misconception. Like the
+16 types, all the 8 dualities are distinct, since what each dual pair of
+types expects of a relationship is different from the others.</p>
+</div>
+<div class="section" id="theoretical-properties-of-duality">
+<h2>Theoretical properties of duality<a class="headerlink" href="#theoretical-properties-of-duality" title="Permalink to this headline">¶</a></h2>
+<p>Duals are on opposite poles of the <a class="reference internal" href="jungian.html"><span class="doc">Jungian dichotomies</span></a> of Extroversion / Introversion,
+Logic / Ethics, and Intuition / Sensing, but on the same pole of the
+Rational / Irrational dichotomy. This accounts for duals having a common
+rhythm while each takes on responsibility for opposite <a class="reference internal" href="information_aspect.html"><span class="doc">aspects of reality</span></a>.</p>
+<div class="section" id="model-a">
+<h3>Model A<a class="headerlink" href="#model-a" title="Permalink to this headline">¶</a></h3>
+<p>Functions 1, 2, 3, 4, 5, 6, 7, and 8 reflect on functions 5, 6, 7, 8, 1,
+2, 3, 4.</p>
+<div class="table-wrapper"><table class="docutils align-default" id="id1">
+<caption><span class="caption-text">Functions of <a class="reference internal" href="model_a.html"><span class="doc">Model A</span></a></span><a class="headerlink" href="#id1" title="Permalink to this table">¶</a></caption>
+<colgroup>
+<col style="width: 50%"/>
+<col style="width: 50%"/>
+</colgroup>
+<thead>
+<tr class="row-odd"><th class="head"><p>Partner 1</p></th>
+<th class="head"><p>Partner 2</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="row-even"><td><p><a class="reference internal" href="functions.html#leading-func"><span class="std std-ref">base function</span></a></p></td>
+<td><p><a class="reference internal" href="functions.html#suggestive-func"><span class="std std-ref">suggestive function</span></a></p></td>
+</tr>
+<tr class="row-odd"><td><p><a class="reference internal" href="functions.html#creative-func"><span class="std std-ref">creative function</span></a></p></td>
+<td><p><a class="reference internal" href="functions.html#activating-func"><span class="std std-ref">mobilizing function</span></a></p></td>
+</tr>
+<tr class="row-even"><td><p><a class="reference internal" href="functions.html#role-func"><span class="std std-ref">role function</span></a></p></td>
+<td><p><a class="reference internal" href="functions.html#ignoring-func"><span class="std std-ref">ignoring function</span></a></p></td>
+</tr>
+<tr class="row-odd"><td><p><a class="reference internal" href="functions.html#polr-func"><span class="std std-ref">vulnerable function</span></a></p></td>
+<td><p><a class="reference internal" href="functions.html#demonstrative-func"><span class="std std-ref">demonstrative function</span></a></p></td>
+</tr>
+</tbody>
+</table></div>
+</div>
+<div class="section" id="reinin-traits">
+<h3>Reinin traits<a class="headerlink" href="#reinin-traits" title="Permalink to this headline">¶</a></h3>
+<p>As with all non-identical types, duality types have exactly 7 <cite>Reinin
+traits &lt;Reinin_traits&gt;</cite> in common, with the remaining 8 not in common.</p>
+<p><a class="reference internal" href="reinin_dich.html"><span class="doc">Reinin dichotomies</span></a> in Activation relations:</p>
+<p><strong>In Common:</strong> <a class="reference internal" href="ration_irration.html"><span class="doc">rationality and irrationality</span></a> · <a class="reference internal" href="carefree_farsighted.html"><span class="doc">carefree and farsighted</span></a> · <a class="reference internal" href="yielding_obstinate.html"><span class="doc">yielding and obstinate</span></a> · <a class="reference internal" href="democratic_aristocratic.html"><span class="doc">democratic and aristocratic</span></a> · <a class="reference internal" href="judicious_decisive.html"><span class="doc">judicious and decisive</span></a> · <a class="reference internal" href="merry_serious.html"><span class="doc">merry and serious</span></a> · <a class="reference internal" href="process_result.html"><span class="doc">process and result</span></a></p>
+<p><strong>Not in Common:</strong> <a class="reference internal" href="extra_intro.html"><span class="doc">extraversion and introversion</span></a> · <a class="reference internal" href="sensing_intuition.html"><span class="doc">sensing and intuition</span></a> · <a class="reference internal" href="ethics_logic.html"><span class="doc">ethics and logic</span></a> · <a class="reference internal" href="statics_dynamics.html"><span class="doc">static and dynamic</span></a> · <a class="reference internal" href="tactical_strategic.html"><span class="doc">tactical and strategic</span></a> · <a class="reference internal" href="constructivist_emotivist.html"><span class="doc">constructivist and emotivist</span></a> · <a class="reference internal" href="positivist_negativist.html"><span class="doc">positivist and negativist</span></a> · <a class="reference internal" href="asking_declaring.html"><span class="doc">asking and declaring</span></a></p>
+</div>
+</div>
+</div>
+
+      </article>
+      <footer>
+        
+        <div class="related-pages">
+          <a class="next-page" href="extinguishment.html">
+              <div class="page-info">
+                <div class="context">
+                  <span>Next</span>
+                </div>
+                <div class="title">Relations of extinguishment</div>
+              </div>
+              <svg><use href="#svg-arrow-right"></use></svg>
+            </a>
+          <a class="prev-page" href="conflict.html">
+              <svg><use href="#svg-arrow-right"></use></svg>
+              <div class="page-info">
+                <div class="context">
+                  <span>Previous</span>
+                </div>
+                
+                <div class="title">Conflict</div>
+                
+              </div>
+            </a>
+        </div>
+
+        <div class="related-information">
+              Copyright &#169; 2021, Wikisocion Authors
+            |
+            Built with <a href="https://www.sphinx-doc.org/">Sphinx</a>
+              and
+              <a class="muted-link" href="https://pradyunsg.me">@pradyunsg</a>'s
+              <a href="https://github.com/pradyunsg/furo">Furo theme</a>.
+            |
+            <a class="muted-link" href="../_sources/content/duality.rst.txt"
+               rel="nofollow">
+              Show Source
+            </a>
+        </div>
+        
+      </footer>
+    </div>
+    <aside class="toc-drawer">
+      
+      
+      <div class="toc-sticky toc-scroll">
+        <div class="toc-title-container">
+          <span class="toc-title">
+            Contents
+          </span>
+        </div>
+        <div class="toc-tree-container">
+          <div class="toc-tree">
+            <ul>
+<li><a class="reference internal" href="#">Duality</a><ul>
+<li><a class="reference internal" href="#introduction">Introduction</a><ul>
+<li><a class="reference internal" href="#dual-pairs">Dual pairs</a></li>
+<li><a class="reference internal" href="#in-friendships">In friendships</a></li>
+<li><a class="reference internal" href="#at-work">At work</a></li>
+<li><a class="reference internal" href="#in-romance">In romance</a></li>
+<li><a class="reference internal" href="#meeting">Meeting</a></li>
+</ul>
+</li>
+<li><a class="reference internal" href="#additional-links">Additional Links</a></li>
+<li><a class="reference internal" href="#background">Background</a></li>
+<li><a class="reference internal" href="#theoretical-properties-of-duality">Theoretical properties of duality</a><ul>
+<li><a class="reference internal" href="#model-a">Model A</a></li>
+<li><a class="reference internal" href="#reinin-traits">Reinin traits</a></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+
+          </div>
+        </div>
+      </div>
+      
+      
+    </aside>
+  </div>
+</div><script data-url_root="../" id="documentation_options" src="../_static/documentation_options.js"></script>
+    <script src="../_static/jquery.js"></script>
+    <script src="../_static/underscore.js"></script>
+    <script src="../_static/doctools.js"></script>
+    <script src="../_static/scripts/main.js"></script>
+    </body>
+</html>

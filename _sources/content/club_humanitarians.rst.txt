@@ -1,0 +1,102 @@
+Club of humanitarians
+===============================
+
+**Club of humanitarians** includes :doc:`EIE <EIE>`, :doc:`IEI <IEI>`,
+:doc:`IEE <IEE>`, and :doc:`EII <EII>`.
+
+
+Typical characteristics of humanitarians
+----------------------------------------
+
+
+Heavy humanitarians
+~~~~~~~~~~~~~~~~~~~
+
+**Heavy humanitarians** are :doc:`IEE <IEE>` and :doc:`EII <EII>`. They are a
+mirror pair of :doc:`Delta <delta_quadra>`.
+
+
+Light humanitarians
+~~~~~~~~~~~~~~~~~~~
+
+**Light humanitarians** are :doc:`EIE <EIE>` and :doc:`IEI <IEI>`. They are a
+mirror pair of :doc:`Beta <beta_quadra>`.
+
+
+Group behavior
+--------------
+
+When a group consists of members of this club, but without either of the
+two quadras having greater weight, its interactions are likely to be
+formed around common spiritual, philosophical, artistic, literary or
+humanitarian interests. Very typical and common examples of such clubs
+are religious discussion groups, humanitarian and charity organizations
+such as NGOs, groups of literary and musical activities.
+
+This kind of group behavior, though, in terms of seeing a club as any
+kind of unit, is visible only as long as the group is held together by,
+and focuses on, discussions and activities of their common interests.
+Longer and deeper interactions make such a club visibly "split" into the
+two quadras, Beta and Delta.
+
+
+Perception of other clubs
+-------------------------
+
+These perceptions are visible only as long as the other groups are seen
+exclusively through the prism of their activities and interests as a
+group; closer interaction makes such perceptions quickly be overruled by
+the relevant quadra perceptions.
+
+Researchers
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Humanitarians are inclined to regard Researchers with sympathy and
+admiration for their intellectual pursuits but with some puzzlement at
+their apparent "lack of interest in people".
+
+Socials
+~~~~~~~~~~~~~~~~~~~~~
+
+Humanitarians are inclined to perceive Socials as pleasant company but a
+bit too shallow in their interests and pursuits.
+
+Pragmatists
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Humanitarians are inclined to see Pragmatists as either somewhat
+obnoxious and cold or as refreshingly helpful and skilled in practical
+matters.
+
+
+.. list-table:: Small Groups
+    :header-rows: 0
+    :stub-columns: 1
+
+    * - :doc:`Quadras <quadra>`
+      - :doc:`Alpha <alpha_quadra>`
+      - :doc:`Beta <beta_quadra>`
+      - :doc:`Gamma <gamma_quadra>`
+      - :doc:`Delta <delta_quadra>`
+    * - :doc:`Clubs <club>`
+      - :doc:`Researchers <club_researchers>`
+      - :doc:`Socials <club_socials>`
+      - :doc:`Pragmatists <club_pragmatists>`
+      - :doc:`Humanitarians <club_humanitarians>`
+    * - :doc:`Temperaments <temperament>`
+      - :doc:`EP <EP>`
+      - :doc:`EJ <EJ>`
+      - :doc:`IP <IP>`
+      - :doc:`IJ <IJ>`
+    * - :doc:`Communication Styles <communication_styles>`
+      - Business-like
+      - Passionate
+      - Cold-blooded
+      - Sincere
+    * - :doc:`Romance Styles <romance_styles>`
+      - :doc:`Aggressor <aggressor>`
+      - :doc:`Victim <victim>`
+      - :doc:`Caring <caring>`
+      - :doc:`Childlike <childlike>`
+
+

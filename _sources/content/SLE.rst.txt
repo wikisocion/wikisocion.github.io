@@ -1,0 +1,184 @@
+Sensing Logical Extratim (SLE)
+==================================
+
+**Sensing Logical Extratim**
+
+Type abbreviations: SLE, ESTp, FL 
+
+Ego Block Elements: SeTi (|Se| |Ti|) 
+
+Nicknames: Conqueror, Legionnaire, Marshal, Zhukov, or archetype **Georgy Zhukov**. 
+
+.. list-table:: SLE(ESTp) Model A
+    :header-rows: 1
+    :align: center
+
+    * - :ref:`Inert <contact>`
+      - :ref:`Contact <contact>`
+      - Properties
+      - Blocks
+    * - | **Se**
+        | 1st :ref:`Program function <leading-func>`
+      - | **Ti**  
+        | 2nd :ref:`Creative function <creative-func>`
+      - | *conscious* 
+        | *valued*
+      - :ref:`Ego <ego-block>`
+    * - | **Fi**
+        | 4th :ref:`Vulnerable function <PoLR-func>`
+      - | **Ne**  
+        | 3rd :ref:`Role function <role-func>`
+      - | *conscious* 
+        | *not valued*
+      - :ref:`Super-ego <superego-block>`
+    * - | **Fe**
+        | 6th :ref:`Activating function <activating-func>`
+      - | **Ni** 
+        | 5th :ref:`Suggestive function <suggestive-func>`
+      - | *unconscious* 
+        | *valued*
+      - :ref:`Super-id <superid-block>`
+    * - | **Si**
+        | 7th :ref:`Ignoring function <ignoring-func>`
+      - | **Te**  
+        | 8th :ref:`Demonstrative function <demonstrative-func>`
+      - | *unconscious* 
+        | *not valued*
+      - :ref:`Id <id-block>`
+
+.. list-table:: SLE :doc:`Dichotomies <dich>` and :doc:`Small Groups <small_groups>`
+    :header-rows: 0
+
+    * - :doc:`Jungain <jungian>` : :doc:`Extraverted <extra_intro>` · :doc:`Sensing <sensing_intuition>` · :doc:`Logical <ethics_logic>` · :doc:`Irrational <ration_irration>`
+    * - :doc:`Reinin <reinin_dich>` : :doc:`Static <statics_dynamics>` · :doc:`Yielding <yielding_obstinate>` · :doc:`Aristocratic <democratic_aristocratic>` · :doc:`Strategic <tactical_strategic>` · :doc:`Constructivist <constructivist_emotivist>` · :doc:`Farsighted <carefree_farsighted>` · :doc:`Merry <merry_serious>` · :doc:`Decisive <judicious_decisive>` · :doc:`Negativist <positivist_negativist>` · :doc:`Result <process_result>` · :doc:`Declaring <asking_declaring>`
+    * - :doc:`Small groups <small_groups>` : :doc:`Beta Quadra <quadra>` · :doc:`Pragmatists <club>` · :doc:`EP temperament <temperament>` · :doc:`Business-like <communication_styles>` · :doc:`Aggressor <romance_styles>` · :ref:`Project Groups <project-groups>`
+    * - :doc:`Forms of Thinking <cognitive_styles>` : :ref:`Holographical-Panoramic Cognition <HP-cog>`
+
+**Type Profiles**:
+
+* :doc:`SLE Profile by Gulenko <SLE_gulenko>`
+* :ref:`SLE Profile by Filatova <SLE-Filatova>`
+* :doc:`SLE Profile by Stratiyevskaya <SLE_vera>`
+* :ref:`SLE type description by Grigory Reinin <SLE-Reinin>`
+* :ref:`SLE characteristic by Meged and Ovcharov <SLE-Meged>`
+* :ref:`SLE male and female portraits by Beskova <SLE-Beskova>`
+* :ref:`SLE description by Bukalov and Boiko <SLE-Bukalov>`
+* :doc:`Wikisocion SLE composite <SLE_comp>`
+* :ref:`Socionics Type Profiles by T. Prokofieva and M. Kuzmina <SLE-Prokofieva>`
+* :ref:`SLE description from Socionics.ua <SLE-ua>`
+* :ref:`SLE description by Weisband and Aushra <SLE-Weisband>`
+* :ref:`SLE profile by Golihov <SLE-Golihov>`
+* :ref:`SLE profile by Zamanskaya <SLE-Zamanskaya>`
+* :ref:`SLE description by Voroschenko - pathologies <SLE-Voroschenko>`
+* :ref:`SLE description by Blohin - associative <SLE-Blohin>`
+* :doc:`SLE description from Socioscope.com <socioscope_SLE>`
+* :ref:`SLE profile by Piatnitskiy <SLE-Piatnitskiy>`
+
+**See also**:
+
+* :doc:`SLE subtypes <SLE_subtypes>`
+* :ref:`SLE photographs by Filatova <SLE-photos>`
+* :doc:`SLE domain <SLE_domain>`
+* :doc:`SLE observations <SLE_observations>`
+* :doc:`Type names <type_names>`
+* :doc:`Famous people <famous_people>`
+
+**Intertype relations**:
+
+* :ref:`SLE-IEI dual relations by Meged and Ovcharov <SLE-IEI-Meged>`
+* :ref:`SLE-IEI dual relations by Meged (extended) <SLE-IEI-work>`
+* :ref:`SLE-IEI Recommendations for Harmonization of Relations by Meged <SLE-IEI-har>`
+* :ref:`SLE-IEI dual relations by Gulenko <SLE-IEI-Gulenko>`
+* :ref:`SLE-IEI dual relations by A. Aushra <SLE-IEI-Aushra>` (untranslated)
+* :doc:`SLE-IEI dual relations by Stratiyevskaya <dual_INFp_ESTp_vera>` (untranslated)
+* :doc:`Romantic and Sexual Behavior of Quadras and Subtypes <romantic_quadra>`
+
+.. list-table:: SLE :doc:`Intertype relations <intertype>`
+    :header-rows: 0
+
+    * - | :doc:`Identical <identity>`
+        | |SLE|
+      - | :doc:`Dual <duality>`
+        | |IEI|
+      - | :doc:`Activator <activation>`
+        | |EIE|
+      - | :doc:`Mirror <mirror>`
+        | |LSI|
+    * - | :doc:`Kindred <kindred>`
+        | |SEE|
+      - | :doc:`Semi-dual <semi_dual>`
+        | |ILI|
+      - | :doc:`Benefactor <benefit>`
+        | |LIE|
+      - | :doc:`Supervisor <supervision>`
+        | |ESI|
+    * - | :doc:`Super-Ego <superego>`
+        | |IEE|
+      - | :doc:`Extinguishment <extinguishment>`
+        | |SLI|
+      - | :doc:`Quasi-identical <quasi_identity>`
+        | |LSE|
+      - | :doc:`Conflictor <conflict>`
+        | |EII|
+    * - | :doc:`Business <business>`
+        | |ILE|
+      - | :doc:`Mirage <illusionary>`
+        | |SEI|
+      - | :doc:`Beneficiary <benefit>`
+        | |ESE|
+      - | :doc:`Supervisee <supervision>`
+        | |LII|
+
+.. list-table:: Socionics Type Descriptions
+    :header-rows: 0
+    :stub-columns: 1
+
+    * - Alpha Quadra
+      - :doc:`ILE(ENTp) <ILE>`
+      - :doc:`SEI(ISFp) <SEI>`
+      - :doc:`ESE(ESFj) <ESE>`
+      - :doc:`LII(INTj) <LII>`
+    * - Beta Quadra
+      - :doc:`SLE(ESTp) <SLE>`
+      - :doc:`IEI(INFp) <IEI>`
+      - :doc:`EIE(ENFj) <EIE>`
+      - :doc:`LSI(ISTj) <LSI>`
+    * - Gamma Quadra
+      - :doc:`SEE(ESFp) <SEE>`
+      - :doc:`ILI(INTp) <ILI>`
+      - :doc:`LIE(ENTj) <LIE>`
+      - :doc:`ESI(ISFj) <ESI>`
+    * - Delta Quadra
+      - :doc:`IEE(ENFp) <IEE>`
+      - :doc:`SLI(ISTp) <SLI>`
+      - :doc:`LSE(ESTj) <LSE>`
+      - :doc:`EII(INFj) <EII>`
+
+
+
+.. |Ne| image:: Symbol_i.gif
+.. |Ti| image:: Symbol_l.gif
+.. |Ni| image:: Symbol_t.gif
+.. |Te| image:: Symbol_p.gif
+.. |Fe| image:: Symbol_e.gif
+.. |Se| image:: Symbol_f.gif
+.. |Fi| image:: Symbol_r.gif
+.. |Si| image:: Symbol_s.gif
+
+
+.. |ILE| replace:: :doc:`ILE <ILE>`
+.. |SEI| replace:: :doc:`SEI <SEI>`
+.. |ESE| replace:: :doc:`ESE <ESE>`
+.. |LII| replace:: :doc:`LII <LII>`
+.. |SLE| replace:: :doc:`SLE <SLE>`
+.. |IEI| replace:: :doc:`IEI <IEI>`
+.. |EIE| replace:: :doc:`EIE <EIE>`
+.. |LSI| replace:: :doc:`LSI <LSI>`
+.. |SEE| replace:: :doc:`SEE <SEE>`
+.. |ILI| replace:: :doc:`ILI <ILI>`
+.. |LIE| replace:: :doc:`LIE <LIE>`
+.. |ESI| replace:: :doc:`ESI <ESI>`
+.. |IEE| replace:: :doc:`IEE <IEE>`
+.. |SLI| replace:: :doc:`SLI <SLI>`
+.. |LSE| replace:: :doc:`LSE <LSE>`
+.. |EII| replace:: :doc:`EII <EII>`

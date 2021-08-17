@@ -1,0 +1,506 @@
+Statics and dynamics
+=========================
+
+**Static** / **Dynamic** is one of the 15 :doc:`Reinin dichotomies <reinin_dich>`. Statics focus on properties and
+structures of things. Dynamics focus on movements and interactions of
+things. This is a general characteristic, however, and a person will
+display static or dynamic perception at any given moment depending on
+which :doc:`IM element <elements>` is in use.
+
+
+Static and dynamic types
+------------------------
+
+-  Static :doc:`IM types <socionic_type>` **  are : :doc:`ILE <ILE>`, :doc:`LII <LII>`,
+   :doc:`LSI <LSI>`, :doc:`SLE <SLE>`, :doc:`SEE <SEE>`, :doc:`ESI <ESI>`,
+   :doc:`EII <EII>`, :doc:`IEE <IEE>`.
+-  Dynamic :doc:`IM types <socionic_type>` are : :doc:`SEI <SEI>`, :doc:`ESE <ESE>`,
+   :doc:`EIE <EIE>`, :doc:`IEI <IEI>`, :doc:`ILI <ILI>`, :doc:`LIE <LIE>`,
+   :doc:`LSE <LSE>`, :doc:`SLI <SLI>`.
+-  Using the :doc:`four-letter code <type_names>`: statics are EP or
+   IJ, and dynamics are EJ or IP.
+
+
+Typical characteristics
+-----------------------
+
+Static types
+~~~~~~~~~~~~
+
+#. Perceive events in an episodic manner  discrete states rather than
+   continuous changes.
+#. More inclined to say how stages A, B and C are.
+#. Describe events in a general manner and by comparing them to other
+   similar events.
+#. More inclined to talk of properties and structures of reality.
+#. The stories of statics usually involve one constant main character.
+
+Dynamic types
+~~~~~~~~~~~~~
+
+#. Perceive events in a continuous sequence  continuous changes rather
+   than discrete states.
+#. More inclined to say how stage A leads to stage B, and how stage B
+   leads to stage C.
+#. Describe events in a specific and concrete manner.
+#. More inclined to talk of movements and interactions of reality.
+#. The stories of dynamics usually involve multiple main characters.
+
+Extended characteristics
+------------------------
+
+Description from :doc:`2003 Study of Reinin traits <reinin_study>`
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Statics
+^^^^^^^
+
+-  Statics view reality as sets of episodes, scenes, pictures. The
+   consciousness of a Static type is oriented towards perceiving these
+   separate, individual states, and not a continuous flows of changes.
+-  When statics give descriptions of events, they are inclined to
+   generalize the event itself and treat that event as just another
+   event among similar events (" I usually celebrate New year...").
+-  In stories by Statics there is usually one main character who is the
+   central focus of the story; this almost never changes in the course
+   of the story.
+-  In stories of Statics descriptions of states dominate over
+   descriptions of actions, flow of events. In addition to this,
+   transition from one state to another is not continuous but rather
+   jumps from one state to another.
+-  Lexicon: frequent usage of "to be" as a catenative verb ("to become"
+   "to appear to be"), frequent use of impersonal proposals with modal
+   verbs ("to want", "to can"; "it is possible to make" instead of "I
+   will make"), usage of no-verb constructions.
+
+Dynamics
+^^^^^^^^
+
+-  For Dynamic types, events are viewed as a continuous sequence, which
+   is not fragmented into separate episodes. The consciousness of a
+   Dynamic type is oriented towards perceiving continuous flows of
+   changes as opposed to discrete states.
+-  When describing an event Dynamics are not inclined to generalize and
+   describe the concrete event that has occurred ("Last New year I went
+   to..."). In their stories, one gets the impression that the Dynamic
+   type is at the center of the event that he or she is describing,
+   "drawn" into it.
+-  In stories by Dynamics usually all characters at some point become
+   protagonist, assume a central role; this role may even be given to
+   inanimate objects.
+-  In stories of Dynamics descriptions of processes dominate (that which
+   is occurring, transpiring, going on, rather than something that has
+   already occurred).
+-  Lexicon: they use verbs of action which do not have a direct object
+   ("went", "made", "brought", "settle", "cheered themselves", "cried a
+   little"). In their stories they use many semantic verbs which express
+   actions of the storyteller and other characters in the story and
+   interaction between all of them.
+
+**Notes**
+
+We can draw an analogy to grammatical construction of sentences. The
+difference between Static and Dynamic speech is analogous to the
+difference between different kinds of verbs in Russian: Static's speech
+corresponds to verbs of perfect (certain past) kind ("I have made"), and
+Dynamic's speech to verbs of imperfect (not certain past) kind ("I
+did"). In English language Static speech corresponds to simple
+(Indefinite) tenses and Dynamic to long (Continuous) tenses. It is
+possible to draw another more technical analogy: modern digital cameras
+can save their contents in two different ways: they can either save them
+as segments or record a digital video. In a similar way the surrounding
+reality is fixed in the human mind: Statics "record" reality as separate
+packets ("photographs"), Dynamicsas a continuous "video".
+
+**Examples**
+
+*Statics:* "During New Year I am exhausted" "It would be desirable to
+conduct the New Year..." "It was sad (boring, interesting)" "I stayed at
+home" "We were on a trip" "This holiday was better in comparison to the
+previous one"
+
+*Dynamics:* "The Christmas tree smells nice" "The house is filled with
+holiday spirit" "This New Year they drove to the ski area where they
+skied all day long" "We emptied the whole bottle" "We gathered together,
+sang songs, celebrated" "In the New year I expected a miracle, but as
+inevitably greeted by a disappointment".
+
+Description from :doc:`Forms of Cognition <cognitive_styles>` by V. Gulenko
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+In general terms, this dichotomy refers to orientation towards either
+**space** (Static) or **time** (Dynamic). The categories of space and
+time are vital a priori concepts studied in detail by Immanuel Kant in
+"Critique of Pure Reason", contrasting them as extent and duration.
+
+Statics depend more on space, Dynamics more on time. Filling space with
+objects characterizes Static behavior, whereas Dynamics saturate time
+with events. Statics cannot stand empty spacethey immediately fill it
+with available items on hand. Dynamics cannot stand empty timeboredom,
+stagnation, prolonged states of the same condition. In a certain sense,
+Statics can be called people of place, Dynamics people of time.
+
+Now consider this dichotomy on the individual levels of communication.
+
+Intellectual Level
+^^^^^^^^^^^^^^^^^^
+
+**Statics tend towards fragmentary-analytic thinking; Dynamics tend
+towards associative-synthetic thinking.**
+
+**Analysis**, as defined by most sources, is the division of a whole
+into clearly delimited parts. Analytical work is meant to delineate
+boundaries. Whereas **synthesis** is akin to associativity, i.e. the
+association of two or more concepts by fuzzy, rapid connections whereby
+one occurrence immediately evokes others to mind. Resulting in a
+coherent synthetic image with blurred internal boundaries.
+
+The epitomization of Dynamic cognition formed the explanatory basis for
+the nature of mental processes in the theory of associationism.
+Aristotle first advanced the idea that spontaneous mental images can
+converge so closely together that the similarity or contrast of multiple
+associations emerges on the basis of contiguity. Later John Locke argued
+that ideas of any degree of complexity emerge from the process of
+associating simple sensations. In this case he contrasted the
+association of ideas against purely semantic connections, which in his
+opinion were secondary.
+
+Indeed, eidetic mnemonic techniques showed that with aid of visual
+association, it is possible to connect anything in the mind. Here are
+some of the eidetic memory techniques originating in antiquity.
+
+Roman orator Cicero used the 'method of loci' to memorize his speeches
+by heart. He mentally laid out information in the corners of a room,
+mentally returning to one corner or another to extract as required.
+Medieval Dominican monks studying rhetoric used the same method. They
+took a road familiar to them to the last detail and mentally walked down
+it, successively laying out along the road statements which would be
+presented before the audience. While speaking, they would mentally walk
+the route, 'raising' key concepts they had previously laid there.
+
+Contemporary advertising cleverly exploits the Dynamic side of human
+cognition. It is mainly based on the mechanism of association by context
+(manly cowboy next to a pack of cigarettes) or contrast (ordinary
+laundry detergent vs. advertised laundry detergent). Judging by this
+means of consumer inducement, advertising presumably influences Statics
+much less than Dynamics. Statics memorize more effectively when material
+is structured in rigid semantic relationships, where each concept is
+fixed in memory cells like a computer.
+
+Thus, Dynamics are stronger in synthesis operations (not mere simple
+connections, but confluence of associations), while Statics are stronger
+in analysis (not just any separation, but clear and precise
+delineations). Thus, the discrete/continuous pairing has more to do with
+the StaticDynamic dichotomy, than with otherwise customary
+Rationality/Irrationality. But then, what exactly is the latter?
+Irrationality indicates situationality (predominance of context over
+aim), while Rationality indicates regularity (predominance of aim over
+context).
+
+Social Level
+^^^^^^^^^^^^
+
+Differences between Dynamic and Static types at this level corresponds
+to the contrast between initiators and finalizers.
+
+Dynamics are stronger at the beginning of any activity: they easily move
+and quickly enter the realm of nominal activity. Rapid transitions from
+a previous state into a new process of change itselfthis is their
+customary life. Statics better sustain and continue what has already
+begunthat which is already in motion. They must be preliminarily
+excited.
+
+However, in the Dynamic is a process of continuous readjustment of focus
+and 'drift' of purposes. Because of this, the priorities of Dynamics are
+volatile and poor in hierarchical coordination. One wish may be quickly
+replaced by another and it is difficult for them to concentrate on any
+one specific long-term goal without external support. The strength of
+Dynamics is not in retaining goals, but in achieving them; they are
+better tacticians than strategists.
+
+The objectives of Statics are more stable and reliable. They know what
+they want and are able to maintain long-term focus upon it. They arrange
+priorities in their life and work, with well-differentiated primary and
+secondary objectives that are rarely reversed. Statics are more
+successful strategists than tacticians; they know **what** to do much
+better than **how** to do it.
+
+A predominance of Dynamics in any social group renders it unstable,
+prone to endless change, and sensitive to external interference.
+Conversely, if predominated by Statics, then rapid transformations prove
+to be impossible due to excess psychological inertia, rendering the
+group stabler but more conservative.
+
+Psychological Level
+^^^^^^^^^^^^^^^^^^^
+
+The StaticDynamic dichotomy controls the degree of equilibrium in the
+nervous system. Generally, the nervous system of Statics can be regarded
+as balanced and Dynamics as unbalanced.
+
+This is tied to variability in the internal state commonly referred to
+as 'mood'. The mood of Dynamics, even if Rational, can substantially
+change or fluctuate for seemingly insignificant reasons (from an outside
+observer POV). The Dynamic wants total freedom but is more dependent on
+ambient environmental conditions and needs a solid foundation.
+
+Statics possess a relatively autonomous psycho-emotional state; their
+mood is difficult to spoil, and equally difficult to raise. For Statics,
+providing reliable support to those psychologically depending on them is
+a routine situation.
+
+Dynamics often develop a psycho-physiological phenomenon known as
+'synaesthesia'a complex relationship between the sensory modalities
+that results in confluence between them. Synchronized perception of
+color, sound, smell, and taste as a single complex gives Dynamics a
+special vividness in their perception of reality. Sometimes fusion of
+sensation is developed to such an extent that internal images appear
+indistinguishable from reality. For Statics, given the discreteness of
+their mental apparatus, regular synesthesia is usually a rare exception
+or the result of special training.
+
+Physical Level
+^^^^^^^^^^^^^^
+
+At this level, StaticDynamic manifests as contrasting impulses to
+biological homeostasis/heterostasis. Homeostasis I understand as
+constancy and heterostasis as variability of the organism and its
+surrounding environment.
+
+Dynamics are heterostatically inclined to change their material
+conditions of life such as wardrobe, home interior, or furniture
+arrangement, for sake of variety or out of boredom. For Statics this
+tendency is uncharacteristic. Only with difficulty do they proceed with
+changes to their home environment to which they have become accustomed.
+They will do so only when it's easier to yield to circumstantial
+pressures, than to resist.
+
+As types with variable metabolism, Dynamics can rapidly grow stout,
+though just as quickly lose weight if they fall into a state of
+emotional distress. Statics have the opposite problem, of a stabler
+weight and build: if already seriously fat (or thin), they remain so for
+longer times. Their bodily metabolism is more invariant.
+
+The same laws apply in relation to other physiological parameters such
+as temperature, blood pressure, perspiration, etc. For example, the body
+temperature of Dynamics may fluctuate during the day even with no overt
+symptoms of illness. With sufficient training, Dynamic types can
+consciously change these parameters in the desired direction.
+
+Additional Commentary and Notes
+-------------------------------
+
+See also: `Sociotypograph  determine your sociotype by Renin dichotomies <http://zhilkin.com/socio/en/>`_.
+
+This dichotomy is useful for differentiating types that superficially
+may present themselves similarly, such as quasi-identicals or benefit
+pairs. For example, if one is not sure whether a person's type is ILI or
+LII, this can be resolved by determining whether this person's
+expression is dominated by static or dynamic constructions. In some
+cases, due to a strong emphasis on hidden agenda, the type in position
+of benefactor begins to mimic their beneficiary type and may type
+themselves as such, mistaking an accentuated interest in hidden agenda
+for their base function. However, all benefit pairs lie on different
+sides of the Static / Dynamic dichotomy and can be differentiated
+according to this trait.
+
+Differentiation of Static from Dynamic types can be done through careful
+inspection and analysis of grammatical and lexical constructions present
+in written and verbal statements of the individual whose type is under
+question. By estimating the relative proportion of static to dynamic
+constructions, one can make inferences about another person's type of
+information metabolism. Moreover, since this trait can be estimated from
+verbal or written material (email, letters, books, forum posts, etc.)
+such inferences can be made from a distance, while not being closely
+acquainted with the individual being typed.
+
+People's expressions usually contain a mixture of both static and
+dynamic constructions. This proportion can be related to types roughly
+in the following way:
+
+Static: Ji-Ixxj > Pi-Exxp > Pe-Ixxj > Pe-Exxp \|\| Pi-Ixxp < Pi-Exxj <
+Je-Ixxp < Je-Exxj :Dynamic
+
+That is, the statements of Ji-Ij and Pi-Ep types usually contain the
+greatest proportion of static constructions, while the expressions of
+Je-Ip and Je-Ej types contain the greatest proportion of dynamic
+constructions. From this information, one can then make inferences about
+the information metabolism preferences of a person and narrow down his
+or her likely type. For greater accuracy, analyzing the equivalent of at
+least one page of text is recommended. In case when all available
+material is online posts, it is best to analyze posts that contain
+blocks of text rather than one-liners.
+
+Examples
+--------
+
+ILE-Ti **(static perception)**: *"When I'm driving in the car, I don't,
+and can't, have a running record in my mind of everything I've seen.
+When I'm in the mountains, for example, I'll see a scene with tall grass
+and flowers, next jumping to a scene of a mountain with a cloud hovering
+right above, then jumping to another scene and another, next to me, in
+front of me, on one side of the road, then maybe on the other. Each
+scene is separate from every other scene so I can never get a feel for
+the drive as a whole, only unseparated scenes. It gets as crazy as after
+having driven a 10-mile stretch of highway hundreds of times, I still
+don't grasp it as a whole, only as parts, and I don't know where the
+curves in the road will be, what specifically will be around the next
+curve, and what the relationship is of each scene to another. It means
+every drive is entirely different than the one before and the one after
+because each time I'm looking at different scenes a little differently
+in a different order, so I never get tired of the drive. My husband has
+the road memorized after one or two drives and is bored from then on
+out. If I write down the drive in words, I can memorize the words and
+from then on I'll know where things are located before I get to them,
+rather than having whatever is coming up be a mystery. I recognize the
+drive as a whole, as in I'm not lost, I just can't say what specifically
+will be coming up next. This also happens even if the drive is only a
+mile long and I've driven it hundreds of times. I also had trouble with
+organic chemistry because it's hard for me to grasp physical patterns
+and keep them in my mind.*
+
+EIE-Fe **(dynamic perception)**: *" I could always imagine the
+interconnected systems, what feeds into what, etc. When I drive roads
+enough I could probably do them with my eyes closed...lol. In fact if I
+think back on the road I used to take to work every day, I could
+probably make the whole drive appear in my head from the perspective of
+the driver like a played out fast-forward sequence. It's like for me I
+have to have a contiguous picture of everything. For example, there is
+this one intersection that, before I moved near the city, I had only
+been through a couple of times, and in my mind it had a certain feel
+based on how I saw it connecting to the other roads in the city. But
+when I started frequenting that area, and came to see all of the other
+roads around it, and actually knew and understood from a first person
+POV how everything was connected and where other things were in relation
+to that intersection, it took on this entirely different character in my
+mind... It's hard to explain, but yeah...everything in my head has to be
+connected to something else for me to make sense of it and have a real
+grasp of it. Like when I give people directions, I try to put myself in
+the shoes of the person who is driving, tell them what they will see and
+stuff, rather than just saying "do this do that and this and then you're
+there." In order to access the directions in my mind, I have to kind of
+do the drive in my mind; I can't just make it a list like "turn right
+then left then straight."*
+
+IEE-Fi **(static perception)**: *"I don't know. I'm really bad at
+recognizing what's happening or where I'm at. I'm always like, "Oh, I
+fucking suck." So I never understand."*
+
+Semantic analysis - Dynamic types [incomplete - needs further work]
+
+LIE-Ni: "But I went home this past Christmas, this was right before I
+wrote the song, and I went back to the same bars that I used to go to
+and hang out with my friends, and my same friends' houses, my mom and
+dad's house, and even though I got tired as a kid growing up and hearing
+my mom and dad preach to me all the time My dad, he'd say, Son, I'd
+say, Yeah? He'd go, What? I'd have to say, "Yes, sir," you know? And
+I got tired of that. But now I realize that those are the same reasons I
+still go back home, because of the morals and the values that were
+instilled in me and my friends. And I wouldn't be the man I am today
+without the things that were instilled in me as a kid. And that stems
+from my family and my friends, and just life in general."
+
+Theoretical properties of statics and dynamics
+----------------------------------------------
+
+-  Static :doc:`IM types <socionic_type>` contain static :doc:`IM elements <elements>` in their :ref:`mental <mental>` ring
+   (functions 1 through 4), and dynamic elements in the
+   :ref:`vital <mental>` ring (5 through 8). This means that they tend to
+   verbalize things from a static standpoint, while their behavior is
+   more influenced by dynamic aspects.
+-  Dynamic :doc:`IM types <socionic_type>` contain dynamic :doc:`IM elements <elements>` in their :ref:`mental <mental>` ring, and
+   static element in the :ref:`vital <mental>` ring. They tend to verbalize
+   things from a dynamic standpoint, while their behavior is more
+   influenced by static aspects.
+
+According to definitions from :doc:`classical socionics <classic_socionics>`, **static elements capture
+"snapshots" of reality, while dynamic elements track events in
+process**. Static aspects of reality tend to remain more or less fixed
+over a significant period of time, while dynamic aspects are changeable
+and constantly evolving. Here are some rough descriptions of how the
+perception of static and dynamic :doc:`IM elements <elements>` compare
+to each other:
+
+-  |symbol_f.gif| (static) perceives outward sensory data projected by
+   objects. Unless objects change their appearance significantly, the
+   |symbol_f.gif| impression will not change.
+-  |symbol_s.gif| (dynamic) perceives internal reactions to sensory
+   data. Each perception of the same thing can be different depending on
+   the observer's changing internal state.
+
+-  |symbol_i.gif| (static) perceives inherent potential in objects.
+   Objects don't tend to change their nature much over time, though new
+   circumstances can reveal hitherto unnoticed aspects of that
+   potentiality.
+-  |symbol_t.gif| (dynamic) perceives internal reactions to external
+   potentiality. Today the possibilities might seem inviting and
+   favorable, but tomorrow they might produce a sense of foreboding or
+   despondency.
+
+-  |symbol_l.gif| (static) perceives logical interrelations between
+   objects, which by definition belong to a certain class or location,
+   unless the point of reference is changed.
+-  |symbol_p.gif| (dynamic) perceives what those objects are doing and
+   what is being done with them. One and the same object can be used
+   effectively or ineffectively.
+
+-  |symbol_r.gif| (static) perceives connections of a subjective,
+   emotional nature that exist between objects. These feelings arise
+   gradually and change little until a significant disruption occurs.
+-  |symbol_e.gif| (dynamic) perceives how objects are interacting on an
+   emotional level. One and the same object can interact very different
+   with a stable set of other objects depending on a variety of factors.
+
+
+See also
+--------
+
+-  :doc:`J/P switch <jp_switch>` - the hypothesis of a correspondence
+   between static/dynamic and the :doc:`Myers-Briggs <MBTI>`
+   dichotomy J/P.
+
+
+   
+.. list-table:: Type :doc:`dichotomies <dich>`
+   :header-rows: 0
+   :align: center
+
+   * - |jp|
+     - |EI|
+     - |NS|
+   * - |TF|
+     - |SD|
+     - |PR|
+   * - |PN|
+     - |AD|
+     - |CE|
+   * - |CF|
+     - |YO|
+     - |TS|
+   * - |MS|
+     - |JD|
+     - |AD|
+
+.. |EI| replace:: :doc:`Extraversion and introversion <extra_intro>`
+.. |DA| replace:: :doc:`Democratic and aristocratic <democratic_aristocratic>`
+.. |TS| replace:: :doc:`Tactical and strategic <tactical_strategic>`
+.. |CE| replace:: :doc:`Constructivist and emotivist <constructivist_emotivist>`
+.. |PN| replace:: :doc:`Positivist and negativist <positivist_negativist>`
+.. |JD| replace:: :doc:`Judicious and decisive <judicious_decisive>`
+.. |MS| replace:: :doc:`Merry and serious <merry_serious>`
+.. |NS| replace:: :doc:`Sensing and intuition <sensing_intuition>`
+.. |TF| replace:: :doc:`Ethics and logic <ethics_logic>`
+.. |jp| replace:: :doc:`Rationality and irrationality <ration_irration>`
+.. |CF| replace:: :doc:`Carefree and farsighted <carefree_farsighted>`
+.. |YO| replace:: :doc:`Yielding and obstinate <yielding_obstinate>`
+.. |SD| replace:: :doc:`Static and dynamic <statics_dynamics>`
+.. |PR| replace:: :doc:`Process and result <process_result>`
+.. |AD| replace:: :doc:`Asking and declaring <asking_declaring>`
+.. |symbol_f.gif| image:: symbol_f.gif
+.. |symbol_s.gif| image:: symbol_s.gif
+.. |symbol_i.gif| image:: symbol_i.gif
+.. |symbol_t.gif| image:: symbol_t.gif
+.. |symbol_l.gif| image:: symbol_l.gif
+.. |symbol_p.gif| image:: symbol_p.gif
+.. |symbol_r.gif| image:: symbol_r.gif
+.. |symbol_e.gif| image:: symbol_e.gif

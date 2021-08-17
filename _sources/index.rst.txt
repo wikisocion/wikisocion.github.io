@@ -1,0 +1,92 @@
+.. Wikisocion Static documentation master file, created by
+   sphinx-quickstart on Sat Aug  7 13:37:44 2021.
+   You can adapt this file completely to your liking, but it should at least
+   contain the root `toctree` directive.
+
+Wikisocion Archive
+=============================================
+
+This is a static archive of the `wikisocion <http://www.wikisocion.net/>`_ website, which is a famous English website about **Socionics**.  However, for unknown reason, the website is down in August 2021, which is a huge loss for the Socionics community. This website is created according to the archive of Wikisocion in March 2021. According to the website, the Wikisocion website is licensed under the GFDL license and the primary authors of the original website include Rick DeLong, mu4, Expat, Siuntal, Thehotelambush etc. 
+
+Wikisocion home
+------------------------------------
+
+Wikisocion is a site for the whole socionics community. Its purpose is to bring together and organize information in a way that allows anyone to improve and clarify it. Wikisocion is a non-commercial, permanent project that does not represent the interests of any single school of socionics, but is instead meant to accurately describe socionics as a whole and be a platform for numerous collaborative research projects. For Wikisocion moderation issues and edit access requests, please contact mu4 at `<http://the16types.info>`_ English-speaking socionics community. 
+
+*New to Socionics? read our* :doc:`content/introduction_socionics`.
+
+Socionics Types
+----------------------------
+
+* :ref:`Socionics Type Tests <socionics-tests>`
+* :doc:`Intro to Socionics Type Names <content/type_names>`
+* Type Descriptions
+  
+  * :doc:`ILE (ENTp) <content/ILE>` - :doc:`SEI (ISFp) <content/SEI>` - :doc:`ESE (ESFj) <content/ESE>` - :doc:`LII (INTj) <content/LII>`
+  * :doc:`SLE (ESTp) <content/SLE>` - :doc:`IEI (INFp) <content/IEI>` - :doc:`EIE (ENFj) <content/EIE>` - :doc:`LSI (ISTj) <content/LSI>`
+  * :doc:`SEE (ESFp) <content/SEE>` - :doc:`ILI (INTp) <content/ILI>` - :doc:`LIE (ENTj) <content/LIE>` - :doc:`ESI (ISFj) <content/ESI>`
+  * :doc:`IEE (ENFp) <content/IEE>` - :doc:`SLI (ISTp) <content/SLI>` - :doc:`LSE (ESTj) <content/LSE>` - :doc:`EII (INFj) <content/EII>`
+
+Theory
+----------------------
+
+* :doc:`Information elements <content/elements>`
+* :doc:`Functions <content/functions>` and :doc:`Model A <content/model_a>`
+* :doc:`Small groups <content/small_groups>`, especially :doc:`Quadras <content/quadra>`
+* :doc:`Intertype Relations <content/intertype>`
+* :doc:`Dichotomies <content/dich>`: :doc:`Functional <content/function_dich>` - :ref:`Elemental <elemental-dich>` - :doc:`Jungian <content/jungian>` - :doc:`Reinin <content/reinin_dich>`
+* :doc:`Classical Socionics <content/classic_socionics>`
+
+Background
+----------------------
+
+* :doc:`Carl Jung's Psychological Types <content/psychological_types>`
+* :doc:`Antoni Kępiński's Information Metabolism (IM) <content/information_metabolism>`
+
+Additional Topics
+---------------------------
+
+* Articles: see :doc:`Site map <content/site_map>`
+* :doc:`Jungian and Reinin Dichotomies <content/dich>`
+* :doc:`Subtype systems <content/subtype>`
+* :doc:`Intertype relations <content/intertype>`
+* General issues: :doc:`Axioms <content/axioms>`, :doc:`common biases <content/common_biases>`, :doc:`complementarity <content/complementarity>`, :doc:`J/P Switch <content/jp_switch>`, :doc:`subtype <content/subtype>`, :doc:`type diagnosis <content/diagnosis>`, :doc:`type distribution <content/type_distribution>` and :doc:`visual identification <content/vi>`
+* Hypothesis: ideas that are not widely recognized, such as :doc:`Integral type <content/integral_type>`, :doc:`Quadra succession <content/quadra_succession>`, :doc:`Dimensionality <content/dimensionality>` and :doc:`Dual-type theory <content/dual_type_theory>`.
+
+Socionic Resource
+-----------------------------
+
+* :ref:`Socionics books and journals <books>`
+* :ref:`Socionics resources in English <english-resources>`
+* :ref:`Socionics Schools, Clubs and Organizations <socionics-schools>`
+* :ref:`Socionics discussion forums <forums>`
+
+Applications and community
+------------------------------------
+
+* :doc:`Socionists <content/socionist>`
+* Meetings and seminars
+* :doc:`Famous people types <content/famous_people>`
+* Type domains
+* Applications of socionics
+  
+  * :doc:`Vocabulary <content/vocabulary>`
+  * :doc:`Artwork <content/art>`
+  * :doc:`Music <content/music>` and :doc:`images <content/images_socionics>`.
+
+Indices and tables
+==================
+
+.. toctree::
+   :maxdepth: 1
+
+   content/site_map
+
+* :ref:`genindex`
+* :ref:`modindex`
+* :ref:`search`
+
+Links
+----------------------
+
+* `Backup in March 2021 <https://wikisocion.github.io/en/>`__

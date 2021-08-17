@@ -1,0 +1,31 @@
+Jung's Typology
+=======================
+
+Carl Jung's Typology was the father of socionics and other typological theories such as the MBTI. Jung introduced the concept of psychological functions and psychological types in his work Psychological Types (1921).
+
+There Jung proposed concepts now central to socionics. The psychic functions sensation and intuition he termed "perceiving," and thinking and feeling "judging." Each of these four functions came in introverted and extraverted forms. He went on to make the first description of types of people with those information elements as dominant functions, describing in detail his concept of the Extraverted Thinking type, Extraverted Feeling type, Introverted Thinking type, Introverted Feeling type, Extraverted Intuition type, Extraverted Sensation type, Introverted Intuition type, and Introverted Sensation type. In his work he described eight types while acknowledging two varieties of auxiliary (2nd) functions per main type. Later both Isabel Myers and Aushra Augusta would develop systems of 16 types based on Jung's work.
+
+Jung seems to have based a very large part of his concept of these types on observations of his patients as a practicing psychoanalyst. His descriptions mix from-the-inside glimpses of the perception of these different types, anecdotal evidence, and insights on the motivation of different types. 
+
+Jung's Typology and socionics
+------------------------------------
+
+Aushra Augusta chose to work with Jung's Typology rather than numerous others for two reasons: 1) it was explanatory in nature rather than being simply descriptive, and 2) it described traits inherent to healthy individuals, as opposed to the typologies of psychopathology she had studied. While Augusta based her socionic model of the psyche on Jung's, she was creative in her interpretation and introduced some new "twists." Most importantly, her goal was to find objective causes of different varieties of relationships between people. As far as we know, Jung thought little about this, besides comments on interviews that extraverts and introverts seemed to be mutually most compatible. Nevertheless, some of his followers and intellectual heirs began to develop their ideas about the compatibility of types.
+
+Other innovations of Augusta included relating psychic functions to more abstract and philosophical categories such as "time," "space," "bodies," and "fields" (this practice has since lost some popularity). In doing so, she tried to introduce more logical consistency into the definitions. For example, extraversion and introversion had to have the same meaning for each of Jung's four psychic functions. As a result, a careful analysis reveals that Augusta's socionics information elements and types are often very different from Jung's. Although still informative from the socionics perspective, Jung's descriptions have limited use for socionics typing and may indeed lead to mistypings.
+
+A possible socionics "review" of Jung's type descriptions would be:
+
+* Extraverted Intuition type: apparently based on Jung's observations of Ne dominants, and therefore useful for socionics, but it relates better to the IEE than to the ILE.
+* Extraverted Sensation type: it seems to describe "fun-loving" sensing types, and perhaps useful for SEE, but it does not convey key aspects of Se, so of limited use for socionics. It could apply as well to more "active" Se types, it does not convey the key "power" or territorial aspect of Se in socionics.
+* Introverted Intuition type: it transmits an idea of Ni as an information element, but the type as described is not a realistic portrayal of what most Ni dominants are like.
+* Introverted Sensing type: it does seem to describe introverts with low focus on Si and so, by comparison, more focus on Si but the impression transmitted is of LSI, as well as SEI, and perhaps SLI, so misleading for socionics purposes as it does not really convey the nature of Si as an information element.
+* Extraverted Thinking type: the impression is rather of a mix of many logical types, not only Te dominants, so rather misleading when used in socionics typing.
+* Extraverted Feeling type: Jung was describing mainly women, apparently indeed mostly Fe dominants, so especially when read together with the description of the Introverted Feeling type it remains useful for understanding the distinction between Fe and Fi in socionics. However, it would be a mistake to assume that all Fe dominants share those precise behavior traits since they also reflect the social position of women in the early 20th century.
+* Introverted Thinking type: Jung seemed to be observing logical introverts of several socionics types, above all LIIs and ILIs, so also misleading for socionics. This description is the base for type 5 in the Enneagram.
+* Introverted Feeling type: the same observations above regarding the Extraverted Feeling type also apply here, concerning Fi dominants. 
+
+
+Alternatively, one might reject the above interpretation partially or entirely, finding Jung's functional descriptions mostly valid, whilst also making use of Aushra Augusta's other elaborations, such as the functional model and inter-type relations. It can be argued that this modification would not take the theory outside of the realm of Socionics any more than some of the stranger semi-popular alternate theories or elaborations by contemporary Russian sources.
+
+It is important to keep in mind that Jung was working with a different "theoretical paradigm," than Augusta. Jung shaped his typological theory out of his psycho-analytic observations and theories on the personal and collective unconscious. Although Augusta inherited some of these assumptions and ideas implicitly, her approach was largely influenced by Antoni Kepinski's information metabolism theory. Modern Socionics enthusiasts, especially of the English-speaking communities, frequently operate on assumptions that Socionics is a trait-based theory. 

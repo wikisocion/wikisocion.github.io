@@ -1,0 +1,345 @@
+<!doctype html>
+<html class="no-js">
+  <head><meta charset="utf-8"/>
+    <meta name="viewport" content="width=device-width,initial-scale=1"/>
+    <meta name="color-scheme" content="light dark"><link rel="index" title="Index" href="../genindex.html" /><link rel="search" title="Search" href="../search.html" /><link rel="next" title="The Semantics of the Information Aspects" href="semantic_aspects.html" /><link rel="prev" title="Introverted logic" href="Ti.html" />
+
+    <meta name="generator" content="sphinx-4.1.2, furo 2021.08.11.beta42"/>
+        <title>Extroverted logic - Wikisocion</title>
+      <link rel="stylesheet" type="text/css" href="../_static/pygments.css" />
+    <link rel="stylesheet" type="text/css" href="../_static/styles/furo.css?digest=197f00461d56902ea7ca048ec6e6ba026f62c97b" />
+    <link rel="stylesheet" type="text/css" href="../_static/styles/furo-extensions.css?digest=93475b62d1c3bc01323a0eefdc14a62d77b12690" />
+    
+    
+
+
+<style>
+  body {
+    --color-code-background: #f8f8f8;
+  --color-code-foreground: black;
+  
+  }
+  body[data-theme="dark"] {
+    --color-code-background: #202020;
+  --color-code-foreground: #d0d0d0;
+  
+  }
+  @media (prefers-color-scheme: dark) {
+    body:not([data-theme="light"]) {
+      --color-code-background: #202020;
+  --color-code-foreground: #d0d0d0;
+  
+    }
+  }
+</style>
+    <link media="(prefers-color-scheme: dark)" rel="stylesheet" href="../_static/pygments_dark.css"></head>
+  <body>
+    
+<svg xmlns="http://www.w3.org/2000/svg" style="display: none;">
+  <symbol id="svg-toc" viewBox="0 0 24 24">
+    <title>Contents</title>
+    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+      stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+      <path stroke="none" d="M0 0h24v24H0z" />
+      <line x1="4" y1="6" x2="20" y2="6" />
+      <line x1="10" y1="12" x2="20" y2="12" />
+      <line x1="6" y1="18" x2="20" y2="18" />
+    </svg>
+  </symbol>
+  <symbol id="svg-menu" viewBox="0 0 24 24">
+    <title>Menu</title>
+    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+      stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather-menu">
+      <line x1="3" y1="12" x2="21" y2="12"></line>
+      <line x1="3" y1="6" x2="21" y2="6"></line>
+      <line x1="3" y1="18" x2="21" y2="18"></line>
+    </svg>
+  </symbol>
+  <symbol id="svg-arrow-right" viewBox="0 0 24 24">
+    <title>Expand</title>
+    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+      stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather-chevron-right">
+      <polyline points="9 18 15 12 9 6"></polyline>
+    </svg>
+  </symbol>
+  <symbol id="svg-sun" viewBox="0 0 24 24">
+    <title>Light mode</title>
+    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+      stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" class="feather-sun">
+      <circle cx="12" cy="12" r="5"></circle>
+      <line x1="12" y1="1" x2="12" y2="3"></line>
+      <line x1="12" y1="21" x2="12" y2="23"></line>
+      <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
+      <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
+      <line x1="1" y1="12" x2="3" y2="12"></line>
+      <line x1="21" y1="12" x2="23" y2="12"></line>
+      <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
+      <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
+    </svg>
+  </symbol>
+  <symbol id="svg-moon" viewBox="0 0 24 24">
+    <title>Dark mode</title>
+    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+      stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" class="icon-tabler-moon">
+      <path stroke="none" d="M0 0h24v24H0z" fill="none" />
+      <path d="M12 3c.132 0 .263 0 .393 0a7.5 7.5 0 0 0 7.92 12.446a9 9 0 1 1 -8.313 -12.454z" />
+    </svg>
+  </symbol>
+  <symbol id="svg-sun-half" viewBox="0 0 24 24">
+    <title>Auto light/dark mode</title>
+    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+      stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" class="icon-tabler-shadow">
+      <path stroke="none" d="M0 0h24v24H0z" fill="none"/>
+      <circle cx="12" cy="12" r="9" />
+      <path d="M13 12h5" />
+      <path d="M13 15h4" />
+      <path d="M13 18h1" />
+      <path d="M13 9h4" />
+      <path d="M13 6h1" />
+    </svg>
+  </symbol>
+</svg>
+
+<input type="checkbox" class="sidebar-toggle" name="__navigation" id="__navigation">
+<input type="checkbox" class="sidebar-toggle" name="__toc" id="__toc">
+<label class="overlay sidebar-overlay" for="__navigation">
+  <div class="visually-hidden">Hide navigation sidebar</div>
+</label>
+<label class="overlay toc-overlay" for="__toc">
+  <div class="visually-hidden">Hide table of contents sidebar</div>
+</label>
+
+
+
+<div class="page">
+  <header class="mobile-header">
+    <div class="header-left">
+      <label class="nav-overlay-icon" for="__navigation">
+        <div class="visually-hidden">Toggle site navigation sidebar</div>
+        <i class="icon"><svg><use href="#svg-menu"></use></svg></i>
+      </label>
+    </div>
+    <div class="header-center">
+      <a href="../index.html"><div class="brand">Wikisocion</div></a>
+    </div>
+    <div class="header-right">
+      <div class="theme-toggle-container theme-toggle-header">
+        <button class="theme-toggle">
+          <div class="visually-hidden">Toggle Light / Dark / Auto color theme</div>
+          <svg class="theme-icon-when-auto"><use href="#svg-sun-half"></use></svg>
+          <svg class="theme-icon-when-dark"><use href="#svg-moon"></use></svg>
+          <svg class="theme-icon-when-light"><use href="#svg-sun"></use></svg>
+        </button>
+      </div>
+      <label class="toc-overlay-icon toc-header-icon" for="__toc">
+        <div class="visually-hidden">Toggle table of contents sidebar</div>
+        <i class="icon"><svg><use href="#svg-toc"></use></svg></i>
+      </label>
+    </div>
+  </header>
+  <aside class="sidebar-drawer">
+    <div class="sidebar-container">
+      
+      <div class="sidebar-sticky"><div class="sidebar-scroll"><a class="sidebar-brand" href="../index.html">
+  
+  
+  <span class="sidebar-brand-text">Wikisocion</span>
+  
+</a><form class="sidebar-search-container" method="get" action="../search.html" role="search">
+  <input class="sidebar-search" placeholder=Search name="q" aria-label="Search">
+  <input type="hidden" name="check_keywords" value="yes">
+  <input type="hidden" name="area" value="default">
+</form>
+<div id="searchbox"></div>
+</div>
+      </div>
+      
+    </div>
+  </aside>
+  <div class="main">
+    <div class="content">
+      <article role="main">
+        <div class="content-icon-container">
+          <div class="theme-toggle-container theme-toggle-content">
+            <button class="theme-toggle">
+              <div class="visually-hidden">Toggle Light / Dark / Auto color theme</div>
+              <svg class="theme-icon-when-auto"><use href="#svg-sun-half"></use></svg>
+              <svg class="theme-icon-when-dark"><use href="#svg-moon"></use></svg>
+              <svg class="theme-icon-when-light"><use href="#svg-sun"></use></svg>
+            </button>
+          </div>
+          <label class="toc-overlay-icon toc-content-icon" for="__toc">
+            <div class="visually-hidden">Toggle table of contents sidebar</div>
+            <i class="icon"><svg><use href="#svg-toc"></use></svg></i>
+          </label>
+        </div>
+        <div class="section" id="extroverted-logic">
+<h1>Extroverted logic<a class="headerlink" href="#extroverted-logic" title="Permalink to this headline">¶</a></h1>
+<div class="section" id="description-of-te-from-dual-nature-of-man-by-a-augusta">
+<h2>Description of Te from “Dual Nature of Man” by A. Augusta<a class="headerlink" href="#description-of-te-from-dual-nature-of-man-by-a-augusta" title="Permalink to this headline">¶</a></h2>
+<p><strong>Black (extroverted) logic</strong> <img alt="Te" src="../_images/Symbol_p.gif"/></p>
+<p>Perceives information about animate and inanimate objects’ physical activity, deeds, and actions/activities. This perception provides the ability to make sense of what is going on. It defines the awareness of and ability or inability to think up ways of doing things, distinguish rational actions from irrational ones, and the ability or inability to direct others’ work.</p>
+<p>When this element is in the leading position, the individual has the ability to plan his and others’ work, understand the logicalness and illogicalness of processes, and correct the work activities of other people in accordance with this understanding. And the ability to apply personally and convey to others the most rational ways of doing things.</p>
+</div>
+<div class="section" id="wikisocion-description-of-te">
+<h2>Wikisocion description of Te<a class="headerlink" href="#wikisocion-description-of-te" title="Permalink to this headline">¶</a></h2>
+<p><strong>Extroverted logic</strong>, or Symbol <img alt="Te" src="../_images/Symbol_p.gif"/>, is <a class="reference internal" href="elements.html"><span class="doc">an rational, extroverted, and dynamic IM element</span></a>. It is also referred to as Te, P, algorithmic logic, practical logic, or black logic.</p>
+<p>Extroverted logic deals with the external activity of objects, i.e the how, what and where of events, activity or work, behavior, algorithms, movement, and actions.</p>
+<p>The how, what and where of events would be the external activity of events, activity or work would be the external activity of a machine or individual(s) and algorithms describe the external activity of objects.</p>
+<p>Since Te perceives objective, factual information outside the subject (external activity) and analyzes the rationale and functionality of what is happening or being done or said. “Quality” to a Te type is how well an object performs the functions for which it was made. A Te type can judge a person to be “effective” if he is able to achieve his purposes without wasting any energy or producing unwanted side effects. So Te types basically evaluate people and things using the same criteria.</p>
+<div class="section" id="te-as-a-base-1st-function-lie-and-lse">
+<h3>Te as a <a class="reference internal" href="functions.html#leading-func"><span class="std std-ref">base</span></a> (1st) function (<a class="reference internal" href="LIE.html"><span class="doc">LIE</span></a> and <a class="reference internal" href="LSE.html"><span class="doc">LSE</span></a>)<a class="headerlink" href="#te-as-a-base-1st-function-lie-and-lse" title="Permalink to this headline">¶</a></h3>
+<p>Extroverted logic as base function is manifested as a need to accumulate factual information, also from external sources such as books, second-hand information, etc, on matters of personal interest or of professional activity. This also gives these types confidence on being well-informed on the same matters, which enables them to enter arguments related to them with confidence on their knowledge, which may come across as arrogance to others. Another manifestation is an evaluation of external reality - work activities, world events, finances, procedures, personal relationships, conversations - from the point of view of factual accuracy and “making sense” and efficiency. It leads to an inclination to be proactive in increasing the efficiency and reasonableness of the external world, as well as a sense of self-worth connected on being involved and productive in activities seen as useful, profitable, or that increase one’s knowledge base. To give out information that the individual knows not to be factually accurate is disturbing and avoided as much as possible.</p>
+</div>
+<div class="section" id="te-as-a-creative-2nd-function-ili-and-sli">
+<h3>Te as a <a class="reference internal" href="functions.html#creative-func"><span class="std std-ref">creative</span></a> (2nd) function (<a class="reference internal" href="ILI.html"><span class="doc">ILI</span></a> and <a class="reference internal" href="SLI.html"><span class="doc">SLI</span></a>)<a class="headerlink" href="#te-as-a-creative-2nd-function-ili-and-sli" title="Permalink to this headline">¶</a></h3>
+<p>It is manifested as a preference for factual accuracy over ideological consistency, and for objective, “harsh” communication over careful words that avoid a negative atmosphere. A view of the external environment being efficient, reasonable, and making sense is essential to their well-being and sense of inner peace, but they do not feel a pressing need for being proactive or productive themselves in that area.</p>
+</div>
+<div class="section" id="te-as-a-role-3rd-function-ese-and-eie">
+<h3>Te as a <a class="reference internal" href="functions.html#role-func"><span class="std std-ref">role</span></a> (3rd) function (<a class="reference internal" href="ESE.html"><span class="doc">ESE</span></a> and <a class="reference internal" href="EIE.html"><span class="doc">EIE</span></a>)<a class="headerlink" href="#te-as-a-role-3rd-function-ese-and-eie" title="Permalink to this headline">¶</a></h3>
+<p>It is manifested as a need to appear efficient, productive and knowledgeable in their endeavours, as long as that does not conflict with priorities set up by their base function, extroverted feeling. For instance, they may end up defending a decision or action that is not the most efficient but it is the one they see as most desirable in order to achieve or maintain the emotional atmosphere they are aiming at (for instance, not be seen as hostile to a given person or group).</p>
+</div>
+<div class="section" id="te-as-a-vulnerable-4th-function-sei-and-iei">
+<h3>Te as a <a class="reference internal" href="functions.html#polr-func"><span class="std std-ref">vulnerable</span></a> (4th) function (<a class="reference internal" href="SEI.html"><span class="doc">SEI</span></a> and <a class="reference internal" href="IEI.html"><span class="doc">IEI</span></a>)<a class="headerlink" href="#te-as-a-vulnerable-4th-function-sei-and-iei" title="Permalink to this headline">¶</a></h3>
+<p>That is manifested as a skepticism and dislike for basing your beliefs, arguments, and actions on external sources of information. For instance, a SEI will rather trust the expertise of someone who seems to have hands-on experience, even if limited, than of someone who demonstrates to have read many books on the same subject. IEIs will base their opinions and views on their own personal insights and be, again, skeptical of “second-hand” factual information that contradicts it. “Don’t trust everything you read” is a typical sneer of this function, especially when applied to sources of information otherwise seen as neutral and reliable, such as encyclopedias and handbooks. Another manifestation is a dislike for dealing with issues involving efficiency, productivity, and factual accuracy of statements made; statements are made according to input from other functions, not from double-checks against external facts which are seen as of lesser relevance to the issue at hand. Types with this function lack confidence in their ability to find relevant information in outside sources.</p>
+</div>
+<div class="section" id="te-as-a-suggestive-5th-function-esi-and-eii">
+<h3>Te as a <a class="reference internal" href="functions.html#suggestive-func"><span class="std std-ref">suggestive</span></a> (5th) function (<a class="reference internal" href="ESI.html"><span class="doc">ESI</span></a> and <a class="reference internal" href="EII.html"><span class="doc">EII</span></a>)<a class="headerlink" href="#te-as-a-suggestive-5th-function-esi-and-eii" title="Permalink to this headline">¶</a></h3>
+<p>The individual is attracted to people seen as knowledgeable, as well as truthful and willing to share that knowledge, in matters seen as interesting and useful to the individual towards achieving productivity and efficiency. Reliable information rather than the finished analysis is what attracts the individual; facts and explanations, not answers limited to the conclusions. For the same reason, the individual avoids people who are inclined to give out unreliable or simply untruthful information.</p>
+<p>The individual tends to neglect to think about the productivity of his actions and unconsciously relies on others to give him directions and advice about the best, most productive ways of doing things. He has difficulties measuring how much work he has done, whether it is sufficient, and how much it is actually worth. The individual admires people who are aware of the productivity of their actions and are always trying to do something rational and worthwhile.</p>
+</div>
+<div class="section" id="te-as-a-mobilizing-6th-function-see-and-iee">
+<h3>Te as a <a class="reference internal" href="functions.html#activating-func"><span class="std std-ref">mobilizing</span></a> (6th) function (<a class="reference internal" href="SEE.html"><span class="doc">SEE</span></a> and <a class="reference internal" href="IEE.html"><span class="doc">IEE</span></a>)<a class="headerlink" href="#te-as-a-mobilizing-6th-function-see-and-iee" title="Permalink to this headline">¶</a></h3>
+<p>The individual is keen on accumulating factual knowledge on subjects of personal interest and those that help him be more efficient and productive, but he’s often unsure of his ability to find and select the correct information and is therefore attracted to people whom he sees as competent in that area and reassure him.</p>
+</div>
+<div class="section" id="te-as-an-ignoring-7th-function-lii-and-lsi">
+<h3>Te as an <a class="reference internal" href="functions.html#ignoring-func"><span class="std std-ref">ignoring</span></a> (7th) function (<a class="reference internal" href="LII.html"><span class="doc">LII</span></a> and <a class="reference internal" href="LSI.html"><span class="doc">LSI</span></a>)<a class="headerlink" href="#te-as-an-ignoring-7th-function-lii-and-lsi" title="Permalink to this headline">¶</a></h3>
+<p>The individual is adept at finding external sources of factual information and confident in his ability to evaluate their value, but regards collecting data as secondary to making them fit into a consistent logical system. To him, listing facts without analyzing their relationships is a trivial and boring exercise. He values efficiency and productivity but is skeptical that they will be achieved if one’s actions and process do not follow a clear procedure.</p>
+</div>
+<div class="section" id="te-as-a-demonstrative-8th-function-ile-and-sle">
+<h3>Te as a <a class="reference internal" href="functions.html#demonstrative-func"><span class="std std-ref">demonstrative</span></a> (8th) function (<a class="reference internal" href="ILE.html"><span class="doc">ILE</span></a> and <a class="reference internal" href="SLE.html"><span class="doc">SLE</span></a>)<a class="headerlink" href="#te-as-a-demonstrative-8th-function-ile-and-sle" title="Permalink to this headline">¶</a></h3>
+<p>The individual is adept at recognizing which aspects of an information, statement, or action are factually accurate in the sense of checking them against available external sources of information, but he tends to see this as lesser importance in comparison to their internal logical consistency when pursuing a concept fed by Symbol i.gif or Symbol f.gif. To focus on the facts, also when giving out information, is seen as rather pointless when there is an Symbol i.gif idea to be explored or a Symbol f.gif power to be gained.</p>
+</div>
+</div>
+<div class="section" id="aspects-in-the-valued-functions-by-dmitry-golihov">
+<h2>Aspects in the Valued Functions by Dmitry Golihov<a class="headerlink" href="#aspects-in-the-valued-functions-by-dmitry-golihov" title="Permalink to this headline">¶</a></h2>
+<div class="section" id="te-as-leading-function-in-lse-estj-shtirlitz-and-lie-entj-jack-london">
+<h3>Te as leading function in LSE (ESTj; Shtirlitz) and LIE (ENTj; Jack London)<a class="headerlink" href="#te-as-leading-function-in-lse-estj-shtirlitz-and-lie-entj-jack-london" title="Permalink to this headline">¶</a></h3>
+<p>This person is very confident in his own knowledge. He lives by external rules or “charter” that he has thought up himself. He imposes his vision of the correct “order of things” in external situations and is conservative in this vision (his assessment of who should be doing what, etc.). Everything must be in its place; moving anything makes him want to put it back where it belongs. Has a strong notion of “my territory”, of “ownership”. Those who create a mess on his territory irritate him - everyone should know their place. Does not seek to change this status quo. If one asks why something should be done in this way and not another, he will reply that this is just how things are done without giving any reasons for it. It is as if he lives by that which he creates in the environment with his own hands; any changes made to this are seen as attempts to change his person. Once he has learned a certain rule, he will follow it throughout his life (2x2=4). Existing order must remain unchanged; if it is replaced by a new one, for him it is worse by default. Restoring order on his territory is self-affirming for him. He is well versed in the rules, the order of things: if you wish to get something done, he can tell you how you should act, which order or sequence of steps you should undertake, where you should go, what documents you should bring, etc. He knows how to assemble and disassemble anything and is confident in his ability to do so. Can spend hours with a soldering iron and parts, taking apart complex mechanisms. “If in my world there are stable and invariable rules and order, then I can live. If not, then I don’t exist.” On his own territory, he acts as the boss and does not tolerate opposition. If his notion of territory is more widely delineated, his control may be extended to anyone who is on it. Their home is their fortress. If you try to explain something to him, sooner or later he will say “I got it” and interrupt you since he doesn’t aim to attain an understanding. They are interested in facts of objective reality - these are not to be understood, but rather memorized, learned, evaluated, and implemented. For example, if one wishes to assemble and disassemble vacuum cleaner, there is no need to understand but only to remember how to do it, which part goes where. If the facts of his objective view of the world are changed, this irritates him, because he will need time to reevaluate and rebuild. His main criteria of activity is objective benefit that can be achieved. Living with such a person on his own territory can be done only in accordance to his rules, and sometimes he attempts to extend them to nearby territories, as expansion of borders is viewed as a useful activity from point of view that a person lives by this, meaning that by this expansion he will “exist” in even greater extent. To go elsewhere, to someone else’s territory, and start dictating who is supposed to do what or how something should be done is fairly typical for him. Communicating with such person there is a persistent impression that he is always in the archetype of the boss - he likes to give orders even if he has not been empowered to it: “take this shovel, you will go dig up potatoes”. He does not like those who spend their time irrationally and unproductively. He likes to confirm the factual basis of anyone’s argument.</p>
+</div>
+<div class="section" id="te-as-creative-function-in-sli-istp-jean-gabin-and-ili-intp-balzac">
+<h3>Te as creative function in SLI (ISTp; Jean Gabin) and ILI (INTp; Balzac)<a class="headerlink" href="#te-as-creative-function-in-sli-istp-jean-gabin-and-ili-intp-balzac" title="Permalink to this headline">¶</a></h3>
+<p>This person very skillfully uses knowledge and facts, applies them creatively, an ideal lecturer, excels at giving instructions (he can, for example, teach skills needed for auto-maintenance). He can creatively and originally manipulate external objects that require hands-on work, assembly and disassembly. Many people of this type, as children loved construction toys. Fixing complicated household items is their favorite hobby, as this, after all, requires active application of objective logic. If such opportunities are not present, he may even deliberately break or deconstruct something and then proceed to fix it. At times, they may use an object not for the purpose that it was intended (e.g. using a microscope to drive nails). Such people are ideal as specialists for modernizing or upgrading anything, especially in the physical sense, as such a person has a keen eye for trends and laws of the objective world and knows how to isolate them and use them well. Sometimes he will move to a place where objective knowledge is scarce, somewhere far from civilization, where he will have a chance to demonstrate his knowledge and skill. He is well versed in the current laws and order, their advantages and disadvantages, and skillfully maneuvers within them. If he is stuck in traffic, he might plot a very original route using roadsides and sidewalks, and feels like a duck in water in this activity. Capable of holding a multitude of facts of the objective world and putting them to use. A very practical person, able to improve and modernize anything in surrounding territory, as to make it better and higher quality, “a jack of all trades.” Such people have a set of rules for themselves, but they are very flexible - some of them can be gleaned over, some of them can be substituted - there is a somewhat manipulative view of these. He might follow one rule in the morning, but in the evening follow a very different rule, simply because the situation has changed. Because of this, it is very difficult to negotiate (do business) with him. If there is a contract, he may at some point cancel it, simply because it is no longer favorable for him. That is, he views rules as something that can be changed at any time upon request of the parties involved. Because of this, it is often difficult to deal with such people in a business capacity, as in the business sphere a contract is a contract, it is not subject to revision every day or week. But here, dealing with him, it must be a contract without penalties in the event of dissolution. It must be established beforehand that it is something impermanent - a temporary solution adopted for some short period of time.</p>
+</div>
+<div class="section" id="te-as-activating-function-in-see-esfp-napoleon-and-iee-enfp-huxley">
+<h3>Te as activating function in SEE (ESFp; Napoleon) and IEE (ENFp; Huxley)<a class="headerlink" href="#te-as-activating-function-in-see-esfp-napoleon-and-iee-enfp-huxley" title="Permalink to this headline">¶</a></h3>
+<p>For this individual knowledge is paramount, a measure of worth: “If there is something I don’t know - I’m inferior”. Therefore, very often they claim they know how something is done, while in reality not knowing it (often in hopes that they will research it later, and that no one will suspect that they were bluffing). Sometimes, in self-defense, you can hear them say “I don’t know”, shamefully admitting to their weakness. It is also important for them to have some personal territory, a place where they have the opportunity to be in charge. They love to learn, because acquired knowledge increases their self-esteem. Nothing pleases them more as to receive a high mark on some subject. Such person is very attentive to objective reality: any violation in the order of things stresses him. He likes to reinforce own claims with links to an authoritative sources, statistics and facts, but cannot analyze them in terms of understanding. His vocation: the keeper of factual knowledge. Can’t stand any measure of chaos in information, when nothing is clear. In such situations, tries to simplify the information: “Do we have any actual, concrete facts and figures? Lets start with these. ” “If there is order in my world - then I am good, if not - then I’m bad.” Have a tendency to idealize their “objective” picture of the world and authoritative figures. That is, they view it as what actually exists, even if they are in error and many of their facts are specious. Often become followers of something, of some “order of things” and attempt to implement this order everywhere. Getting promoted to higher position usually recruit “their” people who accept their “order of things” and their actions. Very important concept for them: “If I am the owner, I am the boss in my territory.” It does not matter what the size of this territory is: a room or an entire state, as long as their authority has been accepted by everyone. Sometimes this takes a comical shape: a guard of some area considers himself to be in the right to decide whether or not to let you in based on his personal whims. In personal life, this can lead to elevated demands placed on potential partners: it is necessary to fully accept all of their outward actions, but this can be done only up to certain extent. Often they are aware that finding such ideal in principle not possible. Violation of the order of things by their subordinates is a serious offense - have you arrived too late? Thus you destroyed his order. If he is not the boss, then it is important for him to know exactly the extent of his responsibilities, otherwise he may not take up someone else’s “order of things.” Love to order people around if opportunity presents itself: relatives, subordinates, depending on how far their concept of territory extends itself.</p>
+</div>
+<div class="section" id="te-as-suggestive-function-in-esi-isfj-dreiser-and-eii-infj-dostoyevsky">
+<h3>Te as suggestive function in ESI (ISFj; Dreiser) and EII (INFj; Dostoyevsky)<a class="headerlink" href="#te-as-suggestive-function-in-esi-isfj-dreiser-and-eii-infj-dostoyevsky" title="Permalink to this headline">¶</a></h3>
+<p>This person easily believes in facts and figures, often turn a deaf ear to everything but these. Keeps to places where he knows what to do in every situation. Suggestible by the external order of things, which is often the order that was in place during his upbringing: the political system, social norms, etc. Reacts sensitively to social changes: “God grant you do not live in an era of change.” Always moves in the direction of highest order and carefully avoids chaos, is inspired by this order and worries that in future it might change. In this regard, may gravitate towards work in the military, which has the force of statute. It is important to him that the environment is always organized in accordance to rules and laws that he is accustomed to, that this order does not contradict the facts of objective reality. It is also important to know who should be in what position, what needs to be done, what documents must be collected, for what purpose, where they should be submitted, what is the correct way to fill them out. Feels most comfortable in situations where there is only one interpretation of correct action, without any admixture with elements of subjectivity: “in this such case, this should be done”. Knowledge of the facts of the situation often replaces true understanding of the underlying problems. Understanding becomes superficial, simply a collection of surface data and statistics, laws and regulations. He does not like long and detailed explanations, will immediately interrupt and say: “So what is this in actuality?”. He wants to get a working solution or order right away, not the rationale behind it. For example: “2x2=4.” This is an already established rule. Likes terminology, you can sometimes talk to him only using some accepted terms and this will be sufficient. Does not like those who destroy the norms of behavior, for example, those who break the chain of command. Especially gets influenced by the facts that he sees with his own eyes or can touch with own hands. Thus he can fall victim to scams that provide specious claims and facts, especially if the scam is done out in the open (“simple dexterity of hands and no tricks”).</p>
+</div>
+</div>
+<div class="section" id="additional-links-and-descriptions">
+<h2>Additional links and descriptions<a class="headerlink" href="#additional-links-and-descriptions" title="Permalink to this headline">¶</a></h2>
+<ul class="simple">
+<li><p><a class="reference external" href="http://en.socionics.ru/index.php?option=com_content&amp;view=article&amp;id=253&amp;Itemid=138">About Aspects and Functions in Socionics by Tatiana Prokofieva</a></p></li>
+<li><p><a class="reference internal" href="psychological_types.html"><span class="doc">Extroverted Thinking Type by Carl Jung</span></a></p></li>
+<li><p><a class="reference internal" href="vocabulary.html"><span class="doc">Sample vocabulary associated with extroverted logic</span></a></p></li>
+</ul>
+</div>
+</div>
+
+      </article>
+      <footer>
+        
+        <div class="related-pages">
+          <a class="next-page" href="semantic_aspects.html">
+              <div class="page-info">
+                <div class="context">
+                  <span>Next</span>
+                </div>
+                <div class="title">The Semantics of the Information Aspects</div>
+              </div>
+              <svg><use href="#svg-arrow-right"></use></svg>
+            </a>
+          <a class="prev-page" href="Ti.html">
+              <svg><use href="#svg-arrow-right"></use></svg>
+              <div class="page-info">
+                <div class="context">
+                  <span>Previous</span>
+                </div>
+                
+                <div class="title">Introverted logic</div>
+                
+              </div>
+            </a>
+        </div>
+
+        <div class="related-information">
+              Copyright &#169; 2021, Wikisocion Authors
+            |
+            Built with <a href="https://www.sphinx-doc.org/">Sphinx</a>
+              and
+              <a class="muted-link" href="https://pradyunsg.me">@pradyunsg</a>'s
+              <a href="https://github.com/pradyunsg/furo">Furo theme</a>.
+            |
+            <a class="muted-link" href="../_sources/content/Te.rst.txt"
+               rel="nofollow">
+              Show Source
+            </a>
+        </div>
+        
+      </footer>
+    </div>
+    <aside class="toc-drawer">
+      
+      
+      <div class="toc-sticky toc-scroll">
+        <div class="toc-title-container">
+          <span class="toc-title">
+            Contents
+          </span>
+        </div>
+        <div class="toc-tree-container">
+          <div class="toc-tree">
+            <ul>
+<li><a class="reference internal" href="#">Extroverted logic</a><ul>
+<li><a class="reference internal" href="#description-of-te-from-dual-nature-of-man-by-a-augusta">Description of Te from “Dual Nature of Man” by A. Augusta</a></li>
+<li><a class="reference internal" href="#wikisocion-description-of-te">Wikisocion description of Te</a><ul>
+<li><a class="reference internal" href="#te-as-a-base-1st-function-lie-and-lse">Te as a <span class="xref std std-ref">base</span> (1st) function (<span class="xref std std-doc">LIE</span> and <span class="xref std std-doc">LSE</span>)</a></li>
+<li><a class="reference internal" href="#te-as-a-creative-2nd-function-ili-and-sli">Te as a <span class="xref std std-ref">creative</span> (2nd) function (<span class="xref std std-doc">ILI</span> and <span class="xref std std-doc">SLI</span>)</a></li>
+<li><a class="reference internal" href="#te-as-a-role-3rd-function-ese-and-eie">Te as a <span class="xref std std-ref">role</span> (3rd) function (<span class="xref std std-doc">ESE</span> and <span class="xref std std-doc">EIE</span>)</a></li>
+<li><a class="reference internal" href="#te-as-a-vulnerable-4th-function-sei-and-iei">Te as a <span class="xref std std-ref">vulnerable</span> (4th) function (<span class="xref std std-doc">SEI</span> and <span class="xref std std-doc">IEI</span>)</a></li>
+<li><a class="reference internal" href="#te-as-a-suggestive-5th-function-esi-and-eii">Te as a <span class="xref std std-ref">suggestive</span> (5th) function (<span class="xref std std-doc">ESI</span> and <span class="xref std std-doc">EII</span>)</a></li>
+<li><a class="reference internal" href="#te-as-a-mobilizing-6th-function-see-and-iee">Te as a <span class="xref std std-ref">mobilizing</span> (6th) function (<span class="xref std std-doc">SEE</span> and <span class="xref std std-doc">IEE</span>)</a></li>
+<li><a class="reference internal" href="#te-as-an-ignoring-7th-function-lii-and-lsi">Te as an <span class="xref std std-ref">ignoring</span> (7th) function (<span class="xref std std-doc">LII</span> and <span class="xref std std-doc">LSI</span>)</a></li>
+<li><a class="reference internal" href="#te-as-a-demonstrative-8th-function-ile-and-sle">Te as a <span class="xref std std-ref">demonstrative</span> (8th) function (<span class="xref std std-doc">ILE</span> and <span class="xref std std-doc">SLE</span>)</a></li>
+</ul>
+</li>
+<li><a class="reference internal" href="#aspects-in-the-valued-functions-by-dmitry-golihov">Aspects in the Valued Functions by Dmitry Golihov</a><ul>
+<li><a class="reference internal" href="#te-as-leading-function-in-lse-estj-shtirlitz-and-lie-entj-jack-london">Te as leading function in LSE (ESTj; Shtirlitz) and LIE (ENTj; Jack London)</a></li>
+<li><a class="reference internal" href="#te-as-creative-function-in-sli-istp-jean-gabin-and-ili-intp-balzac">Te as creative function in SLI (ISTp; Jean Gabin) and ILI (INTp; Balzac)</a></li>
+<li><a class="reference internal" href="#te-as-activating-function-in-see-esfp-napoleon-and-iee-enfp-huxley">Te as activating function in SEE (ESFp; Napoleon) and IEE (ENFp; Huxley)</a></li>
+<li><a class="reference internal" href="#te-as-suggestive-function-in-esi-isfj-dreiser-and-eii-infj-dostoyevsky">Te as suggestive function in ESI (ISFj; Dreiser) and EII (INFj; Dostoyevsky)</a></li>
+</ul>
+</li>
+<li><a class="reference internal" href="#additional-links-and-descriptions">Additional links and descriptions</a></li>
+</ul>
+</li>
+</ul>
+
+          </div>
+        </div>
+      </div>
+      
+      
+    </aside>
+  </div>
+</div><script data-url_root="../" id="documentation_options" src="../_static/documentation_options.js"></script>
+    <script src="../_static/jquery.js"></script>
+    <script src="../_static/underscore.js"></script>
+    <script src="../_static/doctools.js"></script>
+    <script src="../_static/scripts/main.js"></script>
+    </body>
+</html>

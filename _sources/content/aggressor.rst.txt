@@ -1,0 +1,136 @@
+Aggressor
+=================
+
+The **Aggressor** types, identified as such by :doc:`Viktor Gulenko <gulenko>`, are the four types with Se |symbol_f.gif| in their
+ego, two each in :doc:`Beta <beta_quadra>` and :doc:`Gamma <gamma_quadra>`: :doc:`SLE <SLE>`,
+:doc:`LSI <LSI>`, :doc:`ESI <ESI>`, and `SEE <SEE>`.
+
+Despite the differences between these types in terms of
+:doc:`temperament <temperament>`, :ref:`base function <leading-func>`, and
+:doc:`quadra <quadra>` :doc:`values <quadra>`, it seems that in the area of
+physical attraction, desire, flirting, and the like, in intimate
+relationships, the :doc:`irrational <ration_irration>` :ref:`ego <ego-block>`
+:doc:`element <elements>` Se |symbol_f.gif|, coupled with their expectations
+of Ni |symbol_t.gif| style behavior in intimate partners, is the most
+visible factor in an Aggressor's behavior.
+
+Typical characteristics of the Aggressor romance style
+------------------------------------------------------
+
+-  no doubts about own interest in another person
+-  not prone to hesitation about whether or not to reveal that interest
+-  focus is more on own interest than whether or not the other person
+   might reciprocate
+-  romantic interaction is more about "toughness" than "tenderness"
+-  needs to feel some sense of "superiority" over the partner, but
+   worthwhile only if the partner is seen as able to largely "keep up"
+-  this takes the form of power games, which others might regard as
+   cruel or bitchy
+-  in the case of female Aggressors with male partners, the above tends
+   to assume the characteristic of a woman expecting total devotion from
+   the partner, rather than her being "bossy"
+-  little inclination to externally admit not having been the one to end
+   a relationship, unless if adopting a "who cares" front simultaneously
+
+This romance style is defined by focus on |symbol_f.gif| which is
+static, irrational, and extroverted. This means that an Aggressor sees
+attraction to another person as a static state, which he feels it is up
+to him to change in the direction more in agreement to his preference.
+This accounts for an Aggressor's inclination to take the initiative in
+approaching the object of his interest and being "relentless" in his
+pursuit, as well as, even during an established relationship, continuing
+to try to "shake things up" or "get things moving". If his partner is
+not receptive to such behavior, this discourages the Aggressor, and
+results in his interest cooling off.
+
+Perception of other romance styles
+----------------------------------
+
+This refers to perceptions of the partner in a romantic or prospective
+relationship.
+
+:doc:`Aggressor <aggressor>`\ **:** Aggressors tend to perceive other
+Aggressors as exciting partners worthy of admiration and respect, but
+ultimately unsatisfactory due to a sense of never-ending competition for
+an ill-defined "upper hand", which becomes frustrating.
+
+:doc:`Victim <victim>`\ **:** Aggressors tend to perceive Victims
+simultaneously as pleasantly able to "keep up" regarding more
+"intensive" interactions, and also as not annoyingly prone to always
+wanting "to win". Aggressor women perceive Victim men as totally devoted
+yet reassuringly "strong".
+
+:doc:`Caring <caring>`\ **:** Aggressors tend to perceive Caring types as
+somewhat boring and patronizing.
+
+:doc:`Childlike <childlike>`\ **:** Agressors tend to perceive Childlike
+types as fun at first but ultimately too confusing, presenting multiple
+alternatives with no discretion about how to act further, ultimately not
+seeing in them what they need in a partner.
+
+Description from :doc:`Life Scenarios <life_scenarios>` by V. Gulenko
+-----------------------------------------------------------------------------------------------------------------------------
+
+**"Aggressive"** man (SEE, ESI, LSI, SLE). This sociotype has an
+inclination to forceful possession of a woman. In love games loves to
+demonstrate a struggle. Can allow himself rudeness, sometimes causes
+women pain - both physical and moral. Expects a woman to yield to force.
+
+**"Aggressive"** woman (SEE, ESI, LSI, SLE). Often tries to compete with
+men, including in erotic relations. Inclined to irony, ridicule, making
+jokes at the opposite sex. Likes to feel herself more competent than a
+man in any endeavor. During lovemaking she expects from a man
+deferential treatment, demonstrative weakness, emotional instability.
+
+"Aggressive" woman searches for an object for her assertive and eager
+erotic actions. She is best matched by a man who behaves obediently but
+capriciously with her. Then she obtains pretext for aggression. "Victim"
+man idealizes such a woman, and at the same time he somewhat fears her.
+His behavior can be compared with the behavior of a page who is entirely
+devoted to the service of "beautiful lady". On-going game - is the best
+cure for satiation. In relations with "Childlike" man, "Aggressive"
+woman will feel a lack of playful submission on his part. His
+unwillingness to adapt to her aggressive attacks cannot not put such a
+union on the brink of a break-up. Relations with similar to her
+"Aggressor" man on one hand flatter and ignite her passion, but on the
+other hand repel, as they don't lead to the desired victory. Therefore,
+they may have only mixed success. "Caring" man unnerves her with his
+treatment of her as if she is a small child, which she perceives as
+humiliating.
+
+
+.. list-table:: Small Groups
+    :header-rows: 0
+    :stub-columns: 1
+
+    * - :doc:`Quadras <quadra>`
+      - :doc:`Alpha <alpha_quadra>`
+      - :doc:`Beta <beta_quadra>`
+      - :doc:`Gamma <gamma_quadra>`
+      - :doc:`Delta <delta_quadra>`
+    * - :doc:`Clubs <club>`
+      - :doc:`Researchers <club_researchers>`
+      - :doc:`Socials <club_socials>`
+      - :doc:`Pragmatists <club_pragmatists>`
+      - :doc:`Humanitarians <club_humanitarians>`
+    * - :doc:`Temperaments <temperament>`
+      - :doc:`EP <EP>`
+      - :doc:`EJ <EJ>`
+      - :doc:`IP <IP>`
+      - :doc:`IJ <IJ>`
+    * - :doc:`Communication Styles <communication_styles>`
+      - Business-like
+      - Passionate
+      - Cold-blooded
+      - Sincere
+    * - :doc:`Romance Styles <romance_styles>`
+      - :doc:`Aggressor <aggressor>`
+      - :doc:`Victim <victim>`
+      - :doc:`Caring <caring>`
+      - :doc:`Childlike <childlike>`
+
+
+
+.. |symbol_f.gif| image:: Symbol_f.gif
+.. |symbol_t.gif| image:: Symbol_t.gif
+

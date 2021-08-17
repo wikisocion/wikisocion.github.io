@@ -1,0 +1,123 @@
+Socionists
+==================
+
+This section contains profiles and biographical details of Socionists whose work is of relevance to the English speaking community. To translate full pages into any language, post the url of the page into google translator. 
+
+.. list-table:: Notable socionists, their sites, publications, contact information, and types. 
+    :header-rows: 1
+    :widths: 30 40 20 10
+
+    * - Name
+      - Webpage
+      - Associated School
+      - Self-typing
+    * - :doc:`augusta`
+      - `socioniko <http://www.socioniko.net/ru/authors/augusta.html>`_, `socionic <http://socionic.ru/index.php/2010-09-24-11-44-46/408-augustinavichyute_aushra_2>`_
+      - 
+      - ILE
+    * - :doc:`beletskiy`
+      - `socionic <http://socionic.ru/index.php/2010-09-24-11-44-46/412-beleckaya_irina_2>`_
+      - `Link <http://newtraining.ru/>`_
+      - ILE, ESI
+    * - :doc:`beskova`
+      - `socioniko <http://www.socioniko.net/ru/authors/beskova.html>`_, `socionic <http://socionic.ru/index.php/2010-09-24-11-44-46/415-beskova_lyubov_2>`_, `facebook <https://www.facebook.com/liubov.beskova>`_
+      - `Terra Socionika <http://www.terra-socionika.ru/>`_
+      - IEE
+    * - :doc:`bukalov`
+      - `socioniko <http://www.socioniko.net/ru/authors/bukal_av.html>`_, `facebook <https://www.facebook.com/boukalov>`_
+      - `IIS <http://socionic.info/ru/socint.html>`_
+      - ILE
+    * - :doc:`delong`
+      - `socioniko <http://www.socioniko.net/ru/authors/delong.html>`_, `socionic <http://socionic.ru/index.php/2010-09-24-11-44-46/437-delong_rik_2>`_, `facebook <https://www.facebook.com/richard.delong.1213>`_
+      - `1 <http://socionist.blogspot.com/>`_, `2 <https://web.archive.org/web/20141002155241/http://rickdelong.com/socionics/intro.shtml>`_
+      - IEE
+    * - :doc:`dovgan`
+      - `socionic <http://socionic.ru/index.php/2010-09-24-11-44-46/441-dovgan_aleksandr_2>`_
+      - `SHS <https://socioniks.net/aboutus/>`_
+      - LII
+    * - :doc:`eglit`
+      - `socioniko <http://www.socioniko.net/ru/authors/eglit.html>`_, `socionic <http://socionic.ru/index.php/2010-09-24-11-44-46/548-eglit_irina_2>`_, `Facebook <https://www.facebook.com/irina.eglit>`_
+      - `System School <http://en.socionicasys.org/>`_
+      - LSE
+    * - :doc:`ermak`
+      - `socioniko <http://www.socioniko.net/ru/authors/ermak_vd.html>`_, `socionic <http://socionic.ru/index.php/2010-09-24-11-44-46/446-ermak_vladimir_2>`_
+      - `System School <http://en.socionicasys.org/>`_
+      - LII
+    * - :doc:`filatova`
+      - `socioniko <http://www.socioniko.net/ru/authors/filatova.html>`_, `livelib <https://www.livelib.ru/author/112589-ekaterina-filatova>`_
+      - 
+      - EII
+    * - :doc:`ganin`
+      - `socioniko <http://www.socioniko.net/ru/local/eng.html>`_
+      - `socionics.com <http://www.socionics.com/>`_
+      - LII
+    * - :doc:`gulenko`
+      - `socioniko <http://www.socioniko.net/ru/authors/gulenko.html>`_, `socionic <http://socionic.ru/index.php/2010-09-24-11-44-46/434-gulenko_viktor_2>`_, `facebook <https://www.facebook.com/viktor.gulenko>`_
+      - `SHS <https://socioniks.net/aboutus/>`_
+      - LII
+    * - :doc:`kalinauskas`
+      - `socioniko <http://www.socioniko.net/ru/authors/kalinauskas.html>`_, `socionic <http://socionic.ru/index.php/2010-09-24-11-44-46/456-kalinauskas_igor_2>`_
+      - 
+      - ILE
+    * - :doc:`khrulev`
+      - `socioniko <http://www.socioniko.net/ru/authors/khrulev.html>`_, `socionic <http://socionic.ru/index.php/2010-09-24-11-44-46/456-kalinauskas_igor_2>`_
+      - multiple
+      - ILI
+    * - :doc:`lvov`
+      - `socioniko <http://socionic.ru/index.php/2010-09-24-11-44-46/477-lvov_vladimir_2>`_, `facebook <https://www.facebook.com/vladimir.lvov>`_
+      - `Modern <http://www.modernsocionics.ru/>`_
+      - IEE
+    * - :doc:`meged_ovcharov`
+      - `socioniko <http://www.socioniko.net/ru/authors/meged_ovch.html>`_, `socionic <http://socionic.ru/index.php/2010-09-24-11-44-46/480-megedvalentina2>`_, `facebook <https://www.facebook.com/profile.php?id=100001593208817>`_
+      - 
+      - IEE, SLI
+    * - :doc:`mironov`
+      - 
+      - `Dynamic <http://www.dynamicsocionics.ru/>`_
+      - LIE
+    * - Novikova, Vera
+      - `socioniko <http://www.socioniko.net/ru/authors/novikova.html>`_, `socionic <http://socionic.ru/index.php/2010-09-24-11-44-46/491-novikovavera2>`_, `facebook <https://www.facebook.com/novikova.vera>`_
+      - `Practicum <http://socioinfo.ru/>`_
+      - IEE
+    * - :doc:`prokofyeva`
+      - `socioniko <http://www.socioniko.net/ru/authors/prokofieva.html>`_, `facebook <https://www.facebook.com/profile.php?id=100000992727661>`_
+      - `SRI <http://www.socionics.ru/>`_
+      - ILE
+    * - :doc:`vera`
+      - `socioniko <http://www.socioniko.net/ru/authors/strat.html>`_
+      - `blog <http://socionika-forever.blogspot.com/p/blog-page.html>`_
+      - ESI
+    * - :doc:`talanov`
+      - 
+      - `site <http://www.newsocionicsmodel.narod.ru/>`_
+      - NT
+    * - Tangemann, Olga
+      - `facebook <https://www.facebook.com/olga.tangemann>`_
+      - `Associative <http://socionics4you.com/?lang=en>`_
+      - ESI
+    * - :doc:`trehov`
+      - `socioniko <http://www.socioniko.net/ru/authors/charles.html>`_, `socionic <http://socionic.ru/index.php/2010-09-24-11-44-46/533-trehov_aleksei_2>`_
+      - Structural
+      -
+    * - :doc:`tsypin`
+      - 
+      - Structural
+      - 
+    * - :doc:`udalova`
+      - `socioniko <http://www.socioniko.net/ru/authors/udalova.html>`_
+      - `Applied <http://www.socion.ru/>`_
+      - SLI
+    * - :doc:`weisband`
+      - `socioniko <http://www.socioniko.net/ru/authors/weisband.html>`_, `facebook <https://www.facebook.com/igor.weisband>`_
+      - 
+      - ILE
+
+
+The above table mentions only a small number of people who are involved in socionics. The pages of many others can be found through these links: 
+
+- `Socionics researchers, publishers, and hobbyists at Zanoza.ru: People <http://zanoza.socioland.ru/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9B%D1%8E%D0%B4%D0%B8>`_
+- `Socionics Schools at Zanoza.ru <http://zanoza.socioland.ru/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A1%D0%BE%D1%86%D0%B8%D0%BE%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5_%D1%88%D0%BA%D0%BE%D0%BB%D1%8B>`_
+- `Socionics Clubs at Zanoza.ru <http://zanoza.socioland.ru/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A1%D0%BE%D1%86%D0%B8%D0%BE%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5_%D0%BA%D0%BB%D1%83%D0%B1%D1%8B>`_
+- `List of socionists at Socionics.ru. <http://socionic.ru/index.php/2010-09-24-11-44-46>`_
+- `List of socionists at Socioniko.net. <http://socioniko.net/ru/authors/index.html>`_
+  

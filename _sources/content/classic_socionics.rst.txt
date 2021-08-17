@@ -1,0 +1,134 @@
+Classical socionics
+===========================
+
+**Classical socionics** is a somewhat subjective term that includes the core concepts of socionics developed by :doc:`Aushra Augusta <augusta>` and her early associates, such as the socionic concepts of :doc:`functions <functions>`, :doc:`elements <elements>`, :doc:`information <information_aspect>`, ":doc:`Model A <model_a>`," :doc:`intertype relations <intertype>`, etc. Most professional socionists agree with this foundation and base their work on it. 
+
+.. list-table:: :doc:`IM elements <elements>`
+    :header-rows: 0
+
+    * - :doc:`Ne`
+      - :doc:`Te`
+      - :doc:`Se`
+      - :doc:`Fe`
+    * - :doc:`Ni`
+      - :doc:`Ti`
+      - :doc:`Si`
+      - :doc:`Fi`
+
+.. list-table:: :doc:`Functions <functions>`
+    :header-rows: 0
+
+    * - :ref:`Leading function <leading-func>`
+      - :ref:`Creative function <creative-func>`
+      - :ref:`Role function <role-func>`
+      - :ref:`Vulnerable function <PoLR-func>`
+    * - :ref:`Suggestive function <suggestive-func>`
+      - :ref:`Mobilizing function <activating-func>`
+      - :ref:`Ignoring function <ignoring-func>`
+      - :ref:`Demostrative function <demonstrative-func>`
+
+.. list-table:: :doc:`Socion <socion>`
+    :header-rows: 0
+
+    * - :doc:`ILE <ILE>`
+      - :doc:`SEI <SEI>`
+      - :doc:`ESE <ESE>`
+      - :doc:`LII <LII>`
+    * - :doc:`EIE <EIE>`
+      - :doc:`LSI <LSI>`
+      - :doc:`SLE <SLE>`
+      - :doc:`IEI <IEI>`
+    * - :doc:`SEE <SEE>`
+      - :doc:`ILI <ILI>`
+      - :doc:`LIE <LIE>`
+      - :doc:`ESI <ESI>`
+    * - :doc:`LSE <LSE>`
+      - :doc:`EII <EII>`
+      - :doc:`IEE <IEE>`
+      - :doc:`SLI <SLI>`
+
+.. list-table:: Type :doc:`dichotomies <dich>`
+    :header-rows: 0
+    :align: center
+
+    * - |jp|
+      - |EI|
+      - |NS|
+    * - |TF|
+      - |SD|
+      - |PR|
+    * - |PN|
+      - |AD|
+      - |CE|
+    * - |CF|
+      - |YO|
+      - |TS|
+    * - |MS|
+      - |JD|
+      - |AD|
+
+.. |EI| replace:: :doc:`Extraversion and introversion <extra_intro>`
+.. |DA| replace:: :doc:`Democratic and aristocratic <democratic_aristocratic>`
+.. |TS| replace:: :doc:`Tactical and strategic <tactical_strategic>`
+.. |CE| replace:: :doc:`Constructivist and emotivist <constructivist_emotivist>`
+.. |PN| replace:: :doc:`Positivist and negativist <positivist_negativist>`
+.. |JD| replace:: :doc:`Judicious and decisive <judicious_decisive>`
+.. |MS| replace:: :doc:`Merry and serious <merry_serious>`
+.. |NS| replace:: :doc:`Sensing and intuition <sensing_intuition>`
+.. |TF| replace:: :doc:`Ethics and logic <ethics_logic>`
+.. |jp| replace:: :doc:`Rationality and irrationality <ration_irration>`
+.. |CF| replace:: :doc:`Carefree and farsighted <carefree_farsighted>`
+.. |YO| replace:: :doc:`Yielding and obstinate <yielding_obstinate>`
+.. |SD| replace:: :doc:`Static and dynamic <statics_dynamics>`
+.. |PR| replace:: :doc:`Process and result <process_result>`
+.. |AD| replace:: :doc:`Asking and declaring <asking_declaring>`
+
+.. list-table:: :doc:`intertype relations <intertype>`
+    :header-rows: 0
+
+    * - :doc:`identity`
+      - :doc:`duality`
+      - :doc:`activation`
+      - :doc:`mirror`
+    * - :doc:`kindred`
+      - :doc:`semi_dual`
+      - :doc:`business`
+      - :doc:`illusionary`
+    * - :doc:`superego`
+      - :doc:`extinguishment`
+      - :doc:`quasi_identity`
+      - :doc:`conflict`
+    * - 
+      - :doc:`benefit`
+      - :doc:`supervision`
+      - 
+
+.. list-table:: :doc:`Small Groups <small_groups>`
+    :header-rows: 0
+    :stub-columns: 1
+
+    * - :doc:`Quadras <quadra>`
+      - :doc:`Alpha <alpha_quadra>`
+      - :doc:`Beta <beta_quadra>`
+      - :doc:`Gamma <gamma_quadra>`
+      - :doc:`Delta <delta_quadra>`
+    * - :doc:`Clubs <club>`
+      - :doc:`Researchers <club_researchers>`
+      - :doc:`Socials <club_socials>`
+      - :doc:`Pragmatists <club_pragmatists>`
+      - :doc:`Humanitarians <club_humanitarians>`
+    * - :doc:`Temperaments <temperament>`
+      - :doc:`EP <EP>`
+      - :doc:`EJ <EJ>`
+      - :doc:`IP <IP>`
+      - :doc:`IJ <IJ>`
+    * - :doc:`Communication Styles <communication_styles>`
+      - Business-like
+      - Passionate
+      - Cold-blooded
+      - Sincere
+    * - :doc:`Romance Styles <romance_styles>`
+      - :doc:`Aggressor <aggressor>`
+      - :doc:`Victim <victim>`
+      - :doc:`Caring <caring>`
+      - :doc:`Childlike <childlike>`

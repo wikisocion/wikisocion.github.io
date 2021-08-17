@@ -1,0 +1,31 @@
+Integral type
+========================
+
+.. warning::
+    This page or section is **incomplete**. Additional contributions are needed.
+
+Integral type is a way of socionically characterizing large communities (such as large organizations, subcultures, or even entire nations) according to socionic type, in much the same way as an individual. It is most often applied to countries, which are almost invariably associated with distinct cultural stereotypes, in which some elements feature prominently (corresponding to the Ego), and some are noticeably subdued.
+
+Manifestations of each element in a community:
+
+* Te: useful products, work, efficiency, pragmatism, knowledge 
+* Fe: public emotional expression 
+* Ti: logical thinking, correctness of ideas 
+* Fi: personal bonds, sensitivity 
+* Se: willpower, overcoming obstacles 
+* Ne: abstract speculation, exchange of ideas 
+* Si: attention to aesthetics and clothing, appreciation of food, drink and relaxation 
+* Ni: preservation of heritage, history, creating permanent things, a sense of vision and mission 
+
+Examples
+---------------------
+
+Belgium as SEI
+~~~~~~~~~~~~~~~~~~~~~~
+
+Belgium and more specifically its French-speaking Wallonia region: a great social, cultural, touristic and even economic focus is placed on enjoying good food over a very long and leisurely meal. Even in very small villlages, the existing restaurants are individually pointed out with official traffic signs. The most "typical" way of spending a Saturday afternoon is to enjoy a lengthy meal with alcoholic drinks in a large group in one of the participants' house, lasting all the way into the night; for this reason, even middle-sized Wallonian cities look remarkably empty and quiet in the Saturday afternoons if compared to similar cities in neighboring countries. Moreover, the concentration of bookshops even in larger cities such as Brussels is very noticeably thin, again in comparison to other European countries such as the United Kingdom and Germany. All of this, seen as general trends within a country, suggests Alpha values with a particular focus on Symbol s.gif and very low importance given to Te, as well as a preference for low levels of energy, which suggests the IP temperament. Therefore it can be said that the integral type of Wallonia and perhaps even of Belgium as a whole is SEI, which however is not meant to have any correlation to the distribution of the individuals in that region.
+
+Criticism
+~~~~~~~~~~~~~~~~
+
+The idea of integral types appeared fairly early in socionics, but the use of this concept is frequently contested. If socionic type is taken as a theory of the individual human psyche, then what reason is there to think that it is applicable to groups of people? 

@@ -1,0 +1,509 @@
+Positivist and negativist
+===============================
+
+**Positivist** / **Negativist** is one of the 15 :doc:`Reinin dichotomies <reinin_dich>`.
+
+
+Positivist and negativist types
+-------------------------------
+
+-  Positivists are: ILE, ESE, LSI, IEI, SEE, LIE, EII and SLI.
+-  Negativists are: SEI, LII, EIE, SLE, ILI, ESI, LSE and IEE.
+-  Using :doc:`four-letter code <type_names>`: Positivists are ENTx,
+   ESFx, ISTx, INFx; Negativists are ISFx, INTx, ENFx, ESTx.
+
+
+Typical characteristics
+-----------------------
+
+Positivists
+~~~~~~~~~~~
+
+#. Inclination to optimize, polish, and improve already existing things,
+   systems, or processes.
+#. Socially and intellectually more trusting and interested at first.
+   Becomes more critical and disinterested later.
+#. Initially more complimenting than reprimanding.
+#. Greater use of positive assertive statements, even in cases of
+   criticism.
+#. Explains what things are (irrationals) or should be (rationals).
+#. "This glass is half-full", "We have already collected $438,000 for
+   that project"
+
+Negativists
+~~~~~~~~~~~
+
+#. Inclination to detect and resolve problems within things, systems, or
+   processes.
+#. Socially and intellectually more mistrusting and disinterested at
+   first. Becomes more trusting and interested later.
+#. Initially more reprimanding than complimenting.
+#. Greater use of negating "not" statements.
+#. Explains what things are not (irrationals) or should not be
+   (rationals).
+#. "This glass is half-empty", "We need $62,000 for that project"
+
+.. _extended_characteristics:
+
+Extended characteristics
+------------------------
+
+Description from :doc:`2003 Study of Reinin traits <reinin_study>`
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Positivists
+^^^^^^^^^^^
+
+-  Positivists initially pay attention to what is present in a situation
+   (what exists, what is there) what can realistically occur, what can
+   be interpreted as an affirmative manifestation of surrounding world,
+   situations, possibilities, prospects.
+-  Positivists are oriented at what any situation or contact with people
+   can potentially bring to them rather than what they could potentially
+   lose (for example, moving is viewed as an opportunity to gain new
+   acquaintances, friends, rather than primarily from point of view of
+   losing existing friends). For them an orientation to success is more
+   characteristic rather than avoidance of failure.
+-  Positivists are better at assimilating affirmative experiences. They
+   are inclined to "convert" negative experiences into positive ones
+   (they try to find the "silver lining").
+-  They speak more of the positive and try to present negative moments
+   on a positive background ("Yes, this is a problem, but..."then
+   continue to paint a positive picture). Conversations about the
+   negative (when the other person accentuates deficiencies, absence,
+   impossibility) may be irritating to Positivists.
+-  In speech of Positivists, one can detect mostly affirmative
+   constructions and intonations. If they are giving instructions to
+   someone else, they present them in positive manner: they talk about
+   what can be done or what should be done in different situations (for
+   example, "You can call him only at this-and-this time") rather than
+   what cannot or should not be done.
+
+Negativists
+^^^^^^^^^^^
+
+-  Negativists pay attention to aspects of the situation that are
+   insufficient or lacking, which can be interpreted as seeing the
+   negative prospects of various situations and events.
+-  Negativists orient at what they could potentially lose as a result of
+   a certain situation or contact with other people, rather than what
+   this situation or contact can bring to them (for example, moving for
+   negativists primarily means losing friends). Negativists focus on
+   avoiding failures (the "positive" development of a situation is the
+   fact that nothing negative has happened so far).
+-  Negativists are better at assimilating negating, negative
+   experiences. They are inclined to outline negative sides of affairs.
+-  Negativists are more inclined to speak about negative moments.
+   Positive aspects are presented on a negative background ("Well, this
+   is good, but..."then mentions what is lacking, what is not right).
+   Negativists are irritated by "excessively positive" attitudes (when
+   another person "forgets" to bring up or haven't even considered the
+   negative aspects of something).
+-  In speech of negativists there is frequent use of negating
+   expressions (negative pronouns, adverbs, "not" "cannot" "nobody"
+   "never"). For example: "Negative experiences are not always
+   necessary, I don't need them" "There won't be an occasion to do
+   anything" "I cannot say that this is not true" etc. If giving
+   instructions they first of all talk about the things to avoid, what
+   should not be done (For example "If you call them at such a time it
+   will be pointless").
+
+**Notes**
+
+Previous research on this dichotomy was reduced to measuring
+positive/negative in the "everyday" sense of the word. In our opinion,
+these attitudes are a consequence of a deeper mechanism: one group
+perceives and describes something by denoting associated properties
+(Positivists) while the other group denotes properties that are not
+associated with it. Positivists describe a subject, individual,
+phenomenon, attempting to describe it through characteristics inherent
+in the object, while Negativists focus on properties that do not pertain
+to the object. The cursory impression of optimism/pessimism being the
+distinguishing feature of this dichotomy occurs because of this. In
+reality, both Positivists and Negativists possess these two attitudes
+and talk equally of "good" and "bad" things. The difference is in the
+form of presentationfor example, on the same topic of shortcomings: "I
+cannot say that you have no shortcomings" (negativism) and "You have
+several shortcomings" (positivism).
+
+**Hypotheses**
+
+The difference in assimilating experiences between Positivists and
+Negativists arises because Positivists better remember events when they
+did transpire, rather than events that did not occur, while Negativists
+are better at remembering events that did not occur, that were absent or
+lacking (for the Negativist, this absence constitutes an event in
+itself, they remember this better and draw conclusions).
+
+**Examples**
+
+*Positivists:* "At first I trust people, distrust needs to be
+substantiated" "I always believe in a positive outcome. I will most
+likely talk about positives. I don't issue warnings of possible
+failureswhy bring people down, may be everything will be ok" "It
+irritates me when people talk only of character flaws and inadequacies
+in others" "I try not to give instructions on avoidance or failure"
+"When giving instructions I avoid giving orders like "Don't do it! Don't
+go!" "Even negative experience can be positive" "I start off by trusting
+people and then work from there."
+
+*Negativists:* "My first reaction to everything is "no!" whatever it
+might be" "I don't speak of the positives" "One must take into account
+all the negative aspects. It goes without saying that people are capable
+of anything" "If the mood is too good - something is not right" "In my
+instructions I always give people "negative" orientation points. I
+foresee all the negative moments and try to make provisions for them"
+"People in general are good, but it's better to keep your distance from
+them" "When I was authoring a textbook, I constructed my proofs "by
+method of contradiction"" "Most often I bring bad news" "When asked
+"How's it going?" I answer "Not well." "How am I going to entertain
+myself? Certainly I wouldn't go to a restaurant, neither a casino ...
+but somewhere out to nature..." "There will be a building there, but
+that's not what you're looking for. After that you will see a street,
+but don't take it, continue on your path. Go around the building and
+don't use the first two entrances."
+
+Description from :doc:`Forms of Cognition <cognitive_styles>` by V. Gulenko
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Positivism I understand as the tendency to maximize the positive,
+Negativism as the tendency to minimize the negative. Positivists
+primarily perceive the positive side of any phenomenon, and often turn a
+blind eye to the negative. Negativists won't overlook problems, and
+simultaneously mitigate any positive aspects to their situation of
+interest.
+
+Intellectual Level
+^^^^^^^^^^^^^^^^^^
+
+At this level, the PositivismNegativism dichotomy manifests as
+identification of similarities or differences in object comparison. In
+Negativists thought processes prevails contrast, in Positivists leads
+comparison. Meaning that Positivists more easily hold overall views of
+an object, without considering its internal divisions. Conversely,
+Negativists more easily distinguish its extreme points of separation and
+opposing contrasts.
+
+Directly relevant to this is a dichotomy known in cognitive psychology
+as convergent/divergent thinking [5], discovered by J. P. Guilford. In
+his opinion, divergent thinking, from simple initial data, yields
+several different solutions to the same problem; a trait characteristic
+to the alternative-thinking of Negativists.
+
+Opposite this, convergent thinking searches for a single valid
+encompassing solution; a trait more characteristic to Positivist
+thinking. For them, a problem is unsolved until the validity of one
+solution is proven against other alternatives.
+
+Social Level
+^^^^^^^^^^^^
+
+PositivismNegativism affects the degree of internal group coherence and
+regulates attraction/repulsion between its members.
+
+An individual's ability to assimilate into a group is typologically
+predictable. Negativists are remote types. They need constant assurance,
+even in a group they consider their own. Therefore it is more difficult
+to fully integrate Negativists into a group. Positivists on the other
+hand, are inclined to close range communication. They do not polarize
+contrasts, but smooth them over in one way or another. Thus Positivists
+facilitate monocentric group structure and unity of purpose. Whereas
+Negativists amplify polarizing forces conducive to polycentric group
+structure.
+
+Consider the example of *SEI*, a fairly good-natured type, although
+Negativist. Is there a behavioral tendency towards remoteness? Yes, it
+contrasts its subgroup with other subgroups. Thereby disrupting,
+unintentionally or not, unity of purpose in the whole group overall.
+
+What process balances internal group cohesion? It is observed that
+Positivists are drawn towards their opposite, which contributes to
+overall group solidarity, particularly through the ease of intragroup
+role distribution. Negativists on the other hand, have an inherent
+paradoxical attraction to those similar to themselves. The nearer such
+parallel charged elements converge, however, it becomes increasingly
+difficult to implement mutual action. Repulsive forces rapidly emerge
+and fracture group integration.
+
+The overall incidence of monolithic or polarized group behavior is a
+reliable index for gauging PositivistNegativist tendencies. Negativism
+generates tension in intragroup relations, leading on one hand to an
+increase in psychological distance between members, but on the other
+hand activating its internal momentum to say "Move!". Positivism by
+contrast contracts psychological distance and encourages internal group
+cohesion, but can also bring complacency, carelessness, and 'vapidity'
+of existence.
+
+Psychological Level
+^^^^^^^^^^^^^^^^^^^
+
+In a psychological sense, this dichotomy can be approximately
+interpreted as trust/distrust.
+
+Each type of person behaves in life according to how they answer the
+following existential question: is human nature inherently good or evil?
+For Positivists, human nature is inherently good, so they are more
+likely to be trusting. This does not mean that they consciously consider
+themselves to be good, just that they conduct themselves as if others
+were. Negativists even under favorable conditions are inclined to expect
+the worst. Their degree of trust in others is therefore is much lower.
+
+The relation between Positivists and Negativists is illustrated well by
+the analogy of electric conductors. Electric-people (Negativists who
+have accumulated a negative psychological charge) discharge into
+conductor-people (Positivists), who tend to provoke them in just the
+right way to do so. All of which happens mostly automatically and
+unconsciously. The resulting emotional flash establishing temporary
+balance of psychological (electro-)potentials. This beneficial surge of
+emotional release, Aristotle in his "Poetics" called
+'catharsis'psychological purging via intense experience.
+
+Physical Level
+^^^^^^^^^^^^^^
+
+The spatial arrangement of conversation parties in front or near is a
+key factor in communication, its importance first stressed by Harry S.
+Sullivan. Negativists gain leverage in communication from positions
+opposite the partner, Positivists from positions alongside or at an
+angle deflecting a straight-on gaze.
+
+Automatic reductions in confrontation due to being seated side by side,
+are a common method used by marital psychologists working with couples.
+Sitting side by side and addressing an imaginary third party, enables
+couples to gradually decrease the severity of sore conflict.
+
+Clinical psychologists studying nonverbal cues classify gestures
+indicative of critical attitudes. Such gestures are typically
+'closed'for instance, a hand at the mouth. From a Socionics standpoint
+then, closed demeanor is better explained by Negativism, not
+Introversion.
+
+Negativism induces tangible bodily tension. Negativists are inclined to
+accumulate 'charge', making highly-charged Negativists easily
+overexcitable (especially if also Dynamic). In order to compensate
+against this, Negativists are recommended to engage in physical exercise
+that relaxes and smooths internal tension. While Positivists are
+recommended to perform physical exercise that excites and intensifies
+their physiological processes.
+
+Additional Commentary and Notes
+-------------------------------
+
+Positivism-Negativism is often mistaken for optimism-pessimism, where
+Positivism has become synonymous with optimism, and Negativism - with
+pessimism. By extension, those who fall into Eneagram's `positive outlook triad <http://www.fitzel.ca/enneagram/harmonics.html#pos>`_
+(these are types 2,7,9) are sometimes mistaken for Positivist types due
+to these triad's innate preference for dealing with problems by adopting
+a "positive attitude", for as much as possible, and reframing
+disappointments in some more uplifting way; while the often mistrustful
+attitude and propensity to mentally dwell on problems and threats of
+`enneagram type 6 <http://www.enneagraminstitute.com/typesix.asp>`_ can
+be mistaken for Negativism. **It is important to note that there is no
+direct relation between Positivist-Negativist Reinin dichotomy and
+optimism-pessimism. The name of this dichotomy should not be interpreted
+literally. Positivists do not have an inherently positive outlook on
+life, and Negativists - a negative one.** The Positivist-Negativist
+dichotomy describes certain kinds aspects of cognitive perception and
+mental operations rather than person's outlook, attitudes, and prevalent
+emotional state. Optimism-pessimism is a quality that arises from
+personal experiences; socionics factors do not influence and condition
+this phenomenon in itself.
+
+A distinguishing trait of Positivist and Negativist types is the
+preference for comparison (Positivists) or contrast (Negativists).
+Positivist types are more inclined to spot similarities and draw
+analogies ("they are so alike", "y is just like x" etc.), while
+Negativist are inclined to instead look at contrasts or alternatives
+("they are nothing alike!"). Figuratively speaking, if Positivists are
+shown the front side then they will be looking at the front side, while
+Negativists will try to look at its inverse. If this inverse is not
+readily apparent, they will start searching for it. Thus Negativists do
+not seek to present a "negative" or "pessimistic" view of things, but
+simply the inverse or the alternative one. It is precisely due to such
+mental preference that a Negativist type such as ILI voices pessimistic
+predictions upon hearing optimistic forecasts. From a Negativist's point
+of view, he or she is not being a downer, but rather restoring the
+balance by pointing out the opposite. Since Negativist types are
+inclined to look for the inverse, if they are presented with pessimistic
+information they start searching for its alternatives, for what is
+absent and not there, such as a more optimistic interpretation. If the
+same ILI is told that everything is bleak, he or she will proceed to
+look for evidence that the situation is really not as bleak as it could
+have been. This distinguishes socionics trait of Negativism from
+manifestations of personal traits such as pessimism, depression, or
+propensity to "catastrophize".
+
+   Example: LII, negativist: "This is very much how I process
+   information. I compare of what something logically cannot be, so then
+   I know what something can be. I always seem to look for what's not
+   there in general in order to arrive at what's there."
+
+Thus, Positivists, in contrast to Negativists that see and investigate
+alternatives to anything, at times make an impression of being too
+"one-track" minded, too oriented at "one way", "one method", "one
+opinion", stubbornly enforcing a singular opinion, viewpoint, or
+interpretation, or feeling exasperated when that single track has failed
+them due to weak ability to see anything alternative. This shows more
+strongly for C-D types than V-S types, due to V-S propensity to loop
+back and try to correct the initial mistake, wrong attitude, or opinion.
+
+| Another point of confusion: Criticalness and Positivist-Negativist
+  trait. Under this misinterpretation, Positivist types are depicted as
+  always accepting, never critical of anything. This, of course, does
+  not hold up to the scrutiny of the statements of Positivist types.
+  Positivist types can and do critically treat information albeit with
+  some delay (especially information relayed on their ego block
+  functions), but the manner in which they voice their criticisms
+  differs from Negativist types. Positivist types are more inclined to
+  voice affirmative statements that use irony or aburdism to highlight
+  the incorrectness of some argument and demonstrate their own disbelief
+  (Example: Highlighting parts of a type's description that doesn't fit
+  them, and then exclaiming with irony "Yes, I see how that applies to
+  me!")
+| Criticisms of Negativist types, in contrast, are usually directly
+  negating, eliminating, or invalidating statements. Negativist types as
+  if "cut off", or bar some information (or people) that they've found
+  to be dubious.
+| In general, Positivists are initially more open and accepting of new
+  information (and people), but later may reject it after a more
+  critical consideration; while Negativists have larger initial barrier
+  to "entry" of new information (and people), but have greater
+  difficulty getting rid of something that they have already accepted.
+
+Additional Links
+----------------
+
+-  :doc:`Video Lecture: Positivists and Negativists <gulenko_lectures>`
+   by Victor Gulenko.
+-  `Sociotypograph  determine your sociotype by Renin    dichotomies <http://zhilkin.com/socio/en/>`_.
+
+Examples
+--------
+
+Note that a single statement is not enough to determine where a person
+belongs on this dichotomy. What is important is the *relative
+proportion* of the two in person's lexicon - negating statements are
+found at higher frequency in the statements of negativist types than of
+positivist types. Below are a few possible examples of such statements.
+
+Examples of now Positivist/Negativist phrasing differs from
+positive/negative content:
+
+-  Positivist: "Yes, life is crap." - affirmative phrasing, but the
+   message is pessimistic or negative in content.
+-  Negativist: "No, life isn't crap." - negating phrasing, but the
+   message is optimistic or positive in content.
+
+-  Positivist: "Yes, life is wonderful." - affirmative framing of
+   optimistic content.
+-  Negativist: "No, life isn't wonderful." - negating framing of
+   pessimistic content.
+
+Negativism:
+
+-  LII, negativist: "This is very much how I process information. I
+   compare of what something logically cannot be, so then I know what
+   something can be. I always seem to look for what's not there in
+   general in order to arrive at what's there."
+-  IEE negativist: "I find myself saying things like: "she isn't a mean
+   person." instead of "she's a nice person" and "I'm not sad" instead
+   of "I'm happy." It feels more realistic and tempered and I don't
+   know. Negativism isn't being negative, it's stating even positive
+   things in a way that makes them more neutral...in my mind, at least."
+-  IEE, negativist Fi: "There are very few people here I don't like, and
+   you aren't one of them. As for the question from the OP, maybe it's
+   because I'm an Fi negativist, but I seem to only be able to think of
+   people I don't want to get to know better. LOL. And, again, it's only
+   a few people."
+-  IEE, negativist: "You can't win at a game you aren't playing"
+-  LSE, negativist: "Hey, that's not bad" (as a compliment)
+-  IEE, negativist: "I do not see Barack as EII - he is not ethical
+   enough or intuitive enough and I know my Mirrors, and I do not think
+   Michelle is LSI - she is not intellectually pragmatic enough or
+   Introvert enough."
+-  ESI, negativist Fi: "I acutely feel poor attitudes  towards myself
+   or between other people. I can see it right away and I am never wrong
+   in this. But when it comes to good relations I orient rather poorly
+   ... Two days ago my boyfriend introduced my girlfriend to his friend.
+   I watched the couple the entire evening, but couldn't discern if his
+   friend liked her or not. There were no signs of negative attitude,
+   that's for sure, but I couldn't estimate the degree of good relations
+   either." (difficulty picking up on affinities, relationship is
+   assessed by looking for inverse of positive relations).
+
+Positivism:
+
+-  SLI, positivist: "Yahoo answers are, of course, intellectual - a good
+   place to get your information." - delivering an ironic criticism. Her
+   intent is to indicate that Yahoo answers is a poor source of
+   information, but as a Positivist type she makes an affirmative ironic
+   statement to get her point across rather than a negating,
+   disqualifying statement.
+-  IEI, positivist: "Yes, Ti is autism" - making an ironic criticism.
+   Same as SLI in the example above she condenses another poster's
+   writing to a single affirmative ironic statement to point out the
+   absurdity of what another person has said (involution + positivism).
+-  SLI, positivist: "But it's nice to see you are searching for ways to
+   discredit other people's socionics functions. What a noble effort and
+   worthwhile activity" - while criticizing another poster yet framing
+   his criticisms into affirmative statements.
+-  EII, positivist: "I relate to most of what has been said. These parts
+   of the profile apply to me [proceeds to highlight the applicable
+   parts]" - as a positivist type she is highlighting and affirming the
+   parts of the profile that work for her rather than discussing what
+   the profile doesn't mention.
+-  EII, positivist: "I will critically refer to anything that is being
+   said to me and try to analyze it, this comes naturally to me. It's
+   like I pick up something and try to examine it closely, polish it,
+   remove the dust, and work on it until it starts making sense to me.
+   Discussing it with others helps me to clarify anything that I'm
+   uncertain about."
+
+Theoretical properties
+----------------------
+
+.. warning:: 
+   Plus and minus IM elements are not accepted by many socionists.
+
+   -  Positivist types have either a static plus element or a dynamic minus
+      element in base function.
+   -  Negativist types have either a dynamic plus element or a static minus
+      element in base function.
+
+
+
+.. list-table:: Type :doc:`dichotomies <dich>`
+   :header-rows: 0
+   :align: center
+
+   * - |jp|
+     - |EI|
+     - |NS|
+   * - |TF|
+     - |SD|
+     - |PR|
+   * - |PN|
+     - |AD|
+     - |CE|
+   * - |CF|
+     - |YO|
+     - |TS|
+   * - |MS|
+     - |JD|
+     - |AD|
+
+.. |EI| replace:: :doc:`Extraversion and introversion <extra_intro>`
+.. |DA| replace:: :doc:`Democratic and aristocratic <democratic_aristocratic>`
+.. |TS| replace:: :doc:`Tactical and strategic <tactical_strategic>`
+.. |CE| replace:: :doc:`Constructivist and emotivist <constructivist_emotivist>`
+.. |PN| replace:: :doc:`Positivist and negativist <positivist_negativist>`
+.. |JD| replace:: :doc:`Judicious and decisive <judicious_decisive>`
+.. |MS| replace:: :doc:`Merry and serious <merry_serious>`
+.. |NS| replace:: :doc:`Sensing and intuition <sensing_intuition>`
+.. |TF| replace:: :doc:`Ethics and logic <ethics_logic>`
+.. |jp| replace:: :doc:`Rationality and irrationality <ration_irration>`
+.. |CF| replace:: :doc:`Carefree and farsighted <carefree_farsighted>`
+.. |YO| replace:: :doc:`Yielding and obstinate <yielding_obstinate>`
+.. |SD| replace:: :doc:`Static and dynamic <statics_dynamics>`
+.. |PR| replace:: :doc:`Process and result <process_result>`
+.. |AD| replace:: :doc:`Asking and declaring <asking_declaring>`

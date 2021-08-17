@@ -1,0 +1,174 @@
+Carefree and farsighted
+================================
+
+**Carefree** / **Farsighted**, also called **Incidental** /
+**Cautious**, is one of the 15 :doc:`Reinin dichotomies <reinin_dich>`.
+
+Carefree and farsighted types
+-----------------------------
+
+-  Carefree types are :doc:`SEI <SEI>`, :doc:`ILE <ILE>`, :doc:`LSI <LSI>`, :doc:`EIE <EIE>`, :doc:`ESI <ESI>`, :doc:`LIE <LIE>`, :doc:`SLI <SLI>`, :doc:`IEE <IEE>`
+-  Farsighted types are :doc:`LII <LII>`, :doc:`ESE <ESE>`, :doc:`IEI <IEI>`, :doc:`SLE <SLE>`, :doc:`ILI <ILI>`, :doc:`SEE <SEE>`, :doc:`EII <EII>`, :doc:`LSE <LSE>`
+-  Using the :doc:`four-letter code <type_names>`: carefree types are EN or IS, farsighted types are ES or IN.
+
+
+
+Typical characteristics
+-----------------------
+
+
+Carefree types
+~~~~~~~~~~~~~~
+
+#. Inclined to solve problems by primarily using that information which
+   is 'at hand'. Accordingly, their solutions are likely to be
+   particular to that situation.
+#. The search for the solution is implied in the answer.
+#. You cannot prepare for everything.
+
+
+Farsighted types
+~~~~~~~~~~~~~~~~
+
+#. Inclined to solve problems by primarily using that information which
+   they possess through knowledge and experience. Accordingly, their
+   solutions are likely to be of a general nature.
+#. The search for the solution is explicit in the answer.
+#. It is best to prepare in advance.
+
+
+Extended characteristics
+------------------------
+
+Taken from `2003 study of Reinin traits <reinin_study>`.
+
+Carefree
+~~~~~~~~
+
+-  Careless types are inclined to solve a problem and search for a
+   solution using only that information which is accessible to them in
+   that given situation (for example, under the conditions of a given
+   task). Therefore, careless types for each new task make a new
+   "algorithm" to fit the given task.
+-  In giving their answer to the problem posed, the context of searching
+   for the answer and solving the problem (the preparation stage,
+   collection of information, past experience, and so on) is not
+   mentioned, but rather it is silently "implied".
+-  When speaking, careless types often use the word "anticipate" as a
+   general concept; usually they mean that it is "needed", "it would be
+   good" or that "it is "impossible" to "anticipate everything".
+
+Farsighted
+~~~~~~~~~~
+
+-  When solving problems farsighted types "scoop" the information from a
+   wide "pool" of their experiences (when considering a question, they
+   are inclined to refer to the entirely of their experience and
+   knowledge in an attempt to find an answer). Farsighted types are
+   inclined to use already prepared, accumulated methods (algorithms)
+   for solving problems.
+-  When answering a question posed, they cover a wide context: they
+   mention the preliminary stage of their search for the answer, the
+   circumstance surrounding this search, the information that was
+   available.
+-  When speaking, farsighted type rarely use the word "anticipate" as a
+   general concept, but when they describe some actions or plans they
+   demonstrate this concept through concrete examples (they give
+   examples of how something could be anticipated).
+
+**Examples:**
+
+On a topic: how will you prepare for a vacation and how will you spend
+it.
+
+*Carefree:* "I try to make do with the minimum amount of "stuff" so I
+won't have a lot of baggage. You cannot prepare for everything" "I will
+for sure forget something. I'll pack some clothing, an umbrella, books,
+maps, a camera, medicine. I will for sure bring books; entertainment
+will be found as I go along, a lot of things I'll find out there" "I
+bring along a minimum of what I need in order to have a good time.
+Personal hygiene items, medicines, some clothing which is necessary.
+Common entertainment can't be foreseen" "Things in bare minimum. I'll
+buy adequate footwear, a new bathing suit, plan some trips and
+excursions" "One tries to anticipate every situation that could happen.
+But I cannot prepare for everything that might be needed there"
+"Clothing and medicine and other stuff that is necessary to cover "weak
+spots". With leisure and entertainment I'll see on the spot... Certain
+things are assumed by default".
+
+*Farsighted:* "Two things I'll bring for sure: a bathing suit and a
+camera. You can't always be certain what things will be there, so it's
+better to prepare in advanceor it will be like my first trip to Italy
+when I brought along a hair dryer and an iron when the hotel there
+could've provide me with each... Nonetheless I'll need batteries and
+film for the camera, which can be prepared beforehand" "A trip is a
+trip, not the first time for me. The familiar activity, I know what I
+need to bring. It is needed to learn at least a little bit of the local
+language. A lot of time will go into trying to obtain information"
+"Before departure I always pay my bills so that when I come back there
+will be no "nasty" surprises awaiting me... I first find out what the
+weather there will be like. It is better to buy all the necessities
+beforehand, because going shopping on a trip is an unproductive
+expenditure of time that should go into leisure activities" "It is
+necessary to get a passport with a visa and insurance. To decide what to
+do with the cat" "The tour agency is responsible for many things, should
+provide me with information. If not, I will look for additional cultural
+information... I've worked out a habit, a set of items that I should
+bring along" "If it's a coat, then it must be sown by a tailor" "Why?"
+"Well I presume..." (pause)." : "These buttons are same as on the remote
+control that I have at home, it won't change the channel" : "Let me take
+a look at it" : "Why attempt this in vain?"
+
+Theoretical properties of carefree and farsighted types
+-------------------------------------------------------
+
+Carefree/farsighted corresponds with the
+:ref:`evaluatory <evaluatory>`/ :ref:`situational <evaluatory>` dichotomy for
+:doc:`irrational <ration_irration>` :doc:`information elements <elements>`.
+
+-  The carefree types have evaluatory |symbol_i.gif| |symbol_s.gif| and
+   situational |symbol_t.gif| |symbol_f.gif|.
+-  The farsighted types have evaluatory |symbol_t.gif| |symbol_f.gif|
+   and situational |symbol_i.gif| |symbol_s.gif|.
+
+
+.. list-table:: Type :doc:`dichotomies <dich>`
+    :header-rows: 0
+    :align: center
+
+    * - |jp|
+      - |EI|
+      - |NS|
+    * - |TF|
+      - |SD|
+      - |PR|
+    * - |PN|
+      - |AD|
+      - |CE|
+    * - |CF|
+      - |YO|
+      - |TS|
+    * - |MS|
+      - |JD|
+      - |AD|
+
+.. |EI| replace:: :doc:`Extraversion and introversion <extra_intro>`
+.. |DA| replace:: :doc:`Democratic and aristocratic <democratic_aristocratic>`
+.. |TS| replace:: :doc:`Tactical and strategic <tactical_strategic>`
+.. |CE| replace:: :doc:`Constructivist and emotivist <constructivist_emotivist>`
+.. |PN| replace:: :doc:`Positivist and negativist <positivist_negativist>`
+.. |JD| replace:: :doc:`Judicious and decisive <judicious_decisive>`
+.. |MS| replace:: :doc:`Merry and serious <merry_serious>`
+.. |NS| replace:: :doc:`Sensing and intuition <sensing_intuition>`
+.. |TF| replace:: :doc:`Ethics and logic <ethics_logic>`
+.. |jp| replace:: :doc:`Rationality and irrationality <ration_irration>`
+.. |CF| replace:: :doc:`Carefree and farsighted <carefree_farsighted>`
+.. |YO| replace:: :doc:`Yielding and obstinate <yielding_obstinate>`
+.. |SD| replace:: :doc:`Static and dynamic <statics_dynamics>`
+.. |PR| replace:: :doc:`Process and result <process_result>`
+.. |AD| replace:: :doc:`Asking and declaring <asking_declaring>`
+.. |symbol_i.gif| image:: symbol_i.gif
+.. |symbol_s.gif| image:: symbol_s.gif
+.. |symbol_t.gif| image:: symbol_t.gif
+.. |symbol_f.gif| image:: symbol_f.gif
+

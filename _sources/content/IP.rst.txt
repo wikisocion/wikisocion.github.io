@@ -1,0 +1,76 @@
+IP temperament
+====================
+
+The **IP temperament**, or **receptive-adaptive temperament**, was
+identified by :doc:`Viktor Gulenko <gulenko>` and includes the four
+:doc:`irrational <ration_irration>` :doc:`introverts <extra_intro>` (one in each
+:doc:`quadra <quadra>`): :doc:`IEI <IEI>`, :doc:`SEI <SEI>`, :doc:`ILI <ILI>`, and
+:doc:`SLI <SLI>`. Each of these types is also :doc:`dynamic <statics_dynamics>`.
+
+
+Typical characteristics
+-----------------------
+
+-  relaxed
+-  go-with-the-flow
+-  finds it easy to spend long periods of time in no activity, or at
+   very low levels of energy
+-  movements are flexible, unhurried
+-  little inclination towards fidgetiness when having to remain inactive
+   for longer periods
+
+IPs are both dynamic and irrational, so they see reality as in
+continuous, gradual, often imperceptible change. An IP is soothed by
+this, seeing reality through his :ref:`leading function <leading-func>`. This leads to a relaxed inclination to
+take things as they come and adapt to them.
+
+As introverts, IPs tend to be relaxed and somewhat passive about
+initiating relationships with other people, mostly assuming that others
+will take the initiative.
+
+Perception of other temperaments
+--------------------------------
+
+**EP**: IPs see EPs as pleasantly energetic in an unpredictable and
+therefore not boring way, also able to take for granted variations in
+levels of energy in others.
+
+**EJ**: IPs see EJs as annoyingly pushy and insistent in their
+initiatives; they may respect their energy levels but also wonder if
+they don't see that a lot of that energy is spent wastefully to no good
+purpose.
+
+**IJ**: IPs see IJs as boring and too concerned with stability.
+
+
+.. list-table:: Small Groups
+    :header-rows: 0
+    :stub-columns: 1
+
+    * - :doc:`Quadras <quadra>`
+      - :doc:`Alpha <alpha_quadra>`
+      - :doc:`Beta <beta_quadra>`
+      - :doc:`Gamma <gamma_quadra>`
+      - :doc:`Delta <delta_quadra>`
+    * - :doc:`Clubs <club>`
+      - :doc:`Researchers <club_researchers>`
+      - :doc:`Socials <club_socials>`
+      - :doc:`Pragmatists <club_pragmatists>`
+      - :doc:`Humanitarians <club_humanitarians>`
+    * - :doc:`Temperaments <temperament>`
+      - :doc:`EP <EP>`
+      - :doc:`EJ <EJ>`
+      - :doc:`IP <IP>`
+      - :doc:`IJ <IJ>`
+    * - :doc:`Communication Styles <communication_styles>`
+      - Business-like
+      - Passionate
+      - Cold-blooded
+      - Sincere
+    * - :doc:`Romance Styles <romance_styles>`
+      - :doc:`Aggressor <aggressor>`
+      - :doc:`Victim <victim>`
+      - :doc:`Caring <caring>`
+      - :doc:`Childlike <childlike>`
+
+

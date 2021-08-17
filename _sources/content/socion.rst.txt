@@ -1,0 +1,24 @@
+Socion
+==============
+
+The term **socion** refers to the set of all 16 :doc:`types of information metabolism <socionic_type>`, or :doc:`socionic types <socionic_type>`. 
+
+.. list-table:: :doc:`Socion <socion>`
+    :header-rows: 0
+
+    * - :doc:`ILE <ILE>`
+      - :doc:`SEI <SEI>`
+      - :doc:`ESE <ESE>`
+      - :doc:`LII <LII>`
+    * - :doc:`EIE <EIE>`
+      - :doc:`LSI <LSI>`
+      - :doc:`SLE <SLE>`
+      - :doc:`IEI <IEI>`
+    * - :doc:`SEE <SEE>`
+      - :doc:`ILI <ILI>`
+      - :doc:`LIE <LIE>`
+      - :doc:`ESI <ESI>`
+    * - :doc:`LSE <LSE>`
+      - :doc:`EII <EII>`
+      - :doc:`IEE <IEE>`
+      - :doc:`SLI <SLI>`

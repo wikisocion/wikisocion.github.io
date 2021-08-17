@@ -1,0 +1,144 @@
+Childlike
+=================
+
+The **Childlike** types were identified as such by :doc:`Viktor Gulenko <gulenko>`, are the four types with extroverted intuition Ne
+|symbol_i.gif| in their ego block. There are two of these types in
+:doc:`Alpha <alpha_quadra>` and two in :doc:`Delta <delta_quadra>` quadra: :doc:`ILE <ILE>`,
+:doc:`LII <LII>`, :doc:`IEE <IEE>`, and :doc:`EII <EII>`.
+
+Despite the differences between these types in terms of
+:doc:`temperament <temperament>`, :ref:`base function <leading-func>`, and
+:doc:`quadra <quadra>` :doc:`values <quadra>`, it seems that in the area of
+physical attraction, desire, and flirting, the ego element Ne
+|symbol_i.gif|, coupled with their expectations of Si |symbol_s.gif|
+style behavior in intimate partners, is the most significant factor in
+determining their behavior that has been called "child-like'".
+
+
+Typical Characteristics of "Childlike" Romancing Style
+------------------------------------------------------
+
+-  Interest is sparked by a partner with positive aesthetic attributes,
+   divorced from active, direct sexuality.
+-  Try attracting partner's interest with fun and interesting
+   conversation and discussion, proposals, humor, ethical and mental
+   exploration, and quirky statements.
+-  Try to help their partner see the unexpected, potential, and
+   alternative side of things.
+-  Interest is maintained or cools off according to partner's response
+   to the above behavior.
+-  Appreciate partners who are attentive to their needs, which are not
+   necessarily physical. If the partner does not meet their needs, they
+   may not say anything and instead try to endure and last on their own.
+   If their needs are not met by their partner, their satisfaction
+   considerably decreases resulting in temper outbreaks and arguments as
+   they become more demanding.
+
+This romance style is defined by focus on Ne |symbol_i.gif| which is a
+static, irrational, and extroverted element focused on processing
+information about potential possibilities and alternatives to the static
+present reality, which the individual perceives as intrinsically boring
+and stagnant. This means that the Childlike type sees attraction between
+two individuals as a static state, which he tries to "get moving" by
+actively thinking of and voicing various options and variations to the
+present static state. This accounts for Childlike type's inclination to
+focus on the mutual attraction, or particularly the attraction felt by
+the other person, as connected to that person's being exposed to the
+unexpected, imaginative, fun, even unusual and improbable side of
+reality in conversation, and each other, a behavior that can be
+described as "childlike". This focus on the alternative and fun leads to
+a sort of inattentiveness regarding their own material conditions,
+quality of life, and well-being perceived by Si |symbol_s.gif|, so these
+types welcome help, support, and efforts from others exerted in this
+area.
+
+Perception of other romance styles
+----------------------------------
+
+This refers to perceptions of the partner in a romantic or prospective
+relationship.
+
+:doc:`Aggressor <aggressor>`\ **:** Childlike types tend to perceive
+Aggressors as a bit too "rough" and even slightly scary on occasion, or
+perhaps just as obnoxious.
+
+:doc:`Victim <victim>`\ **:** Childlike types tend to perceive Victims as
+paranoid and confusing, giving mixed signals.
+
+:doc:`Caring <caring>`\ **:** Childlike types tend to perceive Caring types
+as comforting and pleasant company, with a delightful sense of fun.
+
+:doc:`Childlike <childlike>`: Childlike types tend to perceive other
+Childlike types as fun to spend time with, but also as helpless and
+demanding in a way that they see as stressful.
+
+
+Description from :doc:`Life Scenarios <life_scenarios>` by V. Gulenko
+------------------------------------------------------------------------------------
+
+**"Childlike"** man (ILE, LII, EII, IEE). Dependent, naive in worldly
+affairs, awaits from a woman practical and sincere support.
+Inadvertently emphasizes how he was passed by with attention and gone
+unnoticed, any of the wasted abilities and talents, and difficulties
+with adapting to life's struggles. In women he values experience and
+responsiveness to his problems.
+
+**"Childlike"** woman (ILE, LII, EII, IEE). The ideal of this woman is a
+kind, experienced, well-adapted to life man, who is usually older than
+her in age. In the presence of such a man she feels herself alike a
+girl, who is dependent on him almost in everything. In love games she
+prefers psychological factors - sincere conversation, predisposing
+music, creation of conditions for relaxation. Above all, she values
+leniency and support, attention to her problems, and care.
+
+"Childlike" woman. In erotic life, women of this type place much
+significance on sophisticated tenderness and psychology of relations.
+She, without any special for it intentions, demonstrates by her own
+actions her fragility and child-like naivete. This woman easily takes up
+interests and activities of a partner towards whom she is sympathetic.
+In love games, "Childlike" woman easily picks up the initiative of
+"Caring" man, demonstrating her own sophistication and imagination. She
+does pay attention to "Aggressive" men, of course, but she fears
+becoming close with them due to their instinctive behavior and their
+roughness. "Victim" men satisfy her only in part: they start off
+romantically, but then puzzle and confuse her by demonstrations of their
+suffering and their unpredictability. With similar to her "Childlike"
+men this woman will feel discomfort due to lack of attention and care
+for her needs. In such a couple the degree of alienation will slowly
+increase over time.
+
+
+.. list-table:: Small Groups
+    :header-rows: 0
+    :stub-columns: 1
+
+    * - :doc:`Quadras <quadra>`
+      - :doc:`Alpha <alpha_quadra>`
+      - :doc:`Beta <beta_quadra>`
+      - :doc:`Gamma <gamma_quadra>`
+      - :doc:`Delta <delta_quadra>`
+    * - :doc:`Clubs <club>`
+      - :doc:`Researchers <club_researchers>`
+      - :doc:`Socials <club_socials>`
+      - :doc:`Pragmatists <club_pragmatists>`
+      - :doc:`Humanitarians <club_humanitarians>`
+    * - :doc:`Temperaments <temperament>`
+      - :doc:`EP <EP>`
+      - :doc:`EJ <EJ>`
+      - :doc:`IP <IP>`
+      - :doc:`IJ <IJ>`
+    * - :doc:`Communication Styles <communication_styles>`
+      - Business-like
+      - Passionate
+      - Cold-blooded
+      - Sincere
+    * - :doc:`Romance Styles <romance_styles>`
+      - :doc:`Aggressor <aggressor>`
+      - :doc:`Victim <victim>`
+      - :doc:`Caring <caring>`
+      - :doc:`Childlike <childlike>`
+
+
+
+.. |symbol_i.gif| image:: symbol_i.gif
+.. |symbol_s.gif| image:: symbol_s.gif

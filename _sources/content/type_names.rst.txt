@@ -1,0 +1,482 @@
+Type names
+==================
+
+This article describes and explains various ways of naming types in socionics. 
+
+Full Type Names
+------------------------------
+
+The full type name for each socionics type is based on naming the Jungian dichotomies of:
+
+* the first and second function of the type: Ti/Te - Logical, Fi/Fe - Ethical, Ni/Se - Intuitive, Si/Se - Sensing.
+* the introverted-extraverted orientation of the first function: Ni, Ti, Si, Fi - Introvert or Introtim; Se, Ne, Fe, Te - Extravert or Extratim. 
+
+.. warning::
+    This is the basic and the minimum amount of information that is needed to identify a type.
+
+On example of type with Ni in first function and Te in second function - :doc:`ILI (Ni,Te) <ILI>` - the full name for this type would be Intuitive - Ni, intuition, as first function, Logical - Te, logic, in second function, Introtim - introverted intuition in first function. In this example, "Intuitive Logical" describes the nature of the first and second function that form this type's :ref:`ego block <ego-block>`, and "Introtim" denotes the E/I-orientation of this type's first function.
+
+On example of type with Fe in first function and Si in second function - :doc:`ESE (Fe,Si) <ESE>` - the full name of this type would be Ethical - Fe, ethics, as first function, Sensing - Si, sensing, as second function, Extratim - extraverted feeling in first function. Here "Ethical Sensing" describes the nature of the first and second function, and "Extratim" denotes the E/I-orientation of this type's first function.
+
+The following table lists full type names for 16 socionics types. 
+
+.. list-table:: Full Type Names
+    :header-rows: 1
+    :widths: 15 35 15 35
+
+    * - Ego
+      - Full type name
+      - Ego
+      - Full type name
+    * - :doc:`(Ne, Ti) <ILE>`
+      - Intuitive Logical Extrotim 
+      - :doc:`(Si, Fe) <SEI>`
+      - Sensing Ethical Introtim
+    * - :doc:`(Fe, Si) <ESE>`
+      - Ethical Sensing Extrotim
+      - :doc:`(Ti, Ne) <LII>`
+      - Logical Intuitive Introtim
+    * - :doc:`(Se, Ti) <SLE>`
+      - Sensing Logical Extrotim
+      - :doc:`(Ni, Fe) <IEI>`
+      - Intuitive Ethical Introtim
+    * - :doc:`(Fe, Ni) <EIE>`
+      - Ethical Intuitive Extrotim
+      - :doc:`(Ti, Se) <LSI>`
+      - Logical Sensing Introtim
+    * - :doc:`(Se, Fi) <SEE>`
+      - Sensing Ethical Extrotim
+      - :doc:`(Ni, Te) <ILI>`
+      - Intuitive Logical Introtim
+    * - :doc:`(Te, Ni) <LIE>`
+      - Logical Intuitive Extrotim
+      - :doc:`(Fi, Se) <ESI>`
+      - Ethical Sensing Introtim
+    * - :doc:`(Ne, Fi) <IEE>`
+      - Intuitive Ethical Extrotim
+      - :doc:`(Si, Te) <SLI>`
+      - Sensing Logical Introtim
+    * - :doc:`(Te, Si) <LSE>`
+      - Logical Sensing Extrotim
+      - :doc:`(Fi, Ne) <EII>`
+      - Ethical Intuitive Introtim
+
+Three-Letter Type Codes
+-------------------------------
+
+The three-letter code simply takes the first letter of each word of the full name of the type to create a 3-letter abbreviation. The following is a table of 16 types of the socion represented by three-letter codes: 
+
+.. list-table:: Three-Letter Type Codes
+    :header-rows: 1
+
+    * - Ego
+      - Code
+      - Ego
+      - Code
+    * - (Ne, Ti)
+      - ILE
+      - (Si, Fe)
+      - SEI
+    * - (Fe, Si)
+      - ESE
+      - (Ti, Ne)
+      - LII
+    * - (Se, Ti)
+      - SLE
+      - (Ni, Fe)
+      - IEI
+    * - (Fe, Ni)
+      - EIE
+      - (Ti, Se)
+      - LSI
+    * - (Se, Fi)
+      - SEE
+      - (Ni, Te)
+      - ILI
+    * - (Te, Ni)
+      - LIE
+      - (Fi, Se)
+      - ESI
+    * - (Ne, Fi)
+      - IEE
+      - (Si, Te)
+      - SLI
+    * - (Te, Si)
+      - LSE
+      - (Fi, Ne)
+      - EII
+
+Three-letter codes are the most common way of denoting types. Some people who get involved with socionics prefer to use the 3-letter type codes to other type naming conventions for several reasons.
+
+* They are short and quick to write, saving time in typing and space in text and presentations.
+* Unlike 4-letter codes, they are not likely to get confused for MBTI types, which are also denoted by 4 letters, opening doors to potential confusion.
+* Unlike type pseudonyms, such as "Dumas" or "Hamlet", they don't create opportunities to mistake the properties of socionics TIMs for biographical details and personal characteristics of the personages and historical personalities after which they were named. 
+
+Their drawback, of course, is that it takes some time and practice to memorize the 3-letter codes, especially for people coming to Socionics with a background in MBTI. 
+
+Four-Letter Type Codes 
+--------------------------------
+
+In English-speaking socionics communities sometimes four-letter codes are used instead of the more orthodox three-letter coding. The letters for the four-letter names are derived from :doc:`Carl Jung's original dichotomies <jungian>`: Intuition-Sensing, Feeling-Thinking, Introversion-Extroversion, and Judging-Perceiving. 
+
+.. list-table:: Jungian dichotomies and letter symbols
+    :header-rows: 1
+
+    * - Dichotomy
+      - either
+      - or
+    * - Extroversion-Introversion
+      - E (Extrovert)
+      - I (Introvert)
+    * - Intuition-Sensing
+      - N (Intuitive)
+      - S (Sensing)
+    * - Logical-Ethical
+      - T (Logical)
+      - F (Ethical)
+    * - Judging-Perceiving
+      - j (Judging)
+      - p (Perceiving)
+
+The functions that are called "judging" in MBTI and in the works of Carl Jung, Thinking and Feeling – are called **Rational** in Socionics.
+The functions that are called "perceiving" in MBTI and Jung's writing, Intuition and Sensing – are known as **Irrational** in Socionics.
+
+In Socionics 4-letter type names the last j/p letter is always determined by the nature of the first or leading function of the type.
+
+* If the 1st function of the type holds a rational (judging) element T/F, then the last letter is 'j'.
+* If the 1st function of the type holds an irrational (perceiving) element N/S, then the last letter is 'p'. 
+
+The last 'j' and 'p' letters of Socionics 4-letter type names constitute a Socionics dichotomy called :doc:`Rationality-Irrationality <ration_irration>`.
+
+* Types that have a rational (judging) aspect F or T as their leading function are called Rational types.
+* Types that have an irrational (perceiving) aspect N or S as their leading one are called Irrational types. 
+
+For example, type ILI (Ni,Te) has the first function of Ni, which is a perceiving (irrational) element. Thus, in 4-letter type nomenclature this type is denoted as INTp, with the last letter 'p' denoting the perceiving element positioned in this type's first or leading function. The type INTp (ILI) is one of the irrational types in Socionics.
+
+On example of type LII (Ti,Ne) that has the first function of Ti: since this type's first function is occupied by a judging (rational) element Ti, this type is denoted as INTj, with the last letter 'j' denoting the rational (judging) nature of its leading function. The type INTj (LII) is one of the rational types in Socionics.
+
+**The above forms a distinction between Socionics 4-letter codes and MBTI 4-letter codes**. The J/P letter in MBTI is determined on basis of highest order extroverted function of the type, which for introverted types is not the same as the first function. For instance, the type that has Ni as its first function and Te as its second function in MBTI is denoted as INTJ, with a "J" as the last letter, since its highest order extroverted function is Te - a judging element - while this type is denoted as INTp in socionics, having a perceiving function (Ni) as the first one.
+
+**In summary**:
+
+* In Socionics, the last j/p letter is always determined by the first or leading function.
+* In MBTI, the last J/P letter is always determined by the highest order extraverted function - which is not the same as the first function for introverted types. 
+
+.. warning::
+    The above is one of the reasons why MBTI 4-letter codes cannot be converted letter-for-letter to Socionics 4-letter codes.
+
+To highlight this difference, Socionics 4-letter type codes are written with a **lower case** "j" or "p" at the end to distinguish Socionics type names (e.g. INFj, ENTp) from MBTI type names that have J/P as a capital letter (e.g. ESFP, ISTJ) (although some socionists like Reinin initially used all capital letters). 
+
+.. list-table:: 4-letter codes
+    :header-rows: 1
+
+    * - 3-letter
+      - 4-letter
+      - 3-letter
+      - 4-letter
+    * - ILE
+      - ENTp
+      - SEI
+      - ISFp
+    * - ESE
+      - ESFj
+      - LII
+      - INTj
+    * - SLI
+      - ESTp
+      - IEI
+      - INFp
+    * - EIE
+      - ENTj
+      - LSI
+      - ISTj
+    * - SEE
+      - ESFp
+      - ILI
+      - INTp
+    * - LIE
+      - ENTj
+      - ESI
+      - ISFj
+    * - IEE
+      - ENFp
+      - SLI
+      - ISTp
+    * - LSE
+      - ESTj
+      - EII
+      - INFj
+
+Four-letter codes are very often found in English-speaking socionics websites, and less frequently on Russian-speaking socionics websites. The popularization of this system of nomenclature among the English-speaking socionics community is often accredited to :doc:`Sergei Ganin <ganin>`.
+
+Benefits of 4-letter code type denominations:
+
+* They make it easier to remember dichotomies and intertype relations.
+* They allow to specify groups of types more concisely (e.g., Ij for introverted rational type, or simply N for intuitive types).
+* They are easier to remember for people who are already familiar with MBTI notations and are learning Socionics ones. Three-letter codes, in comparison, take some time and practice to memorize. For this reason, Socionics articles written to target English-speaking audience will often use four-letter codes to denote types, rather than three-letter codes, symbols, or type pseudonyms. 
+
+Drawbacks:
+
+* Four-letter codes can encourage dichotomous typing, which can cause misinterpretation of contradictory properties.
+* They are easy to confuse with Myers-Briggs types, especially if care is not taken to write the last letter in lower case. This may result in erroneous conceptions regarding the nature and characteristics of types in Socionics. 
+
+Two-Letter Codes
+-------------------------
+
+The two letter-codes were created by :doc:`Victor Gulenko <gulenko>`. They are even shorter than the traditional 3-letter codes, as they use 1 letter to denote the first two :doc:`functions <functions>` of the type. This is the most concise type naming system used in socionics that uses letters or words. It is essentially equivalent to using the symbols associated with the first two functions.
+
+The letter associated with each :doc:`IM element <elements>` is the first letter of words whose meaning is closely related to the use of the element. This endows this naming system with an advantage that it can be used internationally, since the names are in Latin letters and are derived from Latin roots.
+
+Elements are denoted by the Latin letters F, I, P, E, S, T, L and R. 
+
+.. list-table:: Codes for Elements
+    :header-rows: 1
+    :widths: 20 20 20 40
+
+    * - Element
+      - Letter
+      - Name
+      - Related words
+    * - Se
+      - F
+      - *factor*
+      - force, fact
+    * - Ne
+      - I
+      - *intueor*
+      - insight, inspire, idea
+    * - Te
+      - P
+      - *profiteor*
+      - profit, produce
+    * - Fe
+      - E
+      - *emoveo*
+      - emotion, express
+    * - Si
+      - S
+      - *sensus*
+      - sensation, sense
+    * - Ni
+      - T
+      - *tempus*
+      - time, temporal
+    * - Ti
+      - L
+      - *lex*
+      - logic, law
+    * - Fi
+      - R
+      - *relatio*
+      - relate, relation
+
+.. list-table:: two-letter codes
+    :header-rows: 1
+
+    * - 3-letter
+      - 2-letter
+      - 3-letter
+      - 2-letter
+    * - ILE
+      - IL
+      - SEI
+      - SE
+    * - ESE
+      - ES
+      - LII
+      - LI
+    * - SLE
+      - FL
+      - IEI
+      - TE
+    * - EIE
+      - ET
+      - LSI
+      - LF
+    * - SEE
+      - FR
+      - ILI
+      - TP
+    * - LIE
+      - PT
+      - ESI
+      - RF
+    * - IEE
+      - IR
+      - SLI
+      - SP
+    * - LSE
+      - PS
+      - EII
+      - RI
+
+Geometric Symbol and Function Names 
+-----------------------------------------
+
+Socionics types can be named by specifying the first and the second element of the given type's ego block. This is enough information provided to identify the type. These elements can be written as letters (e.g. NeFi) or as symbols (e.g. |Ne| |Fi|). Some socionists prefer not to use the IE shapes nomenclature, considering it to be hard to adjust to for beginners and not a serious approach to terminology.
+
+The symbols used to denote the first and second functions of the type are as follows:
+
+* Sensing ( |Se| / |Si| ) is portrayed by a circle, representing the entirety of reality.
+* Intuition ( |Ne| / |Ni| ) is portrayed by a triangle which fits inside the circle, but has sharp points of "insight".
+* Logic ( |Te| / |Ti| ) is portrayed by a square, representing logical thought and reason.
+* Ethics ( |Fe| / |Fi| ) is portrayed by a square with a 'chip' taken out of it, representing partiality and a rejection of reason alone. 
+
+These symbols were chosen by :doc:`A. Augusta <augusta>` to reflect certain qualities of perception associated with each element. For instance, the extraverted elements are shaded in, representing characteristics of objects, while introverted ones are empty, representing the inner space of the subject. 
+
+English nicknames
+------------------------------
+
+English nicknames are translations of similar type names used by many Russian socionists. The idea behind these names is to capture a common social role or common characteristics displayed by people of the type. These names have not caught on very well in English-language socionics, in which the three- and four-letter codes are much more popular. These nicknames can be seen at summary chart of type names.
+
+Popular Russian pseudonyms
+--------------------------------------
+
+Type pseudonyms are very popular in the Russian speaking socionics community, but are generally avoided in research articles. Originally, Augusta assigned literary and historical figures to each type to make them easier to remember, and this practice quickly caught on in the more literature-aware Russian-speaking society. Later many socionists came to question the typings behind a couple of the pseudonyms, namely "Napoleon" (most now consider him SLE instead of SEE, as Augusta typed him).
+
+Some socionists question the appropriateness of type pseudonyms, since the types of historical figures and literary characters are always open to dispute. Gulenko proposed his own system of pseudonyms using common social roles of each type similar to those used in Myers-Briggs Typology.
+
+When describing the types, Augusta and fellow socionists thought of pseudonyms, or nicknames, for them based on historical or fictional figures supposedly of that type. These names, with a few variations, remain popular with Russian-language socionists, who often use them in articles. The disadvantage of this system is that it is based purely on memorization, and lacks any theoretical content.
+
+Summary Chart of Socionics Type Names
+------------------------------------------------
+
+Navigating through competing terminology in socionics can be difficult. Here is a chart with all type naming systems that the reader is likely to ever encounter. The most official and universally recognized names are the names in bold (with links to type descriptions). 
+
+.. list-table:: Summary Chart of Type Names
+    :header-rows: 1
+    :widths: 15 29 5 7 5 20 20
+
+    * - Ego elements
+      - Full name
+      - 3l
+      - 4l
+      - 2l
+      - nicknames
+      - pseudonyms
+    * - Ne, Ti (|Ne| |Ti|)
+      - Intuitive Logical Extratim
+      - ILE
+      - ENTp
+      - IL
+      - Seeker, Inventor
+      - Don Quixote
+    * - Si, Fe (|Si| |Fe|)
+      - Sensing Ethical Introtim
+      - SEI
+      - ISFp
+      - SE
+      - Mediator, Peacemaker
+      - Dumas
+    * - Fe, Si (|Fe| |Si|)
+      - Ethical Sensing Extratim
+      - ESE
+      - ESFj
+      - ES
+      - Enthusiast, Bonvivant
+      - Hugo
+    * - Te, Ni (|Ti| |Ne|)
+      - Logical Intuitive Introtim
+      - LII
+      - INTj
+      - LI
+      - Analyst
+      - Robespierre
+    * - Fe, Ni (|Fe| |Ni|)
+      - Ethical Intuitive Extratim
+      - EIE
+      - ENFj
+      - ET
+      - Actor, Mentor
+      - Hamlet
+    * - Ti, Se (|Ti| |Se|)
+      - Logical Sensing Introtim
+      - LSI
+      - ISTj
+      - LF
+      - Inspector, Pragmatist
+      - Maxim Gorky
+    * - Se, Ti (|Se| |Ti|)
+      - Sensing Logical Extratim
+      - SLE
+      - ESTp
+      - FL
+      - Conqueror, Legionnaire, Marshal
+      - Zhukov, Beetles
+    * - Ni, Fe (|Ni| |Fe|)
+      - Intuitive Ethical Introtim
+      - IEI
+      - INFp
+      - TE
+      - Romantic, Lyricist
+      - Esenin, Tutankhamun
+    * - Se, Fi (|Se| |Fi|)
+      - Sensing Ethical Extratim
+      - SEE
+      - ESFp
+      - FR
+      - Politician, Ambassador
+      - Napoleon, Caesar
+    * - Ni, Te (|Ni| |Te|)
+      - Intuitive Logical Introtim
+      - ILI
+      - INTp
+      - TP
+      - Critic, Observer
+      - Balzac
+    * - Te, Ni (|Te| |Ni|)
+      - Logical Intuitive Extratim
+      - LIE
+      - ENTj
+      - PT
+      - Enterpriser, Pioneer
+      - Jack London
+    * - Fi, Se (|Fi| |Se|)
+      - Ethical Sensing Introtim
+      - ESI
+      - ISFj
+      - RT
+      - Guardian, Conservator
+      - Dreiser
+    * - Te, Si (|Te| |Si|)
+      - Logical Sensing Extratim 	
+      - LSE
+      - ESTj
+      - PS
+      - Director, Administrator
+      - Stirlitz, Sherlock Holmes (rare)
+    * - Fi, Ne (|Fi| |Ne|)
+      - Ethical Intuitive Introtim
+      - EII
+      - INFj
+      - RI
+      - Empath, Humanist
+      - Dostoevsky, Watson (rare)
+    * - Ne, Fi (|Ne| |Fi|)
+      - Intuitive Ethical Extratim
+      - IEE
+      - ENFp
+      - IR
+      - Psychologist, Reporter
+      - Huxley, Tom Sawyer (rare)
+    * - Si, Te (|Si| |Te|)
+      - Sensing Logical Introtim
+      - SLI
+      - ISTp
+      - SP
+      - Craftsman, Artisan
+      - Gabin
+
+
+
+
+
+.. |Ne| image:: Symbol_i.gif
+.. |Ti| image:: Symbol_l.gif
+.. |Ni| image:: Symbol_t.gif
+.. |Te| image:: Symbol_p.gif
+.. |Fe| image:: Symbol_e.gif
+.. |Se| image:: Symbol_f.gif
+.. |Fi| image:: Symbol_r.gif
+.. |Si| image:: Symbol_s.gif
+

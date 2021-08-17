@@ -1,0 +1,551 @@
+<!doctype html>
+<html class="no-js">
+  <head><meta charset="utf-8"/>
+    <meta name="viewport" content="width=device-width,initial-scale=1"/>
+    <meta name="color-scheme" content="light dark"><link rel="index" title="Index" href="../genindex.html" /><link rel="search" title="Search" href="../search.html" /><link rel="next" title="Conflict" href="conflict.html" /><link rel="prev" title="Activation" href="activation.html" />
+
+    <meta name="generator" content="sphinx-4.1.2, furo 2021.08.11.beta42"/>
+        <title>Business - Wikisocion</title>
+      <link rel="stylesheet" type="text/css" href="../_static/pygments.css" />
+    <link rel="stylesheet" type="text/css" href="../_static/styles/furo.css?digest=197f00461d56902ea7ca048ec6e6ba026f62c97b" />
+    <link rel="stylesheet" type="text/css" href="../_static/styles/furo-extensions.css?digest=93475b62d1c3bc01323a0eefdc14a62d77b12690" />
+    
+    
+
+
+<style>
+  body {
+    --color-code-background: #f8f8f8;
+  --color-code-foreground: black;
+  
+  }
+  body[data-theme="dark"] {
+    --color-code-background: #202020;
+  --color-code-foreground: #d0d0d0;
+  
+  }
+  @media (prefers-color-scheme: dark) {
+    body:not([data-theme="light"]) {
+      --color-code-background: #202020;
+  --color-code-foreground: #d0d0d0;
+  
+    }
+  }
+</style>
+    <link media="(prefers-color-scheme: dark)" rel="stylesheet" href="../_static/pygments_dark.css"></head>
+  <body>
+    
+<svg xmlns="http://www.w3.org/2000/svg" style="display: none;">
+  <symbol id="svg-toc" viewBox="0 0 24 24">
+    <title>Contents</title>
+    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+      stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+      <path stroke="none" d="M0 0h24v24H0z" />
+      <line x1="4" y1="6" x2="20" y2="6" />
+      <line x1="10" y1="12" x2="20" y2="12" />
+      <line x1="6" y1="18" x2="20" y2="18" />
+    </svg>
+  </symbol>
+  <symbol id="svg-menu" viewBox="0 0 24 24">
+    <title>Menu</title>
+    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+      stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather-menu">
+      <line x1="3" y1="12" x2="21" y2="12"></line>
+      <line x1="3" y1="6" x2="21" y2="6"></line>
+      <line x1="3" y1="18" x2="21" y2="18"></line>
+    </svg>
+  </symbol>
+  <symbol id="svg-arrow-right" viewBox="0 0 24 24">
+    <title>Expand</title>
+    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+      stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather-chevron-right">
+      <polyline points="9 18 15 12 9 6"></polyline>
+    </svg>
+  </symbol>
+  <symbol id="svg-sun" viewBox="0 0 24 24">
+    <title>Light mode</title>
+    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+      stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" class="feather-sun">
+      <circle cx="12" cy="12" r="5"></circle>
+      <line x1="12" y1="1" x2="12" y2="3"></line>
+      <line x1="12" y1="21" x2="12" y2="23"></line>
+      <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
+      <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
+      <line x1="1" y1="12" x2="3" y2="12"></line>
+      <line x1="21" y1="12" x2="23" y2="12"></line>
+      <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
+      <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
+    </svg>
+  </symbol>
+  <symbol id="svg-moon" viewBox="0 0 24 24">
+    <title>Dark mode</title>
+    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+      stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" class="icon-tabler-moon">
+      <path stroke="none" d="M0 0h24v24H0z" fill="none" />
+      <path d="M12 3c.132 0 .263 0 .393 0a7.5 7.5 0 0 0 7.92 12.446a9 9 0 1 1 -8.313 -12.454z" />
+    </svg>
+  </symbol>
+  <symbol id="svg-sun-half" viewBox="0 0 24 24">
+    <title>Auto light/dark mode</title>
+    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+      stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" class="icon-tabler-shadow">
+      <path stroke="none" d="M0 0h24v24H0z" fill="none"/>
+      <circle cx="12" cy="12" r="9" />
+      <path d="M13 12h5" />
+      <path d="M13 15h4" />
+      <path d="M13 18h1" />
+      <path d="M13 9h4" />
+      <path d="M13 6h1" />
+    </svg>
+  </symbol>
+</svg>
+
+<input type="checkbox" class="sidebar-toggle" name="__navigation" id="__navigation">
+<input type="checkbox" class="sidebar-toggle" name="__toc" id="__toc">
+<label class="overlay sidebar-overlay" for="__navigation">
+  <div class="visually-hidden">Hide navigation sidebar</div>
+</label>
+<label class="overlay toc-overlay" for="__toc">
+  <div class="visually-hidden">Hide table of contents sidebar</div>
+</label>
+
+
+
+<div class="page">
+  <header class="mobile-header">
+    <div class="header-left">
+      <label class="nav-overlay-icon" for="__navigation">
+        <div class="visually-hidden">Toggle site navigation sidebar</div>
+        <i class="icon"><svg><use href="#svg-menu"></use></svg></i>
+      </label>
+    </div>
+    <div class="header-center">
+      <a href="../index.html"><div class="brand">Wikisocion</div></a>
+    </div>
+    <div class="header-right">
+      <div class="theme-toggle-container theme-toggle-header">
+        <button class="theme-toggle">
+          <div class="visually-hidden">Toggle Light / Dark / Auto color theme</div>
+          <svg class="theme-icon-when-auto"><use href="#svg-sun-half"></use></svg>
+          <svg class="theme-icon-when-dark"><use href="#svg-moon"></use></svg>
+          <svg class="theme-icon-when-light"><use href="#svg-sun"></use></svg>
+        </button>
+      </div>
+      <label class="toc-overlay-icon toc-header-icon" for="__toc">
+        <div class="visually-hidden">Toggle table of contents sidebar</div>
+        <i class="icon"><svg><use href="#svg-toc"></use></svg></i>
+      </label>
+    </div>
+  </header>
+  <aside class="sidebar-drawer">
+    <div class="sidebar-container">
+      
+      <div class="sidebar-sticky"><div class="sidebar-scroll"><a class="sidebar-brand" href="../index.html">
+  
+  
+  <span class="sidebar-brand-text">Wikisocion</span>
+  
+</a><form class="sidebar-search-container" method="get" action="../search.html" role="search">
+  <input class="sidebar-search" placeholder=Search name="q" aria-label="Search">
+  <input type="hidden" name="check_keywords" value="yes">
+  <input type="hidden" name="area" value="default">
+</form>
+<div id="searchbox"></div>
+</div>
+      </div>
+      
+    </div>
+  </aside>
+  <div class="main">
+    <div class="content">
+      <article role="main">
+        <div class="content-icon-container">
+          <div class="theme-toggle-container theme-toggle-content">
+            <button class="theme-toggle">
+              <div class="visually-hidden">Toggle Light / Dark / Auto color theme</div>
+              <svg class="theme-icon-when-auto"><use href="#svg-sun-half"></use></svg>
+              <svg class="theme-icon-when-dark"><use href="#svg-moon"></use></svg>
+              <svg class="theme-icon-when-light"><use href="#svg-sun"></use></svg>
+            </button>
+          </div>
+          <label class="toc-overlay-icon toc-content-icon" for="__toc">
+            <div class="visually-hidden">Toggle table of contents sidebar</div>
+            <i class="icon"><svg><use href="#svg-toc"></use></svg></i>
+          </label>
+        </div>
+        <div class="section" id="business">
+<h1>Business<a class="headerlink" href="#business" title="Permalink to this headline">¶</a></h1>
+<p>See also <a class="reference internal" href="business_observations.html"><span class="doc">Business observations</span></a></p>
+<p><em>Back to</em> <a class="reference internal" href="intertype.html"><span class="doc">Intertype relations</span></a></p>
+<div class="section" id="introduction">
+<h2>Introduction<a class="headerlink" href="#introduction" title="Permalink to this headline">¶</a></h2>
+<p><strong>Business relations</strong> (also known as <strong>look-alike</strong> relations) are
+similar to <a class="reference internal" href="identity.html"><span class="doc">identity</span></a> and <a class="reference internal" href="kindred.html"><span class="doc">kindred</span></a> in that
+partners have half their functions in common  in this case, all the
+even-numbered ones. This provides a certain commonality of methods and
+approaches and somewhat similar communication styles. Business partners
+rarely have serious problems understanding each other and don’t need
+much time to get to know each other and find common ground (or define
+their differences). The psychological distance is naturally large enough
+that partners do not generally seek to know each other deeply. Rather,
+they are content to pal around with the other on a relatively
+superficial basis. A change in location or life circumstances is usually
+enough to interrupt the friendship.</p>
+<p>Business partners do not tend to view each other as serious threats or
+competitors. Their preferred spheres of influence, their basic attitudes
+and purposes  defined primarily through the <a class="reference internal" href="functions.html#leading-func"><span class="std std-ref">leading
+function</span></a>  are very different, diminishing
+potential competition. Furthermore, neither partner can easily stimulate
+the other’s vulnerable function, meaning that partners can loosen up
+around each other. However, the fact that the first function of each
+corresponds to the third of the other can make time spent together feel
+like a challenge and an effort. Each becomes a bit more like the other
+and a bit less like his usual self.</p>
+</div>
+<div class="section" id="descriptions-by-various-authors">
+<h2>Descriptions by various authors<a class="headerlink" href="#descriptions-by-various-authors" title="Permalink to this headline">¶</a></h2>
+<p><strong>Valentina Meged, Anatoly Ovcharov</strong></p>
+<p>These relations are effective when it becomes necessary to organize a
+new project, to overcome difficulties, to cope with the extreme
+situation or win in a competition. However, things may change if
+discussions and theoretical talk start taking precedence over real
+actions. In these cases mutual aid is difficult due to partner’s having
+different approaches to the same problem. Despite the fact that partners
+can properly evaluate each other’s work and are able to understand each
+other, they try to impose their own understanding of what is happening
+on one another. Such disputes further lead to search for deficiencies in
+one’s partner and cooling of these relations. At the same time,
+difference in their respective worldviews supports mutual involvement
+and interest in one another. These partners can easily reach a
+compromise, as well as exchange advice and requests. Common goals and
+proactive attitude significantly improve this relationship.</p>
+<p><strong>I.D. Vaisband, publications on Socionics</strong></p>
+<p>Relations of this kind usually progress smoothly and calmly. Partners
+understand each other in the areas of their creative functions, which
+adds sincerity, but they don’t know how to help each other and improve
+each other’s mood and morale. Business relations develop into rivalries
+of respective styles of behavior and promote constant “probing” of your
+competitor who doesn’t yield to you in any respect. Business partners
+with eagerness seek out weaknesses in each other’s positions. These
+relations markedly improve in a mobilized state - partners quickly unite
+against a common enemy or a common problem - and worsen in calmer times
+when resentments over minor things begin to surface. Business relations
+are primarily based on logic. They make people more calculating,
+weighting and evaluating everything from a pragmatic point of view. One
+logical plan is replaced by another while each partner insists on his
+own version. Feelings in business relations are entirely subordinated to
+logic of achieving success. Business relations reinforce power wielding
+abilities of both partners, making them more competitive, and encourage
+ability to realistically assess the balance of power. Business partner
+should not take on long-term projects. These relations encourage
+achievement of short-term objectives that yield tangible benefits.
+Business relationships are built on a balance of force. Unlike the
+superego relations, business partners don’t try to maintain this balance
+but to disturb it to their favor. Over time partners begin to feel tired
+of continuous struggle for authority, leadership and relevance. In
+disputes they may not seek to find the truth, but instead probe for the
+weaknesses in each other’s position. Business partners seemingly use
+similar methods in dealings, but they are oriented towards completely
+different ends. Competitive element of these relations increases, which
+throws back both of them. After re-evaluating their actions, partners
+become close again, but a new leap forward is followed by another
+setback. Each believes that the goal set by the other is wrong. In the
+later stages of business relationship all desire to be similar to each
+other is gone.</p>
+<p><strong>O.B. Slinko, “The key to heart - Socionics”</strong></p>
+<p>Business partners have the same functions of implementation, so their
+methods are alike. Communication in a business pair is always lively and
+long-winded. It has undoubted benefit: partners help each other develop
+their role-function, orient each other at solving problems, such that
+their contact resembles business discussion and cooperation. In dealing
+with your business partner, avoid exerting pressure on each other with
+your leading functions or communication will turn into an unpleasant
+verbal match.</p>
+<p><strong>R.K. Sedih, “Informational psychoanalysis”</strong></p>
+<p>These relations can be seen approximately as Identity plus Superego
+relations. The more developed both people are, the more their interests
+coincide - the more comfortable and beneficial these relations will be.
+In cases when both partners feel insecure in interaction they can hurt
+each other’s weak role functions. This rarely leads to any serious
+consequences, however. Due to partial overlap of worldviews, partners
+can easily come to a compromise if they so wish. Light friction in
+business relations usually does not let these partner get too close.
+They maintain a certain distance, and at the same time can be quite
+sympathetic and helpful to each other. These relations worsen if
+partners give in to their desire to fit the other to own measure.
+Experience shows that this should be avoided. Trying to outperform each
+other, business partners obtain an opportunity to develop themselves.
+These relations can be very beneficial in terms of cooperation as each
+can provide his partner with interesting information, helping both of
+them to raise their prestige and capability.</p>
+<p><strong>Laima Stankevichyute “Intertype relations”</strong></p>
+<p>Partners understand each other and are sincere, but can not help each
+other in work. After long-term interaction they feel tired. When two
+ethical partners meet, they get tired of common emotions, two logical
+partners - of concentration and reasons. Ethical partners can then
+accuse each other of superficiality and frivolity. Logical partners seem
+to stubborn to each other, incapable of communication, and
+insufficiently activating.</p>
+<p><strong>A.V. Bukalov, G. Boiko, “Why Saddam Hussein made a mistake, or what is
+Socionics”</strong></p>
+<p>Partners understand each other very well and are usually happy to
+interact. But in general, this is a pair of people with very different
+goals. It is difficult to hurt your business partner, however, using
+first function, you may suddenly put pressure on his role function,
+which brings up unpleasant feelings. Close relations of this type are
+undesirable. Short psychological distance leads to feeling of irritation
+brought about by goals and intentions of the partner. In addition,
+overlap of creative functions doesn’t offer full complementarity, for
+example, in ILE-SLE pair both are missing on ethical component, thus
+their relations can be quite hard.</p>
+<p><strong>V.V. Gulenko “Criteria of reciprocity”</strong></p>
+<p><em>Cautious monotony</em></p>
+<p>Communication is not particularly attractive, but initially there is
+interest and respect for your business partner, albeit with a touch of
+formality. After a while, you discover that your partner values you
+quite lowly not having any reason for it. Responding in kind, you strive
+to put him into place, to prove the opposite. Prolonged contact is
+tiring, because you have neither the desire nor the energy to somehow
+diversify the “gray days”. Over time, reciprocity and sense of
+commonality is upset even further.</p>
+<p><em>Advice on getting along</em></p>
+<p>Since these relations lead to competition and power struggles, to avoid
+this, one partner must recognize the other as the stronger or a more
+experienced person, as the leader. Discuss the logic of your future
+actions, but perform what has been conceived separately as agreed.
+Otherwise, major friction may arise as well as the desire to impose your
+methods of action.</p>
+<p>Discuss the results of your work with your partner, analyze how your day
+has went, otherwise mistrust and suspicion may arise. Allegation of
+being unethical are forwarded. There may be a desire to annoy one
+another. Since these relations are of logical-managerial nature, and
+conflicts of interest are inevitable, do not attempt to sort things out,
+especially alone. In the event of a conflict try to separate and
+understand what had happened. Switch to a different type of activity. In
+this case, the leading partner should demonstrate good attitude towards
+the one who has taken the back seat, or at least show that nothing has
+happened.</p>
+<p><strong>V.V. Gulenko, A.V. Molodtsev, “Introduction to socionics”</strong></p>
+<p>These are relations of equal partners. It is more accurate to call this
+type of relations a partnership rather than a friendship. There are few
+barriers in communication here. Partners can tell each other anything.
+There is a certain sense of safety in these relations: each partner
+feels that the other doesn’t pose a threat. And this is a very welcome
+feeling, especially if the person is used to a more hostile environment.
+In addition, these relations make roles that the partners play in
+society more prominent. Due to this, there is an opportunity to play
+“cat and mouse” with each other: intentionally alternating pressure and
+relief during conversation. In such conversations one partner always has
+an advantage over the other, depending on the theme or topic of a
+particular conversation. Within these relations partners may
+successfully cooperate in business. However, this is effective only with
+matching subtypes - otherwise verbal fun can turn into excessive
+pressure. This pressure always comes from a strong function of the
+partner and is perceived as a bolt of lightning from a clear sky, but
+major disagreements are rare. Typically, partners try to help one
+another. In any case, the request for assistance by one partner is
+perceived correctly by the other, however, help is not intensive. In
+summary, we can say that these relationships have an average degree of
+comfort. One doesn’t have anything against such a partner, but at the
+same time nothing for his or her either. There is a sense of having a
+reasonable minimum, which reflects the satisfaction of communicating
+with an equal and not boring partner.</p>
+<p><strong>Ekaterina Filatova “Art of understanding yourself and others”</strong></p>
+<p>Here second and third functions are equivalent. Therefore, it is
+reasonable to expect a smooth, peaceful relationships where these
+functions are concerned. Partners can offer help to each other aimed at
+the weakest function of the other partner. If there are no common
+affairs involving their second and third functions, this can lead to
+misunderstandings and even tension.</p>
+<p><strong>Eugene Gorenko, Vladimir Tolstikov, “Nature of self”</strong></p>
+<p>In presence of common interests, relations between partners can be quite
+stable and favorable. If the goals are too different, there will be
+confusion and alienation. Interaction at very close distances should be
+avoided.</p>
+<p><strong>Sergei Ganin</strong></p>
+<p><em>Homoverted - Symmetrical - Rhythmical</em></p>
+<p>These are relations between equal partners which can be called
+acquaintances rather than friends. There are no visual obstacles in the
+development of these relations, partners can talk easily almost about
+anything. Look-a-like partners do not feel any danger from the other
+partner. The strong sides of the partners are different in the such a
+way that almost any conversations between them always fall into the area
+of the confidence of only one of the partners. Look-a-like partners also
+have similar problems which makes them feel rather sympathetic towards
+each other instead of being critical of each other’s vulnerabilities.</p>
+<p>Understanding between partners is usually good. Collaboration between
+them may be very fruitful especially if partners feel a mutual
+attraction. When partners lose their feeling of sympathy for each other
+through anger or any other reason, they can apply pressure to their
+partner’s vulnerabilities. This can sometimes be really unexpected and
+unpleasant for both partners.</p>
+<p>Arguments in Look-a-like relations are not common practice. The partners
+usually try to help each other, or at least feel when their partner
+requires some form of assistance. However, in many cases the help is not
+effective enough because partners have similar problems. Look-a-like
+relations have an average degree of comfort. Partners do not have
+anything against each other but also nothing for which to struggle.
+These relations can normally bring a feeling of satisfaction from
+interaction with an equal and not boring partner.</p>
+</div>
+<div class="section" id="business-pairs">
+<h2>Business pairs<a class="headerlink" href="#business-pairs" title="Permalink to this headline">¶</a></h2>
+<ul class="simple">
+<li><p><a class="reference internal" href="ILE.html"><span class="doc">ILE</span></a> and <a class="reference internal" href="SLE.html"><span class="doc">SLE</span></a></p></li>
+<li><p><a class="reference internal" href="SEI.html"><span class="doc">SEI</span></a> and <a class="reference internal" href="IEI.html"><span class="doc">IEI</span></a></p></li>
+<li><p><a class="reference internal" href="ESE.html"><span class="doc">ESE</span></a> and <a class="reference internal" href="LSE.html"><span class="doc">LSE</span></a></p></li>
+<li><p><a class="reference internal" href="LII.html"><span class="doc">LII</span></a> and <a class="reference internal" href="EII.html"><span class="doc">EII</span></a></p></li>
+<li><p><a class="reference internal" href="EIE.html"><span class="doc">EIE</span></a> and <a class="reference internal" href="LIE.html"><span class="doc">LIE</span></a></p></li>
+<li><p><a class="reference internal" href="LSI.html"><span class="doc">LSI</span></a> and <a class="reference internal" href="ESI.html"><span class="doc">ESI</span></a></p></li>
+<li><p><a class="reference internal" href="SEE.html"><span class="doc">SEE</span></a> and <a class="reference internal" href="IEE.html"><span class="doc">IEE</span></a></p></li>
+<li><p><a class="reference internal" href="ILI.html"><span class="doc">ILI</span></a> and <a class="reference internal" href="SLI.html"><span class="doc">SLI</span></a></p></li>
+</ul>
+</div>
+<div class="section" id="theoretical-properties-of-business-relations">
+<h2>Theoretical properties of business relations<a class="headerlink" href="#theoretical-properties-of-business-relations" title="Permalink to this headline">¶</a></h2>
+<p>Rational types in business relations differ in <a class="reference internal" href="jungian.html"><span class="doc">Jungian dichotomy</span></a> of Logic / Ethics, while irrational
+types in business relations differ in Sensing / Intuition.</p>
+<div class="section" id="model-a">
+<h3>Model A<a class="headerlink" href="#model-a" title="Permalink to this headline">¶</a></h3>
+<p>Functions 1, 2, 3, 4, 5, 6, 7, 8 reflect on functions 3, 2, 1, 4, 7, 6,
+5, 8.</p>
+<div class="table-wrapper"><table class="docutils align-default" id="id1">
+<caption><span class="caption-text">Functions of <a class="reference internal" href="model_a.html"><span class="doc">Model A</span></a></span><a class="headerlink" href="#id1" title="Permalink to this table">¶</a></caption>
+<colgroup>
+<col style="width: 50%"/>
+<col style="width: 50%"/>
+</colgroup>
+<thead>
+<tr class="row-odd"><th class="head"><p>Partner 1</p></th>
+<th class="head"><p>Partner 2</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="row-even"><td><p><a class="reference internal" href="functions.html#creative-func"><span class="std std-ref">creative function</span></a></p></td>
+<td><p><a class="reference internal" href="functions.html#creative-func"><span class="std std-ref">creative function</span></a></p></td>
+</tr>
+<tr class="row-odd"><td><p><a class="reference internal" href="functions.html#polr-func"><span class="std std-ref">vulnerable function</span></a></p></td>
+<td><p><a class="reference internal" href="functions.html#polr-func"><span class="std std-ref">vulnerable function</span></a></p></td>
+</tr>
+<tr class="row-even"><td><p><a class="reference internal" href="functions.html#activating-func"><span class="std std-ref">mobilizing function</span></a></p></td>
+<td><p><a class="reference internal" href="functions.html#activating-func"><span class="std std-ref">mobilizing function</span></a></p></td>
+</tr>
+<tr class="row-odd"><td><p><a class="reference internal" href="functions.html#demonstrative-func"><span class="std std-ref">demonstrative function</span></a></p></td>
+<td><p><a class="reference internal" href="functions.html#demonstrative-func"><span class="std std-ref">demonstrative function</span></a></p></td>
+</tr>
+<tr class="row-even"><td><p><a class="reference internal" href="functions.html#leading-func"><span class="std std-ref">base function</span></a></p></td>
+<td><p><a class="reference internal" href="functions.html#role-func"><span class="std std-ref">role function</span></a></p></td>
+</tr>
+<tr class="row-odd"><td><p><a class="reference internal" href="functions.html#suggestive-func"><span class="std std-ref">suggestive function</span></a></p></td>
+<td><p><a class="reference internal" href="functions.html#ignoring-func"><span class="std std-ref">ignoring function</span></a></p></td>
+</tr>
+</tbody>
+</table></div>
+</div>
+<div class="section" id="reinin-traits">
+<h3>Reinin traits<a class="headerlink" href="#reinin-traits" title="Permalink to this headline">¶</a></h3>
+<p>As with all non-identical types, business partners have exactly 7
+<a class="reference internal" href="reinin_dich.html"><span class="doc">Reinin traits</span></a> in common, with the remaining 8 not in
+common.</p>
+<p>Rational business pairs:</p>
+<ul class="simple">
+<li><p><strong>In Common</strong>: <a class="reference internal" href="extra_intro.html"><span class="doc">extraversion and introversion</span></a> · <a class="reference internal" href="ration_irration.html"><span class="doc">rationality and irrationality</span></a> · <a class="reference internal" href="statics_dynamics.html"><span class="doc">static and dynamic</span></a> · <a class="reference internal" href="sensing_intuition.html"><span class="doc">sensing and intuition</span></a> · <a class="reference internal" href="carefree_farsighted.html"><span class="doc">carefree and farsighted</span></a> · <a class="reference internal" href="tactical_strategic.html"><span class="doc">tactical and strategic</span></a> · <a class="reference internal" href="judicious_decisive.html"><span class="doc">judicious and decisive</span></a></p></li>
+<li><p><strong>Not in Common</strong>: <a class="reference internal" href="ethics_logic.html"><span class="doc">ethics and logic</span></a> · <a class="reference internal" href="yielding_obstinate.html"><span class="doc">yielding and obstinate</span></a> · <a class="reference internal" href="constructivist_emotivist.html"><span class="doc">constructivist and emotivist</span></a> · <a class="reference internal" href="merry_serious.html"><span class="doc">merry and serious</span></a> · <a class="reference internal" href="democratic_aristocratic.html"><span class="doc">democratic and aristocratic</span></a> · <a class="reference internal" href="positivist_negativist.html"><span class="doc">positivist and negativist</span></a> · <a class="reference internal" href="process_result.html"><span class="doc">process and result</span></a> · <a class="reference internal" href="asking_declaring.html"><span class="doc">asking and declaring</span></a></p></li>
+</ul>
+<p>Irrational business pairs:</p>
+<ul class="simple">
+<li><p><strong>In Common</strong>: <a class="reference internal" href="extra_intro.html"><span class="doc">extraversion and introversion</span></a> · <a class="reference internal" href="ration_irration.html"><span class="doc">rationality and irrationality</span></a> · <a class="reference internal" href="statics_dynamics.html"><span class="doc">static and dynamic</span></a> · <a class="reference internal" href="ethics_logic.html"><span class="doc">ethics and logic</span></a> · <a class="reference internal" href="yielding_obstinate.html"><span class="doc">yielding and obstinate</span></a> · <a class="reference internal" href="constructivist_emotivist.html"><span class="doc">constructivist and emotivist</span></a> · <a class="reference internal" href="merry_serious.html"><span class="doc">merry and serious</span></a></p></li>
+<li><p><strong>Not in Common</strong>: <a class="reference internal" href="sensing_intuition.html"><span class="doc">sensing and intuition</span></a> · <a class="reference internal" href="carefree_farsighted.html"><span class="doc">carefree and farsighted</span></a> · <a class="reference internal" href="tactical_strategic.html"><span class="doc">tactical and strategic</span></a> · <a class="reference internal" href="judicious_decisive.html"><span class="doc">judicious and decisive</span></a> · <a class="reference internal" href="democratic_aristocratic.html"><span class="doc">democratic and aristocratic</span></a> · <a class="reference internal" href="positivist_negativist.html"><span class="doc">positivist and negativist</span></a> · <a class="reference internal" href="process_result.html"><span class="doc">process and result</span></a> · <a class="reference internal" href="asking_declaring.html"><span class="doc">asking and declaring</span></a></p></li>
+</ul>
+</div>
+</div>
+<div class="section" id="external-links">
+<h2>External links<a class="headerlink" href="#external-links" title="Permalink to this headline">¶</a></h2>
+<ul class="simple">
+<li><p><a class="reference external" href="http://www.socionics.com/rel/lkl.htm">Look-a-like relations</a> by <a class="reference internal" href="ganin.html"><span class="doc">Sergei Ganin</span></a></p></li>
+</ul>
+</div>
+</div>
+
+      </article>
+      <footer>
+        
+        <div class="related-pages">
+          <a class="next-page" href="conflict.html">
+              <div class="page-info">
+                <div class="context">
+                  <span>Next</span>
+                </div>
+                <div class="title">Conflict</div>
+              </div>
+              <svg><use href="#svg-arrow-right"></use></svg>
+            </a>
+          <a class="prev-page" href="activation.html">
+              <svg><use href="#svg-arrow-right"></use></svg>
+              <div class="page-info">
+                <div class="context">
+                  <span>Previous</span>
+                </div>
+                
+                <div class="title">Activation</div>
+                
+              </div>
+            </a>
+        </div>
+
+        <div class="related-information">
+              Copyright &#169; 2021, Wikisocion Authors
+            |
+            Built with <a href="https://www.sphinx-doc.org/">Sphinx</a>
+              and
+              <a class="muted-link" href="https://pradyunsg.me">@pradyunsg</a>'s
+              <a href="https://github.com/pradyunsg/furo">Furo theme</a>.
+            |
+            <a class="muted-link" href="../_sources/content/business.rst.txt"
+               rel="nofollow">
+              Show Source
+            </a>
+        </div>
+        
+      </footer>
+    </div>
+    <aside class="toc-drawer">
+      
+      
+      <div class="toc-sticky toc-scroll">
+        <div class="toc-title-container">
+          <span class="toc-title">
+            Contents
+          </span>
+        </div>
+        <div class="toc-tree-container">
+          <div class="toc-tree">
+            <ul>
+<li><a class="reference internal" href="#">Business</a><ul>
+<li><a class="reference internal" href="#introduction">Introduction</a></li>
+<li><a class="reference internal" href="#descriptions-by-various-authors">Descriptions by various authors</a></li>
+<li><a class="reference internal" href="#business-pairs">Business pairs</a></li>
+<li><a class="reference internal" href="#theoretical-properties-of-business-relations">Theoretical properties of business relations</a><ul>
+<li><a class="reference internal" href="#model-a">Model A</a></li>
+<li><a class="reference internal" href="#reinin-traits">Reinin traits</a></li>
+</ul>
+</li>
+<li><a class="reference internal" href="#external-links">External links</a></li>
+</ul>
+</li>
+</ul>
+
+          </div>
+        </div>
+      </div>
+      
+      
+    </aside>
+  </div>
+</div><script data-url_root="../" id="documentation_options" src="../_static/documentation_options.js"></script>
+    <script src="../_static/jquery.js"></script>
+    <script src="../_static/underscore.js"></script>
+    <script src="../_static/doctools.js"></script>
+    <script src="../_static/scripts/main.js"></script>
+    </body>
+</html>

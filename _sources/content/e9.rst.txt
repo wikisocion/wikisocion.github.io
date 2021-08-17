@@ -1,0 +1,765 @@
+Enneagram of Personality
+================================
+
+The **Enneagram of Personality**, more often known simply as the
+"**Enneagram**", is a typology known to many socionics enthusiasts.
+
+
+
+Socionics and the Enneagram
+---------------------------
+
+Like :doc:`Myers-Briggs typology <MBTI>` and socionics itself, the
+Enneagram is heavily influenced by, if not totally derived from, :doc:`Jung's typology <jung_typology>`. And, like Myers-Briggs typology, in the
+West an interest in the Enneagram is one of the common routes leading an
+individual to an interest in socionics.
+
+The Enneagram differs from those other typologies in that it also
+focuses heavily on how the psychology of a person of a certain type
+changes according to their level of stress, feelings of accomplishment,
+and degree of mental health. Unlike Myers-Briggs, there is a fairly
+well-developed and consistent concept of intertype relationships, their
+manifestations, and development.
+
+There are many views on how Enneagram types correlate with socionic
+types, or if they do at all. One view is that a person of a socionic
+type can only belong to a very limited number of Enneagram types, and
+vice-versa. Others dismiss this notion and claim that the two systems
+are totally independent. Possible correlations are discussed below.
+
+
+
+Enneagram origins
+-----------------
+
+*Adapted from*\ `Wikipedia
+article <http://en.wikipedia.org/wiki/Enneagram_of_Personality>`__
+
+Although it is usually only understood and used as a personality
+typology, the **Enneagram** is also taught in ways that focus on its
+potential in developing higher states of being, essence and
+enlightenment.
+
+The founder of the Enneagram is generally recognized to be `Oscar
+Ichazo <http://en.wikipedia.org/wiki/Arica_School>`__ (born 1931), a
+Bolivian philospher. Ichazo identified nine ways in which the ego
+becomes fixated within a person's psyche at an early stage of life. For
+each person one of these 'ego fixations' then becomes the core of a
+self-image around which their psychological personality develops. Each
+fixation is also supported at the emotional level by a particular
+'passion' or 'vice'. The principal psychological connections between the
+nine ego fixations can be 'mapped' using the points, lines and circle of
+the Enneagram figure.
+
+As the purpose of Ichazo's teachings is to help people transcend their
+identification with - and the suffering caused by - their own
+mechanistic thought and behaviour patterns, his theories about the
+fixations is founded on the premise that all life seeks to continue and
+perpetuate itself and the human psyche must follow the same common laws
+of reality as such. From this, using Trialectic logic, Ichazo defined
+the three basic human instincts for survival (Conservation - digestive
+system, Relations - circulatory system and Adaptation - central nervous
+system) and two poles of attraction to self-perpetuation (Sexual -
+sexual organs and Spiritual - spinal column).
+
+With a baseline of a psyche in a state of unity as a prototypical model,
+the fixations are defined as aberrations from this baseline, much as the
+Diagnostic and Statistical Manual of Mental Disorders (DSM) is an
+observation-based method for diagnosing personality disorders. The
+primary difference between modern psychology and Ichazo's work is that
+Ichazo has proposed a model of the components of a human psyche whilst
+modern psychology has instead preferred to agree only upon observed
+behavior rather than attempt to define an essential model from which
+aberrations arise due to psychological traumas.
+
+Ichazo has related the fixations with the major categories of the DSM to
+indicate that fixations are the precursor to mental illness. The
+fixations are diagnosed from the particular experience of psychological
+trauma a child suffers when expectations are not met in each respective
+Instinct. Since a small child is completely self-centered in its
+expectations it will experience disappointment of expectation viewed by
+the child as a matter of one of the three fundamental attitudes
+(attracted, unattracted or disinterested are the only possible
+attitudes), and thus experience trauma and begin to form mechanistic
+thought and behavior patterns in an attempt to protect itself from
+experiencing a recurrence of the trauma. By understanding the fixations
+and through self observation, the hold on the mind and suffering caused
+by the fixations is reduced and even transcended.
+
+
+
+The nine types
+--------------
+
+According to Enneagram of Personality theory the points of the Enneagram
+figure indicate a number of ways in which nine principal ego-archetypal
+forms or types of human personality (also often called "Enneatypes") are
+psychologically connected.
+
+People of each Enneatype are usually referred to after the number of the
+point on the Enneagram figure (Eights, Fours, Sixes etc.) that indicates
+their particular psychological space and 'place' of connection to the
+other types. They are also often given names that suggest some of their
+more distinctive archetypal characteristics.
+
+Brief descriptions of the nine Enneatypes are as follows:
+
+**Ones**: *Reformers, Critics, Perfectionists*
+
+People of this personality type are focused on personal integrity. Ones
+can be wise, discerning and inspiring in their quest for the truth. They
+also tend to dissociate themselves from their flaws or what they believe
+are flaws (such as negative emotions) and can become hypocritical and
+hyper-critical of others, seeking the illusion of virtue to hide their
+own vices. The greatest fear of Ones is to be flawed and their ultimate
+goal is perfection.
+
+| Ego fixation: resentment
+| Holy idea: perfection
+| Passion: anger
+| Virtue: serenity
+| Stress point: Four
+| Security point: Seven
+
+**Twos**: *Helpers, Givers, Caretakers*
+
+Twos, at their best, are compassionate, thoughtful and astonishingly
+generous but they can also be particularly prone to clinginess and
+manipulation. Twos want, above all, to be loved and needed and fear
+being unworthy of love.
+
+| Ego fixation: flattery
+| Holy idea: freedom
+| Passion: pride
+| Virtue: humility
+| Stress point: Eight
+| Security point: Four
+
+**Threes**: *Achievers, Performers, Succeeders*
+
+Highly adaptable and changeable. Some Threes walk the world with
+confidence and unstinting authenticity; others wear a series of public
+masks, acting the way they think will bring them approval and losing
+track of their true self. Threes are motivated by the need to succeed
+and to be seen as successful.
+
+| Ego fixation: vanity
+| Holy idea: hope
+| Passion: deceit
+| Virtue: truthfulness
+| Stress point: Nine
+| Security point: Six
+
+**Fours**: *Romantics, Individualists, Artists*
+
+Fours are driven by the desire to understand themselves and find a place
+in the world. They often fear that they have no identity or personal
+significance. Fours embrace individualism and are often profoundly
+creative and intuitive. However, they have a habit of withdrawing to
+internalize, searching desperately inside themselves for something they
+never find and creating a spiral of depression.
+
+| Ego fixation: melancholy
+| Holy idea: originality
+| Passion: envy
+| Virtue: equanimity
+| Stress point: Two
+| Security point: One
+
+**Fives**: *Observers, Thinkers, Investigators*
+
+Fives are motivated by the desire to understand the world around them,
+specifically in terms of facts. Believing they are only worth what they
+contribute, Fives have learned to withdraw, to watch with keen eyes and
+speak only when they can shake the world with their observations.
+Sometimes they do just that. However, some Fives are known to withdraw
+from the world, becoming reclusive hermits and fending off social
+contact with abrasive cynicism. Fives fear incompetency or uselessness
+and want to be capable and knowledgeable above all else.
+
+| Ego fixation: stinginess
+| Holy idea: omniscience
+| Passion: avarice
+| Virtue: detachment
+| Stress point: Seven
+| Security point: Eight
+
+**Sixes**: *Loyalists, Devil's Advocates, Defenders*
+
+Sixes long for stability above all else. They exhibit unwavering loyalty
+and responsibility, but once betrayed, they are slow to trust again.
+They are particularly prone to fearful thinking and emotional anxiety as
+well as reactionary and paranoid behavior. Sixes tend to to react to
+their fears either in a phobic manner by avoiding fearful situations or
+by confronting them in a counterphobic manner.
+
+| Ego fixation: cowardice
+| Holy idea: faith
+| Passion: fear
+| Virtue: courage
+| Stress point: Three
+| Security point: Nine
+
+**Sevens**: *Enthusiasts, Adventurers, Sensationalists*
+
+Sevens are adventurous and busy with many activities with all the energy
+and enthusiasm of the *Puer Aeternus*. At their best they embrace life
+for its varied joys and wonders and truly live in the moment but, at
+their worst, they dash frantically from one new experience to another,
+too scared of disappointment to actually enjoy themselves. Sevens fear
+being unable to provide for themselves or to experience life in all of
+its richness.
+
+| Ego fixation: planning
+| Holy idea: work
+| Passion: gluttony
+| Virtue: sobriety
+| Stress point: One
+| Security point: Five
+
+**Eights**: *Leaders, Protectors, Challengers*
+
+Eights value their own strength and desire to be powerful and in
+control. They concern themselves with self-preservation. They are
+natural leaders, who can be either friendly and charitable or
+dictatorially manipulative, ruthless and willing to destroy anything in
+their way. Eights seek control over their own lives and destinies and
+fear being harmed or controlled by others.
+
+| Ego fixation: vengeance
+| Holy idea: truth
+| Passion: excess (lust)
+| Virtue: innocence
+| Stress point: Five
+| Security point: Two
+
+**Nines**: *Mediators, Peacemakers, Preservationists*
+
+Nines are ruled by their empathy. At their best they are perceptive,
+receptive, gentle, calming and at peace with the world. They also,
+however, tend to dissociate from conflicts and to indifferently go along
+with others people's wishes. They may also simply withdraw and act via
+inaction. They fear the conflict caused by their ability to
+simultaneously understand opposing points of view and seek peace of mind
+above all else. Nines are especially prone to dissociation and
+passive-aggressive behaviour.
+
+| Ego fixation: indolence
+| Holy idea: love
+| Passion: laziness (sloth)
+| Virtue: action
+| Stress point: Six
+| Security point: Three
+
+Wings
+~~~~~
+
+Whilst a person's Enneatype is determined by only one of the
+ego-fixations, their personality characteristics are also influenced and
+modified in different ways by all of the other eight fixations as well.
+
+Most Enneagram teachers and theorists believe that one of the principal
+kinds of influence and modification come from the two points on either
+side of their Enneatype. These two points are usually known as the
+'wings'.
+
+Observation seems to indicate, for example, that Ones will tend to
+manifest some characteristics of both Nines and Twos. Some Enneagram
+theorists believe that one of the wings will always have a more dominant
+influence on an individual's personality, while others believe that
+either wing can be dominant at any particular time depending on the
+person's circumstances and development.
+
+This aspect of Enneagram theory was originally suggested by Claudio
+Naranjo and then further developed by some of the Jesuit teachers.
+
+
+
+Stress and security points
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+The lines connecting the points of the Enneagram figure (the triangle
+and hexagon) are believed to indicate psychological connections between
+the Enneatypes. The points connected by the lines are usually called the
+'stress points' and 'security points'.
+
+The more traditional understanding of the stress and security points is
+that when people are in a more secure or relaxed state they will tend to
+also express the more positive personality characteristics of the
+security point type and, when stressed or insecure, the more negative
+characteristics of the stress point type. Relaxed or secure Ones, for
+instance, may tend to manifest some more positive personality aspects of
+the Seven type since Ones tend to be highly self-inhibitory whilst
+Sevens give themselves permission to enjoy the moment. Stressed Ones,
+however, may express some more negative aspects of the Four personality,
+particularly the obsessive introspection; they also share a certain
+amount of self-loathing and self-inhibition.
+
+Don Richard Riso believes that the security points also indicate a
+movement towards psychological wellbeing (the 'direction of
+integration') and the stress points indicate the movement towards
+breakdown (the 'direction of disintegration').
+
+Another emerging belief about the connections between points is that
+people may access and express the positive and negative aspects of both
+points depending on their particular circumstances.
+
+The lines connecting the points are often indicated on Enneagram figures
+by the use of arrows and are sometimes also called 'arrow points'.
+
+The sequence of stress points is 1-4-2-8-5-7-1 for the hexagon and
+9-6-3-9 for the triangle. The security points sequence is in the
+opposite direction (1-7-5-8-2-4-1 and 9-3-6-9). These sequences are
+found in the repeating decimals resulting from division by 7 and 3,
+respectively, both of those numbers being important to Gurdjieff's
+system. (1/7 = 0.1428571...; 1/3 = 0.3333..., 2/3 = 0.6666..., 3/3 =
+0.9999...).
+
+
+
+Instinctual subtypes
+~~~~~~~~~~~~~~~~~~~~
+
+Each type also has three main instinctual subtypes - the
+'self-preservation', 'intimate' and 'social' subtypes. Because each
+Enneatype is different they may be perceived as having a tendency toward
+one subtype or another.
+
+-  Self-preservation subtypes pay most attention to physical survival
+   needs.
+-  Intimate subtypes focus most on intimacy and one-to-one
+   relationships.
+-  Social subtypes care most about others, in groups and communities.
+
+The instinstual subtypes may be very similar to the "need areas" of the
+FIRO-B instrument, called "Inclusion", "Control" and "Affection", except
+that the score in each area carries equal weight in the person's overal
+personality, and there is no "tendency" towards one or another.
+
+
+
+Directional scales
+~~~~~~~~~~~~~~~~~~
+
+The Enneagram types have also been mapped to Karen Horney's "Three
+Trends" (Moving **Towards, Against, Away** from), in two dimensions of
+**"Surface Direction"** and **"Deep
+Direction"**\ `1 <http://www.9types.com/writeup/Theory20.htm>`__
+`2 <http://www.enneagramspectrum.com/articles/horneytrends.htm>`__
+(which also roughly parallel FIRO's "Expressed" and "Wanted" behavior).
+Each type on the surface moves one way, but underneath can move a
+different way. This determines both behavior and motivations.
+
+.. raw:: html
+
+   <table align="center" border="1">
+
+.. raw:: html
+
+   <tr>
+
+.. raw:: html
+
+   <td>
+
+.. raw:: html
+
+   <center>
+
+| **Surface Direction**
+| **Deep Direction**
+
+.. raw:: html
+
+   </center>
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   <td>
+
+.. raw:: html
+
+   <center>
+
+| **Against**
+| (confronting)
+
+.. raw:: html
+
+   </center>
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   <td>
+
+.. raw:: html
+
+   <center>
+
+| **0 Away**
+| (withdrawing)
+
+.. raw:: html
+
+   </center>
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   <td>
+
+.. raw:: html
+
+   <center>
+
+| **+ Towards**
+| (embracing)
+
+.. raw:: html
+
+   </center>
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   </tr>
+
+.. raw:: html
+
+   <tr>
+
+.. raw:: html
+
+   <td>
+
+.. raw:: html
+
+   <center>
+
+| **+ Towards**
+| (Approval Seeking)
+
+.. raw:: html
+
+   </center>
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   <td>
+
+.. raw:: html
+
+   <center>
+
+**3**
+
+.. raw:: html
+
+   </center>
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   <td>
+
+.. raw:: html
+
+   <center>
+
+**9**
+
+.. raw:: html
+
+   </center>
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   <td>
+
+.. raw:: html
+
+   <center>
+
+**6**
+
+.. raw:: html
+
+   </center>
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   </tr>
+
+.. raw:: html
+
+   <tr>
+
+.. raw:: html
+
+   <td>
+
+.. raw:: html
+
+   <center>
+
+| **0 Away**
+| (Ideal Seeking)
+
+.. raw:: html
+
+   </center>
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   <td>
+
+.. raw:: html
+
+   <center>
+
+**1**
+
+.. raw:: html
+
+   </center>
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   <td>
+
+.. raw:: html
+
+   <center>
+
+**4**
+
+.. raw:: html
+
+   </center>
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   <td>
+
+.. raw:: html
+
+   <center>
+
+**7**
+
+.. raw:: html
+
+   </center>
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   </tr>
+
+.. raw:: html
+
+   <tr>
+
+.. raw:: html
+
+   <td>
+
+.. raw:: html
+
+   <center>
+
+| **Against**
+| (Power Seeking)
+
+.. raw:: html
+
+   </center>
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   <td>
+
+.. raw:: html
+
+   <center>
+
+**8**
+
+.. raw:: html
+
+   </center>
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   <td>
+
+.. raw:: html
+
+   <center>
+
+**5**
+
+.. raw:: html
+
+   </center>
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   <td>
+
+.. raw:: html
+
+   <center>
+
+**2**
+
+.. raw:: html
+
+   </center>
+
+.. raw:: html
+
+   </td>
+
+.. raw:: html
+
+   </tr>
+
+.. raw:: html
+
+   </table>
+
+
+
+Deadly sins
+~~~~~~~~~~~
+
+Seven of the characteristic emotional 'passions' or 'vices' of the
+Enneatypes correspond with the traditional Seven Deadly Sins. Two
+additional 'sins', 'deceit' and 'fear', are also included.
+
+-  Ones - Anger, as the frustration that comes from Ones working hard to
+   do things right while the rest of the world doesn't care about doing
+   things right and not appreciating the sacrifices and efforts Ones
+   have made.
+-  Twos - Pride, as self-inflation of the ego, in the sense of Twos
+   seeing themselves as indispensable to others and to having no needs
+   whilst also being needed by others.
+-  Threes - Deceit, in the misrepresentation of self by marketing and
+   presenting an image valued by others rather than presenting an
+   authentic self.
+-  Fours - Envy of someone else reminds Fours that they can never be
+   what another person is, reawakening their sense of
+   self-defectiveness.
+-  Fives - Avarice, as the hoarding of resources in an attempt to
+   minimize their needs in the face of a world that takes more than it
+   gives; thus isolating Fives from the world.
+-  Sixes - Fear, often in the form of a generalized anxiety that can't
+   find an actual source of fear. Sixes may wrongly identify a source of
+   fear through projection, possibly seeing enemies and dangers where
+   there are none.
+-  Sevens - Gluttony, not in the sense of eating too much but, rather,
+   of sampling everything the world has to offer (breadth) and not
+   taking the time for richer experience (depth).
+-  Eights - Lust, in the sense of wanting more of what Eights find
+   stimulating, to a point beyond which most people would feel
+   overwhelmed and stop.
+-  Nines - Sloth, or laziness in discovering a personal agenda and
+   instead choosing the less problematic strategy of just going along
+   with other people's agendas.
+
+
+
+Correlations between enneagram types and socionic types
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+There is no general agreement on how the types correlate, or even if
+they should. Some of the most common trends seen are:
+
+-  **One** : any socionics rational type may well identify at least
+   partly with One, especially any IJ and particularly LSI, but also LSE
+-  **Two** : most typically ESE is identified with Two, but also EIE,
+   SEI, IEE, IEI and perhaps EII; essentially any type with confidence
+   in |symbol_e.gif|
+-  **Three** : in terms of Three's motivations, some EIEs would fit
+   best; regarding behavior, many other types could also be seen as
+   Three, especially LIE, LSE, ILE, SLE, IEE
+-  **Four** : Fours are most typically IEI, but EIE and ILI can also
+   identify with this type; it's essentially about focus on
+   |symbol_t.gif|
+-  **Five** : Fives are essentially ILI and LII, but ILE, EII, IEI and
+   SLI could also relate best to Five
+-  **Six** : especially since this type is split in *phobic* and
+   *counterphobic* version, many types could fit it; it's probably
+   accurate that overall ESI fits it best, with almost any
+   |symbol_r.gif| quadra type plausibly relating to it
+-  **Seven** : this type can be best seen as a description of
+   socionics's EP temperament, so SLE, ILE, IEE and SEE
+-  **Eight** : Eights are best related to socionics types with both
+   |symbol_p.gif| and |symbol_f.gif| as fairly confident functions, so
+   LIE, LSE, SLE and possibly LSI, SLI and SEE
+-  **Nine** : This type is most typically SEI, but IEI and perhaps EII
+   could also be a match - it's essentially about a higher preference
+   for positive |symbol_e.gif| than |symbol_f.gif| or |symbol_p.gif|
+
+.. |symbol_e.gif| image:: symbol_e.gif
+.. |symbol_t.gif| image:: symbol_t.gif
+.. |symbol_r.gif| image:: symbol_r.gif
+.. |symbol_p.gif| image:: symbol_p.gif
+.. |symbol_f.gif| image:: symbol_f.gif

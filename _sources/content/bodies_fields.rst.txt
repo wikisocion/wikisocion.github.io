@@ -1,0 +1,10 @@
+Bodies and fields
+=========================
+
+**Bodies** and **fields** are concepts from physics which were used by :doc:`Aushra Augusta <augusta>` as an allegory to elaborate the difference between :doc:`extraverted <extroverted>` and :doc:`introverted <introverted>` information aspects. These days it is more common to see "objects" and "relationships" instead of bodies and fields. 
+
+Further reading
+------------------------
+
+* http://socionist.blogspot.com/2006/12/bodies-and-fields.html
+

@@ -1,0 +1,551 @@
+<!doctype html>
+<html class="no-js">
+  <head><meta charset="utf-8"/>
+    <meta name="viewport" content="width=device-width,initial-scale=1"/>
+    <meta name="color-scheme" content="light dark"><link rel="index" title="Index" href="../genindex.html" /><link rel="search" title="Search" href="../search.html" /><link rel="next" title="Socioscope SEE" href="socioscope_SEE.html" /><link rel="prev" title="Socioscope EIE" href="socioscope_EIE.html" />
+
+    <meta name="generator" content="sphinx-4.1.2, furo 2021.08.11.beta42"/>
+        <title>Socioscope LSI - Wikisocion</title>
+      <link rel="stylesheet" type="text/css" href="../_static/pygments.css" />
+    <link rel="stylesheet" type="text/css" href="../_static/styles/furo.css?digest=197f00461d56902ea7ca048ec6e6ba026f62c97b" />
+    <link rel="stylesheet" type="text/css" href="../_static/styles/furo-extensions.css?digest=93475b62d1c3bc01323a0eefdc14a62d77b12690" />
+    
+    
+
+
+<style>
+  body {
+    --color-code-background: #f8f8f8;
+  --color-code-foreground: black;
+  
+  }
+  body[data-theme="dark"] {
+    --color-code-background: #202020;
+  --color-code-foreground: #d0d0d0;
+  
+  }
+  @media (prefers-color-scheme: dark) {
+    body:not([data-theme="light"]) {
+      --color-code-background: #202020;
+  --color-code-foreground: #d0d0d0;
+  
+    }
+  }
+</style>
+    <link media="(prefers-color-scheme: dark)" rel="stylesheet" href="../_static/pygments_dark.css"></head>
+  <body>
+    
+<svg xmlns="http://www.w3.org/2000/svg" style="display: none;">
+  <symbol id="svg-toc" viewBox="0 0 24 24">
+    <title>Contents</title>
+    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+      stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+      <path stroke="none" d="M0 0h24v24H0z" />
+      <line x1="4" y1="6" x2="20" y2="6" />
+      <line x1="10" y1="12" x2="20" y2="12" />
+      <line x1="6" y1="18" x2="20" y2="18" />
+    </svg>
+  </symbol>
+  <symbol id="svg-menu" viewBox="0 0 24 24">
+    <title>Menu</title>
+    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+      stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather-menu">
+      <line x1="3" y1="12" x2="21" y2="12"></line>
+      <line x1="3" y1="6" x2="21" y2="6"></line>
+      <line x1="3" y1="18" x2="21" y2="18"></line>
+    </svg>
+  </symbol>
+  <symbol id="svg-arrow-right" viewBox="0 0 24 24">
+    <title>Expand</title>
+    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+      stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather-chevron-right">
+      <polyline points="9 18 15 12 9 6"></polyline>
+    </svg>
+  </symbol>
+  <symbol id="svg-sun" viewBox="0 0 24 24">
+    <title>Light mode</title>
+    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+      stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" class="feather-sun">
+      <circle cx="12" cy="12" r="5"></circle>
+      <line x1="12" y1="1" x2="12" y2="3"></line>
+      <line x1="12" y1="21" x2="12" y2="23"></line>
+      <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
+      <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
+      <line x1="1" y1="12" x2="3" y2="12"></line>
+      <line x1="21" y1="12" x2="23" y2="12"></line>
+      <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
+      <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
+    </svg>
+  </symbol>
+  <symbol id="svg-moon" viewBox="0 0 24 24">
+    <title>Dark mode</title>
+    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+      stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" class="icon-tabler-moon">
+      <path stroke="none" d="M0 0h24v24H0z" fill="none" />
+      <path d="M12 3c.132 0 .263 0 .393 0a7.5 7.5 0 0 0 7.92 12.446a9 9 0 1 1 -8.313 -12.454z" />
+    </svg>
+  </symbol>
+  <symbol id="svg-sun-half" viewBox="0 0 24 24">
+    <title>Auto light/dark mode</title>
+    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+      stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" class="icon-tabler-shadow">
+      <path stroke="none" d="M0 0h24v24H0z" fill="none"/>
+      <circle cx="12" cy="12" r="9" />
+      <path d="M13 12h5" />
+      <path d="M13 15h4" />
+      <path d="M13 18h1" />
+      <path d="M13 9h4" />
+      <path d="M13 6h1" />
+    </svg>
+  </symbol>
+</svg>
+
+<input type="checkbox" class="sidebar-toggle" name="__navigation" id="__navigation">
+<input type="checkbox" class="sidebar-toggle" name="__toc" id="__toc">
+<label class="overlay sidebar-overlay" for="__navigation">
+  <div class="visually-hidden">Hide navigation sidebar</div>
+</label>
+<label class="overlay toc-overlay" for="__toc">
+  <div class="visually-hidden">Hide table of contents sidebar</div>
+</label>
+
+
+
+<div class="page">
+  <header class="mobile-header">
+    <div class="header-left">
+      <label class="nav-overlay-icon" for="__navigation">
+        <div class="visually-hidden">Toggle site navigation sidebar</div>
+        <i class="icon"><svg><use href="#svg-menu"></use></svg></i>
+      </label>
+    </div>
+    <div class="header-center">
+      <a href="../index.html"><div class="brand">Wikisocion</div></a>
+    </div>
+    <div class="header-right">
+      <div class="theme-toggle-container theme-toggle-header">
+        <button class="theme-toggle">
+          <div class="visually-hidden">Toggle Light / Dark / Auto color theme</div>
+          <svg class="theme-icon-when-auto"><use href="#svg-sun-half"></use></svg>
+          <svg class="theme-icon-when-dark"><use href="#svg-moon"></use></svg>
+          <svg class="theme-icon-when-light"><use href="#svg-sun"></use></svg>
+        </button>
+      </div>
+      <label class="toc-overlay-icon toc-header-icon" for="__toc">
+        <div class="visually-hidden">Toggle table of contents sidebar</div>
+        <i class="icon"><svg><use href="#svg-toc"></use></svg></i>
+      </label>
+    </div>
+  </header>
+  <aside class="sidebar-drawer">
+    <div class="sidebar-container">
+      
+      <div class="sidebar-sticky"><div class="sidebar-scroll"><a class="sidebar-brand" href="../index.html">
+  
+  
+  <span class="sidebar-brand-text">Wikisocion</span>
+  
+</a><form class="sidebar-search-container" method="get" action="../search.html" role="search">
+  <input class="sidebar-search" placeholder=Search name="q" aria-label="Search">
+  <input type="hidden" name="check_keywords" value="yes">
+  <input type="hidden" name="area" value="default">
+</form>
+<div id="searchbox"></div>
+</div>
+      </div>
+      
+    </div>
+  </aside>
+  <div class="main">
+    <div class="content">
+      <article role="main">
+        <div class="content-icon-container">
+          <div class="theme-toggle-container theme-toggle-content">
+            <button class="theme-toggle">
+              <div class="visually-hidden">Toggle Light / Dark / Auto color theme</div>
+              <svg class="theme-icon-when-auto"><use href="#svg-sun-half"></use></svg>
+              <svg class="theme-icon-when-dark"><use href="#svg-moon"></use></svg>
+              <svg class="theme-icon-when-light"><use href="#svg-sun"></use></svg>
+            </button>
+          </div>
+          <label class="toc-overlay-icon toc-content-icon" for="__toc">
+            <div class="visually-hidden">Toggle table of contents sidebar</div>
+            <i class="icon"><svg><use href="#svg-toc"></use></svg></i>
+          </label>
+        </div>
+        <div class="section" id="socioscope-lsi">
+<h1>Socioscope LSI<a class="headerlink" href="#socioscope-lsi" title="Permalink to this headline">¶</a></h1>
+<div class="section" id="logical-sensing-introtim-lsi-maxim">
+<h2>Logical Sensing Introtim (LSI, Maxim)<a class="headerlink" href="#logical-sensing-introtim-lsi-maxim" title="Permalink to this headline">¶</a></h2>
+<blockquote>
+<div><p><em>“Order above all.”</em></p>
+</div></blockquote>
+<p>In a questionnaire, one teenage student has expressed his likes and
+dislikes in the following way:</p>
+<blockquote>
+<div><p>“What I like: 1) total control over my life 2) stability 3) a
+beautiful life 4) three things: cars, furniture, women. What I
+dislike: 1) people who try to show that they are better than others
+2) unforeseen circumstances 3) when others try to analyze me 4) those
+who are not with me.”</p>
+</div></blockquote>
+<p><strong>Logical sensing introtim</strong>. The closer you become acquainted with a
+person of this type, the more sharply his “black and white” philosophy
+is felt. LSI very clearly draws the line between “correct” and
+“incorrect” and “order” and “disorder” without leaving any gray areas.</p>
+</div>
+<div class="section" id="order-by-force">
+<h2>Order - by force<a class="headerlink" href="#order-by-force" title="Permalink to this headline">¶</a></h2>
+<p>Order for the <a class="reference internal" href="LSI.html"><span class="doc">LSI</span></a> is raised to the status of an absolute
+value. Salt misplaced in the sugar jar or a misprint in a textbook are
+perceived as challenges to the authority of Order on the Earth.</p>
+<p>Very early it comes to the conclusion that life - irreconcilable
+struggle of order with chaos. Chaos can assume many different masks -
+sloppiness, negligence, unconscientiousness, slackness, frauds And only
+Order always has the only, eternal and unvarying shape. And [LSI] is
+called by fate precisely to establish it.</p>
+<blockquote>
+<div><p>“I do not love, when they deceive by cunning, use cunning, when
+people do not answer my frankness sincerely. I do not love, when they
+conduct the dirty way of life (smoke, drink). I do not love, when
+people behave vulgarly, especially women. I cannot suffer illiterate
+speech or when they champ at the table. I love, when they dress
+with the taste. I feel awkward if I have no opportunity to dress in
+accordance with the situation. Linen must be perfectly clean, and
+each thing must take its constant place. Cheerless situations
+discompose me. If I see damp black ceiling upon waking up, my mood
+becomes spoiled immediately.”</p>
+</div></blockquote>
+<p>It does not distinguish semitones and ambiguity in the definition of
+order - disorder. Sometimes it seems that it is not capable to see the
+difference between the small deviation from the norm and its flagrant
+violation, perceiving both cases equally hostilely.</p>
+</div>
+<div class="section" id="everything-must-be-in-the-system">
+<h2>Everything must be in the system<a class="headerlink" href="#everything-must-be-in-the-system" title="Permalink to this headline">¶</a></h2>
+<p>Whatever beliefs [LSI], it is possible to be confident - it absolutely
+sincerely believes in their validity. (Whatever the beliefs LSI can be
+sure he is a strong believer in the truth.)</p>
+<p>Personal well-being is never its central objective. Authority is
+necessary to it not so much for the satisfaction of ambitions, as it is
+for the implementation of the principles of order. It frequently sees
+the sense of its life as the great service to great idea.</p>
+<p>It can be said that [LSI] lives not in the real world, but in the
+system, built on the basis of its conclusions about it. In his opinion,
+system - the only possible way of existence of the world. Everything
+must fit into it, and that which is not placed in it - must be
+ruthlessly cut off.</p>
+<p>[LSI] cannot present itself out of the system any relations. It attempts
+to put personal interrelations into the system, since this makes
+possible for it more easily to be entered in the logical order of the
+so-called order of things. Its system is hierarchic, moreover it is
+built according to the principle who more main. According to its idea,
+everyone has its place in the system, by which man must be contented. It
+aspires to the construction of ideal system, which, in his opinion, must
+be eternal and unchanging (as its order). Basic values in it -
+authority, force, position.</p>
+<blockquote>
+<div><p>“I like to force people to accept my point of view or act as I
+consider necessary, but in this case the person himself must not
+surmise about this.”</p>
+</div></blockquote>
+<p>Representatives of this type distinguish the active stand in life, the
+tendency to adhere to the established standards and standards. They see
+their destination in the propagation of the checked by them on their own
+experience norms of behavior. [LSI] believes that people should behave
+according to their position.</p>
+<p>In the association it is held somewhat dryly, disciplined, it always
+fulfills the orders of those in a higher position. Famous German
+punctuality and industriousness - realization of precisely this
+principle.</p>
+</div>
+<div class="section" id="the-rights-of-people-depend-on-their-responsibilities-to-society">
+<h2>The rights of people depend on their responsibilities to society<a class="headerlink" href="#the-rights-of-people-depend-on-their-responsibilities-to-society" title="Permalink to this headline">¶</a></h2>
+<p>Perhaps, this is the most typical principle of [LSI]. To it it is
+complicated to understand that the concrete person represents, of what
+he is capable, his internal value and essence. Figuratively speaking, it
+meets people not so much on the mind, as on clothing, i.e., on the
+rank or on the position in the social system. The value of man is
+determined by the place, which [LSI] itself led to it in its system (I
+do not respect those who are not with me).</p>
+<p>Who then must be more human? Of course in people, which occupy
+high-level posts.</p>
+<p>From here one additional curious principle emerges:</p>
+</div>
+<div class="section" id="the-chief-is-always-right">
+<h2>The chief is always right<a class="headerlink" href="#the-chief-is-always-right" title="Permalink to this headline">¶</a></h2>
+<p>Essentially, this mirrors the previous principle. Once a man has been
+placed on the high post, it means that it possesses the appropriate
+qualities, deep knowledge and T. p. Consequently, all subordinates
+(possessing them regarding in the smaller measure) must obey their
+superiors. [LSI] himself is strictly subordinated to those who are
+situated above it in its system (although sometimes it can about itself
+[povozmushchatsya]), and expects total obedience from subordinates.</p>
+<p>In doing so, it considers that the responsibility for everything lies on
+those, who return the orders (I only carried out the order given to
+me).</p>
+</div>
+<div class="section" id="everything-that-is-not-authorized-is-forbidden">
+<h2>Everything that is not authorized is forbidden<a class="headerlink" href="#everything-that-is-not-authorized-is-forbidden" title="Permalink to this headline">¶</a></h2>
+<p>According to this specific principle it separates correct from the
+incorrect, grains - from darnel. If it placed to itself for the rule to
+eat not more than one ice cream in the day, then no July heat will force
+it to step back from it, on top of that and it will try to forbid to
+those surrounding the second portion. It is equally exacting both to
+itself and to others.</p>
+<p>In its work it is very precise and thorough, scrupulously studies
+everything which relates to the sphere of its activity. If we charge to
+it, it can prepare the solid report (although itself initiative in such
+matters does not display), in which, using convincing arguments, it will
+fully open the theme in question. It, however, completely rejects those
+facts, which do not fit into its system. Those worse for the facts!</p>
+<p>In any business, practicality, expediency, and concrete benefit have
+major importance for it. He does not understand and condemns dreamers
+who advance projects that are beautiful, but torn from reality.</p>
+<p>When [LSI] selects purpose, it begins to move to it systematically. It
+will not go astray and will not allow anyone else to do so. It does not
+change its decisions as a rule; it is uncompromising.</p>
+<p>It divides off large tasks into several small segments and solves them
+one after another, never forgetting the end result. In its activity the
+crucial points are easily determined, but to the trifles it relates not
+less critically than to the main thing. All artists of this type
+separate thorough [vyrisovka] of components, [ocherchennost] of forms.</p>
+<p>In the life the stability values, he tries to supervise all events
+surrounding it/entire proceeding all around. It admits almost nobody
+into its own world. But the more it erects defensive installations
+around itself, the stronger by this attracts close attention of other
+people.</p>
+<p>The habit to express its thoughts maximally clearly now and then leads
+to the fact that in conversations, [LSI] gives out considerably more
+information about itself than it would like.</p>
+</div>
+<div class="section" id="seven-i-order-in-everything">
+<h2>Seven I - order in everything<a class="headerlink" href="#seven-i-order-in-everything" title="Permalink to this headline">¶</a></h2>
+<p>In private life [LSI] loves beautiful, expensive and practical things.
+It is accurate up to the sterility. It will not bear it when they take
+or even simply touch its things without permission.</p>
+<p>House, family in the life [LSI] occupy very important place, have the
+unquestionable value for it. Many forces and concerns return to its
+relatives, their health and prosperity disturb it much more than their
+own. Practically always he tries to fulfill its duties (entrusted to it,
+however, with it by itself) completely, making this implicitly, it is
+independent of any external conditions.</p>
+<p>[LSI] rarely complains of fatigue or indisposition. There are the cases,
+when the family learned about the severe illness of people of this type
+only after their death.</p>
+<p>[LSI] in the family - this is, first of all, order. Domestic life is
+under his management, as a rule, subordinated to itself determined by it
+laws themselves and rules. Freedom of choice (as the freedom of speech)
+is dissipated at once, since it brings uncertainty and disturbance.</p>
+<blockquote>
+<div><p>“If we do not supervise, then nothing will be done at the proper level”.</p>
+</div></blockquote>
+<p>The methods of control in [LSI] are sufficiently rigid, which frequently
+leads to the conflict situations. For the purpose of training
+consciousness, it will instructively explain the motives of this
+decision before punishing.</p>
+<p>But if educational moments do not accomplish the desired result, then
+punishment will follow already without the warning.</p>
+</div>
+<div class="section" id="let-the-world-crumble-but-the-law-must-prevail">
+<h2>Let the world crumble, but the law must prevail<a class="headerlink" href="#let-the-world-crumble-but-the-law-must-prevail" title="Permalink to this headline">¶</a></h2>
+<p>[LSI] often seems harsh, sometimes even cruel. But this is often due to
+the fact that it badly sees the experiences of other people and their
+feelings. [LSI] cannot step back from/compromise its educational policy,
+because they are motivated by a genuine conceron for others. Moreover
+the nearer the distance in their interrelations, the stricter measure
+for action it will use.</p>
+<p>He very uncomfortably feels itself in the society of people, behavior
+and judgments which can prove to be unpredictable for it. As a rule, it
+does not step back from its principles and habits.</p>
+<p>Any manifestation of nonstandard behavior or individualism is
+unacceptable for it. In his opinion, this generates inequality in the
+interrelations as well as uncertainty and thus loosens its system. It is
+especially unbearable for [LSI] if this occurs in its family.</p>
+<p>No one of the members of its family has a right to compromise [LSI]
+before the members of its system - by friends, the associates, the
+relatives. This with fraught serious practical conclusions.</p>
+<p>It receives the break of family interrelations extremely painfully. It
+fears that others will learn about its failure in the construction of
+the system family and will condemn it. This situation is extremely
+heavy for it, up to the fact that it can even cease to control its
+behavior at some moment.</p>
+<p>By however heavy for it its there were first relation itself with the
+husband, as a rule, to the break it it will not go; moreover, it will
+overpower itself and will try to find the possibilities of
+reconciliation. Unfortunately, it goes to this in the majority of the
+cases cannot be only if repaired already nothing.</p>
+<p>In people of this type the uncommon and strong hobbies, to which they
+devote much effort and time, are frequent. They can be interested in
+some dead language, organ music, thoroughly study magic, genealogy of
+their kind and so on. These hobbies are not for display, but for itself.</p>
+<p>Even at the teenage period [LSI] it begins to learn the ethical rules
+accepted in the society, the stereotypes of behavior, focuses attention
+on how it is necessary to behave and how to support conversation in
+various situations. He knows that the society considers this skill as
+the index of the level of its good breeding and culture. In this matter
+it usually capable student, and for it does not soon represent the labor
+to support ingenious conversation, to be gallant cavalier or pleasant
+lady in the company of equals.</p>
+</div>
+<div class="section" id="to-each-his-due">
+<h2>To each his due<a class="headerlink" href="#to-each-his-due" title="Permalink to this headline">¶</a></h2>
+<p>In his opinion, everyone should know their place and strictly adhere to
+it. The behavior of man, which does not correspond to his place in the
+society, deeply offends [LSI]. In that case, dementia is the only
+justification that it can think of.</p>
+<p>It considers the skill to strictly adhere to its line as one of the most
+respected qualities in people.</p>
+<p>In the people [LSI] extremely highly appreciates faithfulness and
+devotion. Its rods are high. Frequently even disagreement with its
+opinion or attempt of the person close to it to hide some thoughts and
+actions are perceived by it as the present treachery.</p>
+<blockquote>
+<div><p>“Some people run away from me, because they simply cannot appreciate what I propose to them, i.e., to be loyal friend only for this person”.</p>
+</div></blockquote>
+<p>[LSI] - these are sequence, dedication, perseverance. But there is much
+more. Together with this in it come the sentimentality and trustfulness,
+painstakingly hidden from foreign eyes. Women -[LSI] are soft and more
+yielding. Rarely they go to the contact first, passively expecting
+initiative from others; but only they themselves will decide on what
+would be the minimum distance in communication. [LSI] skillfully know
+how to postpone themselves from man with an accuracy to of millimeter.</p>
+<p>Perhaps, no one except for [EIE], can so fully satisfy the subconscious
+need in [LSI] for the sharp change of emotional sensations. And periodic
+emotional additional supply is as necessary to them as air.</p>
+<p>With its dual [EIE], the bright and emotional person, it can bloom
+unusually vividly. Then it will not learn - restless joker, staggering
+interlocutor. It simply entire will begin to flicker by the rainbow of
+witticism and uncommon findings.</p>
+</div>
+<div class="section" id="functional-description">
+<h2>Functional description<a class="headerlink" href="#functional-description" title="Permalink to this headline">¶</a></h2>
+<p>First function: the logic of the relationships</p>
+<p>Strong, confident logic. Systematic thinking. Skill to separate the main
+thing from the secondary. Scrupulousness in the study of facts, the
+skill to see the connection between them. Reduction of all into the
+system. Organization of structural order. Rationality, accuracy,
+systematization, consistency. Second function: volitional [sensorika]</p>
+<p>Developed will power, confidence in its rights. Involvement of
+surrounding objects in its sphere of influence. Influence on people by
+volitional methods. Aspiration to make the world more secure. Lack of
+compromise, soundness, hardness, purposefulness. Third function: the
+ethics of the relations</p>
+<p>Understanding the need to come into contact with different people.
+Desire to fully enter the existing system of relations. Training of
+politeness and courtesy in itself. Internal uncertainty in the propriety
+of its behavior. Attention to the experience of the dialogue of other
+people. Good breeding, gallantry. Fourth function: the intuition of the
+possibilities</p>
+<p>A strong rejection of ambiguities and different interpretations of
+something. Incomprehension of special features and individual
+differences in the people. Unwillingness to be engaged in deep
+introspection. Categorical nonacceptance of the analysis of its
+qualities and possibilities from the side of other people. Unwillingness
+to evaluate the abilities of strangers. Painful experience of the
+unknown and uncertainty. Black and white evaluation of any facts, the
+estimation of people not according to the content, but according to the
+form. Fifth function: the ethics of the emotions</p>
+<p>Constant and subconscious expectation of additional emotional supply.
+Thrust to the vivid, dramatic emotions and experiences. Need for the
+change of emotions. Inability to cope with their negative emotions.
+Difficulty in disengaging themselves from depression. Sentimentality, is
+convinced by emotions. Sixth function: the intuition of the time</p>
+<p>Passive desire to fill its life with significant and bright events. Weak
+foresight of the development of a situation. Life according to the
+timetable. Seventh function: the business logic</p>
+<p>Non-demonstrative efficiency. High working capacity. Attention to
+no-address business recommendations. Unshakable confidence in its
+rightness. Readiness to give efficient advice. Obstinacy, leads the
+matter to the end. Eighth function: [sensorika] of the sensations</p>
+<p>Subconscious attention to the smallest trifles of way of life. Concern
+about comfort and health of close people. Fight with the unhealthy
+habits in other people. Force of sensory action. Reserves last word
+after itself in questions of way of life. It will not bear intervention
+in its orders. Aesthetics of force and order.</p>
+</div>
+</div>
+
+      </article>
+      <footer>
+        
+        <div class="related-pages">
+          <a class="next-page" href="socioscope_SEE.html">
+              <div class="page-info">
+                <div class="context">
+                  <span>Next</span>
+                </div>
+                <div class="title">Socioscope SEE</div>
+              </div>
+              <svg><use href="#svg-arrow-right"></use></svg>
+            </a>
+          <a class="prev-page" href="socioscope_EIE.html">
+              <svg><use href="#svg-arrow-right"></use></svg>
+              <div class="page-info">
+                <div class="context">
+                  <span>Previous</span>
+                </div>
+                
+                <div class="title">Socioscope EIE</div>
+                
+              </div>
+            </a>
+        </div>
+
+        <div class="related-information">
+              Copyright &#169; 2021, Wikisocion Authors
+            |
+            Built with <a href="https://www.sphinx-doc.org/">Sphinx</a>
+              and
+              <a class="muted-link" href="https://pradyunsg.me">@pradyunsg</a>'s
+              <a href="https://github.com/pradyunsg/furo">Furo theme</a>.
+            |
+            <a class="muted-link" href="../_sources/content/socioscope_LSI.rst.txt"
+               rel="nofollow">
+              Show Source
+            </a>
+        </div>
+        
+      </footer>
+    </div>
+    <aside class="toc-drawer">
+      
+      
+      <div class="toc-sticky toc-scroll">
+        <div class="toc-title-container">
+          <span class="toc-title">
+            Contents
+          </span>
+        </div>
+        <div class="toc-tree-container">
+          <div class="toc-tree">
+            <ul>
+<li><a class="reference internal" href="#">Socioscope LSI</a><ul>
+<li><a class="reference internal" href="#logical-sensing-introtim-lsi-maxim">Logical Sensing Introtim (LSI, Maxim)</a></li>
+<li><a class="reference internal" href="#order-by-force">Order - by force</a></li>
+<li><a class="reference internal" href="#everything-must-be-in-the-system">Everything must be in the system</a></li>
+<li><a class="reference internal" href="#the-rights-of-people-depend-on-their-responsibilities-to-society">The rights of people depend on their responsibilities to society</a></li>
+<li><a class="reference internal" href="#the-chief-is-always-right">The chief is always right</a></li>
+<li><a class="reference internal" href="#everything-that-is-not-authorized-is-forbidden">Everything that is not authorized is forbidden</a></li>
+<li><a class="reference internal" href="#seven-i-order-in-everything">Seven I - order in everything</a></li>
+<li><a class="reference internal" href="#let-the-world-crumble-but-the-law-must-prevail">Let the world crumble, but the law must prevail</a></li>
+<li><a class="reference internal" href="#to-each-his-due">To each his due</a></li>
+<li><a class="reference internal" href="#functional-description">Functional description</a></li>
+</ul>
+</li>
+</ul>
+
+          </div>
+        </div>
+      </div>
+      
+      
+    </aside>
+  </div>
+</div><script data-url_root="../" id="documentation_options" src="../_static/documentation_options.js"></script>
+    <script src="../_static/jquery.js"></script>
+    <script src="../_static/underscore.js"></script>
+    <script src="../_static/doctools.js"></script>
+    <script src="../_static/scripts/main.js"></script>
+    </body>
+</html>

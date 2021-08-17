@@ -1,0 +1,138 @@
+Visual identification
+=========================
+
+**Visual identification**, or "VI", as it is commonly called, refers to
+the process of identifying socionic types based on visual information
+alone. Depending what method the socionist has developed, this term may
+refer to any of the following:
+
+-  diagnosing types based on photographs or their appearance and
+   movements in video
+-  diagnosing types based on people's appearance and movements in real
+   life
+-  using the above as part of the type diagnosis process, but not
+   exclusively
+
+Most often, among enthusiasts, to VI someone means making a guess about
+a type based on photographs.
+
+Among socionists who render :doc:`typing <diagnosis>` services for a fee, a
+pure VI approach is rare. Many proponents of visual identification are
+not confident enough of their method to rely solely upon pictures. Here
+is a list of those who diagnose based on photos alone:
+
+-  Timofey Dukhovskoy (St. Petersburg, Russia), also known as "Tipolog"
+   (*The Typologist*).
+
+   `"Physiognomical Socionics" website <http://psychotype.ru/>`__
+   (Russian only)
+
+-  Anatoliy Grechinsky (Kiev, Ukraine)
+
+   `"Research Inculcating ompany "Socionic Technologies"
+   website <http://www.socionics.in.ua/eng/index.htm>`__ (somewhat
+   readable English)
+
+It should be noted that neither of these socionists communicates much
+with other socionists or is particularly respected among the community
+of socionists (Grechinsky more so than Dukhovskoy). This is because of
+their claims of infallibility and authoritarian attitude. Perhaps there
+are other lesser known socionists who diagnose types using VI alone but
+are not stigmatized.
+
+Among those who apply VI in :doc:`type diagnosis <diagnosis>`, two
+groups can be recognized:
+
+#. Those who associate static (unchanging physiological) facial and body
+   features with socionic traits and types.
+#. Those who associate dynamic (changing, non-physiological) aspects of
+   a person's appearance, facial expressions, poses and movements with
+   socionic traits and types.
+
+Use of either or both of the above approaches as one of the
+considerations in :doc:`type diagnosis <diagnosis>` is common among
+socionists.
+
+
+
+Typing by static facial and physical features
+---------------------------------------------
+
+See :doc:`Visual Identification of Subtypes <vi_subtype>`
+
+
+
+Typing by dynamic, changeable facial and physical features
+----------------------------------------------------------
+
+With greater experience in diagnosing types comes a certain intuitive
+"sense" for each type's behavior. Experienced socionists can often
+identify a new acquaintance's type very quickly, even within minutes, by
+subconscious comparison with past acquaintances. However, these kinds of
+typings are always subject to further testing.
+
+
+
+Video typing
+~~~~~~~~~~~~
+
+For typing celebrities, `Youtube <http://www.youtube.com>`__ and
+`Google <http://video.google.com/?tab=wv>`__ videos are quite useful
+(especially interviews), as they allow a glimpse into a person's
+moment-to-moment mannerisms, which are usually the foundation of typing
+individuals in person. In some cases, striking examples of `intertype
+relations <intertype_relations>`__ can also be found in videos.
+
+
+
+Example(s) of video analysis
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+
+Bill Maher - Christopher Hitchens: an example of :doc:`Conflict <conflict>`
+'''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+This `video <http://www.youtube.com/watch?v=bSkScQGimr0>`__ (and other
+slightly different versions) shows a rather intense exchange between
+author `Christopher
+Hitchens <http://en.wikipedia.org/wiki/Christopher_Hitchens>`__ and talk
+show host `Bill Maher <http://en.wikipedia.org/wiki/Bill_Maher>`__. It
+starts with Hitchens making his point by listing facts that support his
+argument (that the Iranian president is a serious threat). He does the
+same later when listing those who have made "stupid Bush" jokes. That is
+the use of |symbol_p.gif|. Maher counter-argues by flatly making a
+statement on Bush "so does George Bush, by the way" based on his own
+views of Bush, without making his case or addressing Hitchen's points
+themselves. That is |symbol_l.gif|, which in the specific situation and
+timing acts by steering the |symbol_e.gif| emotional atmosphere of the
+audience, leading to the loud laughter. Hitchens gets annoyed at his
+|symbol_p.gif| arguments being simply ignored and neutralized by
+|symbol_e.gif|; other types might be influenced by it and laugh
+themselves, but Hitchens attacks it heads-on when he says that the
+audience is "frivolous" and "will clap at anything". He is displaying
+focus on his own |symbol_r.gif| inner state rather than on the
+|symbol_e.gif| external state of the room, which even affronts him,
+backing that with his aggressive use of profanity which in the situation
+can be seen as use of |symbol_f.gif|. The same pattern is repeated in
+the later discussion on "stupid Bush" jokes. Hitchens is using
+|symbol_p.gif|, |symbol_f.gif| and strongly focusing on his
+|symbol_r.gif| over the external |symbol_e.gif| external emotional
+atmosphere. These are the functional preferences of the
+:doc:`Gamma <gamma_quadra>` quadra and of Hitchen's likely type, :doc:`ESI <ESI>`.
+Maher's own functional use is not so clear in this version of the video,
+but here he focuses on |symbol_l.gif| points and relies on steering the
+|symbol_e.gif| emotional atmosphere of the audience; he does not even
+try to respond to Hitchen's somewhat aggressive stance and retains a
+sort of "let's look at the funny side" stance; Maher has preference on
+|symbol_i.gif| over |symbol_f.gif|. His functional preferences are
+consistent with the :doc:`Alpha <alpha_quadra>` quadra and so of Maher's own
+likely type, :doc:`ILE <ILE>`. Their types are :doc:`Conflictors <conflict>`.
+
+
+.. |symbol_p.gif| image:: Symbol_p.gif
+.. |symbol_l.gif| image:: Symbol_l.gif
+.. |symbol_e.gif| image:: Symbol_e.gif
+.. |symbol_r.gif| image:: Symbol_r.gif
+.. |symbol_f.gif| image:: Symbol_f.gif
+.. |symbol_i.gif| image:: Symbol_i.gif

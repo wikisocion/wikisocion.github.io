@@ -1,0 +1,100 @@
+Wikisocion EII composite
+===========================
+
+Ethical Intuitive Introtim, EII, |Fi| |Ne|, INFj, RI, Empath, Humanist, or archetype Fyodor Dostoevsky. 
+
+
+
+Ego Block
+-----------------
+
+With Fi blocked with Ne, EIIs have a strong personal value system and strive to embody their own ideals.
+
+1. Fi Introverted Ethics
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+EIIs are very attuned to the psychological atmosphere of interaction and to their own feelings towards people and things. They treasure deep feelings of attachment and strive to deepen emotional bonds between people and harmonize relationships. When those people that the EII is close to suffer emotionally, the EII will do everything in her power to raise the emotional condition in the individual, often at the EII's expense.
+
+EIIs are very capable of "sizing people up". They rely heavily on their instincts to understand the inner feelings of an individual. They are very empathetic people and find it very easy to feel with others. This makes them very sensitive to the moods of people, and they treat them the way they want to be treated, that is, with respect.
+
+2. Ne Extraverted Intuition
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+EIIs have a natural understanding of people's inner makeup and see what can be done with that makeup to bring them closer to ideals. EIIs have a very well-developed view of what people and relationships should be like and are able to help others reach those ideals.
+
+EIIs understand people very well. They often give good advice, and have a strong understanding of the inner workings of even the most complicated minds. They have well developed ideas concerning ideal emotional states for individuals, and always have advice as to how an individual can reach that ideal.
+
+One of the largest complaints of EIIs revolve around the idea of "wasted potential." A lot of their neuroses, and "drive," come from fears that they are not achieving the maximum possible ideal in a certain field or area of life. Unlike IEEs, though, EIIs consider "leveraging potential" more in terms of depth - mastery of one or several specific areas - rather than breadth.
+
+Super-Ego Block
+------------------------
+
+3. Ti Introverted Logic
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+EIIs are not easily able to abstract themselves from the human dimension and apply "cold" logic. When they try to do this, they easily become unsure if their reasoning is correct.
+
+EIIs feel that not everything can be classified under the system since everything has its unique individual attributes.
+
+4. Se Extraverted Sensing
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+EIIs are typically negligent of their surroundings and have difficulty keeping track of objects or constantly monitoring things and people around them.
+
+They can be passive and self-absorbed, often preferring to wait for things to happen rather than make them happen. As such, they tend to have quite a number of lost opportunities. To a certain extent, EIIs can be oblivious to hints from someone who is romantically interested in them. Therefore, this gives the other party the wrong impression that they are not interested in them.
+
+Outsiders often think the EII is oblivious to reality because they will often neglect basic needs. Although it is by no means necessary, this may also manifest itself as a general rejection or aversion to violence or force as a means or way of life.
+
+Super-Id Block
+------------------------
+
+5. Te Extraverted Logic
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+EIIs have a great admiration for people who are able to get things done neatly and efficiently in the outside world. They themselves consistently forget to consider whether their activities are actually achieving their intended goal, whether their time spent is bringing worthy proceeds, and whether their activities are organized in the most rational way. They subconsciously expect and appreciate it when others take interest in the effectiveness of their activities and helps to take an objective look at what they are doing.
+
+EIIs are usually very curious and thirsty for information. When they have an interest in a particular topic or subject, they will try their best to read anything and everything about it in order to gain a thorough understanding.
+
+They are willing to listen to anyone who is knowledgeable or has a brilliant idea to share regardless of whether that individual is an expert or authority in his/her field since they strongly believe that there are many perspectives in an issue.
+
+6. Si Introverted Sensing
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+EIIs tend to build up stress related to their work-related activities and go overboard in their attempt to be exemplary at work and in all other areas of life. They need people and situations to help them relax and take it easy and forget about their idealism for a while to just enjoy the moment as it is.
+
+EIIs can be prone to laziness and always seek the most convenient way in doing things. Moreover, rather than prioritizing their tasks based on their level of urgency or/and importance, they prefer to complete the tasks based on their liking and at their own pace.
+
+When they are preoccupied with a hobby, they tend to lose track of time and can be late with their appointments with others. As a result, they don't really have good time management skills.
+
+Id Block
+---------------------
+
+7. Fe Extraverted Ethics
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+EIIs can become expressive and very lively in groups for brief periods of time, but they always gravitate to deep, focused communication between two people or a small, close-knit group. They tend to shun wildness and prefer serious, more sensitive communication.
+
+EIIs are usually very straightforward about their feelings in front of others; what you see from them is what you get. Even at a party where everyone is supposed to be happy, they still find it hard to conceal their true feelings when they are in a bad mood. This can create distaste among the rest who feel that the EII is not cooperating by contributing to the positive and boisterous mood. This tends to lead others who don't know the EII well to have a misconception that he/she is a grouchy person by nature.
+
+8. Ni Introverted Intuition
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+The individual is quite adept at following discussions on the developments of present trends into the future and at contributing to them on occasion if he feels so inclined, but he does not take that as seriously compared to investigating possibilities in the areas he is interested in at present. He usually dismisses supernatural claims as being silly, wishful thinking, unless they happen to be related to the very specific religion he feels inclined to believe in and which he may be inclined to make part of his leisure activities.
+
+The individual is also not naive to future happenings. He will often warn others of negative consequences. In this way, he uses his Ni to help the PoLR of his dual. However, unlike an EIE, he will not often take his own advice nor expect others to. His Se PoLR makes it impossible for him to demand that others heed his advice, and his Ne-ego makes him place more value in the possibility that he is wrong - and that things will play out differently - than in avoiding foreseeable disasters.
+
+Common social roles
+----------------------------
+
+#. The person who is always exemplary and perfect in all he or she does, but is far more focused on achieving his internal ideal of perfection than achieving more concrete goals in life.
+#. The self-sacrificing martyr who hasn't found protection and refuge in life, and becomes the servant of a failing and hopeless cause. 
+
+.. |Ne| image:: Symbol_i.gif
+.. |Ti| image:: Symbol_l.gif
+.. |Ni| image:: Symbol_t.gif
+.. |Te| image:: Symbol_p.gif
+.. |Fe| image:: Symbol_e.gif
+.. |Se| image:: Symbol_f.gif
+.. |Fi| image:: Symbol_r.gif
+.. |Si| image:: Symbol_s.gif
+

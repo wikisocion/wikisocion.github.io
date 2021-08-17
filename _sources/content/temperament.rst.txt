@@ -1,0 +1,71 @@
+Temperament
+===============
+
+Attempts have been made to describe the socionic types in terms of
+temperament. First, some socionists after :doc:`Augusta <augusta>`
+correlated the four classical temperaments (melancholic, choleric,
+sanguine, and phlegmatic) with types, however, these attempts have not
+been widely accepted. The most well-known temperament system was
+introduced by :doc:`Viktor Gulenko <gulenko>` and puts the 16 types
+into four groups that share the same two traits of the
+:doc:`extroversion <extra_intro>` / :doc:`introversion <extra_intro>` and
+:doc:`irrational <ration_irration>` / :doc:`rational <ration_irration>` dichotomies. The
+same four :doc:`intertype relations <intertype>` exist between
+the types of any temperament: :doc:`identity <identity>`,
+:doc:`business <business>`, :doc:`super-ego <superego>`, and
+:doc:`kindred <kindred>`. In Russian the temperament names consist of two
+adjectives that describe common characteristics of these types, while in
+English a different notation has been used:
+
+-  :doc:`EP temperament <EP>` (Flexible-maneuvering)
+-  :doc:`EJ temperament <EJ>` (Linear-assertive)
+-  :doc:`IP temperament <IP>` (Receptive-adaptive)
+-  :doc:`IJ temperament <IJ>` (Balanced-stable)
+
+It should be noted that temperament in socionics has taken on a
+different meaning than in psychology. Compared to vague and abstract
+socionic concepts of temperament, temperament in psychology is defined
+more exactly, allowing for better empirical study.
+
+Nevertheless, socionic temperaments can play an important role in
+recognizing similarities between types that are all in different
+:doc:`quadras <quadra>` and :doc:`clubs <club>`.
+
+
+
+See also
+--------
+
+-  :doc:`Temperament (psychology) <temperament_psy>`
+
+
+.. list-table:: Small Groups
+    :header-rows: 0
+    :stub-columns: 1
+
+    * - :doc:`Quadras <quadra>`
+      - :doc:`Alpha <alpha_quadra>`
+      - :doc:`Beta <beta_quadra>`
+      - :doc:`Gamma <gamma_quadra>`
+      - :doc:`Delta <delta_quadra>`
+    * - :doc:`Clubs <club>`
+      - :doc:`Researchers <club_researchers>`
+      - :doc:`Socials <club_socials>`
+      - :doc:`Pragmatists <club_pragmatists>`
+      - :doc:`Humanitarians <club_humanitarians>`
+    * - :doc:`Temperaments <temperament>`
+      - :doc:`EP <EP>`
+      - :doc:`EJ <EJ>`
+      - :doc:`IP <IP>`
+      - :doc:`IJ <IJ>`
+    * - :doc:`Communication Styles <communication_styles>`
+      - Business-like
+      - Passionate
+      - Cold-blooded
+      - Sincere
+    * - :doc:`Romance Styles <romance_styles>`
+      - :doc:`Aggressor <aggressor>`
+      - :doc:`Victim <victim>`
+      - :doc:`Caring <caring>`
+      - :doc:`Childlike <childlike>`
+

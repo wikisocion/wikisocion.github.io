@@ -1,0 +1,522 @@
+DCNH Subtypes: Empirical Portraits by Vera Borisova
+========================================================
+
+| Published by Borisova Vera in Journal NSO, 1/2006.
+| `Original article <http://uralsocionics.ru/article/118>`__
+
+Introduction
+------------
+
+Anyone studying socionics sooner or later realizes the convenience and
+efficacy of the socionics model: the typical TIM features become
+strikingly evident, both in oneself and in others; through this model
+one can as least notionally imagine how other people think, feel, how
+they see the world, and how they are likely act or behave. However, only
+16 TIMs exist, whereas you won't find two exactly identical individuals
+in the human population. Armed with socionics, it is easy to see general
+similarities of representatives of the same type. But the more developed
+a person is, the more complex is his/her inner world and the richer the
+life experience, the lesser correspondence to type traits - and the more
+there is of the idiosyncratic.
+
+However, rejecting such a convenient thing as the socionic model is not
+wanted. Perhaps it is possible to somehow complicate, to refine, to
+detalize it? If we describe various "deviations" from the main TIM in
+the same socionic terms, we will arrive at a notion of "TIM within TIM".
+There is nothing complicated about this - looking at the model and
+comparing it with the actual person, socionists very often use
+expressions such as "ethical ILE" or "sensory ILI". If we now reduce all
+the observed "deviations" to a common line (strengthening of one
+function in the model, strengthening of the block; one can also
+introduce additional foundations not accounted for by the model - see
+subtypes by Gulenko's system), then we arrive at the classification of
+subtypes that allows to create a more detailed model of types.
+
+Thus, a subtype is a specifying, additional characteristic of the
+carrier of the TIM, that is based (mostly) on the variability of the
+operation of socionic functions within a single TIM.
+
+Up to date, several :doc:`Introduction to Subtyping Systems \| subtype classifications <subtype>` have been developed in socionics. Let us
+first consider the general principles of these classifications, and then
+several theories in greater detail.
+
+If we consider this process from some absolute-idealistic point of view,
+perhaps, all these specifying classifications look like an attempt to
+build a bridge of small wooden pieces - between the "technical" approach
+to type as a scheme or a model and humanitarian vision of the human
+personality. However, in practice the idealism is not particularly
+needed, but what is needed is a greater or lesser degree of
+approximation. Therefore, the subtyping system, as well as other
+classifications - work, sometimes better, sometimes worse, depending on
+the specific specific subjects. This article will talk about Victor
+Gulenko's system of subtypes. As has been mentioned in the primary
+source [2], these four subtypes are formed at the intersection of three
+pairs of qualities:
+
++-------------+--------------------------+--------------------------+
+|             | Contacting               | Distancing               |
++-------------+--------------------------+--------------------------+
+| Terminating | **Dominating subtype**   | **Normalizing subtype**  |
+|             | (connecting)             | (ignoring)               |
++-------------+--------------------------+--------------------------+
+| Initiating  | **Creative subtype**     | **Harmonizing subtype**  |
+|             | (ignoring)               | (connecting)             |
++-------------+--------------------------+--------------------------+
+
+We can learn from the same source, that:
+
+| 1) Qualities focused in subtype do not match the aspect filling of the
+  functions. Although it may appear that harmonizing - is something
+  ethical, dominating - is sensing, creative - is intuition, and
+  normalizing is something logical. However, in order for subtype
+  classification to serve as complementary to main socionic one, it is
+  better to not make such direct parallels [4].
+| 2) Subtype-forming qualities have no relation to socionic dichotomies
+  (both the principal dichotomies and Reinin ones). The essence of the
+  scale connecting / ignoring is in the principle of contact / feedback
+  from the environment: connector independently establishes connections,
+  strives to hold onto them, attaches, reacts not as much to the
+  positive than the negative impulses, in an effort to convert them
+  ("why is he not paying attention to me? he must be engaged!"); ignorer
+  operates on the principle of mirror response: "as you react to me, so
+  do I react to you". V. Gulenko used the scale terminating / initiating
+  for distinguishing two subtypes, correlating it with the strengthening
+  of the 1st function (terminal subtype) or 2nd function (initial
+  subtype) [5]. The main difference, however, is that the initial
+  subtype starts (initiates, triggers), and his performance is higher at
+  the beginning but to complete the work difficult for him. For the
+  terminal subtype it's more difficult to start on something, but
+  towards the end of his performance increases.
+| 3) There are complementary pairs of subtypes. This is dominating -
+  normalizing and creative - harmonizing. Other combinations are less
+  comfortable, less effective, etc.
+| Again, given the similarity of the alleged scales of subtypes with
+  socionics ones, the compatibility laws are quite similar. 4) In
+  contrast to the main type, subtype can change during one's lifetime,
+  and not once.
+| But still rarely, since such a change requires serious causes - a
+  strong external impact or internal work on yourself (and most likely,
+  both of these factors together).
+
+Actualization
+-------------
+
+When there is discussion about strengthening of one or another function,
+aspect, block (in the framework of one type), this phenomenon is often
+referred to by the term "accentuation" or "emphasis", meaning that there
+is an accent on a particular function.
+
+I would like, firstly, to replace the concept of "accentuation" with the
+word "actualization", and secondly, to introduce (and differentiate) the
+concepts of content and structure actualization.
+
+The fact is that the concept of "accentuation" is used in psychology to
+describe pathological anomalies of character in rather extreme
+variations, which resemble psychopathy and are typologically similar to
+them [6]. Thus, it is better we do not use this term, in order to
+prevent the growth of entropy. Actualization (in general) on a
+particular information aspect (or block) - is a strengthening for a
+given subject of the value of the semantic content of this aspect, the
+concentration of attention on this reservoir of information about the
+world, a conscious (or spontaneous) return to a point of view through
+the prism of this particular aspect and the information which according
+to this aspect the subject already possesses.
+
+The main idea of "actualization" is in a temporary reinforcement of
+something (some function, block, etc.) in connection with the current
+needs (external or internal).
+
+Accordingly, "content actualization" is the distinction or amplification
+of a particular aspect, regardless of its place in the structure of type
+model. "Structural actualization" is the actualization of an aspect that
+occupies a certain place in the model, i.e. the actualization not of
+aspect but of function. The primary thing here is not the information
+content of the aspect, but the "strategy"that is implemented by the
+actualized function. For example, the role function adapts to the
+behavior of others; vulnerable function "believes" that the constant
+presence of some discomfort is the norm, etc. It should be noted that
+one person, at any given point in time, may have several actualizations.
+
+My hypothesis is the following: subtype is associated not with the
+content filling of this or that aspect but with the structural
+particularities of the typological model. Specifically - the dominating
+subtype shows additional accentuation of base function (possibly, at the
+expense of weaker functions), creative - creative function, normalizing
+- role function, harmonizing - vulnerable function. Here, we are talking
+about structural actualization, i.e. about the transfer of strategy of
+actualized function on person's behavior in general.
+
+
+
+Dominant Subtype
+----------------
+
+*I came, I saw, I conquered.*
+
+The brightest, most vivid subtype -- within the limits of type, and in
+general.
+
+This subtype has greatest similarity to its type's descriptions. A
+nuance: Dominant subtype introvert is more extraverted (particularly not
+in a socionics understanding, but in Eysencks understanding, i.e.
+lively, sociable, and outgoing), but still displays pronounced typical
+features of his type. If a typical introvert, upon getting tired of
+communicating, will just go "hide in a corner", the Dominant subtype
+will drive everyone away and still be grumbling loudly, saying,
+"Everyone keeps walking around here!"
+
+This subtype is the one most likely to self-actuate, especially in the
+socio-cultural sphere; I think that most famous people, i.e. well-known
+actors, writers, politicians, etc. fall into the Dominant subtype.
+
+In a group this subtype is also the most (bright, strong, intelligent
+depending on the base type). The logical type - is "the most
+intelligent", the ethical type - is the most excitable, the sensing type
+- takes up the most space. That is, the sphere of his "achievements" and
+the specific way in which he attracts attention to himself and becomes
+the leader depends on main type. Dominant subtypes take the leadership
+explicitly, especially if they are ethical, sensing, or extraverted.
+Logical-intuitives do not always deliberately seek to lead, but feel
+that they must: "so that no idiot can order me around".
+
+If the Dominant subtype leaves the room, an impression is created is
+that not one person but most of the people have left.
+
+Among people of the Dominant subtypes, if they end up in the same group,
+there arises a strong competition, even if their intertype relations are
+quite comfortable, and there is no serious "reason to fight".
+
+The easiest way to say it is that the Dominant subtype, firstly, pulls
+attention to himself, and secondly, "gives orders". Furthermore, he is
+blunt, if he uses some sort of manipulation, it is rather crude. Usually
+he just says what he needs from you. This infuriates everyone except
+Normalizing subtypes. In commanding and giving orders, the Dominant
+subtype does not simply provide a task, but with his confidence he
+provides the energy needed to perform it. It is possible to "go a long
+way" on his energy, by simply joining his initiatives and helping him
+implement them (but, of course, go only the way where the Dominant needs
+you to go).
+
+Strangely enough, the Dominant subtype calmly responds to minor
+quibbles, to the requests (of Normalizing subtype) to adhere to a
+specific order. And even actually adhere to it! If there is no person of
+Normalizing subtype nearby, the whole disorder or mess gets sent to the
+furnace or into the trash, and that's all.
+
+The 1st function the Dominant subtype works "at full steam" and even
+more. In that sense, it's not just hidden somewhere processing
+information  in Dominant subtype it is evident at all times. If this is
+Te, he is not just busy all the time: he is working on three jobs, and
+during the breaks he talks and teaches others what they should be doing.
+If, however, he isn't working, then he thinks of various actions in his
+imagination, and then, once again, talks about it, aloud and loudly,
+with confidence and an air of authority. (To imagine this, multiply the
+usual manifestations of the base function by three.)
+
+If, say, we're dealing with the Dominant subtype of Hamlet (EIE), this
+is not just emotions, but such emotions from which the whole group is
+seriously wound up, while the EIE is not even doing anything, sitting
+quietly.
+
+| The Dominant subtype of Yesenin (IEI) manages to command what you
+  should do.
+| The Dominant subtype of Balzac (ILI) is energetic and rudely
+  sarcastic.
+| The Dominant subtype of Dostoevsky (EII) is a kind of "an iron fist in
+  a velvet glove": after a demonstration of softness and ethics from
+  this person emerges an equally demonstrative condemnation and desire
+  to "educate".
+
+
+
+Creative Subtype
+----------------
+
+*Everyone wants to be unique. I'm not like that.*
+
+The Creative subtype, conversely, is the least similar to its main type
+description. It is the most flexible subtype. There is a strong
+inclination toward "Mirror" type, as though the 1st and 2nd functions
+have switched places. The introvert is similar to the extravert, and the
+extravert to the introvert. And in general, all characteristic type
+features seem to be diluted and watered down for the Creative subtype.
+
+It seems that for Creative subtype the intertype relations are also
+"watered down"  as he conducts himself "outside the box" by the
+standards of his type.
+
+Creative subtype, one way or another, finds himself in the sphere of
+ideas and creativity, and this doesn't have to be something artistic
+it may well be scientific or a hobby; generally, a creative element is
+introduced into any pursuit, otherwise the Creative subtype feels
+uninterested. If someone else's result or product comes into his hand,
+the Creative subtype will remake, "improve it", think it over.
+
+For Creative subtype it is easiest to show and realize himself over the
+2nd function, but in principle, other variants are possible.
+
+On another note, if the result or product of the Dominant subtype is
+immediately demonstrates and "hyped up"  the Creative subtype can
+easily create "for himself", to write knowing his writing won't get
+published, or for a narrow circle of those for whom it may be needed or
+interesting.
+
+The Creative subtype is not very discerning of various social-relational
+games, but he doesn't protest if he gets pulled into such a game.
+
+He easily takes off, "a person with eccentricities", capable of an
+unusual and generally foreign to his sociotype actions (for example, an
+LII who doesn't only go hitchhiking himself, but also takes his wife and
+children along for the trip).
+
+The Creative subtype is not interested in anything besides that which is
+truly interesting to him  in the sense that he ignores everything else
+(passively or actively). Including people (for Creative subtypes of
+logical types: "those people are like wooden poles"). May actively
+renounce something if it hinders him personally. By these means,
+Creative subtype "slips by", since a renounced topic is not important to
+understand because it's outside the scope of his interests.
+
+Creative subtype attitude towards norms or standards is negative or
+indifferent, which is especially clearly displayed on the aspect of role
+function: that is, a person of Creative subtype does not strive to abide
+by "generally accepted" standards. (Julia (Balzac) was genuinely
+surprised at my attempt to wash the fruit bought at the market  what
+for? At my explanations "So that they are clean", and that "I may eat
+unwashed fruit, but they should be given to a small child" Julia just
+waved her hand dismissively.)
+
+
+
+Normalizing Subtype
+-------------------
+
+    He rarely drank, he was not rude.
+
+    Such luck, girls, only happens once.
+
+    One thing was perplexing: he would brush his teeth
+
+    And then he never closed the tube.
+
+    Well, I didn't pay attention to this at first.
+
+    This man was sent to me from heaven.
+
+    And like a woman I forgave him.
+
+    Everything, even the tube, damn it.
+
+    And he, while drawing, went into nirvana:
+
+    Then suddenly he hugs me - I love you, he says, and that's the end!
+
+    Then suddenly, the mischevious man, he drags me into the bath,
+
+    And there... lies the open tube of toothpaste!
+
+    And I, like a fool, washed his socks.
+
+    And put boullion cube into the soup
+
+    And all I have asked for, all I pleaded for, was:
+
+    "When you've brushed your teeth - close the freaking tube!"
+
+    And he, the bastard, retorts as if on purpose:
+
+    ""All this, Glasha," he says, "is unimportant."
+
+    Tell me, girls, is it possible
+
+    To love and shit at the same time?
+
+    From resentment I went to the neighbor.
+
+    Since the neighbor has dentures,
+
+    And on the shelf a tube of "Blendamedu"
+
+    Lies closed. How wonderful!
+    
+    [Viktor Tretyakov. "Tube."]
+
+Normalizing subtype, truly, tries to order everything that is within his
+sphere of direct action or influence. "All the pot handles must point to
+one side"  this quote from the autobiography of Khmelevskoy (about her
+husband) ironically but accurately characterizes the Normalizing
+subtype. However, the sphere of ordering has a clear boundary: that
+which is inside is "mine", "that with which I can identify with". "My
+house," "my job," etc. This "mine" must stay in a specific order, that
+is introduced by the Normalizing subtype. This order may or may not be
+visible to third-party observers. Regardless of this, any violation of
+order is perceived as troubling, much like a pebble in the shoe.
+
+Things that symbolize order - compartment trays, cases with partitions
+(for screws, for example), sets of identical items (jars of spices,
+dinnerware), drawers, cabinets, holders, organizers - delight the
+Normalizing subtype.
+
+Any activity the Normalizing subtype begins with establishing order,
+structure, designation of boundaries, methods and deadlines. He is very
+efficient and diligent. He is not afraid of monotonous work,
+"nit-picking", polishing and finishing work begun by someone else. It is
+difficult for him to start on a task, but once he "gets into it" the
+rest proceeds much better. It is much more pleasant to work when "the
+end line" is visible, when the bigger part has already been
+accomplished.
+
+If there is no opportunity to "bring order", the unsettling feeling can
+be dispelled by means of moving the "mess" beyond the borders of what is
+"mine". "Other people have a right to as much as much disorganization as
+they wish, and it's none of my business." This happens when someone else
+has the right to the territory or activity, or when the activity is
+shared but the partner who opposes organization. Then the Normalizing
+subtype goes into "whatever you say, I will do" mode, by force of his
+will erasing the image of mass chaos from his awareness.
+
+In general, leaving the situation is a common way for Normalizing to
+solve the problem. Normalizing subtype's method of fighting and
+expressing protest and disagreement - passive observation and inaction -
+are designed for the Dominant subtype; however, this may also be a sign
+of lack of energy (interest, time, etc.). In this case the Dominant
+subtype will add more energy, and then it becomes clear either the
+Normalizing subtype does what the Dominant subtype wants from him, or he
+will leave his influence and move away.
+
+In comparison with other subtypes, Normalizing subtype is dull,
+inexpressive, boring. But balanced and "thick-skinned", as the
+Normalizing-Dominant pair is in general. Doesn't easily take offense or
+show initiative. His motto is: "Let's see how you will show yourself."
+
+He analyzes, weighs, estimates all the plusses and minuses. In
+relationships he by default leaves much to the discretion of his
+partner, though he makes notes to himself of the type "shouldn't try to
+resolve business questions with this person", "this information is not
+to be trusted", etc. Thus, ngative relations the Normalizing subtype
+formulates as: "Don't associate/become tied to this person!"
+
+Does not strive to participate in competitive struggle, is not
+ambitious. This does not mean that he doesn't grow as a person and
+develop further  he fully develops and improves, for example, in
+professional work; he is diligent and strives to do his job as well as
+possible. However, the realm of ambitions he leaves to the Dominant
+subtype, not even trying to compete with him (or with anyone in
+general). He prefers to be second.
+
+Cleaning for the Normalizing subtype is means for removing discomfort.
+When "something is wrong", he begins to clean up his living space (the
+main thing here is not "to wipe off dust and mud", but "to arrange
+things in their places").
+
+With logical types of Normalizing subtype it is especially noticeable
+how each thing has its place in their houses, and by default gets put
+there. The "order" of ethical types is more difficult to track down;
+however, try moving anything from place to place in Normalizing
+subtype's apartment, and immediately - by the reaction of owner - it
+will become clear that these things weren't put there haphazardly.
+Moreover the person of Normalizing subtype will not curse or scold, but
+he will simply immediately move everything "as it should be". Although
+he might perhaps frown.
+
+The Normalizing subtype calls for carrying out norms and rules that have
+to do with his own role function (other types, of course, also adhere to
+norms of their role function, but with Normalizing subtypes this is more
+noticeable, especially requiring the same from others). For example,
+Normalizing Dumas (SEI) is adamant in his wish that guests do not arrive
+late, Normalizing Balzac (ILI) will make sure that everyone washes their
+hands before eating, and Normalizing Jack (LIE) calls for control over
+emotions: "We were worried, but that's enough!"
+
+
+
+Harmonizing Subtype
+-------------------
+
+*Most important is the weather in the house*
+
+Quite lively and recognizable by his main type's description, however,
+in comparison with the classic type description he is "suspiciously"
+nice. It seems that the negative traits of a sociotype have no relation
+to the harmonizing subtype.
+
+Soft and delicate; although these qualities are somewhat limited by the
+capabilities of the type. That is, an ethical type of Harmonizing
+subtype is usually a very ethical person. He always wants to do
+something so that everyone is well. Even a logical type, but with
+logical type for some reason it turns out to be "he wanted to do best,
+but it turned out as always".
+
+In contrast to the Normalizing-Dominant dyad, Harmonizing and Creative
+is a complementary pair with a "delicate structure of the soul".
+Especially, of course, the Harmonizing subtype: sensitive, worrying,
+touchy, altruistic, self-sacrificing.
+
+Like the Dominant subtype, the Harmonizing subtype functions as a
+connector, that is, he establishes the necessary links to the
+environment. But where Dominant does so crudely and directly,
+Harmonizing does so by careful manipulation (he is capable of
+manipulation that provides multiple moves, for the purpose of making
+another person become well).
+
+The Harmonizing subtype monitors social desirability and conforms to it.
+("A gentleman is that man who calls a cat a cat, even having stepped on
+it in darkness") This especially applies to relational and gender
+stereotypes. Moreover, if the Harmonizing subtype has armed himself with
+a gender stereotype, he doesn't simply behave in accordance with it, but
+moves it closer to an ideal. This is the Ideal Man ("I'm going to earn
+money for my beloved!") or an Ideal Woman.
+
+The Harmonizing subtype doesn't really want to do something "for
+himself". Now, if it was for a close person, then  anything they wish.
+Always ready to help, to go for agreements and compromises, often
+thereby inconveniencing himself. Often he lives with a sensation of
+discomfort and stress, and consciously goes for this. If something is
+coming together on its own - this isn't sufficiently valuable to him.
+But if he does something for someone else, that's he didn't wish to do -
+this will be a significant Good Deed. Therefore Harmonizers are often
+doing something with their painful function. When people talk about PoLR
+as a "secondary creative function", this is about Harmonizing subtype.
+
+The Harmonizing subtype cannot stand it when anyone argues or scolds, or
+disharmonizes their environment somehow. Here again he tries to help, to
+fix the situation, since it makes him feel badly.
+
+He is well aware of how he must behave so that others won't feel badly.
+Evaluates those around him from the point of view of the ethicalness of
+their behavior, strives to educate them. Worries and feels himself bad
+if he has committed some unethical act.
+
+The Harmonizing subtype finds it difficult to insult people "directly",
+to fault and accuse a person even if he/she has deserved it. He either
+tries to express his displeasure and resentment delicately, or he keeps
+silent and sulks. Even when it is already evident that he thinks poorly
+of someone, it is put across something like this: "I think poorly of
+you, but for the sake of our good relationship, I won't say anything
+about it". As a result, a "delicate hint" coming from harmonizing can be
+much more offensive than a direct "attack". For example: "Thank you for
+the lack of birthday congratulations. It was very nice, ladies and
+gentlemen." The Dominant subtype would have said: "It's my birthday!
+Quickly, everybody congratulate me!" And no problem
+
+Or another situation - a guest hasn't taken off his shoes at the
+entrance as the home owner would have liked. The Dominant subtype puts a
+stop to this business at the root: you won't have time to enter, you
+will immediately be told where to remove your boots. ("Where are you
+going? Stop! - they will say.) The Normalizing subtype will mutter to
+the side: "Why is it that everyone walks in their boots past the green
+rug, which is is the size of the entire lobby?" (and he himself will put
+the shoes where they must go). The Creative subtype might not notice
+anything; or he will notice, but consider it too unimportant to say
+anything about it. But the Harmonizing subtype will keep silent out of
+delicacy, but will remember: "how could a guest enter in his shoes, is
+he a bad person?!"
+
+
+
+See also
+--------
+
+-  :doc:`Subtyping Systems <subtype>`
+-  :doc:`Theory of Subtypes: DCNH System by Victor Gulenko <DCNH>`
+-  :doc:`Accentuation of Functions <accentuation_of_functions>`

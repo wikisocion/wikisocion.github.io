@@ -1,0 +1,386 @@
+Process and result
+==========================
+
+**Process** / **Result**, also known as **Right** / **Left** or
+**Evolutory** / **Involutory**, is one of the 15 `Reinin dichotomies <reinin_dich>`.
+
+
+Process and result types
+------------------------
+
+-  The process :doc:`IM types <socionic_type>` are : :doc:`ILE <ILE>`,
+   :doc:`SEI <SEI>`, :doc:`EIE <EIE>`, :doc:`LSI <LSI>`, :doc:`SEE <SEE>`,
+   :doc:`ILI <ILI>`, :doc:`LSE <LSE>`, :doc:`EII <EII>`.
+-  The result :doc:`IM types <socionic_type>` are : :doc:`ESE <ESE>`,
+   :doc:`LII <LII>`, :doc:`SLE <SLE>`, :doc:`IEI <IEI>`, :doc:`LIE <LIE>`,
+   :doc:`ESI <ESI>`, :doc:`IEE <IEE>`, :doc:`SLI <SLI>`.
+-  Using the :doc:`four-letter code <type_names>`: Process types are
+   xNTP, xSFP, xNFJ, xSTJ. Result types are xSFJ, xNTJ, xSTP, xNFP.
+
+
+
+Typical characteristics
+-----------------------
+
+Process types
+~~~~~~~~~~~~~
+
+#. Do things sequentially, from the beginning to the end.
+#. Immersed to a process and inclined to single-tasking.
+#. Focus between the beginning and the end of processes.
+#. More inclined to read texts on books or computer from beginning to
+   the end.
+#. "Of course the answer is right, since we followed the correct
+   procedure."
+
+Result types
+~~~~~~~~~~~~
+
+#. Do things randomly, seemingly doing them from the end to the
+   beginning.
+#. Detached from processes and tends to multitasking.
+#. Focus on the beginning and the end of processes.
+#. More inclined to read texts on books or computer randomly, maybe
+   reading random paragraphs or chapters.
+#. "Of course we followed the correct procedure, since we got the right
+   answer."
+
+Extended characteristics
+------------------------
+
+
+Description from :doc:`2003 Study of Reinin traits <reinin_study>`
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+As a result of "renaming" of this dichotomy by V. Gulenko, confusion
+arose. In A. Augustinavichjute [2] and G. Reinin [5] this dichotomy is
+called "left - right" (Leftists types are ILE, SEI, EIE, LSI, SEE, ILI,
+LSE and EII; Rightists types are ESE, LII, SLE, IEI, LIE, ESI, IEE and
+SLI). We utilized in this article the more contemporary "opposite"
+designations of V. Gulenko and T. Prokofieva (Leftists/Result types are
+ESE, LII, SLE, IEI, LIE, ESI, IEE and SLI, Rightists/Process types are -
+ILE, SEI, EIE, LSI, SEE, ILI, LSE and EII). As the names of the
+attributes do not determine the attributes themselves, the changing of
+the names is an insignificant detail, but still mentioned in case one
+encounters different classifications.
+
+Process
+^^^^^^^
+
+-  Process types perceive themselves "within the process", they
+   "immerse" into it, become a part of it. Because of this, they have
+   great difficulty managing several processes at once.
+-  Process types perceive the process as something whole, integral,
+   inseparable. They tend to follow through its course without
+   switching, as it is difficult for them to return to previously
+   started then abandoned processes (for them, returning back to the
+   track from which they "switched off" and continuing where they left
+   off is equivalent to starting anew).
+-  Lexicon: frequent use of word "process".
+
+Result
+^^^^^^
+
+-  Result types place themselves "outside of a process", they dissociate
+   from it. For them the situation, the process (what they are doing) is
+   something external to themselves, managed from aside. Because of
+   this, Result types can deal with multiple tasks/affairs
+   simultaneously, tracing the beginning and end of each (it is easier
+   for them to oversee several processes at one time).
+-  Result types are inclined to make intermediate and final estimates,
+   to sum up the results or outputs. They are oriented towards the
+   result i.e. the finishing point of a process. They experience
+   discomfort if the matter in which they are involved does not have a
+   clearly delineated result. This happens because these types put
+   themselves outside of a process, thus they poorly monitor its
+   progressionthey use intermediate and final "result" estimates to
+   track the natural flow of the process.
+-  Lexicon: in speech they often use words "beginning", "end", "stage",
+   "interval", "result".
+
+**Notes**
+
+#. The basic difference between Process and Result types lies in their
+   approach towards a situation or a process correspondingly from
+   "within" and "without", while orientation towards "process" or
+   "result" is a secondary aspect of this. For the Result types, making
+   estimations (the summing up of the process) is a tool they are forced
+   to use in order to feel the flow of the process. The Process types,
+   on the other hand, can "hang on" to a process because they do not
+   wish to "switch off" and lose contact before its completion when some
+   outcome is achieved.
+#. The hypothesis about perfectionism of Process types was not confirmed
+   by this experiment. Most likely perfectionism is a personal trait
+   that is not connected to this attribute.
+
+**Hypotheses**
+
+This dichotomy is based on the features of placement and distribution of
+attention as a mental function. It is possible that Process types have
+have a greater level of stability and concentration of attention
+(ability to focus on a single topic for prolonged period of time, even
+in presence of distractions). Result types show an ability to
+"distribute" their attention (to simultaneously pay attention to
+multiple topics) and to "shift" their attention from one topic or
+activity to another.
+
+**Examples**
+
+*Right/process:* "Finishing something is not easy, it us also not easy
+to start something, but the most difficult thing is to return to the
+middle of something I've abandoned long time ago" "I read the book to
+the end of the chapter and a several pages into the next chapter... the
+thought of something coming to an end is frightening." "God forbid that
+I start a game of solitaire, I will "hang" with it for a long time
+(regarding a computer game)" "It is difficult to force myself to
+undertake a task, but afterwards it just rolls forward by itself."
+
+*Left/result:* "The matter at hand must be known. If estimations are not
+final, they must at least be intermediate." "It is very interesting for
+me to start or complete a matter... I like visualizing a finished
+project or task." "The most horrible thing is when something just won't
+end." "I feel like a juggler; in my handsseveral activities
+(processes). I am aware of two pointsthe beginning and the end." "Why
+can't you simultaneously listen and eat?"
+
+Description from :doc:`Forms of Cognition <cognitive_styles>` by V. Gulenko
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+In its most general form, I understand this dichotomy as ProcessResult;
+or by its other informal name, RightLeft. More precisely, I refer to
+the designated Latin words 'evolutio': "developing outward" and
+'involutio': "coalescing inward."
+
+Intellectual Level
+^^^^^^^^^^^^^^^^^^
+
+Describing EvolutionInvolution at this level will initially contrast
+deductive vs. inductive thinking. Unfortunately, the bulk of literature
+on this cognitive dichotomy treats it in at least two different senses.
+In the first sense, deduction is understood simply as a strict formal
+sequence or expository progression of thought (aka Socionics
+rationality), while induction is understood as conclusions stemming from
+practical experience (aka Socionics irrationality).
+
+**I will frame this dichotomy in the second sense, namely as
+simplification vs. complication of thought structure**. Meaning that in
+deductive thinking, given a set of simple and obvious statements
+(axioms, postulates), the resultant consequences can be necessarily
+derived (theorem). Reasoning flows in the direction of simple to
+complex. Evolutionary types therefore mentally complicate the situation.
+
+In inductive thinking reasoning proceeds the other way around. Observing
+and comprehending complex phenomena, inductive thinking reduces them to
+generalized diagrams and models stripped of details. Involutionary types
+break down and simplify the situation in order to understand it.
+Reasoning flows in reverse order from complex to simple.
+
+The EvolutionInvolution dichotomy confers different scales of
+examination in a problem. Evolutionary types see small to large. Details
+are distinct. Scale is specific and precise like geographical map.
+Involutionary types on the other hand, see large to small. Details are
+vague. Scale is general and broad. The scale will alternate in
+Negativists, since they think more alternatively, but the same priority
+will remain.
+
+It is worth noting that deductive thinking has always had priority in
+society over inductive thinking. Constructing a deductively consistent
+theory to explain a phenomenon, has always been seen as a researcher's
+coup de grace.
+
+Social Level
+^^^^^^^^^^^^
+
+On the social level, differences between these approaches can be
+contrasted as naturality/artificiality. By 'naturality' I refer to
+primal behavior inherent to nature, and by 'artificiality' I refer to
+behavior accepted by society. For example, in nature, survival of the
+fittest is law, whereas in society, protection and care of the weak is
+cultivated.
+
+From this stems distinctions in one's attitudes towards people in close
+or distant circles. In the life of Evolutionary types, reputation plays
+a much greater role. Opinions of others in external society tend to be
+more important to them than opinions of friends or relatives.
+Involutionary types depend less on social appraisal. They are more
+accommodating towards people of their inner circle, whose opinions they
+hold in higher esteem than those of public approval or disapproval.
+
+There is a habit in Involutionary types to abruptly curtail
+conversations. They do not simply cut off communication, but
+specifically wind it up, quickly finish, or summarize what has been
+said. They may also suddenly deflect onto tangents, then flip back to
+the topic at hand. Evolutionary types may interpret this mannerism as a
+sign of tactlessness, disinterest, or resentment.
+
+Psychological Level
+^^^^^^^^^^^^^^^^^^^
+
+EvolutionInvolution, along with other dichotomies, influences a key
+parameter of stress in the psyche: Control of asymmetry in the
+excitatory/inhibitory processes of the nervous system.
+
+Evolutionary types recover more slowly from stress than Involutionary
+types. Their inhibitory processes are less amenable to conscious control
+than their excitatory processes, hence their tendency to dwell on
+personal issues. After being pulled in by any process, they are often
+unable to get out of it. Which can lead to gambling, drug use,
+alcoholism, or other vices, even Internet-addiction.
+
+Consequently, susceptibility to conditioning is higher in Evolutionary
+types than in Involutionary types. Conditioned responses require
+movement along a single path, without possibility of turning around or
+deviating from the imposed route. One of the inhibitory mechanisms of
+conditioning is phobia (obsessive fear). Imagine not being able to rid
+yourself of thinking you will definitely fall on a slippery road. This
+is an example of a phobia. And then you actually do end up falling, even
+if wearing mountain-climbing boots. According to my observations,
+Involutionary types do not seriously suffer such phobias.
+
+Thus, Involutionary types more rapidly and less painfully get rid of
+illusions, imposed opinions, suggested thoughts, fanatic states, etc. It
+is because of EvolutionInvolution differences that quadras are split
+rings of social progress are formed.
+
+Physical Level
+^^^^^^^^^^^^^^
+
+The EvolutionInvolution dichotomy manifests on the lower level of
+communication through an orientation towards either process or result.
+
+Evolutionary types are more inclined to procedure, which involves
+careful study of details. They are subject to the logic of the
+development process, which assumes motion from beginning to end and top
+to bottom.
+
+Involutionary types rush to obtain a result, frequently neglecting
+details of the process, which reduces overall quality. Such behavioral
+patterns lead to a tolerant attitude towards returns and corrections.
+They don't mind accepting suboptimal, but convenient solutions. They are
+characterized by backward motion, from end to beginning and from bottom
+to top.
+
+Let me illustrate this by an example of reading books. Glancing
+immediately at the end or bottom part of the page is characteristic for
+Involutionary types. Reading in reverse order does not deprive them
+pleasure of novelty, on the contrary, it stimulates their activity in
+assimilating information. Involution shouldn't be confused merely with
+impatient skimming ahead, after which one continues smooth reading.
+
+Sharpness of movement is observed in Involutionary types, along with
+sporadic shifting from one activity to another. These sudden shifts
+overtly contrast to the smoothness of Evolutionary types. In traditional
+Socionics, sharp movements are attributed to Rationality. In my opinion,
+however, this quality is more determined by Involution. For
+counterexample, consider the Evolutionary Rational types *LSI* and
+*EII*, whose motions are characteristically soft and smooth. Yet the
+nature of movement in Involutionary Irrationals *SLE* and *IEE* is so
+sharp that training them smooth movement is practically impossible.
+
+To clarify the fundamental distinction between Involution and Evolution,
+the following analogy will help. In biology, catabolism and anabolism
+are the two sides of organic metabolism. Catabolismthe breakdown of
+complex compounds to release energy and the elimination of decay
+products from the organismcorresponds to the role of Involutionary
+types in group dynamics. Anabolismthe assimilation from the external
+environment of substances necessary for life and their transformation
+into more complex compoundscorresponds to the communicative role played
+by Evolutionary behavior.
+
+Additional Commentary and Notes
+-------------------------------
+
+Note: Process/Result trait is sometimes mistaken for intelligence level
+of a person, as well as their natural tendency towards terseness or
+prolixity. Victor Gulenko has described Process types as having an
+inclination to "mentally complicate the situation". Following this
+reasoning, some typers attempt to draw direct correlations between
+capacity for complex reasoning, tendency to debate complex topics, high
+verbal intelligence and wordiness with Process trait, and conversely,
+terseness and simplistic low intelligence reasoning to Result trait. The
+complexity of thought that a person is capable of, as well as their
+verbal aptitude, are not directly related to this socionics traits, and
+care should be taken to not mistake the two.
+
+Result types grasp the full picture at first, and this vision can quite
+rich and complex due to person's innate high intelligence or crude and
+shallow if their intelligence is below average, however in both cases it
+takes them a long time to attain this broad grasp. Once they learn all
+that they needed to learn, it could be said, especially for Result
+Ti-valuing types, that they end up being "above the system", surveying
+it whole as if from the top or from a distance, zooming in only later to
+inspect its parts and details. While Process types associate with
+internal processes, and end up being inside of the system, which they
+see alike different pathways or lines that branch out in different
+directions.
+
+Result types do have a tendency towards terseness and "speaking in
+conclusions" which they may be reluctant to expand. This sometimes is
+taken as signs of low intellect. However, if required or prompted for
+it, they can provide their full reasoning and supporting examples or
+evidence, but they do so later, and often only with necessity,
+preferring to conserving energy otherwise.
+
+One method for distinguishing Process and Result types from written text
+is to look for signs of :doc:`inductive vs. deductive reasoning <waves_aging>`
+in writing.
+
+Additional Links
+----------------
+
+-  :doc:`On the Essence of Vectors of Social Progress by Dovgan <vectors_progress>` -
+   further explanations and extrapolations of this dichotomy.
+-  :doc:`On Waves of Aging and Renewal: Progress Orientation in Combination with Jungian
+   Aspects <waves_aging>` by Victor Gulenko.
+-  :doc:`Video Lecture: Why Right Types are More Susceptible to Suggestion <gulenko_lectures>` by Victor Gulenko.
+-  `Sociotypograph  determine your sociotype by Renin dichotomies <http://zhilkin.com/socio/en/>`_.
+
+Theoretical properties
+----------------------
+
+-  Process :doc:`IM types <socionic_type>` are either intuitive-logical,
+   logical-sensing, sensing-ethical, or ethical-intuitive.
+-  Result :doc:`IM types <socionic_type>` are either ethical-sensing,
+   sensing-logical, logical-intuitive, or intuitive-ethical.
+
+.. warning::
+   **The use of** :doc:`plus and minus <plus_minus>` **IM elements is not supported by all socionists. Many see them as being logically superfluous.**
+
+   -  Process :doc:`IM types <socionic_type>` have a plus element in :ref:`base function <leading-func>`.
+   -  Result :doc:`IM types <socionic_type>` have a minus element in :ref:`base function <leading-func>`.
+
+.. list-table:: Type :doc:`dichotomies <dich>`
+   :header-rows: 0
+   :align: center
+
+   * - |jp|
+     - |EI|
+     - |NS|
+   * - |TF|
+     - |SD|
+     - |PR|
+   * - |PN|
+     - |AD|
+     - |CE|
+   * - |CF|
+     - |YO|
+     - |TS|
+   * - |MS|
+     - |JD|
+     - |AD|
+
+.. |EI| replace:: :doc:`Extraversion and introversion <extra_intro>`
+.. |DA| replace:: :doc:`Democratic and aristocratic <democratic_aristocratic>`
+.. |TS| replace:: :doc:`Tactical and strategic <tactical_strategic>`
+.. |CE| replace:: :doc:`Constructivist and emotivist <constructivist_emotivist>`
+.. |PN| replace:: :doc:`Positivist and negativist <positivist_negativist>`
+.. |JD| replace:: :doc:`Judicious and decisive <judicious_decisive>`
+.. |MS| replace:: :doc:`Merry and serious <merry_serious>`
+.. |NS| replace:: :doc:`Sensing and intuition <sensing_intuition>`
+.. |TF| replace:: :doc:`Ethics and logic <ethics_logic>`
+.. |jp| replace:: :doc:`Rationality and irrationality <ration_irration>`
+.. |CF| replace:: :doc:`Carefree and farsighted <carefree_farsighted>`
+.. |YO| replace:: :doc:`Yielding and obstinate <yielding_obstinate>`
+.. |SD| replace:: :doc:`Static and dynamic <statics_dynamics>`
+.. |PR| replace:: :doc:`Process and result <process_result>`
+.. |AD| replace:: :doc:`Asking and declaring <asking_declaring>`

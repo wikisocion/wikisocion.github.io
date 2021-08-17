@@ -1,0 +1,345 @@
+<!doctype html>
+<html class="no-js">
+  <head><meta charset="utf-8"/>
+    <meta name="viewport" content="width=device-width,initial-scale=1"/>
+    <meta name="color-scheme" content="light dark"><link rel="index" title="Index" href="../genindex.html" /><link rel="search" title="Search" href="../search.html" /><link rel="next" title="Wikisocion SEE composite" href="SEE_comp.html" /><link rel="prev" title="Wikisocion EIE composite" href="EIE_comp.html" />
+
+    <meta name="generator" content="sphinx-4.1.2, furo 2021.08.11.beta42"/>
+        <title>Wikisocion LSI composite - Wikisocion</title>
+      <link rel="stylesheet" type="text/css" href="../_static/pygments.css" />
+    <link rel="stylesheet" type="text/css" href="../_static/styles/furo.css?digest=197f00461d56902ea7ca048ec6e6ba026f62c97b" />
+    <link rel="stylesheet" type="text/css" href="../_static/styles/furo-extensions.css?digest=93475b62d1c3bc01323a0eefdc14a62d77b12690" />
+    
+    
+
+
+<style>
+  body {
+    --color-code-background: #f8f8f8;
+  --color-code-foreground: black;
+  
+  }
+  body[data-theme="dark"] {
+    --color-code-background: #202020;
+  --color-code-foreground: #d0d0d0;
+  
+  }
+  @media (prefers-color-scheme: dark) {
+    body:not([data-theme="light"]) {
+      --color-code-background: #202020;
+  --color-code-foreground: #d0d0d0;
+  
+    }
+  }
+</style>
+    <link media="(prefers-color-scheme: dark)" rel="stylesheet" href="../_static/pygments_dark.css"></head>
+  <body>
+    
+<svg xmlns="http://www.w3.org/2000/svg" style="display: none;">
+  <symbol id="svg-toc" viewBox="0 0 24 24">
+    <title>Contents</title>
+    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+      stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+      <path stroke="none" d="M0 0h24v24H0z" />
+      <line x1="4" y1="6" x2="20" y2="6" />
+      <line x1="10" y1="12" x2="20" y2="12" />
+      <line x1="6" y1="18" x2="20" y2="18" />
+    </svg>
+  </symbol>
+  <symbol id="svg-menu" viewBox="0 0 24 24">
+    <title>Menu</title>
+    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+      stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather-menu">
+      <line x1="3" y1="12" x2="21" y2="12"></line>
+      <line x1="3" y1="6" x2="21" y2="6"></line>
+      <line x1="3" y1="18" x2="21" y2="18"></line>
+    </svg>
+  </symbol>
+  <symbol id="svg-arrow-right" viewBox="0 0 24 24">
+    <title>Expand</title>
+    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+      stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather-chevron-right">
+      <polyline points="9 18 15 12 9 6"></polyline>
+    </svg>
+  </symbol>
+  <symbol id="svg-sun" viewBox="0 0 24 24">
+    <title>Light mode</title>
+    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+      stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" class="feather-sun">
+      <circle cx="12" cy="12" r="5"></circle>
+      <line x1="12" y1="1" x2="12" y2="3"></line>
+      <line x1="12" y1="21" x2="12" y2="23"></line>
+      <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
+      <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
+      <line x1="1" y1="12" x2="3" y2="12"></line>
+      <line x1="21" y1="12" x2="23" y2="12"></line>
+      <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
+      <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
+    </svg>
+  </symbol>
+  <symbol id="svg-moon" viewBox="0 0 24 24">
+    <title>Dark mode</title>
+    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+      stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" class="icon-tabler-moon">
+      <path stroke="none" d="M0 0h24v24H0z" fill="none" />
+      <path d="M12 3c.132 0 .263 0 .393 0a7.5 7.5 0 0 0 7.92 12.446a9 9 0 1 1 -8.313 -12.454z" />
+    </svg>
+  </symbol>
+  <symbol id="svg-sun-half" viewBox="0 0 24 24">
+    <title>Auto light/dark mode</title>
+    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+      stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" class="icon-tabler-shadow">
+      <path stroke="none" d="M0 0h24v24H0z" fill="none"/>
+      <circle cx="12" cy="12" r="9" />
+      <path d="M13 12h5" />
+      <path d="M13 15h4" />
+      <path d="M13 18h1" />
+      <path d="M13 9h4" />
+      <path d="M13 6h1" />
+    </svg>
+  </symbol>
+</svg>
+
+<input type="checkbox" class="sidebar-toggle" name="__navigation" id="__navigation">
+<input type="checkbox" class="sidebar-toggle" name="__toc" id="__toc">
+<label class="overlay sidebar-overlay" for="__navigation">
+  <div class="visually-hidden">Hide navigation sidebar</div>
+</label>
+<label class="overlay toc-overlay" for="__toc">
+  <div class="visually-hidden">Hide table of contents sidebar</div>
+</label>
+
+
+
+<div class="page">
+  <header class="mobile-header">
+    <div class="header-left">
+      <label class="nav-overlay-icon" for="__navigation">
+        <div class="visually-hidden">Toggle site navigation sidebar</div>
+        <i class="icon"><svg><use href="#svg-menu"></use></svg></i>
+      </label>
+    </div>
+    <div class="header-center">
+      <a href="../index.html"><div class="brand">Wikisocion</div></a>
+    </div>
+    <div class="header-right">
+      <div class="theme-toggle-container theme-toggle-header">
+        <button class="theme-toggle">
+          <div class="visually-hidden">Toggle Light / Dark / Auto color theme</div>
+          <svg class="theme-icon-when-auto"><use href="#svg-sun-half"></use></svg>
+          <svg class="theme-icon-when-dark"><use href="#svg-moon"></use></svg>
+          <svg class="theme-icon-when-light"><use href="#svg-sun"></use></svg>
+        </button>
+      </div>
+      <label class="toc-overlay-icon toc-header-icon" for="__toc">
+        <div class="visually-hidden">Toggle table of contents sidebar</div>
+        <i class="icon"><svg><use href="#svg-toc"></use></svg></i>
+      </label>
+    </div>
+  </header>
+  <aside class="sidebar-drawer">
+    <div class="sidebar-container">
+      
+      <div class="sidebar-sticky"><div class="sidebar-scroll"><a class="sidebar-brand" href="../index.html">
+  
+  
+  <span class="sidebar-brand-text">Wikisocion</span>
+  
+</a><form class="sidebar-search-container" method="get" action="../search.html" role="search">
+  <input class="sidebar-search" placeholder=Search name="q" aria-label="Search">
+  <input type="hidden" name="check_keywords" value="yes">
+  <input type="hidden" name="area" value="default">
+</form>
+<div id="searchbox"></div>
+</div>
+      </div>
+      
+    </div>
+  </aside>
+  <div class="main">
+    <div class="content">
+      <article role="main">
+        <div class="content-icon-container">
+          <div class="theme-toggle-container theme-toggle-content">
+            <button class="theme-toggle">
+              <div class="visually-hidden">Toggle Light / Dark / Auto color theme</div>
+              <svg class="theme-icon-when-auto"><use href="#svg-sun-half"></use></svg>
+              <svg class="theme-icon-when-dark"><use href="#svg-moon"></use></svg>
+              <svg class="theme-icon-when-light"><use href="#svg-sun"></use></svg>
+            </button>
+          </div>
+          <label class="toc-overlay-icon toc-content-icon" for="__toc">
+            <div class="visually-hidden">Toggle table of contents sidebar</div>
+            <i class="icon"><svg><use href="#svg-toc"></use></svg></i>
+          </label>
+        </div>
+        <div class="section" id="wikisocion-lsi-composite">
+<h1>Wikisocion LSI composite<a class="headerlink" href="#wikisocion-lsi-composite" title="Permalink to this headline">¶</a></h1>
+<p>Logical Sensing Introtim, LSI, <img alt="Ti" src="../_images/Symbol_l.gif"/> <img alt="Se" src="../_images/Symbol_f.gif"/>, ISTj, LF, Inspector, Pragmatist, or archetype Maxim Gorky.</p>
+<div class="section" id="ego-block">
+<h2>Ego Block<a class="headerlink" href="#ego-block" title="Permalink to this headline">¶</a></h2>
+<div class="section" id="ti-introverted-logic">
+<h3>1. Ti Introverted Logic<a class="headerlink" href="#ti-introverted-logic" title="Permalink to this headline">¶</a></h3>
+<p>LSIs have a strong command of how various systems, structures, and hierarchies around them work, and always have a clear idea of how to implement them and improve them. LSIs quickly and easily determine what is correct and incorrect according to the systems they are familiar with.</p>
+<p>LSIs tend to logically analyze just about everything — even close relationships. LSIs view their partners and other members of their household as part of a system which should have a certain structure and order to it. Everything in this system should run like clockwork — scheduling, daily routines, responsibilities in the relationship, and household management.</p>
+<p>LSIs seek to attain an important role in an important system and to maintain and perfect it — often becoming the guardian or watchdog of the system.</p>
+<p>LSIs do not often think about the ethics of the systems they maintain. Instead, they discuss the ethics of other systems using the language and customs of their own systems as truth, and make value judgments accordingly.</p>
+</div>
+<div class="section" id="se-extraverted-sensing">
+<h3>2. Se Extraverted Sensing<a class="headerlink" href="#se-extraverted-sensing" title="Permalink to this headline">¶</a></h3>
+<p>LSIs prefer to apply their clear, logical thinking to forcibly affect how the real world is organized, rather than simply producing conjectures or thought exercises that have no material application. LSIs prefer to work with systems of “real” things — material assets, organizations, management, and production — and to perfect their structure and organization (Ti). When they are certain they are right, LSIs can act decisively to enforce rules, and, if necessary, to punish violators, in order to protect the integrity of the system.</p>
+<p>LSIs handle high-pressure situations well and can maneuver skillfully around obstacles to achieve their goals. They cannot be intimidated easily by displays of force or aggression, but follow closely the balance of power and make sure they are in the best position.</p>
+</div>
+</div>
+<div class="section" id="super-ego-block">
+<h2>Super-Ego Block<a class="headerlink" href="#super-ego-block" title="Permalink to this headline">¶</a></h2>
+<div class="section" id="fi-introverted-ethics">
+<h3>3. Fi Introverted Ethics<a class="headerlink" href="#fi-introverted-ethics" title="Permalink to this headline">¶</a></h3>
+<p>In the company of people the LSI smiles and acts like a good friend engaged in easy conversations, not without humor. They tend to mechanistically approach matters of wooing and relationship-building.</p>
+<p>The LSI often has trouble differentiating strong relationships from weak relationships. Often he will find himself unsure of his own opinion of the closeness of a relationship. This uncertainty manifests itself in the LSI as maintaining a generally friendly atmosphere with another person even if they are in conflict over a problem. Only when they are sure that they have been intentionally wronged by another will they publicly express negative sentiments toward that person.</p>
+</div>
+<div class="section" id="ne-extraverted-intuition">
+<h3>4. Ne Extraverted Intuition<a class="headerlink" href="#ne-extraverted-intuition" title="Permalink to this headline">¶</a></h3>
+<p>LSIs do not tolerate ambiguity, and so dislike abstract ideals that are not directly based on their experience. They almost invariably focus on the worst-case scenario whenever they are forced to be in an ambiguous situation. If the situation is in the future, they will expend much effort to be 100% prepared. They also tend to be very suspicious of others’ intentions, being highly aware that every person is ultimately motivated by self-interest.</p>
+<p>They set clearly achievable goals, which they often reach. Failure to meet these goals causes the LSI to express anger and lose control of his emotions in the form of a seemingly childish tantrum.</p>
+<p>The LSI has a clearly defined set of rules that he must adhere to. Only through learning can the LSI change, and grow to understand how something could work differently than the way he imagines it in the moment.</p>
+</div>
+</div>
+<div class="section" id="super-id-block">
+<h2>Super-Id Block<a class="headerlink" href="#super-id-block" title="Permalink to this headline">¶</a></h2>
+<div class="section" id="fe-extraverted-ethics">
+<h3>5. Fe Extraverted Ethics<a class="headerlink" href="#fe-extraverted-ethics" title="Permalink to this headline">¶</a></h3>
+<p>Being entrenched in logical, systematic thinking processes, LSIs need others to create an emotionally inclusive atmosphere where they know they are accepted and liked. Left to themselves, they have almost no way of establishing an emotional connection with others other than through formal methods that often fail to work. LSIs can organize a situation where emotional bonding might occur, but they are almost unable to create the bonding themselves; they need others to fill the situation with feeling, laughter, and fun.</p>
+<p>Since they devote themselves so completely to whatever they do, LSIs tend to build up a lot of emotional tension, which can only be released when somebody gives them a vivid reminder that there is more to life than their responsibilities.</p>
+<p>LSIs respect and admire people who are deeply passionate about things and care enough about them to instill their attitudes in others and try to get them involved. They can forgive a little unruliness, impulsivity, and disorderliness for the emotional value such people give them. LSIs tend to suffer from a deficit of passion and feel emotionally connected to the world mainly when they are around lively and emotional people.</p>
+</div>
+<div class="section" id="ni-introverted-intuition">
+<h3>6. Ni Introverted Intuition<a class="headerlink" href="#ni-introverted-intuition" title="Permalink to this headline">¶</a></h3>
+<p>LSIs often keep dense notes to remind them of their future engagements, as well as directions as to how to do complex tasks. Lateness and incorrectness are almost taboo for the LSI, and to err in these ways can make the LSI unhappy with whoever has transgressed, even with themselves.</p>
+<p>LSIs enjoy talking about probable developments in the areas they are interested in and what to do in the case of a certain scenario. This makes them feel adequately prepared for possible risks and dangers, which they otherwise tend to forget about. They also enjoy reflecting on the meaning of their experiences, wishing that others will understand and share their introspective thoughts on life.</p>
+</div>
+</div>
+<div class="section" id="id-block">
+<h2>Id Block<a class="headerlink" href="#id-block" title="Permalink to this headline">¶</a></h2>
+<div class="section" id="te-extraverted-logic">
+<h3>7. Te Extraverted Logic<a class="headerlink" href="#te-extraverted-logic" title="Permalink to this headline">¶</a></h3>
+<p>When in love, the LSI will disregard behaviors that he feels are normal because the partner fulfills those obligations. This is especially apparent when the LSI stops work because there is enough money in the household without the LSIs income.</p>
+<p>LSIs are annoyed by the idea of continuously updating their core beliefs and systems with new factual information. To the LSI, the truth is the truth, and anyone who brings up real-life examples that, on the surface, seem to contradict the closely held ideas of the LSI, is viewed as an antagonist who must be quelled.</p>
+<p>While an LSI can easily understand isolated factual logic, he greatly prefers to sift through such material in an effort to extract the underlying systematic principles being taught, the information the LSI views as being “the point.” Once the core principle has been absorbed, extraneous factual information is often discarded, a habit which, when taken too far, can sometimes lead to LSIs being unable to back up their beliefs with any real-world examples. Sometimes LSIs will see the wisdom in acquiring this kind of supporting evidence, but their tendency is to pick and choose only those examples that support their positions.</p>
+<p>When exposed to too much unfocused Te information, the LSI tends to shut down, not seeing a reason to pay attention to isolated facts that may or may not possess any deeper meaning.</p>
+<p>Another negative consequence of this function is that some, not all, LSIs will quickly dismiss any factual information that does not conform to their prime understanding of things. This can lead to unpleasant consequences - even incarceration, if the LSI chooses to ignore laws that do not suit his idea of what is and is not correct.</p>
+<p>On a positive note, because LSIs are generally not concerned with constantly referencing historic examples and in citing literature or current events, they often possess a clarity of thought that allows them to swiftly pinpoint and expose even the smallest flaws in others’ thinking.</p>
+</div>
+<div class="section" id="si-introverted-sensing">
+<h3>8. Si Introverted Sensing<a class="headerlink" href="#si-introverted-sensing" title="Permalink to this headline">¶</a></h3>
+<p>Acts as if matters of personal appearance and health are very important to him or her, at times talks of it, though just as a comment not requiring feedback.</p>
+<p>When not focused on the forceful, rigid energy of his Se creative function, the LSI gives a great deal of attention to his inner physical state, to his sense of balance and comfort. He may possess a wide range of antidotes and curatives in the event of illness, and he may have somewhat strong preferences for the textures and colors of his clothing, or for the taste and freshness of his food. Physical discomfort may sour the LSI’s mood and send him into a state of grumpiness and irritation.</p>
+<p>However, when the time arises for the LSI to mobilize into action, his concern over his physical comfort is cast aside in favor of his creative function. Those still concerned with physical harmony at such times are viewed as lazy by the LSI.</p>
+</div>
+</div>
+<div class="section" id="common-social-roles">
+<h2>Common social roles<a class="headerlink" href="#common-social-roles" title="Permalink to this headline">¶</a></h2>
+<ol class="arabic simple">
+<li><p>The policeman or referee who keeps a sharp eye on how well people are adhering to the rules and takes it upon himself to correct or punish deviants.</p></li>
+<li><p>The career bureaucrat or administrator who rises through the ranks of traditional administrative structures (government organs, large corporations, and other large, hierarchical structures), carefully performing his duties and winning in the long run.</p></li>
+<li><p>The rational artist who sees music, film, or visual art as a language to be deciphered.</p></li>
+<li><p>The cult devotee who is swayed by the rhetoric of visionaries, and becomes devoted to executing their plans.</p></li>
+<li><p>The logistics analyst who rigorously but realistically devises the optimal operating procedure for any given task.</p></li>
+</ol>
+</div>
+</div>
+
+      </article>
+      <footer>
+        
+        <div class="related-pages">
+          <a class="next-page" href="SEE_comp.html">
+              <div class="page-info">
+                <div class="context">
+                  <span>Next</span>
+                </div>
+                <div class="title">Wikisocion SEE composite</div>
+              </div>
+              <svg><use href="#svg-arrow-right"></use></svg>
+            </a>
+          <a class="prev-page" href="EIE_comp.html">
+              <svg><use href="#svg-arrow-right"></use></svg>
+              <div class="page-info">
+                <div class="context">
+                  <span>Previous</span>
+                </div>
+                
+                <div class="title">Wikisocion EIE composite</div>
+                
+              </div>
+            </a>
+        </div>
+
+        <div class="related-information">
+              Copyright &#169; 2021, Wikisocion Authors
+            |
+            Built with <a href="https://www.sphinx-doc.org/">Sphinx</a>
+              and
+              <a class="muted-link" href="https://pradyunsg.me">@pradyunsg</a>'s
+              <a href="https://github.com/pradyunsg/furo">Furo theme</a>.
+            |
+            <a class="muted-link" href="../_sources/content/LSI_comp.rst.txt"
+               rel="nofollow">
+              Show Source
+            </a>
+        </div>
+        
+      </footer>
+    </div>
+    <aside class="toc-drawer">
+      
+      
+      <div class="toc-sticky toc-scroll">
+        <div class="toc-title-container">
+          <span class="toc-title">
+            Contents
+          </span>
+        </div>
+        <div class="toc-tree-container">
+          <div class="toc-tree">
+            <ul>
+<li><a class="reference internal" href="#">Wikisocion LSI composite</a><ul>
+<li><a class="reference internal" href="#ego-block">Ego Block</a><ul>
+<li><a class="reference internal" href="#ti-introverted-logic">1. Ti Introverted Logic</a></li>
+<li><a class="reference internal" href="#se-extraverted-sensing">2. Se Extraverted Sensing</a></li>
+</ul>
+</li>
+<li><a class="reference internal" href="#super-ego-block">Super-Ego Block</a><ul>
+<li><a class="reference internal" href="#fi-introverted-ethics">3. Fi Introverted Ethics</a></li>
+<li><a class="reference internal" href="#ne-extraverted-intuition">4. Ne Extraverted Intuition</a></li>
+</ul>
+</li>
+<li><a class="reference internal" href="#super-id-block">Super-Id Block</a><ul>
+<li><a class="reference internal" href="#fe-extraverted-ethics">5. Fe Extraverted Ethics</a></li>
+<li><a class="reference internal" href="#ni-introverted-intuition">6. Ni Introverted Intuition</a></li>
+</ul>
+</li>
+<li><a class="reference internal" href="#id-block">Id Block</a><ul>
+<li><a class="reference internal" href="#te-extraverted-logic">7. Te Extraverted Logic</a></li>
+<li><a class="reference internal" href="#si-introverted-sensing">8. Si Introverted Sensing</a></li>
+</ul>
+</li>
+<li><a class="reference internal" href="#common-social-roles">Common social roles</a></li>
+</ul>
+</li>
+</ul>
+
+          </div>
+        </div>
+      </div>
+      
+      
+    </aside>
+  </div>
+</div><script data-url_root="../" id="documentation_options" src="../_static/documentation_options.js"></script>
+    <script src="../_static/jquery.js"></script>
+    <script src="../_static/underscore.js"></script>
+    <script src="../_static/doctools.js"></script>
+    <script src="../_static/scripts/main.js"></script>
+    </body>
+</html>

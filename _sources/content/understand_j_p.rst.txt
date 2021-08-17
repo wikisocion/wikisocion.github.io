@@ -1,0 +1,528 @@
+On the Correct Understanding of Dichotomy Rationality-Irrationality by Trehov and Tsypin
+============================================================================================
+
+| Written by :doc:`A. Trehov <trehov>` and :doc:`P. Tsypin <tsypin>` from School of Structural Socionics.
+| `Original text. <http://real-socionics.ru/page20.html>`__
+
+
+
+
+Review of Definitions and Confusions
+------------------------------------
+
+   "The deep distinction between rational and irrational types  is the
+   orientation of the former towards past experience ... and secondly
+   at the changes that the future brings" [7, p.46].
+
+   "For a rational type a compiled plan  is ... a road, by which he ...
+   can move into the future, not being afraid of surprises ... A plan is
+   desirable for a rational type. It acts as an essential tool that
+   leads him to a goal" [7, p.46].
+
+   "... For the irrational type a plan  is a cage, an annoying obstacle
+   that doesn't allow him to flexibility fit into the ever-changing flow
+   of events ..." [7, p.47].
+
+This is a rather strange, in our opinion, position. First of all, it is
+unclear how the rational-irrational dichotomy is connected to the
+orientation towards the past or the future. The factor of time in
+socionics has a connection to the trait intuition-sensing, where
+intuitive type is oriented at information about time. The irrational
+intuitive (just as rational one) is sensitive towards the traditions, to
+their changes, while rational sensing types usually take into account
+the momentary situation, outside of its connection to the past
+experience (that is completely intuitive factor). Moreover, it is
+irrational intuitive types who are inclined to act according to habit,
+on inertia, relying on their past experience or understanding of
+traditions; most clearly these qualities show for TIM ILI.
+
+Regarding planning, plans can be divided into two categories: other
+people's plans, imposed on us (plans of our supervisors, family members,
+etc.), and our own plans. Plans of the first category are rarely
+pleasant for people of any types. As for action plans of own "creation",
+everyone has them. Another thing is the rigidity of the plan and how
+many options it provides for its implementation. Plans of irrational
+types usually have many options and variations, and are reminiscent of a
+"tree of goals" from management theory. Plans of rational types are
+usually rigid and more tightly connected to fixed working methods. It
+cannot be said that a plan for an irrational type is a kind of an
+obstacle; a plan is a natural program of action for the future, and any
+person, despite their level of development, whether he or she wants it
+or not, makes some plans.
+
+Furthermore, there is such a "phenomenon" as the culture of planning:
+many people are unobtrusively taught this from their very childhood, and
+later, when it becomes necessary, such people - despite their TIM - find
+it easier to live, work, and socialize: they are more responsible,
+effective, and usually more respected by their co-workers, superiors,
+and friends.
+
+Finally, one can meet quite expressed LIEs, EIEs, and other rational
+types who don't have any clear plans for the future; they are not bound
+to anything, have no concrete notions, and, naturally, are rarely
+successful in what they do. Inability to properly plan one's activities
+and to keep one's word  is a significant drawback of their personal and
+intellectual development, with this having no correlation to soconics
+TIMs.
+
+   "Irrationality  is the integrity and continuity of the perception of
+   the world, the continuum, the wave, the diffuse nature of mental
+   functions. Associative construction of judgments, when "neighboring"
+   concepts are connected by probability based, causeless links." [5,
+   page 186.].
+
+   "Rationality  divisiveness and organization of the perception of the
+   world, their discrete, consequent character. Linearity in
+   constructing judgments, when subsequent thought follows from the
+   preceding one based on the law of cause and effect." [5, page 187.].
+
+This definition is discriminatory in its nature: it turns out that
+irrationals do not recognize the cause-and-effect relationships in the
+surrounding reality. In actuality, understanding of cause-and-effect
+relationships is available to any person; another thing is that the
+degree of utilization of these relations in intellectual activity
+depends on personal level of development. People who are ignorant
+(including typical rationals!) tend to not recognize the cause-effect
+relationships when these clearly go against what they already believe.
+Conversely, even pre-school children (and, in addition, of irrational
+types!) of high level of intellectual development quite freely operate
+by simple cause-effect relationships. "Associativity in making
+judgments" is also available to everyone; all people make some kind of
+associations in their intellectual work; and moreover, these
+associations can be almost identical for people of rational and
+irrational TIMs.
+
+   "Rational types are somewhat distanced from immediate perception of
+   reality. Certain psychological distance exists between them and the
+   world, which allows them to ponder, to evaluate, to decide in
+   advance, to set goals and plan their actions, to subordinate actions
+   to certain criteria of morality, ethics, sympathies and antipathies,
+   etc. Everything that they plan, they consistently bring to an end. If
+   any circumstances interfere with rational individual carrying out his
+   plans, he will feel disconcerted, anxious, and dissatisfied. It even
+   happens that he is unable to switch from one activity to another,
+   even if he or she wants it, as if some unseen force doesn't allow him
+   to do it; he becomes "fixated" on the same thing.
+
+   Irrational types are immediately incorporated into the flow of events
+   they are always "inside the flow". Their actions depend not so much
+   on the previously adopted intentions, but on the contingencies of the
+   situation. In outward behavior, they can be unpredictable and
+   variable, and this variability is directly dependent on the
+   changeability of the world. A person of irrational type can, without
+   finishing, abandon one thing to get involved in other things.
+
+   In many cases, these two types of psyche manifest in diametrically
+   opposite ways. Here are a few characteristics of significance:
+
+   - a person of rational type works systematically, dislikes taking risks; while a person of irrational type acts spontaneously, yields to momentary involvements, can take on risky activities not worrying much about how it might end for him;
+
+   - a person of rational type poorly tolerates a state of uncertainty, because in such situations it is impossible to foresee and plan anything in advance, while for a person of irrational type a state of uncertainty  is his native element, while an "over-organized" life, on the contrary, is depressing and exhausting to him" [6, pp. 54-55].
+
+First of all, making evaluations, assessments, planning actions and
+activities, setting goals, are equally available to people of both
+rational and irrational TIMs. Moreover, as it will be shown below, it is
+people of irrational types who have the most clear or even unchanging
+goals. All people making plans (even approximate ones) expect that these
+plans will become realized. No one expects or wishes for their own plans
+to fail (even the most "irrational irrationals")!
+
+Further, it is impossible to agree with the fact that irrationals
+"abandon one thing without finishing it to get involved in other
+activities". Why should all people of irrational TIMs be so changeable
+and unreliable in any matters? In actuality, a person of irrational
+types thinks in the following manner: if some activity or undertaking
+has lost its potential (Ne) or timeliness (Ni), then it can be either
+temporarily or permanently "set aside"; there is no unintentionality or
+unpredictability in such actions, and all (or almost all) cases of
+"abandoned affairs" can be clearly explained in economic terms.
+
+From where it follows that irrationals recklessly take risks, we do not
+understand. What are they, more foolish than rationals who are inclined
+to act prudently? This is highly doubtful! One can meet truly reckless
+people of not too high levels of development of TIMs EIE, ESE, LIE who
+are ready to take risks on any occasion only to have the so-called
+"drive". Conversely, many people of irrational TIMs SEI, SLI, ILI are
+very careful and even precautionary in how they behave: their actions
+are often meticulously (and all-inclusively) thought out.
+
+Finally, the degree of severity of state of uncertainty, in our opinion,
+is determined by the dichotomy of intuition - sensing: intuitive types
+are more tolerant of uncertainty, than the sensing types who gravitate
+towards concreteness (more about this is written in our article "The
+correct understanding of the dichotomy of intuition / sensing").
+
+   "The dynamicity of human nervous system is determined by ... the
+   scale "rationality - irrationality".
+
+   "Irrational people have more dynamic nervous system. They live by
+   undulating rhythms of ups and downs. Their performance is heavily
+   dependent on their mood. When they are on the decline, their
+   productivity falls sharply - they cannot bring themselves to work
+   hard. When their mood is on the rise, their strengths increase
+   manifold, and they make up for lost time in such moments and make big
+   leaps forward.
+
+   In their behavior, irrational types flexibly change their line of
+   actions, easily rearrange themselves along the way, changing their
+   line of action to the opposite if needed. They cannot do without
+   experimentation and improvisation, and require constant switching
+   from one interesting engagement to another.
+
+   Rational people have a rigid, inert nervous system. They are
+   characterized by stable work performance and don't have pronounced
+   alternation of ups and downs. Their mood, of course, can also vary,
+   however, this doesn't happen by itself, but under the influence of
+   external factors and does not entail drastic fluctuations in their
+   performance. If needed, they maintain a stable rhythm and sustain
+   average productivity levels for sufficiently long periods of time.
+
+   In behavior and partnership rational people are reliable and
+   consistent. They have a hard time adjusting if the situation has
+   changed, if they are already oriented at a specific action plan.
+   Frequent switches from one activity to another are annoying to them.
+   They are determined to bring what they have started to an end, even
+   with the loss of initial interest, and only then they switch to the
+   next activity" [4, p. 18].
+
+Any correlations made between the workings of the nervous system and
+socionics traits are obviously far-fetched. The nervous system does not
+define the characteristics of human information processing and
+motivations of thinking. "Dynamicity" of nervous system - is an
+individual trait that does not influence one's TIM. Everyday there are
+examples of representatives of rational TIMs, for example LIE, who very
+quickly switch their attention from one array of information to the
+next, and, at the same time, there are many "slowed down" (in terms of
+the reactivity of the nervous system) people with irrational TIMs, for
+example ILI, SLI, and others. Thus, there is practically no confirmation
+that "irrationals have a more flexible nervous system"; the speed and
+variety of nervous reactions are independent of TIM.
+
+Any behavioral characteristics of TIMs or groups of TIMs are always
+conditional, because TIM gives insight into the information processing
+of a human mind, and behavioral traits are not a direct result of
+information processes.
+
+Regarding mood changes: under the influence of external factors these
+changes happen in extroverts, who are motivated mainly by the reality of
+the external world; rationality is of scarce relation to this. In
+addition, there are rational TIMs with "program" function of Fe, whose
+mood determines the level of activity and performance and changes
+sometimes spontaneously (at least that's how it seems to people around
+them).
+
+The thesis about reliability of rationals in partnerships looks openly
+chauvinist: it turns out that irrationals are "pathologically"
+unreliable?! We will only note that such qualities as conscientiousness,
+reliability, and honesty are not socionic factors  a person of any TIM
+is capable of letting others down and backing out of previous
+agreements, or, on the contrary, proving themselves to be reliable and
+trustworthy - this depends on aspects of their personality. We also note
+that in practice rational types can be engaged in a number of activities
+simultaneously; modern business requires speed and efficiency, such that
+all participants need to "spin around" and switch tasks. Of course,
+irrationals switch from one case to another more easily, but rationals
+are quite capable of doing the same.
+
+   "A person of rational type always acts with deliberation and thought,
+   in accordance with a verified line of behavior, and is accurate and
+   precise in all his assignments. Each undertaking is carefully thought
+   out, not leaving a single question unresolved, since unresolved
+   issues form a serious hindrance for him. He finds it difficult to
+   re-adjust; if his plan is not executed as was planned, he often
+   continues to operate by inertia, by the old schemes, which is why he
+   constantly has problems. A person of this type finds it easy to work
+   in a system where order and discipline are the defining factors "[8,
+   p.24-25].
+
+   "A person of irrational type improvises, behaves by his inspiration,
+   creatively adapts to the situation and relies on the moment. In
+   interaction he immediately comes into contact, he "breaks into" any
+   situation and only then begins to study people and their qualities.
+   Impulsivity and inconsistency are characteristic of his activities;
+   he likes to be free of obligations. He acts effectively only under
+   the influence of his feelings and passions. He always has many
+   undertakings, the resolution of which he postpones until the last
+   moment and is not always able to complete them, because, due to his
+   curiosity, he most of all loves to take on new projects and business
+   for himself "[8, p.25].
+
+Generally, in our view, words such as "always" or "under any
+circumstances" are unacceptable to use in socionics: a person's TIM is
+rarely manifested literally and all-extensively, making all socionic
+traits be relative and speculative. A person of a rational TIM is
+capable of behaving recklessly, especially if it is a rational
+extrovert. Intellectually developed irrational usually behaves
+consistently. Only people who are immature and carefree rely only on
+chance; these qualities have nothing to do with socionics TIMs. In
+practice, carefree attitude may be shown by representatives of TIMs LSI
+and ESI, and their carefreeness is not hindered by rationality,
+introversion, or sensing traits. Of course, it is absolutely absurd to
+attribute inconsistency to irrationality; if a person works, then,
+regardless of his TIM, he finds the most optimal course of action, that,
+while being particular to each individual - will be quite effective.
+
+The issue of bringing undertakings to completion has a relations to
+dichotomy :doc:`process-result <process_result>`; the "left" result
+type irrationals are much more prone to quickly finish their tasks than
+the "right" process type rationals.
+
+Finally, curiosity is not a socionic trait but an individual quality.
+
+
+
+Our positions
+-------------
+
+1. For all rational TIMs the rational aspects are located in :ref:`accepting channels <accepting>` of model A, while irrational TIMs
+have irrational aspects located in these channels. Rational aspects,
+especially Te, express the methodology of action. Irrational aspects,
+especially Ne, express the purpose of action. It turns out that for the
+rationals the methods remain unchanged, but purposes - are the subject
+of endless manipulation; while for the irrational, conversely, the
+purpose remains unchanged, even "holy", while the methods are variable
+and subject to manipulation.
+
+Examples:
+
+\K. Rileyev, who was apparently of an irrational TIM, during an
+interrogation said the following to Emperor Nicholas: "Perhaps our
+[Decembrists'] methods were not good, but the goals were noble!"
+
+Rational Stalin would say: ""There are no fortresses that Bolsheviks
+cannot take." Translated into the language of socionics it sounds as
+follows: if one has at their disposal the Bolshevik method of action,
+you can achieve any goal. The method for Stalin - is unchanged, the goal
+- is arbitrary, dictated by the situation at hand.
+
+St. Ignatius of Loyola reasoned like a typical irrational TIM, putting
+forward the slogan "the end justifies the means". Irrationals, due to
+the location of the methodological aspects in :ref:`producing channels <accepting>` of model A, are in general
+undiscerning in methods used. And what forms the purpose for the
+rational? The triumph of his method! For Stalin - the triumph of the
+Bolshevik method, for Hitler (EIE) - the triumph of National Socialism
+method, for Trotsky (EIE) - the triumph of the ideas (and method) of the
+world proletarian revolution, and so on.
+
+For comparison, here are the purposes of irrationals. Lenin (SLE): The
+construction of the socialist state (its systematic foundations) in a
+particular country; Churchill (SLE or perhaps ILE): Saving the relative
+immunity of the UK in terms of the Second World War; Khrushchev (SEI):
+the establishment of communism by year 1980; Gorbachev (SEE): the
+implementation of produce program, "every family gets a separate
+apartment by the year 2000".
+
+For an irrational it is quite possible that there is a clear and
+realizable goal, but for a while there are no methods of achieving it.
+For the rational, on the contrary, such situation is highly unlikely,
+but it is often the case when there is some wonderful method that, for
+the time being (and perhaps for some considerable time) has nowhere to
+be applied.
+
+Let us note that conventional meaning of being "goal-oriented" is
+inherent to all TIMs: it is only that the goals differ, particularly -
+rational goals or irrational goals.
+
+1. Traditionally, it is assumed in socionics that irrationality is a
+direct and unmediated perception of information, and rationality - is
+mediated judgment.
+
+Taking a look at the cause-effect links of model A: for all irrational
+TIMs the rational elements are functionally dependent on the irrational
+ones, that is, self-sufficient perception is primary and judgement is
+secondary. For the rational TIMs this is in reverse: judgment is
+primary, while perception is functionally dependent on it. A rational or
+"rationally thinking person" first makes a thought-effort, and then
+feels or perceives, while an irrational person, on the contrary, first
+experiences something, and then thinks it over in his mind. Rationals
+pre-program themselves to "perceptions", invent them, adjusting their
+experiences and perceptions to preconceived "rules". Irrationals seek to
+try and percept something first, and only then draw conclusions,
+speculate, and think of explanations for it.
+
+This means that the distinction is not in that one is oriented at
+perception, and the other - at judgment, but in what comes first.
+
+Consequently,
+
+   **Rational  is the one for whom mediated judgement is primarily, and
+   perception is subordinated to this judgment.**
+
+   **Irrational  is the one for whom unmediated perception functionally
+   predefines judgment.**
+
+3. One of the traditional misconceptions about this dichotomy is that
+only rationals plan, while irrationals live "on a whim" - thinking of
+something in advance is not for them in principle. From where such crazy
+conclusions come from, we do not understand, but the harm that comes
+from them is apparent and very significant [especially in typing
+process]. So what happens in actuality?
+
+Planning, of course, is done by people of all TIMs. The difference is in
+how they relate to the possibility of changing their plans under the
+influence of circumstances. Rationals desire literal realization of
+their plans, even if the circumstances have changed. Irrationals, while
+planning, are ready for the fact that their plans will undergo revisions
+or lose their meaning. They then quickly reorient by the new situation
+and work out a new plan. You could say that: irrationals engage in
+flexible, contingency planning, and rationals engage in legislative,
+unidirectional planning.
+
+It is notable that the very concept of planning differs for rationals
+and irrationals. Rationals by planning understand methodologically
+verified sequence of actions in time, while irrationals understand
+planning as an approach to an important target or goal for them.
+
+An example:
+
+Rational type plan: "On Sunday I will write the article  in the first
+half of the day I will be choosing materials for it, then I will have
+dinner, then I will generalize the materials and type the text. If
+someone calls to talk in the morning, I will tell them that I am a
+little busy and return to my work." Irrational type plan: "On Sunday I
+will write the article  in principle, everything about it is clear, I
+just need to sit down at the computer and type the text, while looking
+through the materials. It can be finished in a day. If someone calls and
+wants to come over or meet up, I will agree and finish the article the
+next day  if time permits it."
+
+It may seem that irrationals easily abandon their plans. This is not so
+in fact: a person of irrational type, switching his attention to a new -
+not planned in advance kind of activity - weighs the importance of the
+two activities, the old one and the new one that has come up, and makes
+a decision which one is of higher priority. If he is offered to abandon
+an important matter for something non-essential, he keeps with previous
+activity. Rationals, in general, dislike switching from one thing to
+another without a compelling necessity. But - once again - if such a
+switch is warranted, they are capable of stopping the activity and
+starting on something else - though reluctantly and without much
+pleasure.
+
+
+
+About spontaneity and predictability
+------------------------------------
+
+It is generally considered that irrationals behave themselves
+spontaneously, that their actions are difficult to predict and often
+absurd from the standpoint of reason, and that rationals, by contrast,
+are always consistent. In particular, V. Gulenko writes:
+
+   "... In socionics sense, rational, as thought out, predictable,
+   deliberate, systematic, analytic, is the opposite of irrational, as a
+   disordered, spontaneous, integral, unconscious, synthetic" [1, p.
+   51].
+
+This position seems to us as not completely objective. Firstly, it is
+necessary to figure out this terminology: what is considered to be
+"spontaneous"? Apparently, those actions, words, and thoughts that do
+not follow directly from the current situation. But then the two poles
+of this dichotomy are actually on equal footing: it's simply that the
+actions, words, and thoughts are caused by different reasons. For
+rationals - they are the fruits of judgment, while the irrationals - the
+outcome of immediate perception of reality. The problem is that to
+understand the motivations of the other pole is very difficult. From
+point of view of a rational, for example, a sudden change in plans for
+the day by irrational type seems spontaneous and poorly conceived. In
+actually, the irrational person has carefully analyzed his actions and
+evaluated the opportunities and prospects of various options of action
+in a changing environment. Irrationals don't view each other as
+unpredictable and unexpected. For them it is the rational person who
+seems unpredictable, for example, changing his plans based on his
+rapidly transforming emotional evaluations (which is completely
+incomprehensible to irrationals).
+
+Thus, predictability, and all related concepts are, of course, relative.
+
+Secondly, the trait of rational / irrational is rather "rheostat" (to
+use the terminology G. Schulman [3]).
+
+In particular, 4 "groups of rationality" stand out:
+
+   Group 1  "Pure Rationals"  Representatives of expressed rational
+   subtypes of rational types (e.g. Ti-LSI) [2]. They are inclined
+   towards rigid sequencing of mental operations and (in part) of their
+   actions. They are most likely to be rational in everyday sense.
+
+   Group 2  Representatives of irrational subtypes of rational types
+   (e.g. Ni-EIE). Here, the subtype's temperament becomes expressed
+   (flexible-maneuvering for introverted rationals, e.g. Ne-EII, and
+   receptive-adaptive for extroverted rationals, e.g. Ni-EIE), which
+   significantly alters external characteristics of information
+   metabolism toward irrationality. Such people are very often mistaken
+   (and mistake themselves) for irrational types (e.g. Ni-EIE typing as
+   ILI or IEI).
+
+   Group 3  Representatives of rational subtypes of irrational types
+   (e.g. Fe-IEI). Here, the subtype's temperament is also expressed
+   (linear-assertive for introverted irrationals, e.g. Te-SLI, and
+   balanced-stable for extroverted irrationals, e.g. Ti-ILE). These
+   people are often mistaken (and mistake themselves) for rational types
+   (e.g. Fe-IEI typing as EIE or ESE).
+
+   Group 4  "Pure Irrationals"  Representatives of irrational subtypes
+   of irrational types (e.g. Ni-ILI) They may indeed be extremely
+   spontaneous and little predictable to others. This is irrationality
+   even in the everyday sense.
+
+
+
+Concluding remarks
+------------------
+
+Irrationality  is not the lack of goals and expediency, but
+indivisibility and integrated approach in perception of reality.
+Rationality implies awareness of the world on the basis of discreteness,
+"phasicity", when thinking sequentially goes through a series of stages
+from one to the next consideration. If we use an "electrical-technical"
+analogy, the rational mind is similar to serial connection of the
+circuit elements, and irrational mind is similar to a parallel one.
+
+The socionics dichotomy of rational / irrational has nothing to do with
+the conventional understanding of concepts of "being rational / being
+irrational" in the usual sense of these words, as these words do not
+reflect the innate properties of thinking, but the situational
+assessment of the effectiveness and efficiency of a particular action or
+behavior.
+
+Definitions:
+
+   **Rationality is the causation of perception following from
+   judgment.**
+
+   **Irrationality is the causation of judgment following from
+   perception.**
+
+Literature
+----------
+
+#. Gulenko V. V. Structural and Functional Socionics: Development of a
+   method of combinatorics polarities. - K .: Transport of Ukraine, 1999. -CH.1.
+#. Menchov T. I., Tsypin P. E., Levin J. V. Secrets typing. - M .: Good
+   Word 2004.
+#. Shulman G. A. Socion Model // Socionics, Mentology and Personality
+   Psychology, 3, 1995.
+#. Meged V. V., Ovcharov A. A. Learn to manage people effectively. -
+   Exactly: PPF "Volinski charms" 2000.
+#. Rumyantsev E. A. On the way to mutual understanding: socionics -
+   teachers and parents. - M .: Armada-press, 2002.
+#. Filatova E. S. Socionics for all. Science communication,
+   understanding and consent. - SPb .: B & K 1999.
+#. Udalova E. A. Lessons Socionics, or most importantly, what we have
+   not been taught in school / E. A. Udalova, L. A. Beskova - M .:
+   Astrel 2003.
+#. Ivanov Y. V. Business socionics. - M .: JSC "Business School",
+   "Intel-Synthesis", 2001.
+
+
+
+Additional Links
+----------------
+
+- :doc:`understand_e_i`
+- :doc:`understand_t_f`
+- :doc:`understand_n_s`
+- :doc:`understand_j_p`
+
+
+

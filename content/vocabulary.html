@@ -1,0 +1,828 @@
+<!doctype html>
+<html class="no-js">
+  <head><meta charset="utf-8"/>
+    <meta name="viewport" content="width=device-width,initial-scale=1"/>
+    <meta name="color-scheme" content="light dark"><link rel="index" title="Index" href="../genindex.html" /><link rel="search" title="Search" href="../search.html" /><link rel="next" title="Socionic type" href="socionic_type.html" /><link rel="prev" title="The Semantics of the Information Aspects" href="semantic_aspects.html" />
+
+    <meta name="generator" content="sphinx-4.1.2, furo 2021.08.11.beta42"/>
+        <title>Vocabulary - Wikisocion</title>
+      <link rel="stylesheet" type="text/css" href="../_static/pygments.css" />
+    <link rel="stylesheet" type="text/css" href="../_static/styles/furo.css?digest=197f00461d56902ea7ca048ec6e6ba026f62c97b" />
+    <link rel="stylesheet" type="text/css" href="../_static/styles/furo-extensions.css?digest=93475b62d1c3bc01323a0eefdc14a62d77b12690" />
+    
+    
+
+
+<style>
+  body {
+    --color-code-background: #f8f8f8;
+  --color-code-foreground: black;
+  
+  }
+  body[data-theme="dark"] {
+    --color-code-background: #202020;
+  --color-code-foreground: #d0d0d0;
+  
+  }
+  @media (prefers-color-scheme: dark) {
+    body:not([data-theme="light"]) {
+      --color-code-background: #202020;
+  --color-code-foreground: #d0d0d0;
+  
+    }
+  }
+</style>
+    <link media="(prefers-color-scheme: dark)" rel="stylesheet" href="../_static/pygments_dark.css"></head>
+  <body>
+    
+<svg xmlns="http://www.w3.org/2000/svg" style="display: none;">
+  <symbol id="svg-toc" viewBox="0 0 24 24">
+    <title>Contents</title>
+    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+      stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+      <path stroke="none" d="M0 0h24v24H0z" />
+      <line x1="4" y1="6" x2="20" y2="6" />
+      <line x1="10" y1="12" x2="20" y2="12" />
+      <line x1="6" y1="18" x2="20" y2="18" />
+    </svg>
+  </symbol>
+  <symbol id="svg-menu" viewBox="0 0 24 24">
+    <title>Menu</title>
+    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+      stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather-menu">
+      <line x1="3" y1="12" x2="21" y2="12"></line>
+      <line x1="3" y1="6" x2="21" y2="6"></line>
+      <line x1="3" y1="18" x2="21" y2="18"></line>
+    </svg>
+  </symbol>
+  <symbol id="svg-arrow-right" viewBox="0 0 24 24">
+    <title>Expand</title>
+    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+      stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather-chevron-right">
+      <polyline points="9 18 15 12 9 6"></polyline>
+    </svg>
+  </symbol>
+  <symbol id="svg-sun" viewBox="0 0 24 24">
+    <title>Light mode</title>
+    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+      stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" class="feather-sun">
+      <circle cx="12" cy="12" r="5"></circle>
+      <line x1="12" y1="1" x2="12" y2="3"></line>
+      <line x1="12" y1="21" x2="12" y2="23"></line>
+      <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
+      <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
+      <line x1="1" y1="12" x2="3" y2="12"></line>
+      <line x1="21" y1="12" x2="23" y2="12"></line>
+      <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
+      <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
+    </svg>
+  </symbol>
+  <symbol id="svg-moon" viewBox="0 0 24 24">
+    <title>Dark mode</title>
+    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+      stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" class="icon-tabler-moon">
+      <path stroke="none" d="M0 0h24v24H0z" fill="none" />
+      <path d="M12 3c.132 0 .263 0 .393 0a7.5 7.5 0 0 0 7.92 12.446a9 9 0 1 1 -8.313 -12.454z" />
+    </svg>
+  </symbol>
+  <symbol id="svg-sun-half" viewBox="0 0 24 24">
+    <title>Auto light/dark mode</title>
+    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+      stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" class="icon-tabler-shadow">
+      <path stroke="none" d="M0 0h24v24H0z" fill="none"/>
+      <circle cx="12" cy="12" r="9" />
+      <path d="M13 12h5" />
+      <path d="M13 15h4" />
+      <path d="M13 18h1" />
+      <path d="M13 9h4" />
+      <path d="M13 6h1" />
+    </svg>
+  </symbol>
+</svg>
+
+<input type="checkbox" class="sidebar-toggle" name="__navigation" id="__navigation">
+<input type="checkbox" class="sidebar-toggle" name="__toc" id="__toc">
+<label class="overlay sidebar-overlay" for="__navigation">
+  <div class="visually-hidden">Hide navigation sidebar</div>
+</label>
+<label class="overlay toc-overlay" for="__toc">
+  <div class="visually-hidden">Hide table of contents sidebar</div>
+</label>
+
+
+
+<div class="page">
+  <header class="mobile-header">
+    <div class="header-left">
+      <label class="nav-overlay-icon" for="__navigation">
+        <div class="visually-hidden">Toggle site navigation sidebar</div>
+        <i class="icon"><svg><use href="#svg-menu"></use></svg></i>
+      </label>
+    </div>
+    <div class="header-center">
+      <a href="../index.html"><div class="brand">Wikisocion</div></a>
+    </div>
+    <div class="header-right">
+      <div class="theme-toggle-container theme-toggle-header">
+        <button class="theme-toggle">
+          <div class="visually-hidden">Toggle Light / Dark / Auto color theme</div>
+          <svg class="theme-icon-when-auto"><use href="#svg-sun-half"></use></svg>
+          <svg class="theme-icon-when-dark"><use href="#svg-moon"></use></svg>
+          <svg class="theme-icon-when-light"><use href="#svg-sun"></use></svg>
+        </button>
+      </div>
+      <label class="toc-overlay-icon toc-header-icon" for="__toc">
+        <div class="visually-hidden">Toggle table of contents sidebar</div>
+        <i class="icon"><svg><use href="#svg-toc"></use></svg></i>
+      </label>
+    </div>
+  </header>
+  <aside class="sidebar-drawer">
+    <div class="sidebar-container">
+      
+      <div class="sidebar-sticky"><div class="sidebar-scroll"><a class="sidebar-brand" href="../index.html">
+  
+  
+  <span class="sidebar-brand-text">Wikisocion</span>
+  
+</a><form class="sidebar-search-container" method="get" action="../search.html" role="search">
+  <input class="sidebar-search" placeholder=Search name="q" aria-label="Search">
+  <input type="hidden" name="check_keywords" value="yes">
+  <input type="hidden" name="area" value="default">
+</form>
+<div id="searchbox"></div>
+</div>
+      </div>
+      
+    </div>
+  </aside>
+  <div class="main">
+    <div class="content">
+      <article role="main">
+        <div class="content-icon-container">
+          <div class="theme-toggle-container theme-toggle-content">
+            <button class="theme-toggle">
+              <div class="visually-hidden">Toggle Light / Dark / Auto color theme</div>
+              <svg class="theme-icon-when-auto"><use href="#svg-sun-half"></use></svg>
+              <svg class="theme-icon-when-dark"><use href="#svg-moon"></use></svg>
+              <svg class="theme-icon-when-light"><use href="#svg-sun"></use></svg>
+            </button>
+          </div>
+          <label class="toc-overlay-icon toc-content-icon" for="__toc">
+            <div class="visually-hidden">Toggle table of contents sidebar</div>
+            <i class="icon"><svg><use href="#svg-toc"></use></svg></i>
+          </label>
+        </div>
+        <div class="section" id="vocabulary">
+<h1>Vocabulary<a class="headerlink" href="#vocabulary" title="Permalink to this headline">¶</a></h1>
+<p>This project was inspired by the book <a class="reference internal" href="semantic_aspects.html"><span class="doc">The Semantics of the Information Aspects</span></a>, which attempted
+to concreticize the way different <a class="reference internal" href="elements.html"><span class="doc">IM elements</span></a> manifest
+themselves in people’s speech. Here we are looking for real-life phrases
+that reflect the point of view of different IM elements (or ‘psychic
+functions’). An equivalent project has been started on the <a class="reference external" href="http://wikisocion.org/~wikisoci/ru/index.php?title=%D0%A1%D0%BB%D0%BE%D0%B2%D0%B0%D1%80%D1%8C_%D0%B8%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D1%8B%D1%85_%D0%B0%D1%81%D0%BF%D0%B5%D0%BA%D1%82%D0%BE%D0%B2#.5B.5B.D0.AD.D0.BA.D1.81.D1.82.D1.80.D0.B0.D0.B2.D0.B5.D1.80.D1.82.D0.BD.D0.B0.D1.8F_.D0.B8.D0.BD.D1.82.D1.83.D0.B8.D1.86.D0.B8.D1.8F.5D.5D_.28.5B.5BImage:symbol_i.gif.5D.5D.29">Russian
+version of
+Wikisocion</a>.
+If this page grows too large, it will be split into eight separate
+pages.</p>
+<div class="section" id="symbol-i-gif-extraverted-intuition">
+<h2><img alt="symbol_i.gif" src="../_images/Symbol_i.gif"/> (<a class="reference internal" href="Ne.html"><span class="doc">extraverted intuition</span></a>)<a class="headerlink" href="#symbol-i-gif-extraverted-intuition" title="Permalink to this headline">¶</a></h2>
+<div class="section" id="symbol-i-gif-related-words">
+<h3><img alt="symbol_i.gif" src="../_images/Symbol_i.gif"/> related words<a class="headerlink" href="#symbol-i-gif-related-words" title="Permalink to this headline">¶</a></h3>
+<ul class="simple">
+<li><p>idea, realization, epiphany, revelation</p></li>
+<li><p>general, overall, basic, main, core, fundamental</p></li>
+<li><p>important, key, critical, crucial</p></li>
+<li><p>enlightening, illuminating, insightful</p></li>
+<li><p>overview, glance (<em>figurative</em>)</p></li>
+<li><p>initially, recently, eventually, ultimately, finally</p></li>
+<li><p>in general, basically, for the most part, more or less, pretty much</p></li>
+<li><p>generate, engender, spawn, breed, give birth to, give rise to (<em>all
+figurative</em>)</p></li>
+<li><p>origin, crux, root, source</p></li>
+<li><p>any moment now, at the moment, until, since, later, once again,
+sometimes, occasionally, frequently, often, all the time, every time,
+for a while, periodically, regularly</p></li>
+<li><p>sudden, abrupt, unpredictable</p></li>
+<li><p>option, alternative, choice</p></li>
+<li><p>crossroads, juncture</p></li>
+<li><p>possibility, potential, likelihood, opportunity, chance, luck,
+fortune</p></li>
+<li><p>coincidence, concurrence</p></li>
+<li><p>come together, fall into place (<em>of events</em>)</p></li>
+<li><p>guess, suppose, imagine, reckon, conjecture, venture, hazard</p></li>
+<li><p>random (<em>figurative</em>)</p></li>
+</ul>
+</div>
+<div class="section" id="symbol-i-gif-related-statements-real-life-only-please">
+<h3><img alt="symbol_i.gif" src="../_images/Symbol_i.gif"/> related statements (real-life only, please)<a class="headerlink" href="#symbol-i-gif-related-statements-real-life-only-please" title="Permalink to this headline">¶</a></h3>
+<ul class="simple">
+<li><p>get to the root of</p></li>
+<li><p>you basically imply that…</p></li>
+<li><p>What I really meant was more that… (<em>some symbol_l.gif here?</em>)</p></li>
+<li><p>Here’s another idea.</p></li>
+<li><p>I have a career {<em>or any other idea</em>} for you.</p></li>
+<li><p>Just some random thoughts…</p></li>
+<li><p>in the long run it makes more sense to… (<em>some symbol_p.gif here?</em>)</p></li>
+<li><p>… and discovered lots of parallels with other things</p></li>
+<li><p>Within a week or so</p></li>
+<li><p>that’s the main commercial activity I’ve been involved in here
+recently since…</p></li>
+<li><p>it seems that things are coming together to allow me to do this</p></li>
+<li><p>Any ideas where we can…?</p></li>
+<li><p>… has real potential</p></li>
+<li><p>did you learn anything about yourself, people, country, you did not
+know before? (<em>some symbol_r.gif here as well</em>)</p></li>
+<li><p>You seem to have found a great niche</p></li>
+<li><p>Imagine that!</p></li>
+<li><p>Something really interesting is…</p></li>
+<li><p>Now just imagine for a second that…</p></li>
+<li><p>Suppose we go there and…</p></li>
+<li><p>I happen to have just spoken to him.</p></li>
+<li><p>Now is the critical moment.</p></li>
+<li><p>If I had gotten there earlier, I would have had time to figure things
+out first.</p></li>
+<li><p>One thing I have noticed is that…</p></li>
+<li><p>It has become clear to me lately that…</p></li>
+<li><p>I’m starting to realize…</p></li>
+<li><p>I’m pretty good at figuring out…</p></li>
+<li><p>So hypothetically…</p></li>
+<li><p>Well I think in that situation I would have responded in
+such-and-such a way.</p></li>
+</ul>
+</div>
+<div class="section" id="features-of-symbol-i-gif-speech">
+<h3>Features of <img alt="symbol_i.gif" src="../_images/Symbol_i.gif"/> speech<a class="headerlink" href="#features-of-symbol-i-gif-speech" title="Permalink to this headline">¶</a></h3>
+<ul class="simple">
+<li><p>A tendency to use the conditional tense frequently (“would have
+been,” “what might happen,” etc.)</p></li>
+</ul>
+</div>
+</div>
+<div class="section" id="symbol-t-gif-introverted-intuition">
+<h2><img alt="symbol_t.gif" src="../_images/Symbol_t.gif"/> (<a class="reference internal" href="Ni.html"><span class="doc">introverted intuition</span></a>)<a class="headerlink" href="#symbol-t-gif-introverted-intuition" title="Permalink to this headline">¶</a></h2>
+<div class="section" id="symbol-t-gif-related-words">
+<h3><img alt="symbol_t.gif" src="../_images/Symbol_t.gif"/> related words<a class="headerlink" href="#symbol-t-gif-related-words" title="Permalink to this headline">¶</a></h3>
+<ul class="simple">
+<li><p>anticipate, expect, envision, await, sense, foresee</p></li>
+<li><p>cause, causation, influence, consequence</p></li>
+<li><p>reflect, mirror, signal, indicate, point to (<em>all figurative</em>)</p></li>
+<li><p>clear, muddy, muddled, foggy, hazy, murky, blurry, fuzzy, faint (<em>all
+figurative</em>)</p></li>
+<li><p>bode, foreshadow, predict, promise, portend</p></li>
+<li><p>destiny, dream, echo (<em>figurative</em>), calamity</p></li>
+<li><p>disturbing, troublesome, troubling, worrisome, troubling, foreboding,
+sinister, ominous, fateful</p></li>
+<li><p>calm, serene, tranquil, idyllic</p></li>
+<li><p>din, commotion, hustle and bustle</p></li>
+<li><p>mysterious, cryptic, deep, shallow, obscure</p></li>
+<li><p>recollect, remember, retrieve, recall, call up, hark back to</p></li>
+<li><p>indefinite, vague, uncertain, unclear, nebulous, unknowable</p></li>
+<li><p>mire, quagmire, morass (<em>all figurative</em>)</p></li>
+<li><p>contemplate, think over, mull over, ponder, chew over, muse, reflect,
+ruminate, meditate</p></li>
+<li><p>transitory, ephemeral, fleeting, passing, short-lived, transient</p></li>
+</ul>
+</div>
+<div class="section" id="symbol-t-gif-related-statements-real-life-only-please">
+<h3><img alt="symbol_t.gif" src="../_images/Symbol_t.gif"/> related statements (real-life only, please)<a class="headerlink" href="#symbol-t-gif-related-statements-real-life-only-please" title="Permalink to this headline">¶</a></h3>
+<ul class="simple">
+<li><p>Another week has vanished into the netherness of “history”.</p></li>
+<li><p>Everything is a blur.</p></li>
+<li><p>I guess it’s a matter of interpretation…</p></li>
+<li><p>It feels like an eternity.</p></li>
+<li><p>The thing I still find mysterious is…</p></li>
+<li><p>in the spirit of…</p></li>
+<li><p>perhaps we shall meet in person again… indeed time will tell…</p></li>
+<li><p>I recently got the clearest vision I ever had in my life</p></li>
+<li><p>All I knew was that it was inevitable; I had lost the battle against
+time from the very beginning, and I was finally paying the price.</p></li>
+<li><p>It was the culmination of the ineffable poignancy of my youth. (<em>some
+symbol_e.gif here?</em>)</p></li>
+<li><p>Yesterday was long. Unfortunately long.</p></li>
+<li><p>this might seem to suggest that…</p></li>
+<li><p>she’s taking her time</p></li>
+<li><p>I just couldn’t put my finger on it.</p></li>
+<li><p>It flows smoothly between them rather than switching suddenly from
+one to the other across a gap.</p></li>
+<li><p>I’ll be leaving early today. The last time I had a premonition,
+something bad happened.</p></li>
+</ul>
+</div>
+<div class="section" id="features-of-symbol-t-gif-speech">
+<h3>Features of <img alt="symbol_t.gif" src="../_images/Symbol_t.gif"/> speech<a class="headerlink" href="#features-of-symbol-t-gif-speech" title="Permalink to this headline">¶</a></h3>
+<p>Surrealism and symbolism. Use of imagery to represent events and
+concepts, painting things in such a way that they seem grander than they
+really are. Because <img alt="symbol_t.gif" src="../_images/Symbol_t.gif"/> types naturally look beyond what
+happens on the surface to the underlying bigger picture, some may
+complain about the omission of details (when, where, who, what) or of
+mysticism. Except <img alt="symbol_t.gif" src="../_images/Symbol_t.gif"/> types have enough difficulty putting
+their thought processes into words, much less converting what they see
+into details that may reflect corporal reality, but mean nothing. So
+those who don’t value <img alt="symbol_t.gif" src="../_images/Symbol_t.gif"/> may either fail to follow or
+respond with criticism, or both.</p>
+<p>More importantly, the imagery is not static, but evolving due to their
+progressive thought process. When you listen to someone explain
+something in <img alt="symbol_t.gif" src="../_images/Symbol_t.gif"/>, it is like watching a video. One sees
+easily sees how one thing leads to another (if-this-then-that), as well
+as the interaction between symbols.</p>
+</div>
+</div>
+<div class="section" id="symbol-f-gif-extraverted-sensing">
+<h2><img alt="symbol_f.gif" src="../_images/Symbol_f.gif"/> (<a class="reference internal" href="Se.html"><span class="doc">extraverted sensing</span></a>)<a class="headerlink" href="#symbol-f-gif-extraverted-sensing" title="Permalink to this headline">¶</a></h2>
+<div class="section" id="symbol-f-gif-related-words">
+<h3><img alt="symbol_f.gif" src="../_images/Symbol_f.gif"/> related words<a class="headerlink" href="#symbol-f-gif-related-words" title="Permalink to this headline">¶</a></h3>
+<ul class="simple">
+<li><p>want, need, must have</p></li>
+<li><p>have, own, lack, get</p></li>
+<li><p>adversity, challenge, obstacle, threat</p></li>
+<li><p>determination, resolve, will</p></li>
+<li><p>encounter, run-in, contention, confrontation, resistence, retaliation</p></li>
+<li><p>brave, courageous, strong, unflinching</p></li>
+<li><p>throw, take, pull out, push, stuff, open, let out, hang, pick up,
+set, squeeze, crush, pick, shake, grab, snap up, shove, stick, jab,
+yank, whack, fling, thrash, bang, bump, slice, cut</p></li>
+<li><p>break, crush, beat, beat up, rip into, conquer, size up, take down,
+bring down, tear down, build up, tackle, finish off, wipe out,
+overcome (<em>psychologically and emotionally as well as physically</em>)</p></li>
+<li><p>hold up, withstand, take, handle, lock on</p></li>
+<li><p>flinch, vacillate, crack, collapse, cave in, give in, crumble,
+capitulate, submit to</p></li>
+<li><p>protect, fight, strengthen, weaken, intrude, defend, put up with,
+resist</p></li>
+<li><p>restrain, control, submit, subdue (<em>all figurative as well as
+literal</em>)</p></li>
+<li><p>appearance, looks</p></li>
+<li><p>beautiful, good-looking, gorgeous</p></li>
+<li><p>ugly, hideous, deformed, disfigured</p></li>
+<li><p>appear, show up, pop up, flash by, disappear</p></li>
+<li><p>notice, look, find, take a look, look around, stare</p></li>
+<li><p>flash, sparkle, twinkle, light up, burn, glitter, glare</p></li>
+<li><p>shape, size, mass, weight, dimensions, length, width, height, depth</p></li>
+<li><p>big, huge, tiny, small, enormous, large, round, square, bent,
+straight, flat, stretched out, wide, high, low, narrow, thin</p></li>
+<li><p>this high, this low, this much, this little (<em>while showing with your
+hands</em>)</p></li>
+<li><p>hole, opening, limit, peak, top, middle, edge, bend</p></li>
+<li><p>stick out, protrude, jut out, hang out, bulge, pop out</p></li>
+<li><p>inside, around, behind, far away, across, in the middle, backwards,
+at a slant, from the side, nearby, right in front of</p></li>
+<li><p>that one, this one, this thing, that one over there, here, there,
+from here, over here</p></li>
+<li><p>thingy, thingamajig, thingamabob, doodad</p></li>
+<li><p>mighty, solid, limp, weak, strong, active, relaxed, restrained,
+energetic, mobilized, ready</p></li>
+<li><p>energy, power, strength, force, drive</p></li>
+<li><p>mine</p></li>
+</ul>
+</div>
+<div class="section" id="symbol-f-gif-related-statements-real-life-only-please">
+<h3><img alt="symbol_f.gif" src="../_images/Symbol_f.gif"/> related statements (real-life only, please)<a class="headerlink" href="#symbol-f-gif-related-statements-real-life-only-please" title="Permalink to this headline">¶</a></h3>
+<ul class="simple">
+<li><p>Shove that into your mind.</p></li>
+<li><p>Get a life, stop harassing people.</p></li>
+<li><p>You are completely useless.</p></li>
+<li><p>throw around words</p></li>
+<li><p>amorphous butts</p></li>
+<li><p>Be good.</p></li>
+<li><p>my restless desire to just graduate is getting the best of me</p></li>
+<li><p>she’s after me</p></li>
+<li><p>I’m coming for you.</p></li>
+<li><p>You can’t win.</p></li>
+<li><p>on the ball</p></li>
+<li><p>im totally retardededededed (<em>some symbol_e.gif here, too</em>)</p></li>
+<li><p>I’m gonna beat you, I’m gonna beat you in every round</p></li>
+<li><p>People just want to see me crumble.</p></li>
+<li><p>When life throws you a curve ball, you’ve got to handle it.</p></li>
+<li><p>No, stop! Stop it now!</p></li>
+<li><p>Stop bullshitting.</p></li>
+<li><p>I’m just messing with you.</p></li>
+<li><p>Just sit down!</p></li>
+<li><p>Oh shut up, man! (<em>in jest</em>)</p></li>
+<li><p>Don’t even start!</p></li>
+<li><p>I have to take a lot of crap.</p></li>
+<li><p>Don’t cry over spilled milk.</p></li>
+<li><p>They cornered me</p></li>
+<li><p>No matter what, I’ll be on top.</p></li>
+<li><p>fold under pressure</p></li>
+<li><p>clean up your act</p></li>
+<li><p>We need to keep our eyes on the ball.</p></li>
+<li><p>How dare you!</p></li>
+<li><p>She has what it takes.</p></li>
+<li><p>They’ll get what’s coming to them.</p></li>
+</ul>
+</div>
+<div class="section" id="features-of-symbol-f-gif-speech">
+<h3>Features of <img alt="symbol_f.gif" src="../_images/Symbol_f.gif"/> speech<a class="headerlink" href="#features-of-symbol-f-gif-speech" title="Permalink to this headline">¶</a></h3>
+</div>
+</div>
+<div class="section" id="symbol-s-gif-introverted-sensing">
+<h2><img alt="symbol_s.gif" src="../_images/Symbol_s.gif"/> (<a class="reference internal" href="Si.html"><span class="doc">introverted sensing</span></a>)<a class="headerlink" href="#symbol-s-gif-introverted-sensing" title="Permalink to this headline">¶</a></h2>
+<div class="section" id="symbol-s-gif-related-words">
+<h3><img alt="symbol_s.gif" src="../_images/Symbol_s.gif"/> related words<a class="headerlink" href="#symbol-s-gif-related-words" title="Permalink to this headline">¶</a></h3>
+<ul class="simple">
+<li><p>sensation, impression</p></li>
+<li><p>sense, feel (<em>not emotionally, but physiologically or ‘in one’s
+gut</em>’)</p></li>
+<li><p>get into, adapt, adjust, make oneself at home</p></li>
+<li><p>stomach (<em>verb</em>), stand, tolerate</p></li>
+<li><p>digest, swallow (<em>figurative as well as literal</em>), chew, cough,
+sneeze, sweat, blow nose, wheeze, pee, poop, freeze, fatten up, put
+on weight, shower, rinse off</p></li>
+<li><p>aroma, smell, taste, aftertaste, twinge</p></li>
+<li><p>sour, sweet, salty, rotten, bitter, putrid, fresh, crisp, juicy
+(<em>figurative as well as literal</em>)</p></li>
+<li><p>smooth, rough, sharp, dull, glossy, sleek, slick (<em>figurative as well
+as literal</em>)</p></li>
+<li><p>dry, parched, baked, moist, wet, damp, hot, boiling, sweltering,
+steamy, muggy, toasty, warm, lukewarm, cold, freezing, frigid, cool,
+refreshing, chilly</p></li>
+<li><p>touch, hold, clutch, grip, grasp, tickle, wiggle, pet, caress,
+stroke, squeeze, scratch, rub</p></li>
+<li><p>pain, ache, burning, itch, chafe, chafing, soreness, warmth, rumbling</p></li>
+<li><p>bliss, cloud nine, rest, relaxation</p></li>
+<li><p>uncomfortable, restless, fidgety</p></li>
+<li><p>comfortable, cozy, intimate, snug, soothing, homely</p></li>
+<li><p>enjoy, satisfy, sate, humor, indulge</p></li>
+<li><p>be hungry, be in the mood for, try, snack, have a bite, have enough,
+get full, eat, feed, feast, overeat, pig out</p></li>
+<li><p>health (physical condition), condition, illness, sickness, malady,
+ailment</p></li>
+<li><p>healthy, good for you, unhealthy, bad for you (of food and
+activities)</p></li>
+<li><p>miserable, wretched (<em>how one is feeling</em>), under the weather</p></li>
+<li><p>get dirty, soil, clean up, mess up, care for, wash, clean off,
+cleanse</p></li>
+<li><p>dirt, mess, stain, wear and tear, filth, grime, grease</p></li>
+<li><p>sticky, gluey, gummy, pasty, runny, stringy, grimey, greasy</p></li>
+<li><p>pliable, flexible, elastic, malleable, supple, firm, hard, solid,
+stiff, steady</p></li>
+<li><p>reliable, tangible, stable</p></li>
+<li><p>sprezzatura</p></li>
+</ul>
+</div>
+<div class="section" id="symbol-s-gif-related-statements-real-life-only-please">
+<h3><img alt="symbol_s.gif" src="../_images/Symbol_s.gif"/> related statements (real-life only, please)<a class="headerlink" href="#symbol-s-gif-related-statements-real-life-only-please" title="Permalink to this headline">¶</a></h3>
+<ul class="simple">
+<li><p>It turned into this squishy mass.</p></li>
+<li><p>She looks yummy.</p></li>
+<li><p>You look the same as you always did.</p></li>
+<li><p>It’s blazing hot</p></li>
+<li><p>I feel great!</p></li>
+<li><p>a flood of spring sunlight</p></li>
+<li><p>The heat is about to kill me, but I’m getting used to it.</p></li>
+<li><p>… which you’ll get tired of quickly</p></li>
+<li><p>get settled {<em>or</em> get settled in}</p></li>
+<li><p>at least I feel comfortable in it</p></li>
+<li><p>Once life settles into an even rhythm I hope to…</p></li>
+<li><p>just enjoying life</p></li>
+<li><p>drenched in sweat</p></li>
+<li><p>The right side of my head is kind of tender.</p></li>
+<li><p>I was weak, sweating, and shaking</p></li>
+<li><p>puked out my guts (<em>some symbol_e.gif here?</em>)</p></li>
+<li><p>pukey green color</p></li>
+<li><p>my body still thinks I need to…</p></li>
+<li><p>Music today is like a big bowl of soup.</p></li>
+<li><p>I cannot stomach it.</p></li>
+</ul>
+</div>
+<div class="section" id="features-of-symbol-s-gif-speech">
+<h3>Features of <img alt="symbol_s.gif" src="../_images/Symbol_s.gif"/> speech<a class="headerlink" href="#features-of-symbol-s-gif-speech" title="Permalink to this headline">¶</a></h3>
+<ul class="simple">
+<li><p>A preference for simple sentence constructions that cannot produce
+confusion.</p></li>
+</ul>
+</div>
+</div>
+<div class="section" id="symbol-p-gif-extraverted-logic">
+<h2><img alt="symbol_p.gif" src="../_images/Symbol_p.gif"/> (<a class="reference internal" href="Te.html"><span class="doc">extraverted logic</span></a>)<a class="headerlink" href="#symbol-p-gif-extraverted-logic" title="Permalink to this headline">¶</a></h2>
+<div class="section" id="symbol-p-gif-related-words">
+<h3><img alt="symbol_p.gif" src="../_images/Symbol_p.gif"/> related words<a class="headerlink" href="#symbol-p-gif-related-words" title="Permalink to this headline">¶</a></h3>
+<ul class="simple">
+<li><p>efficiency, effectiveness, rationale, sense (<em>i.e. the sense in doing
+something</em>), expedience</p></li>
+<li><p>productive, rational, justified, unjustified</p></li>
+<li><p>movement, motion, speed, acceleration, displacement, rotation</p></li>
+<li><p>production, work</p></li>
+<li><p>algorithm, calculation</p></li>
+<li><p>profit, finance, market</p></li>
+<li><p>management, administration</p></li>
+<li><p>diligence, industriousness, industry, conscientiousness</p></li>
+<li><p>confirm, substantiate, prove, verify, support, test, double check,
+refute, disprove, debunk</p></li>
+<li><p>information source</p></li>
+<li><p>factual, reliable, confirmed, observed, unreliable, unconfirmed,
+hypothetical, unverified</p></li>
+</ul>
+</div>
+<div class="section" id="symbol-p-gif-related-statements-real-life-only-please">
+<h3><img alt="symbol_p.gif" src="../_images/Symbol_p.gif"/> related statements (real-life only, please)<a class="headerlink" href="#symbol-p-gif-related-statements-real-life-only-please" title="Permalink to this headline">¶</a></h3>
+<ul class="simple">
+<li><p>It provides both usefulness and a way to double-check…</p></li>
+<li><p>What are you trying to accomplish?</p></li>
+<li><p>What you did was really pointless, it achieved nothing.</p></li>
+<li><p>Where’s the evidence for this statement?</p></li>
+<li><p>I’m still planning on applying within the next couple of weeks.</p></li>
+<li><p>How often do you use the ATM?</p></li>
+<li><p>you might get more value for your money with…</p></li>
+<li><p>I don’t… {<em>do something</em>} enough to justify the extra expense</p></li>
+<li><p>take advantage of this opportunity you are providing</p></li>
+<li><p>You’ll be able to lift it easier if you move your hands further
+apart.</p></li>
+<li><p>I have read several books on that subject.</p></li>
+<li><p>This is confirmed by all the available evidence.</p></li>
+<li><p>You are just talking out of thin air.</p></li>
+<li><p>You don’t know what you are talking about.</p></li>
+<li><p>Get a clue.</p></li>
+<li><p>I am just so sick of people’s incompetence.</p></li>
+</ul>
+</div>
+<div class="section" id="features-of-symbol-p-gif-speech">
+<h3>Features of <img alt="symbol_p.gif" src="../_images/Symbol_p.gif"/> speech<a class="headerlink" href="#features-of-symbol-p-gif-speech" title="Permalink to this headline">¶</a></h3>
+</div>
+</div>
+<div class="section" id="symbol-l-gif-introverted-logic">
+<h2><img alt="symbol_l.gif" src="../_images/Symbol_l.gif"/> (<a class="reference internal" href="Ti.html"><span class="doc">introverted logic</span></a>)<a class="headerlink" href="#symbol-l-gif-introverted-logic" title="Permalink to this headline">¶</a></h2>
+<div class="section" id="symbol-l-gif-related-words">
+<h3><img alt="symbol_l.gif" src="../_images/Symbol_l.gif"/> related words<a class="headerlink" href="#symbol-l-gif-related-words" title="Permalink to this headline">¶</a></h3>
+<ul class="simple">
+<li><p>logical, systematic, consistent, coherent</p></li>
+<li><p>system, scheme, ordering, classification, grouping, framework,
+structure, law, rule</p></li>
+<li><p>correlation, similarity, distinction, compatibility</p></li>
+<li><p>controversial, compliant</p></li>
+<li><p>denote, define, mean, signify, designate, refer to, constitute,
+correspond to, pertain to</p></li>
+<li><p>satisfy (<em>i.e. a requirement</em>), comply with, match</p></li>
+<li><p>establish (a rule or principle)</p></li>
+<li><p>counterpart, analogue, equivalent</p></li>
+<li><p>characteristic of, of a ____ nature</p></li>
+<li><p>according to, corresponding to, in view of, in terms of, apart from,
+given ___, equivalent to, tantamount to</p></li>
+<li><p>in principle, strictly speaking, by definition</p></li>
+<li><p>consider, call, deem, regard, associate ____ with</p></li>
+<li><p>therefore, consequently, thus, hence</p></li>
+</ul>
+</div>
+<div class="section" id="symbol-l-gif-related-statements-real-life-only-please">
+<h3><img alt="symbol_l.gif" src="../_images/Symbol_l.gif"/> related statements (real-life only, please)<a class="headerlink" href="#symbol-l-gif-related-statements-real-life-only-please" title="Permalink to this headline">¶</a></h3>
+<ul class="simple">
+<li><p>extremely similar in nature</p></li>
+<li><p>correlate rather poorly</p></li>
+<li><p>Now on that point, I’m going to have to take issue.</p></li>
+<li><p>I think a study of… {<em>someone’s</em>} usage of the word will give a
+more accurate interpretation</p></li>
+<li><p>inconsistent in his punctuation</p></li>
+<li><p>We are obligated to abide by certain rules.</p></li>
+<li><p>Do you understand what I’m trying to say?</p></li>
+<li><p>Only when absolutely necessary.</p></li>
+<li><p>He knew what not to do is what he did do.</p></li>
+<li><p>Is it or isn’t it?</p></li>
+<li><p>What does that refer to?</p></li>
+<li><p>You are contradicting yourself.</p></li>
+</ul>
+</div>
+<div class="section" id="features-of-symbol-l-gif-speech">
+<h3>Features of <img alt="symbol_l.gif" src="../_images/Symbol_l.gif"/> speech<a class="headerlink" href="#features-of-symbol-l-gif-speech" title="Permalink to this headline">¶</a></h3>
+<ul class="simple">
+<li><p>A penchant for concise formulations (“No. That is incorrect.” or “A
+holon is a whole that is also a part.”).</p></li>
+<li><p>Tend to define new words (jargon) and then use them extensively.</p></li>
+</ul>
+</div>
+</div>
+<div class="section" id="symbol-e-gif-extraverted-ethics">
+<h2><img alt="symbol_e.gif" src="../_images/Symbol_e.gif"/> (<a class="reference internal" href="Fe.html"><span class="doc">extraverted ethics</span></a>)<a class="headerlink" href="#symbol-e-gif-extraverted-ethics" title="Permalink to this headline">¶</a></h2>
+<div class="section" id="symbol-e-gif-related-words">
+<h3><img alt="symbol_e.gif" src="../_images/Symbol_e.gif"/> related words<a class="headerlink" href="#symbol-e-gif-related-words" title="Permalink to this headline">¶</a></h3>
+<ul class="simple">
+<li><p>excitement, hype, hullabaloo, hoopla, uproar, mayhem, madness,
+hubbub, brouhaha, ballyhoo</p></li>
+<li><p>mood, demeanor</p></li>
+<li><p>vibrant, vivacious, excited, energized, zesty</p></li>
+<li><p>dark, dour, glowering, glum, moody, morose, brooding, sour, sullen</p></li>
+<li><p>delirious, frantic, mad, unrestrained, uninhibited</p></li>
+<li><p>dazzle, wow, tantalize, torment</p></li>
+<li><p>escalate, intensify</p></li>
+<li><p>bedevil, befuddle, discombobulate</p></li>
+<li><p>howl, wail, bawl, roar</p></li>
+<li><p>honk, blare, beep, toot</p></li>
+<li><p>congruity, harmony</p></li>
+</ul>
+</div>
+<div class="section" id="symbol-e-gif-related-statements-real-life-only-please">
+<h3><img alt="symbol_e.gif" src="../_images/Symbol_e.gif"/> related statements (real-life only, please)<a class="headerlink" href="#symbol-e-gif-related-statements-real-life-only-please" title="Permalink to this headline">¶</a></h3>
+<ul class="simple">
+<li><p>amazingly awesome</p></li>
+<li><p>sooooo cool</p></li>
+<li><p>ineffably cool</p></li>
+<li><p>superly duperly nifty :P</p></li>
+<li><p>GAAAAAAAAH</p></li>
+<li><p>This is gonna be so dang sweet. :-D</p></li>
+<li><p>we’re very very very excited!</p></li>
+<li><p>you’ve got to see this painting- it’s totally ‘nutzo’.</p></li>
+<li><p>he usually dies laughing</p></li>
+<li><p>…and lived in the pits of depression</p></li>
+<li><p>I was shocked and overjoyed to hear of that</p></li>
+<li><p>You’re just so beautiful! [blows a kiss]</p></li>
+<li><p>Pretty mellow.</p></li>
+<li><p>I had a freaking crush on him!</p></li>
+<li><p>I don’t want to criticize her [in person] because I’m afraid of
+hurting her feelings. I can’t do it even if she’s going to run out of
+business at this rate.</p></li>
+<li><p>play it cool</p></li>
+<li><p>He’s usually really easy to cheer up.</p></li>
+<li><p>make an ass of oneself</p></li>
+<li><p>[boisterous laughter]</p></li>
+</ul>
+</div>
+<div class="section" id="features-of-symbol-e-gif-speech">
+<h3>Features of <img alt="symbol_e.gif" src="../_images/Symbol_e.gif"/> speech<a class="headerlink" href="#features-of-symbol-e-gif-speech" title="Permalink to this headline">¶</a></h3>
+<ul class="simple">
+<li><p>Many illustrative adverbs and superlatives (e.g. <em>absolutely
+amazing!</em>).</p></li>
+</ul>
+</div>
+</div>
+<div class="section" id="symbol-r-gif-introverted-ethics">
+<h2><img alt="symbol_r.gif" src="../_images/Symbol_r.gif"/> (<a class="reference internal" href="Fi.html"><span class="doc">introverted ethics</span></a>)<a class="headerlink" href="#symbol-r-gif-introverted-ethics" title="Permalink to this headline">¶</a></h2>
+<div class="section" id="symbol-r-gif-related-words">
+<h3><img alt="symbol_r.gif" src="../_images/Symbol_r.gif"/> related words<a class="headerlink" href="#symbol-r-gif-related-words" title="Permalink to this headline">¶</a></h3>
+<ul class="simple">
+<li><p>sentiment</p></li>
+<li><p>relate to, sympathize with</p></li>
+<li><p>relationship (<em>both figurative and literal</em>)</p></li>
+<li><p>support (<em>i.e. supporting something</em>)</p></li>
+<li><p>community</p></li>
+<li><p>share</p></li>
+<li><p>to bring (people) together</p></li>
+<li><p>to open up (<em>figurative</em>)</p></li>
+</ul>
+</div>
+<div class="section" id="symbol-r-gif-related-statements-real-life-only-please">
+<h3><img alt="symbol_r.gif" src="../_images/Symbol_r.gif"/> related statements (real-life only, please)<a class="headerlink" href="#symbol-r-gif-related-statements-real-life-only-please" title="Permalink to this headline">¶</a></h3>
+<ul class="simple">
+<li><p>This bugs me.</p></li>
+<li><p>I just don’t care for…</p></li>
+<li><p>I am truly grateful for…</p></li>
+<li><p>It is just exciting to be around things that old.</p></li>
+<li><p>We’d appreciate it a lot.</p></li>
+<li><p>I felt bad about the situation</p></li>
+<li><p>when everyone gets together I feel a bit of alienation or distance</p></li>
+<li><p>I just wanted to say how touched I was that…</p></li>
+<li><p>thinking of you (<em>e.g. at end of letter</em>)</p></li>
+<li><p>He is a good person.</p></li>
+<li><p>I can relate to you a lot.</p></li>
+<li><p>How sad.</p></li>
+<li><p>I have a lasting gift from you which some of my friends do not have:
+the knowledge that you are there when I need you, and the knowledge
+that you really care.</p></li>
+<li><p>Thank you for understanding.</p></li>
+<li><p>There are good and bad people everywhere.</p></li>
+<li><p>The son is so mean and impatient with his dad.</p></li>
+<li><p>I must have the most considerate son. How well he knows me!</p></li>
+<li><p>I surely missed you all and thought of you a lot.</p></li>
+<li><p>I did not realize how terribly alone and lonely she must have been.</p></li>
+<li><p>Be close to your extended family; you need them more than you think.</p></li>
+<li><p>How exciting! I’m happy for you.</p></li>
+<li><p>I am concerned about…</p></li>
+<li><p>I sent that old monster off yesterday. (referring to an appliance)</p></li>
+<li><p>What a terrible thought!</p></li>
+<li><p>I really do care about you, so much…</p></li>
+<li><p>It’s fun to have you around.</p></li>
+<li><p>I am so glad you are in my life.</p></li>
+<li><p>Everybody is happy that we could meet.</p></li>
+<li><p>Do you feel different now?</p></li>
+<li><p>She’s really frustrated by…</p></li>
+<li><p>I feel sorry for you for…</p></li>
+<li><p>I am so much looking forward to spending some time with you.</p></li>
+<li><p>Wishing you were here…</p></li>
+<li><p>I just love [a person, thing, situation].</p></li>
+</ul>
+</div>
+<div class="section" id="features-of-symbol-r-gif-speech">
+<h3>Features of <img alt="symbol_r.gif" src="../_images/Symbol_r.gif"/> speech<a class="headerlink" href="#features-of-symbol-r-gif-speech" title="Permalink to this headline">¶</a></h3>
+</div>
+</div>
+</div>
+
+      </article>
+      <footer>
+        
+        <div class="related-pages">
+          <a class="next-page" href="socionic_type.html">
+              <div class="page-info">
+                <div class="context">
+                  <span>Next</span>
+                </div>
+                <div class="title">Socionic type</div>
+              </div>
+              <svg><use href="#svg-arrow-right"></use></svg>
+            </a>
+          <a class="prev-page" href="semantic_aspects.html">
+              <svg><use href="#svg-arrow-right"></use></svg>
+              <div class="page-info">
+                <div class="context">
+                  <span>Previous</span>
+                </div>
+                
+                <div class="title">The Semantics of the Information Aspects</div>
+                
+              </div>
+            </a>
+        </div>
+
+        <div class="related-information">
+              Copyright &#169; 2021, Wikisocion Authors
+            |
+            Built with <a href="https://www.sphinx-doc.org/">Sphinx</a>
+              and
+              <a class="muted-link" href="https://pradyunsg.me">@pradyunsg</a>'s
+              <a href="https://github.com/pradyunsg/furo">Furo theme</a>.
+            |
+            <a class="muted-link" href="../_sources/content/vocabulary.rst.txt"
+               rel="nofollow">
+              Show Source
+            </a>
+        </div>
+        
+      </footer>
+    </div>
+    <aside class="toc-drawer">
+      
+      
+      <div class="toc-sticky toc-scroll">
+        <div class="toc-title-container">
+          <span class="toc-title">
+            Contents
+          </span>
+        </div>
+        <div class="toc-tree-container">
+          <div class="toc-tree">
+            <ul>
+<li><a class="reference internal" href="#">Vocabulary</a><ul>
+<li><a class="reference internal" href="#symbol-i-gif-extraverted-intuition"> (<span class="xref std std-doc">extraverted intuition</span>)</a><ul>
+<li><a class="reference internal" href="#symbol-i-gif-related-words"> related words</a></li>
+<li><a class="reference internal" href="#symbol-i-gif-related-statements-real-life-only-please"> related statements (real-life only, please)</a></li>
+<li><a class="reference internal" href="#features-of-symbol-i-gif-speech">Features of  speech</a></li>
+</ul>
+</li>
+<li><a class="reference internal" href="#symbol-t-gif-introverted-intuition"> (<span class="xref std std-doc">introverted intuition</span>)</a><ul>
+<li><a class="reference internal" href="#symbol-t-gif-related-words"> related words</a></li>
+<li><a class="reference internal" href="#symbol-t-gif-related-statements-real-life-only-please"> related statements (real-life only, please)</a></li>
+<li><a class="reference internal" href="#features-of-symbol-t-gif-speech">Features of  speech</a></li>
+</ul>
+</li>
+<li><a class="reference internal" href="#symbol-f-gif-extraverted-sensing"> (<span class="xref std std-doc">extraverted sensing</span>)</a><ul>
+<li><a class="reference internal" href="#symbol-f-gif-related-words"> related words</a></li>
+<li><a class="reference internal" href="#symbol-f-gif-related-statements-real-life-only-please"> related statements (real-life only, please)</a></li>
+<li><a class="reference internal" href="#features-of-symbol-f-gif-speech">Features of  speech</a></li>
+</ul>
+</li>
+<li><a class="reference internal" href="#symbol-s-gif-introverted-sensing"> (<span class="xref std std-doc">introverted sensing</span>)</a><ul>
+<li><a class="reference internal" href="#symbol-s-gif-related-words"> related words</a></li>
+<li><a class="reference internal" href="#symbol-s-gif-related-statements-real-life-only-please"> related statements (real-life only, please)</a></li>
+<li><a class="reference internal" href="#features-of-symbol-s-gif-speech">Features of  speech</a></li>
+</ul>
+</li>
+<li><a class="reference internal" href="#symbol-p-gif-extraverted-logic"> (<span class="xref std std-doc">extraverted logic</span>)</a><ul>
+<li><a class="reference internal" href="#symbol-p-gif-related-words"> related words</a></li>
+<li><a class="reference internal" href="#symbol-p-gif-related-statements-real-life-only-please"> related statements (real-life only, please)</a></li>
+<li><a class="reference internal" href="#features-of-symbol-p-gif-speech">Features of  speech</a></li>
+</ul>
+</li>
+<li><a class="reference internal" href="#symbol-l-gif-introverted-logic"> (<span class="xref std std-doc">introverted logic</span>)</a><ul>
+<li><a class="reference internal" href="#symbol-l-gif-related-words"> related words</a></li>
+<li><a class="reference internal" href="#symbol-l-gif-related-statements-real-life-only-please"> related statements (real-life only, please)</a></li>
+<li><a class="reference internal" href="#features-of-symbol-l-gif-speech">Features of  speech</a></li>
+</ul>
+</li>
+<li><a class="reference internal" href="#symbol-e-gif-extraverted-ethics"> (<span class="xref std std-doc">extraverted ethics</span>)</a><ul>
+<li><a class="reference internal" href="#symbol-e-gif-related-words"> related words</a></li>
+<li><a class="reference internal" href="#symbol-e-gif-related-statements-real-life-only-please"> related statements (real-life only, please)</a></li>
+<li><a class="reference internal" href="#features-of-symbol-e-gif-speech">Features of  speech</a></li>
+</ul>
+</li>
+<li><a class="reference internal" href="#symbol-r-gif-introverted-ethics"> (<span class="xref std std-doc">introverted ethics</span>)</a><ul>
+<li><a class="reference internal" href="#symbol-r-gif-related-words"> related words</a></li>
+<li><a class="reference internal" href="#symbol-r-gif-related-statements-real-life-only-please"> related statements (real-life only, please)</a></li>
+<li><a class="reference internal" href="#features-of-symbol-r-gif-speech">Features of  speech</a></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+
+          </div>
+        </div>
+      </div>
+      
+      
+    </aside>
+  </div>
+</div><script data-url_root="../" id="documentation_options" src="../_static/documentation_options.js"></script>
+    <script src="../_static/jquery.js"></script>
+    <script src="../_static/underscore.js"></script>
+    <script src="../_static/doctools.js"></script>
+    <script src="../_static/scripts/main.js"></script>
+    </body>
+</html>

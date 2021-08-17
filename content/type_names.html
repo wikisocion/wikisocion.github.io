@@ -1,0 +1,834 @@
+<!doctype html>
+<html class="no-js">
+  <head><meta charset="utf-8"/>
+    <meta name="viewport" content="width=device-width,initial-scale=1"/>
+    <meta name="color-scheme" content="light dark"><link rel="index" title="Index" href="../genindex.html" /><link rel="search" title="Search" href="../search.html" /><link rel="next" title="Socion" href="socion.html" /><link rel="prev" title="Socionic type" href="socionic_type.html" />
+
+    <meta name="generator" content="sphinx-4.1.2, furo 2021.08.11.beta42"/>
+        <title>Type names - Wikisocion</title>
+      <link rel="stylesheet" type="text/css" href="../_static/pygments.css" />
+    <link rel="stylesheet" type="text/css" href="../_static/styles/furo.css?digest=197f00461d56902ea7ca048ec6e6ba026f62c97b" />
+    <link rel="stylesheet" type="text/css" href="../_static/styles/furo-extensions.css?digest=93475b62d1c3bc01323a0eefdc14a62d77b12690" />
+    
+    
+
+
+<style>
+  body {
+    --color-code-background: #f8f8f8;
+  --color-code-foreground: black;
+  
+  }
+  body[data-theme="dark"] {
+    --color-code-background: #202020;
+  --color-code-foreground: #d0d0d0;
+  
+  }
+  @media (prefers-color-scheme: dark) {
+    body:not([data-theme="light"]) {
+      --color-code-background: #202020;
+  --color-code-foreground: #d0d0d0;
+  
+    }
+  }
+</style>
+    <link media="(prefers-color-scheme: dark)" rel="stylesheet" href="../_static/pygments_dark.css"></head>
+  <body>
+    
+<svg xmlns="http://www.w3.org/2000/svg" style="display: none;">
+  <symbol id="svg-toc" viewBox="0 0 24 24">
+    <title>Contents</title>
+    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+      stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+      <path stroke="none" d="M0 0h24v24H0z" />
+      <line x1="4" y1="6" x2="20" y2="6" />
+      <line x1="10" y1="12" x2="20" y2="12" />
+      <line x1="6" y1="18" x2="20" y2="18" />
+    </svg>
+  </symbol>
+  <symbol id="svg-menu" viewBox="0 0 24 24">
+    <title>Menu</title>
+    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+      stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather-menu">
+      <line x1="3" y1="12" x2="21" y2="12"></line>
+      <line x1="3" y1="6" x2="21" y2="6"></line>
+      <line x1="3" y1="18" x2="21" y2="18"></line>
+    </svg>
+  </symbol>
+  <symbol id="svg-arrow-right" viewBox="0 0 24 24">
+    <title>Expand</title>
+    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+      stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather-chevron-right">
+      <polyline points="9 18 15 12 9 6"></polyline>
+    </svg>
+  </symbol>
+  <symbol id="svg-sun" viewBox="0 0 24 24">
+    <title>Light mode</title>
+    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+      stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" class="feather-sun">
+      <circle cx="12" cy="12" r="5"></circle>
+      <line x1="12" y1="1" x2="12" y2="3"></line>
+      <line x1="12" y1="21" x2="12" y2="23"></line>
+      <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
+      <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
+      <line x1="1" y1="12" x2="3" y2="12"></line>
+      <line x1="21" y1="12" x2="23" y2="12"></line>
+      <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
+      <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
+    </svg>
+  </symbol>
+  <symbol id="svg-moon" viewBox="0 0 24 24">
+    <title>Dark mode</title>
+    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+      stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" class="icon-tabler-moon">
+      <path stroke="none" d="M0 0h24v24H0z" fill="none" />
+      <path d="M12 3c.132 0 .263 0 .393 0a7.5 7.5 0 0 0 7.92 12.446a9 9 0 1 1 -8.313 -12.454z" />
+    </svg>
+  </symbol>
+  <symbol id="svg-sun-half" viewBox="0 0 24 24">
+    <title>Auto light/dark mode</title>
+    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+      stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" class="icon-tabler-shadow">
+      <path stroke="none" d="M0 0h24v24H0z" fill="none"/>
+      <circle cx="12" cy="12" r="9" />
+      <path d="M13 12h5" />
+      <path d="M13 15h4" />
+      <path d="M13 18h1" />
+      <path d="M13 9h4" />
+      <path d="M13 6h1" />
+    </svg>
+  </symbol>
+</svg>
+
+<input type="checkbox" class="sidebar-toggle" name="__navigation" id="__navigation">
+<input type="checkbox" class="sidebar-toggle" name="__toc" id="__toc">
+<label class="overlay sidebar-overlay" for="__navigation">
+  <div class="visually-hidden">Hide navigation sidebar</div>
+</label>
+<label class="overlay toc-overlay" for="__toc">
+  <div class="visually-hidden">Hide table of contents sidebar</div>
+</label>
+
+
+
+<div class="page">
+  <header class="mobile-header">
+    <div class="header-left">
+      <label class="nav-overlay-icon" for="__navigation">
+        <div class="visually-hidden">Toggle site navigation sidebar</div>
+        <i class="icon"><svg><use href="#svg-menu"></use></svg></i>
+      </label>
+    </div>
+    <div class="header-center">
+      <a href="../index.html"><div class="brand">Wikisocion</div></a>
+    </div>
+    <div class="header-right">
+      <div class="theme-toggle-container theme-toggle-header">
+        <button class="theme-toggle">
+          <div class="visually-hidden">Toggle Light / Dark / Auto color theme</div>
+          <svg class="theme-icon-when-auto"><use href="#svg-sun-half"></use></svg>
+          <svg class="theme-icon-when-dark"><use href="#svg-moon"></use></svg>
+          <svg class="theme-icon-when-light"><use href="#svg-sun"></use></svg>
+        </button>
+      </div>
+      <label class="toc-overlay-icon toc-header-icon" for="__toc">
+        <div class="visually-hidden">Toggle table of contents sidebar</div>
+        <i class="icon"><svg><use href="#svg-toc"></use></svg></i>
+      </label>
+    </div>
+  </header>
+  <aside class="sidebar-drawer">
+    <div class="sidebar-container">
+      
+      <div class="sidebar-sticky"><div class="sidebar-scroll"><a class="sidebar-brand" href="../index.html">
+  
+  
+  <span class="sidebar-brand-text">Wikisocion</span>
+  
+</a><form class="sidebar-search-container" method="get" action="../search.html" role="search">
+  <input class="sidebar-search" placeholder=Search name="q" aria-label="Search">
+  <input type="hidden" name="check_keywords" value="yes">
+  <input type="hidden" name="area" value="default">
+</form>
+<div id="searchbox"></div>
+</div>
+      </div>
+      
+    </div>
+  </aside>
+  <div class="main">
+    <div class="content">
+      <article role="main">
+        <div class="content-icon-container">
+          <div class="theme-toggle-container theme-toggle-content">
+            <button class="theme-toggle">
+              <div class="visually-hidden">Toggle Light / Dark / Auto color theme</div>
+              <svg class="theme-icon-when-auto"><use href="#svg-sun-half"></use></svg>
+              <svg class="theme-icon-when-dark"><use href="#svg-moon"></use></svg>
+              <svg class="theme-icon-when-light"><use href="#svg-sun"></use></svg>
+            </button>
+          </div>
+          <label class="toc-overlay-icon toc-content-icon" for="__toc">
+            <div class="visually-hidden">Toggle table of contents sidebar</div>
+            <i class="icon"><svg><use href="#svg-toc"></use></svg></i>
+          </label>
+        </div>
+        <div class="section" id="type-names">
+<h1>Type names<a class="headerlink" href="#type-names" title="Permalink to this headline">¶</a></h1>
+<p>This article describes and explains various ways of naming types in socionics.</p>
+<div class="section" id="full-type-names">
+<h2>Full Type Names<a class="headerlink" href="#full-type-names" title="Permalink to this headline">¶</a></h2>
+<p>The full type name for each socionics type is based on naming the Jungian dichotomies of:</p>
+<ul class="simple">
+<li><p>the first and second function of the type: Ti/Te - Logical, Fi/Fe - Ethical, Ni/Se - Intuitive, Si/Se - Sensing.</p></li>
+<li><p>the introverted-extraverted orientation of the first function: Ni, Ti, Si, Fi - Introvert or Introtim; Se, Ne, Fe, Te - Extravert or Extratim.</p></li>
+</ul>
+<div class="admonition warning">
+<p class="admonition-title">Warning</p>
+<p>This is the basic and the minimum amount of information that is needed to identify a type.</p>
+</div>
+<p>On example of type with Ni in first function and Te in second function - <a class="reference internal" href="ILI.html"><span class="doc">ILI (Ni,Te)</span></a> - the full name for this type would be Intuitive - Ni, intuition, as first function, Logical - Te, logic, in second function, Introtim - introverted intuition in first function. In this example, “Intuitive Logical” describes the nature of the first and second function that form this type’s <a class="reference internal" href="model_a.html#ego-block"><span class="std std-ref">ego block</span></a>, and “Introtim” denotes the E/I-orientation of this type’s first function.</p>
+<p>On example of type with Fe in first function and Si in second function - <a class="reference internal" href="ESE.html"><span class="doc">ESE (Fe,Si)</span></a> - the full name of this type would be Ethical - Fe, ethics, as first function, Sensing - Si, sensing, as second function, Extratim - extraverted feeling in first function. Here “Ethical Sensing” describes the nature of the first and second function, and “Extratim” denotes the E/I-orientation of this type’s first function.</p>
+<p>The following table lists full type names for 16 socionics types.</p>
+<div class="table-wrapper"><table class="colwidths-given docutils align-default" id="id1">
+<caption><span class="caption-text">Full Type Names</span><a class="headerlink" href="#id1" title="Permalink to this table">¶</a></caption>
+<colgroup>
+<col style="width: 15%"/>
+<col style="width: 35%"/>
+<col style="width: 15%"/>
+<col style="width: 35%"/>
+</colgroup>
+<thead>
+<tr class="row-odd"><th class="head"><p>Ego</p></th>
+<th class="head"><p>Full type name</p></th>
+<th class="head"><p>Ego</p></th>
+<th class="head"><p>Full type name</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="row-even"><td><p><a class="reference internal" href="ILE.html"><span class="doc">(Ne, Ti)</span></a></p></td>
+<td><p>Intuitive Logical Extrotim</p></td>
+<td><p><a class="reference internal" href="SEI.html"><span class="doc">(Si, Fe)</span></a></p></td>
+<td><p>Sensing Ethical Introtim</p></td>
+</tr>
+<tr class="row-odd"><td><p><a class="reference internal" href="ESE.html"><span class="doc">(Fe, Si)</span></a></p></td>
+<td><p>Ethical Sensing Extrotim</p></td>
+<td><p><a class="reference internal" href="LII.html"><span class="doc">(Ti, Ne)</span></a></p></td>
+<td><p>Logical Intuitive Introtim</p></td>
+</tr>
+<tr class="row-even"><td><p><a class="reference internal" href="SLE.html"><span class="doc">(Se, Ti)</span></a></p></td>
+<td><p>Sensing Logical Extrotim</p></td>
+<td><p><a class="reference internal" href="IEI.html"><span class="doc">(Ni, Fe)</span></a></p></td>
+<td><p>Intuitive Ethical Introtim</p></td>
+</tr>
+<tr class="row-odd"><td><p><a class="reference internal" href="EIE.html"><span class="doc">(Fe, Ni)</span></a></p></td>
+<td><p>Ethical Intuitive Extrotim</p></td>
+<td><p><a class="reference internal" href="LSI.html"><span class="doc">(Ti, Se)</span></a></p></td>
+<td><p>Logical Sensing Introtim</p></td>
+</tr>
+<tr class="row-even"><td><p><a class="reference internal" href="SEE.html"><span class="doc">(Se, Fi)</span></a></p></td>
+<td><p>Sensing Ethical Extrotim</p></td>
+<td><p><a class="reference internal" href="ILI.html"><span class="doc">(Ni, Te)</span></a></p></td>
+<td><p>Intuitive Logical Introtim</p></td>
+</tr>
+<tr class="row-odd"><td><p><a class="reference internal" href="LIE.html"><span class="doc">(Te, Ni)</span></a></p></td>
+<td><p>Logical Intuitive Extrotim</p></td>
+<td><p><a class="reference internal" href="ESI.html"><span class="doc">(Fi, Se)</span></a></p></td>
+<td><p>Ethical Sensing Introtim</p></td>
+</tr>
+<tr class="row-even"><td><p><a class="reference internal" href="IEE.html"><span class="doc">(Ne, Fi)</span></a></p></td>
+<td><p>Intuitive Ethical Extrotim</p></td>
+<td><p><a class="reference internal" href="SLI.html"><span class="doc">(Si, Te)</span></a></p></td>
+<td><p>Sensing Logical Introtim</p></td>
+</tr>
+<tr class="row-odd"><td><p><a class="reference internal" href="LSE.html"><span class="doc">(Te, Si)</span></a></p></td>
+<td><p>Logical Sensing Extrotim</p></td>
+<td><p><a class="reference internal" href="EII.html"><span class="doc">(Fi, Ne)</span></a></p></td>
+<td><p>Ethical Intuitive Introtim</p></td>
+</tr>
+</tbody>
+</table></div>
+</div>
+<div class="section" id="three-letter-type-codes">
+<h2>Three-Letter Type Codes<a class="headerlink" href="#three-letter-type-codes" title="Permalink to this headline">¶</a></h2>
+<p>The three-letter code simply takes the first letter of each word of the full name of the type to create a 3-letter abbreviation. The following is a table of 16 types of the socion represented by three-letter codes:</p>
+<div class="table-wrapper"><table class="docutils align-default" id="id2">
+<caption><span class="caption-text">Three-Letter Type Codes</span><a class="headerlink" href="#id2" title="Permalink to this table">¶</a></caption>
+<colgroup>
+<col style="width: 25%"/>
+<col style="width: 25%"/>
+<col style="width: 25%"/>
+<col style="width: 25%"/>
+</colgroup>
+<thead>
+<tr class="row-odd"><th class="head"><p>Ego</p></th>
+<th class="head"><p>Code</p></th>
+<th class="head"><p>Ego</p></th>
+<th class="head"><p>Code</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="row-even"><td><p>(Ne, Ti)</p></td>
+<td><p>ILE</p></td>
+<td><p>(Si, Fe)</p></td>
+<td><p>SEI</p></td>
+</tr>
+<tr class="row-odd"><td><p>(Fe, Si)</p></td>
+<td><p>ESE</p></td>
+<td><p>(Ti, Ne)</p></td>
+<td><p>LII</p></td>
+</tr>
+<tr class="row-even"><td><p>(Se, Ti)</p></td>
+<td><p>SLE</p></td>
+<td><p>(Ni, Fe)</p></td>
+<td><p>IEI</p></td>
+</tr>
+<tr class="row-odd"><td><p>(Fe, Ni)</p></td>
+<td><p>EIE</p></td>
+<td><p>(Ti, Se)</p></td>
+<td><p>LSI</p></td>
+</tr>
+<tr class="row-even"><td><p>(Se, Fi)</p></td>
+<td><p>SEE</p></td>
+<td><p>(Ni, Te)</p></td>
+<td><p>ILI</p></td>
+</tr>
+<tr class="row-odd"><td><p>(Te, Ni)</p></td>
+<td><p>LIE</p></td>
+<td><p>(Fi, Se)</p></td>
+<td><p>ESI</p></td>
+</tr>
+<tr class="row-even"><td><p>(Ne, Fi)</p></td>
+<td><p>IEE</p></td>
+<td><p>(Si, Te)</p></td>
+<td><p>SLI</p></td>
+</tr>
+<tr class="row-odd"><td><p>(Te, Si)</p></td>
+<td><p>LSE</p></td>
+<td><p>(Fi, Ne)</p></td>
+<td><p>EII</p></td>
+</tr>
+</tbody>
+</table></div>
+<p>Three-letter codes are the most common way of denoting types. Some people who get involved with socionics prefer to use the 3-letter type codes to other type naming conventions for several reasons.</p>
+<ul class="simple">
+<li><p>They are short and quick to write, saving time in typing and space in text and presentations.</p></li>
+<li><p>Unlike 4-letter codes, they are not likely to get confused for MBTI types, which are also denoted by 4 letters, opening doors to potential confusion.</p></li>
+<li><p>Unlike type pseudonyms, such as “Dumas” or “Hamlet”, they don’t create opportunities to mistake the properties of socionics TIMs for biographical details and personal characteristics of the personages and historical personalities after which they were named.</p></li>
+</ul>
+<p>Their drawback, of course, is that it takes some time and practice to memorize the 3-letter codes, especially for people coming to Socionics with a background in MBTI.</p>
+</div>
+<div class="section" id="four-letter-type-codes">
+<h2>Four-Letter Type Codes<a class="headerlink" href="#four-letter-type-codes" title="Permalink to this headline">¶</a></h2>
+<p>In English-speaking socionics communities sometimes four-letter codes are used instead of the more orthodox three-letter coding. The letters for the four-letter names are derived from <a class="reference internal" href="jungian.html"><span class="doc">Carl Jung’s original dichotomies</span></a>: Intuition-Sensing, Feeling-Thinking, Introversion-Extroversion, and Judging-Perceiving.</p>
+<div class="table-wrapper"><table class="docutils align-default" id="id3">
+<caption><span class="caption-text">Jungian dichotomies and letter symbols</span><a class="headerlink" href="#id3" title="Permalink to this table">¶</a></caption>
+<colgroup>
+<col style="width: 33%"/>
+<col style="width: 33%"/>
+<col style="width: 33%"/>
+</colgroup>
+<thead>
+<tr class="row-odd"><th class="head"><p>Dichotomy</p></th>
+<th class="head"><p>either</p></th>
+<th class="head"><p>or</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="row-even"><td><p>Extroversion-Introversion</p></td>
+<td><p>E (Extrovert)</p></td>
+<td><p>I (Introvert)</p></td>
+</tr>
+<tr class="row-odd"><td><p>Intuition-Sensing</p></td>
+<td><p>N (Intuitive)</p></td>
+<td><p>S (Sensing)</p></td>
+</tr>
+<tr class="row-even"><td><p>Logical-Ethical</p></td>
+<td><p>T (Logical)</p></td>
+<td><p>F (Ethical)</p></td>
+</tr>
+<tr class="row-odd"><td><p>Judging-Perceiving</p></td>
+<td><p>j (Judging)</p></td>
+<td><p>p (Perceiving)</p></td>
+</tr>
+</tbody>
+</table></div>
+<p>The functions that are called “judging” in MBTI and in the works of Carl Jung, Thinking and Feeling – are called <strong>Rational</strong> in Socionics.
+The functions that are called “perceiving” in MBTI and Jung’s writing, Intuition and Sensing – are known as <strong>Irrational</strong> in Socionics.</p>
+<p>In Socionics 4-letter type names the last j/p letter is always determined by the nature of the first or leading function of the type.</p>
+<ul class="simple">
+<li><p>If the 1st function of the type holds a rational (judging) element T/F, then the last letter is ‘j’.</p></li>
+<li><p>If the 1st function of the type holds an irrational (perceiving) element N/S, then the last letter is ‘p’.</p></li>
+</ul>
+<p>The last ‘j’ and ‘p’ letters of Socionics 4-letter type names constitute a Socionics dichotomy called <a class="reference internal" href="ration_irration.html"><span class="doc">Rationality-Irrationality</span></a>.</p>
+<ul class="simple">
+<li><p>Types that have a rational (judging) aspect F or T as their leading function are called Rational types.</p></li>
+<li><p>Types that have an irrational (perceiving) aspect N or S as their leading one are called Irrational types.</p></li>
+</ul>
+<p>For example, type ILI (Ni,Te) has the first function of Ni, which is a perceiving (irrational) element. Thus, in 4-letter type nomenclature this type is denoted as INTp, with the last letter ‘p’ denoting the perceiving element positioned in this type’s first or leading function. The type INTp (ILI) is one of the irrational types in Socionics.</p>
+<p>On example of type LII (Ti,Ne) that has the first function of Ti: since this type’s first function is occupied by a judging (rational) element Ti, this type is denoted as INTj, with the last letter ‘j’ denoting the rational (judging) nature of its leading function. The type INTj (LII) is one of the rational types in Socionics.</p>
+<p><strong>The above forms a distinction between Socionics 4-letter codes and MBTI 4-letter codes</strong>. The J/P letter in MBTI is determined on basis of highest order extroverted function of the type, which for introverted types is not the same as the first function. For instance, the type that has Ni as its first function and Te as its second function in MBTI is denoted as INTJ, with a “J” as the last letter, since its highest order extroverted function is Te - a judging element - while this type is denoted as INTp in socionics, having a perceiving function (Ni) as the first one.</p>
+<p><strong>In summary</strong>:</p>
+<ul class="simple">
+<li><p>In Socionics, the last j/p letter is always determined by the first or leading function.</p></li>
+<li><p>In MBTI, the last J/P letter is always determined by the highest order extraverted function - which is not the same as the first function for introverted types.</p></li>
+</ul>
+<div class="admonition warning">
+<p class="admonition-title">Warning</p>
+<p>The above is one of the reasons why MBTI 4-letter codes cannot be converted letter-for-letter to Socionics 4-letter codes.</p>
+</div>
+<p>To highlight this difference, Socionics 4-letter type codes are written with a <strong>lower case</strong> “j” or “p” at the end to distinguish Socionics type names (e.g. INFj, ENTp) from MBTI type names that have J/P as a capital letter (e.g. ESFP, ISTJ) (although some socionists like Reinin initially used all capital letters).</p>
+<div class="table-wrapper"><table class="docutils align-default" id="id4">
+<caption><span class="caption-text">4-letter codes</span><a class="headerlink" href="#id4" title="Permalink to this table">¶</a></caption>
+<colgroup>
+<col style="width: 25%"/>
+<col style="width: 25%"/>
+<col style="width: 25%"/>
+<col style="width: 25%"/>
+</colgroup>
+<thead>
+<tr class="row-odd"><th class="head"><p>3-letter</p></th>
+<th class="head"><p>4-letter</p></th>
+<th class="head"><p>3-letter</p></th>
+<th class="head"><p>4-letter</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="row-even"><td><p>ILE</p></td>
+<td><p>ENTp</p></td>
+<td><p>SEI</p></td>
+<td><p>ISFp</p></td>
+</tr>
+<tr class="row-odd"><td><p>ESE</p></td>
+<td><p>ESFj</p></td>
+<td><p>LII</p></td>
+<td><p>INTj</p></td>
+</tr>
+<tr class="row-even"><td><p>SLI</p></td>
+<td><p>ESTp</p></td>
+<td><p>IEI</p></td>
+<td><p>INFp</p></td>
+</tr>
+<tr class="row-odd"><td><p>EIE</p></td>
+<td><p>ENTj</p></td>
+<td><p>LSI</p></td>
+<td><p>ISTj</p></td>
+</tr>
+<tr class="row-even"><td><p>SEE</p></td>
+<td><p>ESFp</p></td>
+<td><p>ILI</p></td>
+<td><p>INTp</p></td>
+</tr>
+<tr class="row-odd"><td><p>LIE</p></td>
+<td><p>ENTj</p></td>
+<td><p>ESI</p></td>
+<td><p>ISFj</p></td>
+</tr>
+<tr class="row-even"><td><p>IEE</p></td>
+<td><p>ENFp</p></td>
+<td><p>SLI</p></td>
+<td><p>ISTp</p></td>
+</tr>
+<tr class="row-odd"><td><p>LSE</p></td>
+<td><p>ESTj</p></td>
+<td><p>EII</p></td>
+<td><p>INFj</p></td>
+</tr>
+</tbody>
+</table></div>
+<p>Four-letter codes are very often found in English-speaking socionics websites, and less frequently on Russian-speaking socionics websites. The popularization of this system of nomenclature among the English-speaking socionics community is often accredited to <a class="reference internal" href="ganin.html"><span class="doc">Sergei Ganin</span></a>.</p>
+<p>Benefits of 4-letter code type denominations:</p>
+<ul class="simple">
+<li><p>They make it easier to remember dichotomies and intertype relations.</p></li>
+<li><p>They allow to specify groups of types more concisely (e.g., Ij for introverted rational type, or simply N for intuitive types).</p></li>
+<li><p>They are easier to remember for people who are already familiar with MBTI notations and are learning Socionics ones. Three-letter codes, in comparison, take some time and practice to memorize. For this reason, Socionics articles written to target English-speaking audience will often use four-letter codes to denote types, rather than three-letter codes, symbols, or type pseudonyms.</p></li>
+</ul>
+<p>Drawbacks:</p>
+<ul class="simple">
+<li><p>Four-letter codes can encourage dichotomous typing, which can cause misinterpretation of contradictory properties.</p></li>
+<li><p>They are easy to confuse with Myers-Briggs types, especially if care is not taken to write the last letter in lower case. This may result in erroneous conceptions regarding the nature and characteristics of types in Socionics.</p></li>
+</ul>
+</div>
+<div class="section" id="two-letter-codes">
+<h2>Two-Letter Codes<a class="headerlink" href="#two-letter-codes" title="Permalink to this headline">¶</a></h2>
+<p>The two letter-codes were created by <a class="reference internal" href="gulenko.html"><span class="doc">Victor Gulenko</span></a>. They are even shorter than the traditional 3-letter codes, as they use 1 letter to denote the first two <a class="reference internal" href="functions.html"><span class="doc">functions</span></a> of the type. This is the most concise type naming system used in socionics that uses letters or words. It is essentially equivalent to using the symbols associated with the first two functions.</p>
+<p>The letter associated with each <a class="reference internal" href="elements.html"><span class="doc">IM element</span></a> is the first letter of words whose meaning is closely related to the use of the element. This endows this naming system with an advantage that it can be used internationally, since the names are in Latin letters and are derived from Latin roots.</p>
+<p>Elements are denoted by the Latin letters F, I, P, E, S, T, L and R.</p>
+<div class="table-wrapper"><table class="colwidths-given docutils align-default" id="id5">
+<caption><span class="caption-text">Codes for Elements</span><a class="headerlink" href="#id5" title="Permalink to this table">¶</a></caption>
+<colgroup>
+<col style="width: 20%"/>
+<col style="width: 20%"/>
+<col style="width: 20%"/>
+<col style="width: 40%"/>
+</colgroup>
+<thead>
+<tr class="row-odd"><th class="head"><p>Element</p></th>
+<th class="head"><p>Letter</p></th>
+<th class="head"><p>Name</p></th>
+<th class="head"><p>Related words</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="row-even"><td><p>Se</p></td>
+<td><p>F</p></td>
+<td><p><em>factor</em></p></td>
+<td><p>force, fact</p></td>
+</tr>
+<tr class="row-odd"><td><p>Ne</p></td>
+<td><p>I</p></td>
+<td><p><em>intueor</em></p></td>
+<td><p>insight, inspire, idea</p></td>
+</tr>
+<tr class="row-even"><td><p>Te</p></td>
+<td><p>P</p></td>
+<td><p><em>profiteor</em></p></td>
+<td><p>profit, produce</p></td>
+</tr>
+<tr class="row-odd"><td><p>Fe</p></td>
+<td><p>E</p></td>
+<td><p><em>emoveo</em></p></td>
+<td><p>emotion, express</p></td>
+</tr>
+<tr class="row-even"><td><p>Si</p></td>
+<td><p>S</p></td>
+<td><p><em>sensus</em></p></td>
+<td><p>sensation, sense</p></td>
+</tr>
+<tr class="row-odd"><td><p>Ni</p></td>
+<td><p>T</p></td>
+<td><p><em>tempus</em></p></td>
+<td><p>time, temporal</p></td>
+</tr>
+<tr class="row-even"><td><p>Ti</p></td>
+<td><p>L</p></td>
+<td><p><em>lex</em></p></td>
+<td><p>logic, law</p></td>
+</tr>
+<tr class="row-odd"><td><p>Fi</p></td>
+<td><p>R</p></td>
+<td><p><em>relatio</em></p></td>
+<td><p>relate, relation</p></td>
+</tr>
+</tbody>
+</table></div>
+<div class="table-wrapper"><table class="docutils align-default" id="id6">
+<caption><span class="caption-text">two-letter codes</span><a class="headerlink" href="#id6" title="Permalink to this table">¶</a></caption>
+<colgroup>
+<col style="width: 25%"/>
+<col style="width: 25%"/>
+<col style="width: 25%"/>
+<col style="width: 25%"/>
+</colgroup>
+<thead>
+<tr class="row-odd"><th class="head"><p>3-letter</p></th>
+<th class="head"><p>2-letter</p></th>
+<th class="head"><p>3-letter</p></th>
+<th class="head"><p>2-letter</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="row-even"><td><p>ILE</p></td>
+<td><p>IL</p></td>
+<td><p>SEI</p></td>
+<td><p>SE</p></td>
+</tr>
+<tr class="row-odd"><td><p>ESE</p></td>
+<td><p>ES</p></td>
+<td><p>LII</p></td>
+<td><p>LI</p></td>
+</tr>
+<tr class="row-even"><td><p>SLE</p></td>
+<td><p>FL</p></td>
+<td><p>IEI</p></td>
+<td><p>TE</p></td>
+</tr>
+<tr class="row-odd"><td><p>EIE</p></td>
+<td><p>ET</p></td>
+<td><p>LSI</p></td>
+<td><p>LF</p></td>
+</tr>
+<tr class="row-even"><td><p>SEE</p></td>
+<td><p>FR</p></td>
+<td><p>ILI</p></td>
+<td><p>TP</p></td>
+</tr>
+<tr class="row-odd"><td><p>LIE</p></td>
+<td><p>PT</p></td>
+<td><p>ESI</p></td>
+<td><p>RF</p></td>
+</tr>
+<tr class="row-even"><td><p>IEE</p></td>
+<td><p>IR</p></td>
+<td><p>SLI</p></td>
+<td><p>SP</p></td>
+</tr>
+<tr class="row-odd"><td><p>LSE</p></td>
+<td><p>PS</p></td>
+<td><p>EII</p></td>
+<td><p>RI</p></td>
+</tr>
+</tbody>
+</table></div>
+</div>
+<div class="section" id="geometric-symbol-and-function-names">
+<h2>Geometric Symbol and Function Names<a class="headerlink" href="#geometric-symbol-and-function-names" title="Permalink to this headline">¶</a></h2>
+<p>Socionics types can be named by specifying the first and the second element of the given type’s ego block. This is enough information provided to identify the type. These elements can be written as letters (e.g. NeFi) or as symbols (e.g. <img alt="Ne" src="../_images/Symbol_i.gif"/> <img alt="Fi" src="../_images/Symbol_r.gif"/>). Some socionists prefer not to use the IE shapes nomenclature, considering it to be hard to adjust to for beginners and not a serious approach to terminology.</p>
+<p>The symbols used to denote the first and second functions of the type are as follows:</p>
+<ul class="simple">
+<li><p>Sensing ( <img alt="Se" src="../_images/Symbol_f.gif"/> / <img alt="Si" src="../_images/Symbol_s.gif"/> ) is portrayed by a circle, representing the entirety of reality.</p></li>
+<li><p>Intuition ( <img alt="Ne" src="../_images/Symbol_i.gif"/> / <img alt="Ni" src="../_images/Symbol_t.gif"/> ) is portrayed by a triangle which fits inside the circle, but has sharp points of “insight”.</p></li>
+<li><p>Logic ( <img alt="Te" src="../_images/Symbol_p.gif"/> / <img alt="Ti" src="../_images/Symbol_l.gif"/> ) is portrayed by a square, representing logical thought and reason.</p></li>
+<li><p>Ethics ( <img alt="Fe" src="../_images/Symbol_e.gif"/> / <img alt="Fi" src="../_images/Symbol_r.gif"/> ) is portrayed by a square with a ‘chip’ taken out of it, representing partiality and a rejection of reason alone.</p></li>
+</ul>
+<p>These symbols were chosen by <a class="reference internal" href="augusta.html"><span class="doc">A. Augusta</span></a> to reflect certain qualities of perception associated with each element. For instance, the extraverted elements are shaded in, representing characteristics of objects, while introverted ones are empty, representing the inner space of the subject.</p>
+</div>
+<div class="section" id="english-nicknames">
+<h2>English nicknames<a class="headerlink" href="#english-nicknames" title="Permalink to this headline">¶</a></h2>
+<p>English nicknames are translations of similar type names used by many Russian socionists. The idea behind these names is to capture a common social role or common characteristics displayed by people of the type. These names have not caught on very well in English-language socionics, in which the three- and four-letter codes are much more popular. These nicknames can be seen at summary chart of type names.</p>
+</div>
+<div class="section" id="popular-russian-pseudonyms">
+<h2>Popular Russian pseudonyms<a class="headerlink" href="#popular-russian-pseudonyms" title="Permalink to this headline">¶</a></h2>
+<p>Type pseudonyms are very popular in the Russian speaking socionics community, but are generally avoided in research articles. Originally, Augusta assigned literary and historical figures to each type to make them easier to remember, and this practice quickly caught on in the more literature-aware Russian-speaking society. Later many socionists came to question the typings behind a couple of the pseudonyms, namely “Napoleon” (most now consider him SLE instead of SEE, as Augusta typed him).</p>
+<p>Some socionists question the appropriateness of type pseudonyms, since the types of historical figures and literary characters are always open to dispute. Gulenko proposed his own system of pseudonyms using common social roles of each type similar to those used in Myers-Briggs Typology.</p>
+<p>When describing the types, Augusta and fellow socionists thought of pseudonyms, or nicknames, for them based on historical or fictional figures supposedly of that type. These names, with a few variations, remain popular with Russian-language socionists, who often use them in articles. The disadvantage of this system is that it is based purely on memorization, and lacks any theoretical content.</p>
+</div>
+<div class="section" id="summary-chart-of-socionics-type-names">
+<h2>Summary Chart of Socionics Type Names<a class="headerlink" href="#summary-chart-of-socionics-type-names" title="Permalink to this headline">¶</a></h2>
+<p>Navigating through competing terminology in socionics can be difficult. Here is a chart with all type naming systems that the reader is likely to ever encounter. The most official and universally recognized names are the names in bold (with links to type descriptions).</p>
+<div class="table-wrapper"><table class="colwidths-given docutils align-default" id="id7">
+<caption><span class="caption-text">Summary Chart of Type Names</span><a class="headerlink" href="#id7" title="Permalink to this table">¶</a></caption>
+<colgroup>
+<col style="width: 15%"/>
+<col style="width: 29%"/>
+<col style="width: 5%"/>
+<col style="width: 7%"/>
+<col style="width: 5%"/>
+<col style="width: 20%"/>
+<col style="width: 20%"/>
+</colgroup>
+<thead>
+<tr class="row-odd"><th class="head"><p>Ego elements</p></th>
+<th class="head"><p>Full name</p></th>
+<th class="head"><p>3l</p></th>
+<th class="head"><p>4l</p></th>
+<th class="head"><p>2l</p></th>
+<th class="head"><p>nicknames</p></th>
+<th class="head"><p>pseudonyms</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="row-even"><td><p>Ne, Ti (<img alt="Ne" src="../_images/Symbol_i.gif"/> <img alt="Ti" src="../_images/Symbol_l.gif"/>)</p></td>
+<td><p>Intuitive Logical Extratim</p></td>
+<td><p>ILE</p></td>
+<td><p>ENTp</p></td>
+<td><p>IL</p></td>
+<td><p>Seeker, Inventor</p></td>
+<td><p>Don Quixote</p></td>
+</tr>
+<tr class="row-odd"><td><p>Si, Fe (<img alt="Si" src="../_images/Symbol_s.gif"/> <img alt="Fe" src="../_images/Symbol_e.gif"/>)</p></td>
+<td><p>Sensing Ethical Introtim</p></td>
+<td><p>SEI</p></td>
+<td><p>ISFp</p></td>
+<td><p>SE</p></td>
+<td><p>Mediator, Peacemaker</p></td>
+<td><p>Dumas</p></td>
+</tr>
+<tr class="row-even"><td><p>Fe, Si (<img alt="Fe" src="../_images/Symbol_e.gif"/> <img alt="Si" src="../_images/Symbol_s.gif"/>)</p></td>
+<td><p>Ethical Sensing Extratim</p></td>
+<td><p>ESE</p></td>
+<td><p>ESFj</p></td>
+<td><p>ES</p></td>
+<td><p>Enthusiast, Bonvivant</p></td>
+<td><p>Hugo</p></td>
+</tr>
+<tr class="row-odd"><td><p>Te, Ni (<img alt="Ti" src="../_images/Symbol_l.gif"/> <img alt="Ne" src="../_images/Symbol_i.gif"/>)</p></td>
+<td><p>Logical Intuitive Introtim</p></td>
+<td><p>LII</p></td>
+<td><p>INTj</p></td>
+<td><p>LI</p></td>
+<td><p>Analyst</p></td>
+<td><p>Robespierre</p></td>
+</tr>
+<tr class="row-even"><td><p>Fe, Ni (<img alt="Fe" src="../_images/Symbol_e.gif"/> <img alt="Ni" src="../_images/Symbol_t.gif"/>)</p></td>
+<td><p>Ethical Intuitive Extratim</p></td>
+<td><p>EIE</p></td>
+<td><p>ENFj</p></td>
+<td><p>ET</p></td>
+<td><p>Actor, Mentor</p></td>
+<td><p>Hamlet</p></td>
+</tr>
+<tr class="row-odd"><td><p>Ti, Se (<img alt="Ti" src="../_images/Symbol_l.gif"/> <img alt="Se" src="../_images/Symbol_f.gif"/>)</p></td>
+<td><p>Logical Sensing Introtim</p></td>
+<td><p>LSI</p></td>
+<td><p>ISTj</p></td>
+<td><p>LF</p></td>
+<td><p>Inspector, Pragmatist</p></td>
+<td><p>Maxim Gorky</p></td>
+</tr>
+<tr class="row-even"><td><p>Se, Ti (<img alt="Se" src="../_images/Symbol_f.gif"/> <img alt="Ti" src="../_images/Symbol_l.gif"/>)</p></td>
+<td><p>Sensing Logical Extratim</p></td>
+<td><p>SLE</p></td>
+<td><p>ESTp</p></td>
+<td><p>FL</p></td>
+<td><p>Conqueror, Legionnaire, Marshal</p></td>
+<td><p>Zhukov, Beetles</p></td>
+</tr>
+<tr class="row-odd"><td><p>Ni, Fe (<img alt="Ni" src="../_images/Symbol_t.gif"/> <img alt="Fe" src="../_images/Symbol_e.gif"/>)</p></td>
+<td><p>Intuitive Ethical Introtim</p></td>
+<td><p>IEI</p></td>
+<td><p>INFp</p></td>
+<td><p>TE</p></td>
+<td><p>Romantic, Lyricist</p></td>
+<td><p>Esenin, Tutankhamun</p></td>
+</tr>
+<tr class="row-even"><td><p>Se, Fi (<img alt="Se" src="../_images/Symbol_f.gif"/> <img alt="Fi" src="../_images/Symbol_r.gif"/>)</p></td>
+<td><p>Sensing Ethical Extratim</p></td>
+<td><p>SEE</p></td>
+<td><p>ESFp</p></td>
+<td><p>FR</p></td>
+<td><p>Politician, Ambassador</p></td>
+<td><p>Napoleon, Caesar</p></td>
+</tr>
+<tr class="row-odd"><td><p>Ni, Te (<img alt="Ni" src="../_images/Symbol_t.gif"/> <img alt="Te" src="../_images/Symbol_p.gif"/>)</p></td>
+<td><p>Intuitive Logical Introtim</p></td>
+<td><p>ILI</p></td>
+<td><p>INTp</p></td>
+<td><p>TP</p></td>
+<td><p>Critic, Observer</p></td>
+<td><p>Balzac</p></td>
+</tr>
+<tr class="row-even"><td><p>Te, Ni (<img alt="Te" src="../_images/Symbol_p.gif"/> <img alt="Ni" src="../_images/Symbol_t.gif"/>)</p></td>
+<td><p>Logical Intuitive Extratim</p></td>
+<td><p>LIE</p></td>
+<td><p>ENTj</p></td>
+<td><p>PT</p></td>
+<td><p>Enterpriser, Pioneer</p></td>
+<td><p>Jack London</p></td>
+</tr>
+<tr class="row-odd"><td><p>Fi, Se (<img alt="Fi" src="../_images/Symbol_r.gif"/> <img alt="Se" src="../_images/Symbol_f.gif"/>)</p></td>
+<td><p>Ethical Sensing Introtim</p></td>
+<td><p>ESI</p></td>
+<td><p>ISFj</p></td>
+<td><p>RT</p></td>
+<td><p>Guardian, Conservator</p></td>
+<td><p>Dreiser</p></td>
+</tr>
+<tr class="row-even"><td><p>Te, Si (<img alt="Te" src="../_images/Symbol_p.gif"/> <img alt="Si" src="../_images/Symbol_s.gif"/>)</p></td>
+<td><p>Logical Sensing Extratim</p></td>
+<td><p>LSE</p></td>
+<td><p>ESTj</p></td>
+<td><p>PS</p></td>
+<td><p>Director, Administrator</p></td>
+<td><p>Stirlitz, Sherlock Holmes (rare)</p></td>
+</tr>
+<tr class="row-odd"><td><p>Fi, Ne (<img alt="Fi" src="../_images/Symbol_r.gif"/> <img alt="Ne" src="../_images/Symbol_i.gif"/>)</p></td>
+<td><p>Ethical Intuitive Introtim</p></td>
+<td><p>EII</p></td>
+<td><p>INFj</p></td>
+<td><p>RI</p></td>
+<td><p>Empath, Humanist</p></td>
+<td><p>Dostoevsky, Watson (rare)</p></td>
+</tr>
+<tr class="row-even"><td><p>Ne, Fi (<img alt="Ne" src="../_images/Symbol_i.gif"/> <img alt="Fi" src="../_images/Symbol_r.gif"/>)</p></td>
+<td><p>Intuitive Ethical Extratim</p></td>
+<td><p>IEE</p></td>
+<td><p>ENFp</p></td>
+<td><p>IR</p></td>
+<td><p>Psychologist, Reporter</p></td>
+<td><p>Huxley, Tom Sawyer (rare)</p></td>
+</tr>
+<tr class="row-odd"><td><p>Si, Te (<img alt="Si" src="../_images/Symbol_s.gif"/> <img alt="Te" src="../_images/Symbol_p.gif"/>)</p></td>
+<td><p>Sensing Logical Introtim</p></td>
+<td><p>SLI</p></td>
+<td><p>ISTp</p></td>
+<td><p>SP</p></td>
+<td><p>Craftsman, Artisan</p></td>
+<td><p>Gabin</p></td>
+</tr>
+</tbody>
+</table></div>
+</div>
+</div>
+
+      </article>
+      <footer>
+        
+        <div class="related-pages">
+          <a class="next-page" href="socion.html">
+              <div class="page-info">
+                <div class="context">
+                  <span>Next</span>
+                </div>
+                <div class="title">Socion</div>
+              </div>
+              <svg><use href="#svg-arrow-right"></use></svg>
+            </a>
+          <a class="prev-page" href="socionic_type.html">
+              <svg><use href="#svg-arrow-right"></use></svg>
+              <div class="page-info">
+                <div class="context">
+                  <span>Previous</span>
+                </div>
+                
+                <div class="title">Socionic type</div>
+                
+              </div>
+            </a>
+        </div>
+
+        <div class="related-information">
+              Copyright &#169; 2021, Wikisocion Authors
+            |
+            Built with <a href="https://www.sphinx-doc.org/">Sphinx</a>
+              and
+              <a class="muted-link" href="https://pradyunsg.me">@pradyunsg</a>'s
+              <a href="https://github.com/pradyunsg/furo">Furo theme</a>.
+            |
+            <a class="muted-link" href="../_sources/content/type_names.rst.txt"
+               rel="nofollow">
+              Show Source
+            </a>
+        </div>
+        
+      </footer>
+    </div>
+    <aside class="toc-drawer">
+      
+      
+      <div class="toc-sticky toc-scroll">
+        <div class="toc-title-container">
+          <span class="toc-title">
+            Contents
+          </span>
+        </div>
+        <div class="toc-tree-container">
+          <div class="toc-tree">
+            <ul>
+<li><a class="reference internal" href="#">Type names</a><ul>
+<li><a class="reference internal" href="#full-type-names">Full Type Names</a></li>
+<li><a class="reference internal" href="#three-letter-type-codes">Three-Letter Type Codes</a></li>
+<li><a class="reference internal" href="#four-letter-type-codes">Four-Letter Type Codes</a></li>
+<li><a class="reference internal" href="#two-letter-codes">Two-Letter Codes</a></li>
+<li><a class="reference internal" href="#geometric-symbol-and-function-names">Geometric Symbol and Function Names</a></li>
+<li><a class="reference internal" href="#english-nicknames">English nicknames</a></li>
+<li><a class="reference internal" href="#popular-russian-pseudonyms">Popular Russian pseudonyms</a></li>
+<li><a class="reference internal" href="#summary-chart-of-socionics-type-names">Summary Chart of Socionics Type Names</a></li>
+</ul>
+</li>
+</ul>
+
+          </div>
+        </div>
+      </div>
+      
+      
+    </aside>
+  </div>
+</div><script data-url_root="../" id="documentation_options" src="../_static/documentation_options.js"></script>
+    <script src="../_static/jquery.js"></script>
+    <script src="../_static/underscore.js"></script>
+    <script src="../_static/doctools.js"></script>
+    <script src="../_static/scripts/main.js"></script>
+    </body>
+</html>

@@ -1,0 +1,123 @@
+Extraversion and introversion (psychology)
+================================================
+
+The terms **extraversion** and **introversion** in modern psychology
+have somewhat different meanings from socionic
+:doc:`extraversion <extroverted>` and :doc:`introversion <introverted>` and
+even from those of :doc:`Carl Jung <jung>`, who popularized the term.
+
+The probable cause of this is that modern psychology focuses on
+quantifiable external behavior, while socionics focuses more on
+qualitative internal differences. If one applies the psychological
+meaning of extraversion and introversion to diagnosing socionic types,
+there will be numerous mistakes, and the supposed :doc:`intertype relations <intertype>` between these types will not match
+reality. In socionics, gregarious :doc:`introtims <introverted>` and
+reclusive, focused :doc:`extratims <extroverted>` are possible, though in many
+or most cases the psychological definitions can be applied.
+
+
+
+Extraversion and introversion according to Jung
+----------------------------------------------------------
+
+From `Wikipedia <http://en.wikipedia.org/wiki/Extraversion>`__:
+
+''According to Carl Jung, introversion and extraversion refer to the
+direction of psychic energy. If a persons energy usually flows
+outwards, he or she is an extravert, while if this energy normally flows
+inwards, this person is an introvert. Extraverts feel an increase of
+perceived energy when interacting with a large group of people, but a
+decrease of energy when left alone. Conversely, introverts feel an
+increase of energy when alone, but a decrease of energy when surrounded
+by a large group of people.
+
+Most modern psychologists consider theories of psychic energy to be
+obsolete. First, it is difficult to operationalize mental "energy" in a
+way that can be scientifically measured and tested. Second, more
+detailed explanations of extraversion and the brain have replaced Jung's
+rather speculative theories. Nevertheless, the concept is still in
+popular usage in the general sense of "feeling energized" in particular
+situations. Jungs primary legacy in this area may be the popularizing
+of the terms introvert and extravert to refer to a particular dimension
+of personality.
+
+In other words, while :doc:`Jung's <jung>` understanding of extraversion
+and introversion are related to that of modern psychology, the terms are
+now interpreted differently in practice.
+
+Extraversion and introversion in psychology
+-------------------------------------------
+
+In modern psychology, extraverts (sometimes called "extroverts") are
+gregarious, assertive, and generally seek out excitement. Introverts, in
+contrast, are more reserved, less outgoing, and less sociable. They are
+not necessarily asocial, but they tend to have smaller circles of
+friends, and are less likely to thrive on making new social contacts.
+According to the Big Five factors, **extraversion** denotes energy,
+positive emotions, surgency, and the tendency to seek stimulation and
+the company of others.
+
+From
+`Wikipedia <http://en.wikipedia.org/wiki/Big_Five_personality_traits>`__:
+
+''Extraversion (also "extroversion") is marked by pronounced engagement
+with the external world. Extraverts enjoy being with people, are full of
+energy, and often experience positive emotions. They tend to be
+enthusiastic, action-oriented individuals who are likely to say "Yes!"
+or "Let's go!" to opportunities for excitement. In groups they like to
+talk, assert themselves, and draw attention to themselves.
+
+Introverts lack the exuberance, energy, and activity levels of
+extraverts. They tend to be quiet, low-key, deliberate, and less
+dependent on the social world. Their lack of social involvement should
+not be interpreted as shyness or depression; the introvert simply needs
+less stimulation than an extravert and more time alone to re-charge
+their batteries.
+
+Sample Extraversion items:
+
+-  I am the life of the party.
+-  I don't mind being the center of attention.
+-  I feel comfortable around people.
+-  I start conversations.
+-  I talk to a lot of different people at parties.
+-  I am quiet around strangers. (reversed)
+-  I don't like to draw attention to myself. (reversed)
+-  I don't talk a lot. (reversed)
+-  I have little to say. (reversed)
+-  I keep in the background. (reversed)
+
+Extraversion has been linked to higher sensitivity of the mesolimbic
+dopamine system to potentially rewarding stimuli (Depue & Collins,
+1999). This in part explains the high levels of positive affect found in
+Extraverts, since they will more intensely feel the excitement of a
+potential reward. One consequence of this is that Extraverts can more
+easily learn the contingencies for positive reinforcement, since the
+reward itself is experienced as greater.''
+
+Extraversion and introversion in socionics
+------------------------------------------
+
+Socionics' understanding of :doc:`extraversion <extroverted>` and
+:doc:`introversion <introverted>` is closer to :doc:`Jung's <jung>` than to
+that of modern psychology. An individual is extraverted if his
+perception is primarily directed at objects in the outside world,
+whereas introverts' perception is primarily directed at the way these
+objects resonate with each other and within the observer's psyche.
+Extraversion and introversion are not absolute qualities, since half of
+one's :doc:`psychic function <functions>` are extraverted and half
+introverted. One's perception skips around between extraverted and
+introverted functions. However, the :ref:`leading function <leading-func>` is most dominant and defines the
+individual's extraversion or introversion.
+
+While there is probably some correlation between outgoingness and
+socionics extraversion, this connection is not actually implied in the
+theory. People of the same type can differ on psychological scales of
+extraversion, and some socionic introtims are more "extraverted" (i.e.
+gregarious, sociable) than some extratims. Also, :doc:`Gamma <gamma_quadra>` and
+:doc:`Delta <delta_quadra>` types may on average be less extraverted than
+:doc:`Alpha <alpha_quadra>` and :doc:`Beta <beta_quadra>` types due to subdued
+|symbol_e.gif|.
+
+
+.. |symbol_e.gif| image:: symbol_e.gif

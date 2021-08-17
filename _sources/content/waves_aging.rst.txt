@@ -1,0 +1,925 @@
+On Waves of Aging and Renewal: Progress Orientation in Combination with Jungian Aspects
+====================================================================================================
+
+This article was written by :doc:`Victor Gulenko <gulenko>` and
+published on December 7th, 1996. To see the original article in Russian
+click
+`here <http://socionics.kiev.ua/articles/feature-and-group/wave/>`_
+
+The :doc:`Right / Left <process_result>` dichotomy is often referred to
+as :doc:`Process / Result <process_result>` or :doc:`Involutionary / Evolutionary <process_result>` in Reinin traits, where "right"
+orientation corresponds to Process, Evolution, while "left" orientation
+corresponds to Result, Involution.
+
+Foreword: *We wanted to rebuild the world, wanted to do better,* *came
+out of humility and through this destroyed ourselves and the world.* -
+M.M. Speransky
+
+Two paths of development
+------------------------
+
+General philosophical interpretation
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+In philosophy, the word *development* is taken to mean spiral-like
+progression from simple to more complex forms. Two vectors influence the
+trajectory of this development. The first vector is a horizontal one. It
+leads to cyclical repetition and is based on the internal rhythms of the
+system. The second vector is a vertical one. This vector ensures that
+there is no stagnation and overcycling within the system. Every turn
+stands above the previous one. The rhythm of the progression of these
+turns has a probabilistic factor.
+
+Development as ontogenesis is essentially a programmed unwinding of the
+existing potential. The Latin word **evolution** in its semantics
+represents this path of progress very well, consisting of unwinding,
+unpacking, of quantitative growth of the existing embryo.
+
+On the other hand, development as epigenesis is the very birth, the
+appearance of qualitatively new forms, sudden outbreak of a new life
+[1]. The Latin word **involution** conveys the essence of this process -
+it is the folding, the packaging, the build-up of a critical mass of
+energy.
+
+Thus, evolution unwinds the spiral of development into a straight line,
+while the involution, conversely, winds it back up, thereby creating new
+frontiers of growth within the system. If development is imagined not as
+a spiral but as a broken line stretching from left to right, then the
+break points and the areas that surround them represent epigenesis,
+involution.
+
+It is interesting to compare socionic connotation with mathematical
+meaning of these terms. The word *evolution* in mathematics denotes the
+operation of deriving the root; involution has the reverse influence -
+raising to the power. The meaning of these two mathematical operations
+closely approaches the interpretation of these two paths of progress in
+socionics.
+
+Biological interpretation
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Many researchers believe that the fundamental difference between living
+matter from the nonliving matter lies in the opposition of left and
+right forms or isomers [6, 9]. Right forms or isomers correspond to a
+circular, horizontal movement of matter and are responsible for the
+evolution of the organism. Left isomers are responsible for the movement
+in the vertical plane, thus enabling the process of involution.
+Combining the circular movement and the vertical movement creates a
+spiral.
+
+In biology there exists experimentally discovered by Charles Darwin law
+of natural selection. Mutations give rise to spontaneous changes in
+opposite directions, while the mechanisms of adaptation select out
+options that are nonviable and reinforce those that give the species
+greater survival advantage within its environment.
+
+This fully coincides with two directions of progress in socionics. The
+emergence of mutations is the process of involution, while the selection
+of most viable changes is evolution.
+
+Mutations play a key role in driving this process of selection, which
+guides the development of the species if its environmental conditions
+have changed. If the habitat does not change for a long time, then it is
+beneficial for the species to suppress mutations, in which case
+selection veers to the side of stabilization. This example demonstrates
+how closely the two paths of auto-development of systems are intertwined
+in real life.
+
+Development as a violation and restoration of homeostasis
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+In nature, there exists a tendency for homeostasis, which is the
+maintenance of a stable balance between the internal parameters of an
+organism. A **sociotype** is exactly such a set of parameters or limits
+to the variation of psychological properties of a personality of a
+person, which make him or her a homeostatic system.
+
+It is easy to see that the disruption of the homeostasis is the role of
+the left types, while its restoration falls on the shoulders of the
+right types. Both of these extremes are dangerous on their own. An
+absolute victory of one path of progress leads to a certain death, only
+the types of these deaths will be different depending on the side that
+won.
+
+"Right" death comes from a gradual cooling and fading that occurs from
+an old age. "Left" death is of short duration - it comes from the harsh
+heat, the saturation of a body with energy, which leads to an explosion.
+This type of death can be formulated as a paradox: it comes from an
+excess of youth.
+
+In psychology, Freud has uncovered two existing trends: the earning
+towards life and towards death. Right types are more prone to suicide
+than left types. They simply lack the psychological energy to survive in
+difficult conditions and withstand the "scorching" conditions of this
+life. Left sociotypes tend to be more optimistic. They do not lose hope
+even when they have found themselves in a dead end.
+
+Cybernetic interpretation of the two paths of development
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Our topic is rather directly related such concepts in cybernetics as
+positive and negative feedback. The first leads to the immoderate
+exponential growth. The second - to stabilization within the limits of
+vital parameters. The process of approximation of the steady state
+occurs in accordance with the periodic law of extinguishing oscillation.
+
+It is clear that evolution, or the circular development, corresponds to
+negative feedback. Thus we will assign a negative sign to "right",
+evolutionary types. Right progress represents conservation,
+repeatability, a standing wave. It fades gradually over time; thus this
+trend is symbolic of gradual deterioration and aging. There is a loss of
+energy, but this path accumulates more and more information.
+
+Examples:
+
+-  **ILE** - the same invention is spread and extended to all areas,
+   until it becomes too common.
+-  **SEI** - promotes relaxation and a slow decay of passions.
+-  **EIE** - bursts with violent emotions followed by a retreat and
+   philosophizing, turns away from life.
+-  **LSI** - brings to automation, formalization, petrification.
+-  **SEE** - manipulates with the existing emotions followed by a
+   descent into apathy.
+-  **ILI** - deactivates by extinguishing initiatives, then slowly sinks
+   into contemplation.
+-  **LSE** - overworks, exhausts the reserves of manpower through work,
+   becomes fixated.
+-  **EII** - follows humane ideals, leaving the struggle for survival
+   for an artificial world of idealized relations.
+
+Involution, or deflecting component of development, corresponds to
+positive feedback. Thus we will assign a plus sign to the "left",
+involutionary types. It occurs as a sharp jolt or step change. In other
+words, the movement from old to new, rejuvenation, revitalization. It
+corresponds to a modulated wave i.e one that deviates from a circular
+path due to an influence by some oversystem. Involution coils the
+spiral, concentrating the energy needed for a push. This accumulation of
+energy is proportional to the loss of information resources. Left types
+ensure transition to the next turn of the helix.
+
+Examples:
+
+-  **ESE** - rarely despairs, doesn't fall into depression after making
+   mistakes.
+-  **LII** - makes systems and structures viable.
+-  **SLE** - ensures victory in the most difficult and urgent
+   situations.
+-  **IEI** - inwardly apprehensive but believes in a positive
+   resolution.
+-  **LIE** - survives despite rough and adverse conditions.
+-  **ESI** - keeps and preserves his individuality even in midst of
+   hostile attitude of others.
+-  **IEE** - finds new options and opportunities thereby inspiring
+   others to try again.
+-  **SLI** - skillfully applies his ingenuity in situations of hardship
+   and discomfort.
+
+Orientation of progress from four perspectives
+----------------------------------------------
+
+Physical level
+~~~~~~~~~~~~~~
+
+"Left", involutionary types can produce results while relying on poorly
+functioning process. They begin from large parts, and leave the smaller
+parts for the later. "Right", evolutionary types, on the contrary, are
+scrupulous in their work. They skillfully organize processes and
+thoroughly work through the material, while taking all the details into
+consideration.
+
+The question that is of primary concern to left types is "for what?"
+Teleology, as a philosophical doctrine of the end goals of development
+reflects precisely the involutionary aspect of progress. The question
+that is of primary concern to right types is "from what?" Etiology, as
+opposed to teleology, focuses on studying the original causes for
+development.
+
+Smooth and balanced development with a fixed goal characterizes the
+evolutionary, "right" approach. Involutionary, "left" approach is
+uneven: acceleration alternates with deceleration, advances are followed
+by retreats. Involution in this manner resembles cross-country running,
+where both speed and direction of movement are liable to change.
+
+Psychological level
+~~~~~~~~~~~~~~~~~~~
+
+Right and left types differ in their approaches to interpersonal
+communication.
+
+Manifestations of negative personality traits when communication
+distances are large and positive traits at short distances are
+characteristic of involutionary, "left" types, while the reverse is true
+of "right" types. Left types thus more accommodating during close-range
+communication, while right types are more accommodating at a distance.
+
+Inner world of left types is arranged in a simpler manner than that of
+right types. It holds less contradictions within it and is thus more
+wholesome and harmonious. However, such a distribution of psychological
+"charge" in left types is counter-weighed by the properties of their
+environment that most often is complicated and ambiguous. The living
+conditions of left type are frequently unstable and unpredictable.
+Permanently residing in zones of conflict and frequent changes in
+priorities does not hamper left types; to the contrary, it is their
+preferred conditions for life. Right types can normally exist only if
+their environment is simple and unambiguous and prevents sudden changes.
+
+Thus, we can assign plus and minus signs in the following manner. For
+"right", evolutionary types, at closer distances in communication we can
+assign a plus sign, and at greater distances - a minus sign: -/+. For
+"left", involutionary types minus sign can be assigned at closer
+distances, while at greater distances they can be assigned a minus sign:
++/-.
+
+Social level
+~~~~~~~~~~~~
+
+At this level, the difference between left and right types can be
+described simply as "nature - civilization." Nature is uncivilized: it
+contains no formally upheld conventions, traditions, philosophies, and
+religions. Civilization is not natural: legislative and moral codes
+enacted in a civilized society cannot be derived from the laws of
+nature, which can be traced down to the struggle for existence. Left
+types are closer to living and modeling such natural existence, while
+right type are closer to emulating life in a civilized society.
+
+-  **ESE** - natural, simple, artless emotions.
+-  **EIE** - artificial, crafted, playacting emotions.
+
+-  **LII** - natural, basic logic; the logic of natural laws.
+-  **LSI** - artificial logic, the logic of regulations and decrees
+   created and adopted by people.
+
+-  **SLE** - natural strength, which subordinates those who are weaker.
+-  **SEE** - artificial strength, which allows to exert influence over
+   those who are more powerful.
+
+-  **IEI** - natural sense of time, the course of events unfolding into
+   the future.
+-  **ILI** - artificial sense of time, the course of events oriented at
+   the past.
+
+-  **IEE** - natural ideas, naturally possible prospects.
+-  **ILE** - artificial ideas, alternatives of the impossible, of the
+   hyperreality.
+
+-  **SLI** - natural sensory experiences and comfort.
+-  **SEI** - artificial sensing, created, crafted comfort.
+
+-  **LIE** - natural benefit, attained by personal, individual
+   enterprise.
+-  **LSE** - artificial benefit, derived through organization of labor.
+
+-  **ESI** - natural relations, dedicated and loving of his own,
+   rejecting of outsiders.
+-  **EII** - artificial relations, forgives transgressions, treats
+   outsiders as his own.
+
+Due to the fact that on foreign territory involutionary "left" types
+tend to communicate negatively, it is difficult for them to unite into
+large groups. Negative attitude towards strangers does not allow them to
+form larger collectives. They are more inclined to work in small groups
+where informal communication is possible. By contrast, evolutionary
+"right" types work well within larger groups and organizations. Working
+in small groups is difficult for them because upon closing of the
+distance they become less tolerant in communication.
+
+In practice of psychology, we can find two formats for training courses.
+The first type of format aims to unite those attending into larger
+groups, which may be dangerous: when crowd gathers a negative charge, a
+need for a leader arises. Training courses of the second type allow the
+participants to work in small groups, in which case collectivism yields
+to individualism.
+
+Intellectual level
+~~~~~~~~~~~~~~~~~~
+
+In philosophy, there are two methods of processing of information. The
+first method is reification or concretization, when the flow of thought
+moves from abstracted, general, vague forms in the direction of greater
+specificity and concreteness. The second method is generalization or
+abstraction, when the reasoning flows from particulars and specifics,
+from distinct bits of information towards conclusions, statements or
+themes of greater general or abstracted nature.
+
+**The flow of thought that progresses from broad general overview
+towards details and particular parts is the prevalent one for
+involutionary "left" types, while reasoning of evolutionary "right"
+types flows in the opposite direction - it starts from details and
+specifics and progresses towards broader outlook and themes.** In formal
+logic, these two approaches are called **deduction** and **induction**,
+respectively.
+
+This characteristic has noticeable influences on activities that require
+a person to process information, such as reading a book, writing an
+article, or delivering a public speech. Involutionary "left" types are
+inclined to start reading the conclusion of an article or the end
+chapter of a book in order to inspect the summary findings or the final
+conclusion, and only then read the rest of the text to trace how the
+author arrived there. When an involutionary type states his thoughts, he
+is more comfortable doing the presentation by first stating the general
+principles, the resulting findings, the discovered patterns, and only
+then proceeding to explain the particulars and giving specific examples,
+relevant data, or anecdotes.
+
+Evolutionary "right" types are inclined to perceive and present
+information in exactly the opposite manner. They are more comfortable
+reading an article or a book sequentially, as it was written, without
+jumping ahead. When evolutionary type is presenting some material, he
+first provides the particulars, the starting axioms, the evidence at
+hand, and only then, towards the end of the presentation, he formulates
+generalizations and final conclusions.
+
+Let us stop here and examine the word **deductive**. It has multiple
+meanings. For example, does Sherlock Holmes, the protagonist of
+detective novels of A. Conan Doyle use deductive methods? The answer is
+both "yes" and "no". It depends on what is meant by "deductive". No,
+because he draws his conclusions building upon many small details and
+observations, and this way of making inferences is inductive. Yes,
+because in publications deduction usually implies rationality -
+discursive method of reasoning barring any free associations. Deductive
+reasoning is considered to be the kind of reasoning where from one
+statement or proposition, consecutively and basing on explicit set of
+axioms, rules, or facts, another statement or proposition is deduced.
+
+Another example of a deduction in the second meaning of this word are
+`Aristotelian syllogisms <http://en.wikipedia.org/wiki/Syllogism>`_.
+These are logical arguments in which from two or more initial
+propositions (premises) some concluding statement or proposition is made
+by means of a set logical rules. Classical example of such deductive
+reasoning: "All men are mortal. Plato is a man. Therefore, Plato is
+mortal."
+
+This is an example of "right", correct logic. It is appropriate in
+jurisprudence, in conducting investigations, in management of
+governments, etc. In natural life, where many "left" involutionary
+phenomena can be encountered, such syllogisms are of little help.
+
+
+We speak in different languages
+-------------------------------
+
+Process and Result types have difficulty having constructive exchanges
+of information. Their differing preferred modes of information exchange
+are one of the sources of misunderstandings in social interaction; these
+differences create an informational barrier between left and right
+types. How does this occur?
+
+Communicative transactions are complementary between types on the same
+side of socioprogess. This means that one's communication will be
+received adequately: to a question an answer will be provided, any idea
+that has been proposed will be either be developed further or receive a
+critique. When two types from different sides of socioprogress interact,
+there is a tendency to answer a question with a question, or to respond
+to one assertion with another assertion that has little relevance to the
+first one. Types from different rings of socioprogress seemingly develop
+the same idea in different ways. Thus, in exchanges of left and right
+types many orthogonal translations arise in their communication.
+
+Manifestations of negative personality traits at large distances and
+positive traits at short distances are characteristic in communication
+of involutionary, left types, while the reverse is true of evolutionary,
+right types. Left types are thus more accommodating in close-range
+communication, while right types are more accommodating at increased
+distances. If a person of right, process type talks amiably on the phone
+with a stranger, for his left, result type partner this seems surprising
+because he would have done the opposite and been less welcoming in his
+manners in this situation. These differences become evident when two
+people of different Process/Result orientation close the distance, such
+as when they get married. Suddenly they find out that the partner who
+was seeking intimacy has become more critical and aloof, while the other
+partner who seemed more estranged initially is more receptive and
+bolder. In this situation a question may rise for both of them: "Am I
+being misled?"
+
+Here is one such interesting historical example. Ivan the Terrible, as
+documented chroniclers, demonstrated right type style of relating. If a
+person close to him was being nice and accommodating, this caused his
+suspicions and made him question the sincerity of the person. He could
+accept accommodating behavior only after coercion.
+
+Left type, to the contrary, would suspect that something is wrong if
+someone treated him emphatically in a cold manner. If you are close to
+me then why are you so unfriendly and aloof? Perhaps you are only
+pretending that you're voluntarily staying with me?
+
+Right and left types also differ in how they engage in scientific
+development. Right type of researcher will carefully collect facts about
+some problem that is of concern, processes them, derive a system, and
+formulate the resulting findings. Such path of formal or "correct"
+research meets the academic requirements for science. Unfortunately the
+probability of obtaining fundamentally new knowledge in this way is low.
+Left "informal" science is organized quite differently. It is based on
+putting forward hypotheses and schemes of a general nature that attempt
+to explain the nature of phenomenon that is under investigation in an
+informal setting without much consideration of accepted academic canons.
+Then the hypothesis or crude scheme is compared to the actual
+phenomenon. If it works, then it is accepted as a working model and made
+to undergo further revision. If the hypothesis proves to be unsuitable,
+then it is simply discarded as unreasonable. It is best when two-three
+models are developed side-by-side by "left" methods, and as a result of
+competition the one that is most viable wins.
+
+Most of the results of socionics have been derived by left methods. It
+is understandable that the right formal academic science treats
+socionics with much skepticism. Socionics offers the finished product,
+but where is the process of lengthy and detailed research and studies?
+The solution of this problem is, of course, supplementing the quick but
+unreliable left approach to knowledge with the knowledge and research of
+the right approach - which is the only one that earns credibility in
+formal circles.
+
+Orientation within the rings of progress is one of the most fundamental
+difference between people, as well as between male and female traits in
+biology.
+
+Male and female as general biological categories have been thoroughly
+analyzed in past in work of Geodakyan. From this analysis it follows
+that behavior which is described as a search as search, capture, change,
+corresponds to male origin, while behavior that corresponds to
+consolidation, preservation, stabilization, corresponds to female
+origins. The middle of this distribution is held by women, while men
+tend to fall as outliers away from the center. For example, in school
+boys are more prone to misbehave and be disorganized, but some achieve
+very high results. Girls are more compliant and organized, while their
+performance gravitates towards average. These processes are very similar
+to the progress of rings of evolution (feminine origin) and involution
+(masculine origin).
+
+The situation is quite similar among adults. Men social groups are
+together based on power, but internally they are brought together by
+friendship. Women's groups at first glance seem more unified and
+empathetic, but inwardly they are permeated by a negative emotional
+field.
+
+When right and left types communicate, they keep each other under
+certain stain. Communication between them is more energetic rather than
+informational in its nature. This type of communication does not relax
+but, to the contrary, they activate one another.
+
+An example: a pair consisting of a right type and a left type returns
+home from a social event. The left partner softens, while the right
+partner becomes harder and starts looking for flaws. The left partner in
+a joking manner notices that the light was left on in the kitchen. Right
+partner is outraged by this comment, since she is feeling very tired
+after putting on the best face the whole evening. Left partner is
+puzzled as to why he was so misunderstood. It doesn't occur to him how
+could anyone arrive at such a conclusion.
+
+The right and left orientation has a significant impact on the exchange
+of information, possibly as much as any of the Jungian traits. Conflicts
+can arise on the ground of information distortion that occurs between
+left and right types.
+
+For example, often misunderstandings between extraverts and introverts
+are attributed to the fact that the former prefer to think out loud
+while the later prefer to think over their actions to themselves.
+However, left-right orientation has a significant effect on
+communication of introverts and extraverts. Right types gravitate more
+towards lengthy debates, discussions, and verbal clarifications. In
+relationships, they prefer talking out their problems. Left types are
+much less reliant on verbal communication. They trust words less than
+concrete actions. In this respect, left types are more masculine in
+nature than right types.
+
+The cause of misunderstanding between sensing and intuitive types is
+often said to be that sensing types focus on details while intuitive
+types are likely to omit them. However, this isn't so. Attention to
+detail is characteristic of right types while left "result" types see
+the end result. Details are of much less importance to the left types
+who see an overall vision, a generalized picture of a problem or a
+situation.
+
+Misunderstanding between logical and ethical types is attributes to
+emotional callousness of the former and heightened sensitivity of the
+later. Within the left-right dichotomy, responsiveness and heightened
+sensitivity are characteristic of right types. Left types suffer less
+from compounded problems and more calmly endure through disagreements
+than right types. Freud's theory of repressed aggression in reality
+works only for evolutionary types.
+
+Miscommunication between rational and irrational types are said to be
+based on the different levels of categorization, where rationals are
+described as more emphatic and assertive in decision-making, while
+irrationals are said to waver and put off making a decision until later.
+According to left-right dichotomy, right types are more inclined to make
+firm categorical judgments while left types aren't not directed at any
+solid goal. Left, involutionary types more easily change their path
+because they are more adept at controlling their internal stimuli. Firm
+and categorical attitudes awaken in them only in extreme situations.
+
+**Summary of trait correlations:**
+
+-  Left types: sensing, logic, extraversion, irrationality
+-  Right types: intuition, ethics, introversion, rationality
+
+.. _project-groups:
+
+Groupings
+---------
+
+Project groups
+~~~~~~~~~~~~~~
+
+Projection is attribution by the subject of own properties and states to
+external objects. Projection requires, first of all, understanding of
+the problem and setting of the goals. Compilation of projects as the
+next step in this process means development of course of action.
+
+In practical psychology there are so-called projective tests that are
+usually made up of pictures. Traits that are most projective are
+intuition and sensing as well as left-ness and right-ness. Intuition
+shows itself in the measure of unconventionality of the picture of the
+subject, while right process manifests itself in selection of important
+details.
+
+-  **Left + intuition** = general results (emotivism)
+-  **Left + sensing** = concrete results (constructivism)
+-  **Right + intuition** = ideational processes (constructivism)
+-  **Right + sensing** = concrete processes (emotivism)
+
+**Right sensing types: SEE, SEI, LSE, LSI - groups of concrete
+processes**
+
+The most detail-oriented types who often have a superior ability in
+precise handwork. Such orientation leads them to assimilate information
+in small doses, as if in form of crumbs. The group includes managers and
+socialites who concern for the good of specific individuals. Their style
+of management is socially-oriented. The nature of this group carries
+elements of social justice and charity. SEI and LSE due to their innate
+nurturing capacity provide social assistance directly, while SEE and LSI
+promote and control charitable donations, subsidies and scarce
+resources.
+
+**Left intuitive types: LIE, LII, IEE, IEI - group of general results**
+
+This group is a complete opposite of the previous group. These types are
+the most "coarse" in their approach to information - they assimilate it
+in large blocks and are averse to getting into details. The style of
+this group are projects of training and education. The junction of
+scientism and humanitarianism. Approximation is characteristic of these
+types - sequential approach from a vague contour to a more specific
+result.
+
+LIE and IEI pick out ripe but easy problems that can be quickly solved
+with elements of play and optimism. IEE and LII are inclined to take on
+complicated, difficult problems that may require changes at level of
+foundation.
+
+**Right intuitives: ILE, ILI, EIE, EII - group of ideational processes**
+
+This group carries out translation of specific observations into overall
+theory. Generalists and synthesists. This group is inclined towards
+philosophical and religious conceptions. Often they have goals of
+synthesizing religion and science, rationalism and mysticism. Among
+their favorite topics are bioenergetics and extrasensory perception.
+This group works on the crossroads of scientism and humanitarianism.
+
+EIE and ILI are inclined to set unreal, impossible, idealized goals. ILE
+and EII gravitate more towards theories that have a chance of being
+implemented.
+
+**Left sensing types: ESE, ESI, SLI, SLE - group of concrete results**
+
+This group carries out implementation of generalized plans into
+something concrete. They never wait long and are only interested in
+projects that can be quickly implemented. They specialize in
+construction and habitation. They work on the interface of societal and
+managerial issues.
+
+ESE and SLI create comfortable conditions. SLE and ESI organize and
+protect newly created "oasis".
+
+Implementation groups
+~~~~~~~~~~~~~~~~~~~~~
+
+Jung's dichotomy Logic-Ethics describes, on the one hand, the rational
+side of actions, the systematic work to promote innovation, and, on the
+other hand, the feminine and masculine origins in human psychology.
+Implementing, introducing, forcing through is the male role, while
+developing the right conditions, assimilating, stabilizing in the
+society as a whole is the female role.
+
+-  **Left process + Logic** = SLE, SLI, LII, LIE (strategy)
+-  **Left process + Ethics** = IEI, IEE, ESE, ESI (tactics)
+-  **Right process + Logic** = LSE, LSI, ILI, ILE (tactics)
+-  **Right process + Ethics** = EII, EIE, SEE, SEI (strategy)
+
+**Left logical types: SLE, SLI, LII, LIE - most masculine types, left
+process and logical disposition are united within them**
+
+Act bravely without looking back. Their field of activity lies at the
+junction of management and scientism. Localized introduction of
+promising ideas and developments into production. This results in the
+greatest disruption of homeostasis.
+
+SLE and LIE are the best promoters i.e. managers of risky projects. SLI
+and LII are effective in the development of technological support.
+
+**Right ethical types: EII, EIE, SEE, SEI - most feminine types, right
+process and ethical disposition are united within them**
+
+Work to maintain established social customs, or if they are programmed
+for something else, try to implement and stabilize new customs. Operate
+at the intersection of social and humanitarian spheres - mass ideology,
+advertising companies, show business.
+
+SEE and EIE are advertisers, propagandists, entertainers, show agents.
+EII and SEI prompt movement towards new stereotypes.
+
+**Left ethical types: IEI, IEE, ESE, ESI - intermediary types,
+transition of masculine to feminine, still masculine origins predominate
+in them**
+
+Their spheres of activity are humanitarian and social. They undermine
+and destroy that which is routine and established, may take on
+traditionally male responsibilities. They bring localized focused
+implementation of humanitarian ideas. From large groups they transfer to
+small teams.
+
+ESE and IEE are enthusiasts and inspirers, shaking the foundations of
+the humdrum of life. IEI and ESI serve as internal motivators, deeply
+penetrating into the psyche.
+
+**Right logical types: LSE, LSI, ILI, ILE - intermediary types,
+transition from feminine to masculine, still feminine origins
+predominate in them**
+
+Main focus on this group is the junction of management and scientism,
+generalization of the practical experience in management. These types
+are inventors, rationalizers, creators of laws. They enable mass
+implementation of technologies.
+
+ILE and LSE make good inventors and innovators. ILI and LSI finalizers
+and explotationists.
+
+In real life ideals of femininity and masculinity gravitate towards the
+center. Extremely feminine manifestation (EII) as well as extremely
+masculine (SLE) are not considered harmonious.
+
+Stress tolerance of the groups
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Left and right types differ in their tolerance for stress. Certainty and
+clarity of the situation is favorable for the Rational and Right
+(:doc:`Process <process_result>`) types. Vagueness, potential for
+development of some events gives the advantages to
+
+-  **Left (Result) + Rationality** = mobilized by stress (democratic)
+-  **Left (Result) + Irrationality** = resistant to stress
+   (aristocratic)
+-  **Right (Process) + Rationality** = vulnerable to stress
+   (aristocratic)
+-  **Right (Process) + Irrationality** = frozen by stress (democratic)
+
+**Right (Process) rational types: EIE, EII, LSE, LSI - vulnerable to
+stress**
+
+This groups is the most unstable in conditions of prolonged stress. They
+are monolithic, but fragile. When they stick together they can
+successfully oppose hardships but separately they are easily scattered
+and taken out as their resistance drops sharply. In stressful conditions
+they fare worse than the other types, especially if stress is of
+unexpected in nature. Despite their external stoicism, they always have
+poorly protected and vulnerable points and a need for a solid
+foundation. If this foundation is removed, they lose any resistance to
+stress they may have had. Stress threatens these types with challenging
+doubts and in the end leads them to break internally ("giants with feet
+of clay"). The defining element for their rational temperament is
+"monolithicism".
+
+Taking into account that rationality is related to the orientation in
+time (planning, order) as well as to speech as communication forms, and
+that the right progress is much more rational than the left in nature,
+we conclude that this group of types is strongly dependent on the time
+factor and verbal signals.
+
+In dealing with these types one can observe that they have as if anchors
+in time, easily developed habits to do this or that action at specific
+points in time. Their second dependency is related to the speech stream.
+EIE and LSI, for example, need a continuous supply of signals to their
+auditory system.
+
+**Left (Result) irrational types: SLE, IEI, SLI, IEE - resistant to
+stress**
+
+These types are elastic, springy. They are the most stress-resistant
+types which show resilience against immediate stress loads. Their
+advantage is that they perform well in extreme situations. They are
+mobilized by unexpected changes in situations  this gives them a new
+drive. Ability to work effectively in stressful environments adds a new
+trait to their temperament  "elasticity". SLE and IEI maneuver and
+evade sudden blows. SLI and IEE wait the storm out in a safe location.
+
+These types have anchors in space - developed habits to do this or that
+actions in a certain location. For SLEs this is often their home, their
+territory. For SLIs this is their workplace where he feels relaxed and
+emboldened.
+
+**Right (Process) irrational types: ILE, SEI, ILI, SEE - halted, frozen
+by stress**
+
+These types try to avoid stress. They are viscous. Their communicative
+environment is similar to a glue-like mass. They have a tendency to lose
+their resistance to stress over time  at first they react vigorously to
+a stimulus, but then subside. These types are able to resist stress for
+quite some time, but with each new wave of stress their strengths
+dissipate and they change their method of resistance to withdrawal,
+interiorizing their worries and anxieties. This adds a unique trait to
+their temperament  "viscosity".
+
+These types like the irrational types are more inclined to develop
+habits that are anchored in space. However due to their right-ness they
+emphasize such anchors less. Significant to them are kinesthetic
+sensations and reflexes, touch, smell, taste.
+
+**Left (Result) rational types: ESE, LII, ESI, LIE - mobilized, trained
+by stress**
+
+These types easily withstand small amounts of stress. They are stopped
+only by very fundamental shocks and even then only for a short while.
+Life is constantly training these types, making them more hardened (ESE,
+LIE) or more tolerant (ESI, LII). This is especially evident with the
+optimists LIE and ESE, who may find themselves restarting their lives
+from complete zero. They are as if holding light wireframe structures
+inside them. An additional component to the temperament of these types -
+"crystalinity".
+
+How do these types build anchors? To develop a stable habit a single tie
+to a specific moment in time is not enough for them. For additional
+stability they use visual anchors. These types are convinced not only by
+orderly process of events in time, but also by visual signals. ESE and
+ESI for example when they see disorder or an unkempt, sick person take
+measures immediately. LII and LIE start acting if they see signals of
+emotional response.
+
+Groups of Inflation or Rings of Benefit
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+These groups are demonstratively of energetic character. Latin word
+iflatio means "bulging, swelling". With the use of these groups, socion
+is filled with energy. This is why these groups are unstable,
+short-lived. They overfill quickly if there isn't an outside force
+capable of containing the spill of energy.
+
+Mechanism of relations of social order (benefit) has a lot in common
+with the act of hypnosis - the act of benefactor on the subconscious of
+the beneficiary. Energy is transferred directly only if benefactor
+(sender) is able to somehow relax the beneficiary (receiver) and
+predispose him to the benefactor.
+
+With consciously critical attitude on the part of the beneficiary, the
+energy impulse is not transmitted. It is either blocked or even
+reversed, bringing into effect reverse order - a destructive process
+when emotional get heated causing a breakdown in the system. Information
+in this system undergoes inflation - it is devalued if not put into
+circulation immediately.
+
+The basis of the differences between inflation (benefit) rings lies in
+the way energy and information get used. Energy corresponds to
+extraversion, but also left progress. Similarly, information is tied
+with introversion, but also with the right progress.
+
+-  **Left + Asking** = recombinators, generators of information
+   (introversion)
+-  **Left + Declaring** = transformators, energy carriers (extraversion)
+-  **Right + Asking** = combinators, generators of energy (extraversion)
+-  **Right + Declaring** = restorators, accumulators of information
+   (introversion)
+
+**Left extraverts: SLE, IEE, LIE, ESE - energy carriers**
+
+These types are the most saturated with energy in the socion. They
+suffer from lack of fundamentally new information. Energizers of small
+groups. To be good at management and coordination, they have to break up
+large groups into small groups and then control these smaller groups.
+
+SLE and ESE solve concrete, immediate problems. IEE and LIE unite on
+basis of romanticism, they are captivated by more daring ideas.
+
+**Right introverts: LSI, EII, ILI, SEI - accumulators of information**
+
+ILI accumulates scientific or philosophical information, LSI accumulates
+operational or managerial information (both of these types make for the
+best collectors), EII - humanitarian information, SEI - social
+information (prices, services, events and holidays). They suffer from
+lack of energy. Specialize in informatics of large groups.
+
+LSI and SEI engage in solving immediate concrete problems at work or at
+home. ILI and EII cooperate on basis of philosophical, scientific, and
+spiritual topics.
+
+**Left introverts: IEI, SLI, ESI, LII - generators of information**
+
+These types translate energy into information. They function as
+stabilizers in socion. Suffer from weak ability to energetically impact
+their environment. They specialize in informatics of small groups and
+feel good in small groups of similar-minded individuals.
+
+IEI and LII capable of uniting a small group on the basis of some novel
+interesting information. SLI and ESI engage in solving problems relating
+to survival and well-being.
+
+**Right extroverts: EIE, LSE, SEE, ILE - energy generators**
+
+These types translate information into energy. They bring about energy
+processes in their environment. EIE and SEE with their words and actions
+evoke strong emotional reactions in others (for this reason they also
+make for the best actors).
+
+They specialize in energetics of large groups and for this reason
+realize themselves in such conditions. They have a tendency to unite
+small groups into larger groups. These are the most inflationary types,
+that start up energy chain reactions in the society.
+
+ILE and EIE are innovators and fighters for an idea. SEE and LSE draw in
+people for collective effects.
+
+Quadral structure of the socion
+-------------------------------
+
+There are many possible configurations in socion, depending on which
+internal structure of small groups it operates. There exists a very
+large number of such structures. Only a few of these have been examined:
+temperamental-installational, perceptual-communicative,
+stimulative-argumentative [8].
+
+On the other hand, there exist functionally complete small groups and,
+above all, the quadra. Complementary to the quadra are rings of benefit.
+Lets recall that in each quadra there are four fixed roles - Gatekeeper,
+Culminator, Stabilizer, Finalist. Within each quadra, representatives of
+each ring of benefit play the same role. Intersection of quadra and
+rings of benefit (inflationary rings) give yet another structure of
+socion.
+
+.. list-table::
+    :header-rows: 1
+    :stub-columns: 1
+
+    * - Request/Quadra
+      - Gatekeepers
+      - Culminators
+      - Stabilizers
+      - Finalists
+    * - Preparers
+      - SEI
+      - ILE
+      - LII
+      - ESE
+    * - Creators
+      - LSI
+      - EIE
+      - IEI
+      - SLE
+    * - Vibrators
+      - ILI
+      - SEE
+      - ESI
+      - LIE
+    * - Perfectors
+      - EII
+      - LSE
+      - SLI
+      - IEE
+
+
+Due to rings of benefit that accomplish energy transfers, quadra
+mobilize each other in such a way that the previous one launches the
+following one [7]. This is the mechanism of quadra progression in
+historical development.
+
+Groups of progress introduce significant correction to the rational
+(ontogenic) course of development, serve as a factor that introduces
+disturbances. Thanks to them, in history there is no determinism
+(predestination). Events are first accelerated, then slowed down, then
+change direction in accordance to the subjective will of individuals,
+especially if these individuals are working together in a group with
+same progress orientation.
+
+References
+----------
+
+#. Brief Encyclopedia of Philosophy. - M., Progress Publishers -
+   Encyclopedia, 1994, p. 382.
+#. Kroeger, O., Tyuson J., 16 Roads of Love. M., Perseus-Veche-ACT, 1995.
+#. Augustinavichiute A. The Theory of Reinin Aspects. 1985.
+#. Berne E. Games People Play. Psychology of human relations. M.:
+   Progress Publishers, 1988, pp. 20-25.
+#. Burlachuk L. F., Morozov S. M. Dictionary of Naukova Dumka. Kiev.
+   1989, p. 106.
+#. Sonin A. S. Achievement of perfection. Symmetry, asymmetry,
+   dissymmetry, antisymmetry. - M.: Knowledge, 1987, p. 150-160.
+#. Gulenko V. V. Quadra progression. Silhouettes of time through the
+   concession of types. K., 25.07.1995.
+#. Gulenko V. V. Typological integrity of the socion. Formation of
+   sociotypes on the basis of Jung. K., 04/02/1993.
+#. Moiseev N. N. Algorithms of development. - Moscow: Science, 1987.
+#. Gulenko V. V. Fractal structure and quadra and socion. K.,
+   10/06/1989.
+
+See also
+--------
+
+-  :doc:`On the Essence of Vectors of Social Progress by A. Dovgan <vectors_progress>`
+-  :doc:`Process/Result dichotomy (aka Evolutionary/Involutionary) <process_result>`
+-  :doc:`Gulenko Cognitive Styles <cognitive_styles>`
+

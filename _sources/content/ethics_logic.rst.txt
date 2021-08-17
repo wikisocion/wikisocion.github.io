@@ -1,0 +1,163 @@
+Ethics and logic
+======================
+
+**Ethics** / **logic** is one of the 4 :doc:`Jungian dichotomies <jungian>`, and also one of the 15 :doc:`Reinin dichotomies <reinin_dich>`. **Ethics** in socionics is a
+perceptual quality defined by a focus on the human, social, moral, and
+emotional content of reality. In contrast, **logic** entails a focus on
+the inanimate, measurable, systemic, and procedural content of reality.
+
+Ethical and Logical Types
+-------------------------
+
+**Ethical types** are: :doc:`SEI <SEI>`, :doc:`ESE <ESE>`, :doc:`EIE <EIE>`,
+:doc:`IEI <IEI>`, :doc:`SEE <SEE>`, :doc:`ESI <ESI>`, :doc:`EII <EII>`, and
+:doc:`IEE <IEE>`.
+
+**Logical types** are: :doc:`ILE <ILE>`, :doc:`LII <LII>`, :doc:`LSI <LSI>`,
+:doc:`SLE <SLE>`, :doc:`ILI <ILI>`, :doc:`LIE <LIE>`, :doc:`LSE <LSE>`, and
+:doc:`SLI <SLI>`.
+
+Nomenclature
+------------
+
+In :doc:`three-letter type codes <type_names>`, "Ethical" types have E as either the first letter, if ethics is their :ref:`leading function <leading-func>` (ESE, ESI), or as the second letter if ethics is their :ref:`creative function <creative-func>` (SEE, IEI); "Logical types have L as either the first or the second letter, depending on where in ego block their logical element is located.
+
+| In :doc:`four-letter type codes <type_names>`, "Ethical" types have an F (feeling) as the third letter, and "Logical" types have T (thinking) as the third letter (e.g. ISFp, ISTj)
+
+Theoretical properties of ethical and logical types
+---------------------------------------------------
+
+In socionics, two :doc:`information (IM) elements <elements>` denote
+ethics - Fe |symbol_e.gif| and Fi |symbol_r.gif|, and two denote logic -
+Te |symbol_p.gif| and Ti |symbol_l.gif|.
+
+:doc:`Socionic types <socionic_type>` that have ethical elements in
+:doc:`functions <functions>` 1,7 and 2,8 are called **Ethical types**.
+Types that have logical elements in these functions are called **Logical
+types**.
+
+
+Description of the psychic functions
+------------------------------------
+
+Ethics
+~~~~~~
+
+**Ethics** is a mental process (or 'psychic function') that involves
+focusing on emotional experience, human relationships, and subjective
+attitudes. Ethics comes in two varieties (:doc:`extraverted <extroverted>`
+and :doc:`introverted <introverted>`) depending on whether attention is
+focused on reality outside the subject or on the subject's impressions
+of reality.
+
+Half of the :doc:`socion <socion>` consists of **ethical** types. These
+types have either :doc:`introverted <Fi>` or
+:doc:`extraverted <Fe>` ethics in their :ref:`Ego block <ego-block>`
+(the first two :doc:`functions <functions>`).
+
+Logic
+~~~~~
+
+**Logic** is a mental process (or 'psychic function') that involves
+focusing on inanimate objects, logical relationships, and objective
+truth. Logic comes in two varieties (:doc:`extraverted <extroverted>` and
+:doc:`introverted <introverted>`) depending on whether attention is focused
+on reality outside the subject or on the subject's impressions of
+reality.
+
+Half of the :doc:`socion <socion>` consists of **logical** types. These
+types have either :doc:`introverted <Ti>` or
+:doc:`extraverted <Te>` logic in their :ref:`Ego block <ego-block>`
+(the first two :doc:`functions <functions>`).
+
+Typical characteristics of ethical and logical types
+----------------------------------------------------
+
+Ethical types
+~~~~~~~~~~~~~
+
+#. In their thoughts and interactions, give greater weight to ethical
+   factors.
+#. Rather talk about ethical evaluations ("good or bad").
+#. Frequently better at solving interpersonal problems.
+#. More often have problems with finding logical solutions.
+#. Tend to prefer persuasion over argumentation.
+#. More vulnerable to "logical" manipulation.
+
+Logical types
+~~~~~~~~~~~~~
+
+#. More often make decisions based on logical reasons.
+#. Rather talk about logical evaluations ("right or wrong").
+#. Frequently interested in systems, structures and patterns.
+#. More often have interpersonal problems.
+#. Tend to prefer argumentation over persuasion.
+#. More vulnerable to "ethical" manipulation.
+
+Ethics-Logic and Gender
+-----------------------
+
+Generally, most socionists claim that logical types are more common
+among men, and ethical types among women. The ratios suggested are
+generally between 55%-45% and 70%-30%. Others maintain that the
+distribution is more or less balanced.
+
+In addition, socionists note that logical women tend to be more
+emotional than logical men, and ethical men less openly emotional than
+women.
+
+It is sometimes suggested that this disparity has a biological basis;
+namely, that women are biologically adapted to bear, rear, and educate
+children and to cooperate with others, which are ethics are a suitable
+tool. Men, however, are biologically inclined to procuring food,
+organizing work activities and hierarchies, and competing with others,
+in which logic often plays a greater role.
+
+The association with women as openly emotional and men as less so is
+also subject to the influence of cultural stereotypes.
+
+Additional Links
+----------------
+
+-  :doc:`On the Correct Understanding of Dichotomy Logic-Ethics by Trehov and Tsypin <understand_t_f>`
+
+
+.. list-table:: Type :doc:`dichotomies <dich>`
+    :header-rows: 0
+    :align: center
+
+    * - |jp|
+      - |EI|
+      - |NS|
+    * - |TF|
+      - |SD|
+      - |PR|
+    * - |PN|
+      - |AD|
+      - |CE|
+    * - |CF|
+      - |YO|
+      - |TS|
+    * - |MS|
+      - |JD|
+      - |AD|
+
+.. |EI| replace:: :doc:`Extraversion and introversion <extra_intro>`
+.. |DA| replace:: :doc:`Democratic and aristocratic <democratic_aristocratic>`
+.. |TS| replace:: :doc:`Tactical and strategic <tactical_strategic>`
+.. |CE| replace:: :doc:`Constructivist and emotivist <constructivist_emotivist>`
+.. |PN| replace:: :doc:`Positivist and negativist <positivist_negativist>`
+.. |JD| replace:: :doc:`Judicious and decisive <judicious_decisive>`
+.. |MS| replace:: :doc:`Merry and serious <merry_serious>`
+.. |NS| replace:: :doc:`Sensing and intuition <sensing_intuition>`
+.. |TF| replace:: :doc:`Ethics and logic <ethics_logic>`
+.. |jp| replace:: :doc:`Rationality and irrationality <ration_irration>`
+.. |CF| replace:: :doc:`Carefree and farsighted <carefree_farsighted>`
+.. |YO| replace:: :doc:`Yielding and obstinate <yielding_obstinate>`
+.. |SD| replace:: :doc:`Static and dynamic <statics_dynamics>`
+.. |PR| replace:: :doc:`Process and result <process_result>`
+.. |AD| replace:: :doc:`Asking and declaring <asking_declaring>`
+.. |symbol_e.gif| image:: symbol_e.gif
+.. |symbol_r.gif| image:: symbol_r.gif
+.. |symbol_p.gif| image:: symbol_p.gif
+.. |symbol_l.gif| image:: symbol_l.gif

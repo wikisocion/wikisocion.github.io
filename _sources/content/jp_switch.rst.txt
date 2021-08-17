@@ -1,0 +1,49 @@
+J/P switch
+==================
+
+The "**J/P switch**" issue is something that most people encounter who enter the socionics community via Myers-Briggs Typology. The J/P switch is one proposed correspondence between the two typologies, and is the source of continual debate. The main issue is whether or not the two systems even share identical (as opposed to merely similar) functional definitions. If they do not, there is no point in even addressing the matter of the J/P switch at all; if they do, other issues must then be addressed. 
+
+Origins and Implications of the J/P switch
+--------------------------------------------------
+
+Some maintain that judging introverts in MBTI map to irrational ("perceiving") introverts in socionics, and perceiving introverts to rational ("judging") introverts, with extraverted types remaining the same. The rationale for this is based on an equivalence between the two theories' functional models. According to MBTI theory, the leading function of judging introvert is an introverted perceiving function (Si or Ni), while perceiving introverts' leading function is a judging function (Fi or Ti). Myers and Briggs maintained that introverts make contact with the world through their second, extraverted function, and decided to define judging or perceiving through the second function rather than the first, as in socionics. According to MBTI theory, if the 1st function is judging, then the 2nd is perceiving, and vice versa. For MBTI extraverts, it is the leading function that determines perceiving or judging.
+
+Therefore, if we look at the functional structure of an MBTI INFP, we actually see the functions of a socionics EII (or INFj):
+
+INFP = (1) introverted feeling, (2) extraverted intuition
+
+The official theoretical MBTI definition of J/P is thus identical in structure to the Dynamic/Static Reinin dichotomy, again on the assumption of functional equivalence. For example, an LII or "Ti Ne" which is classified as static (introvert*rational), would be expected to test as an INTP, whereas an ILE, which is extrovert*irrational, and predicted to test as ENTP, would be Static as well. In Socionics an LII (along with LSI, EII, and ESI) is commonly called a j type (lowercase is preferred) because it is rational, yet the term "static" applies nonetheless. The converse, that MBTI J corresponds to Dynamic, is implied as well.
+
+Arguments against the J/P switch
+---------------------------------------
+
+Others deny the validity of the J/P switch, maintaining that since Myers-Briggs Typology does not attempt to measure introverted and extraverted forms of functions directly, and since it does not define the functions and their forms in the same way as Socionics, the Myers-Briggs view of functions cannot directly be compared to Socionics functions as defined by Model A.
+
+One argument in favor of this claim is type descriptions. If you ignore the functional ordering and focus on the type descriptions, they say, descriptions of perceiving introverts in MBTI best fit those of irrational introverts in socionics. Based on descriptions, an MBTI INFP could map best to a socionics IEI, or "INFp".
+
+Another argument is that MBTI is in many ways a very different and less sophisticated theory than socionics, and that any attempt to definitively measure socionics type in terms of MBTI type is by nature flawed. Socionics was originally developed on the basis of intertype relations, which its dichotomies were chosen to reflect (unlike the dichotomies used in MBTI). Proponents of this viewpoint often acknowledge some correlation between the types (ie an MBTI ESTJ is more likely to be a socionics ST than NF) but usually assume that any type or most types are possible socionics types for a person with a specific MBTI type, and vice versa.
+
+The former view can be said to be more helpful for those looking into socionics after getting acquainted with Myers-Briggs, since despite the confusion when looking at functional ordering, as a rule the types as described in most Myers-Briggs profiles tend to resemble more the socionics types without the J/P shift. In addition, despite differences in definition, overall Myers-Briggs Judgement resembles more socionics Rationality, and its Perception more socionics Irrationality, than the other way around, so it makes no sense to say that a rational extroverted socionics type is closer to a judging socionics type, but the other way around for introverts.
+
+Other factors related to the J/P switch
+-----------------------------------------------
+
+Despite the origins of the J/P switch, a number of other related factors are often brought into discussions about this subject.
+
+For those against the J/P switch, the notion of temperaments and its similarity to associated groupings in Myers-Briggs Typology is often discussed as a reason for mappings that don't use the J/P switch.
+
+On the other hand, the concept of quadra values is often brought up as a possible confounding element. Specifically, types that value extroverted sensing are sometimes described as action-oriented, which may be confused with rationality. Types that value extroverted intuition are sometimes described as speculative and open to new opportunities, which may be confused with irrationality.
+
+As a result, some people have suggested a modified version of the J/P switch in which the J/P switch is made for intuitive types only, but not for sensing types. On the basis of this reasoning, one might view the J/P dichotomy as similar to the Judiciousness and decisiveness dichotomy. This, however, leaves a problem in the area of how to interpret J/P in extraverted sensing types.
+
+Empirical data
+-----------------------
+
+Dmitri Lytov reports[1] an experiment related to possible mappings between typologies, although it uses Keirsey type descriptions instead of MBTI results. In this experiment, 108 socionists were asked to read all Keirsey type descriptions and rate which Socionics type was being described. Although the main conclusion of the author was that the results simply demonstrated the lack of correlation between the typologies, the table of results could be viewed as mildly supportive of the J/P switch for IN-- Keirsey types, and not at all for IS-- Keirsey types.
+
+However, one must be warned against making overly firm conclusions from these data, because the evaluators tended to choose extroverted rather than introverted Socionics types when rating Keirsey INTJ descriptions: Far more socionists in the experiment typed the INTJ description as SLE or LIE rather than as LII or ILI. These results can only be called odd from the point of view of a correlation between Keirsey and socionics. The article, moreover, acknowledges that the study does not represent the definitive mapping between the typologies, and states the position that Keirsey typings are further from Socionics than MBTI typings.
+
+Alternative mappings
+-------------------------------
+
+An alternative mapping that is sometimes proposed is between Judging/Perceiving in Myers-Briggs typology and Judiciousness and decisiveness, where Judging = Decisiveness and Perceiving = Judiciousness. The reasoning is that Ni is perceived by some Socionics to be related to time awareness and sequence, and Se related to action. Similarly, Judging/Perceiving is often discussed by professional Myers-Briggs practitioners as relating to a person's oriented to time (i.e., as one likes things to be scheduled or not, given that one has a choice). This hypothesis is equally controversial. 

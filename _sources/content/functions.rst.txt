@@ -1,0 +1,181 @@
+Functions
+===================
+
+Functions are the eight components of :doc:`Model A <model_a>` that describe how each information :doc:`element <elements>` is manifested in each type. They determine overall patterns in a person's behavior, which in turn have a strong influence on the person's interactions with other people. Functions are distinct from :doc:`information aspects <information_aspect>` and :doc:`information elements <elements>`.
+
+Functions have not yet been identified as functional biological components of the brain. No one knows for sure how these overarching patterns of behavior and interaction manifest themselves on a neurological level. Is a function physically located in one place, or is it a kind of neural network, or a pattern of brain activity? Answering these questions is a major problem in making socionics more scientific.
+
+According to Model A, there are eight functions present in each type, one for each :doc:`information elements <elements>`. In this respect socionics differs from canonical :doc:`MBTI <MBTI>` and :doc:`Jung's Typology <jung_typology>`, in which only four elements are present in each type. Given the assumptions that everyone perceives the same information elements, and that there is a one-to-one correspondence between information elements and functions, this number is essentially determined by the relationship structure (see `Mathematics of socionics <https://en.wikipedia.org/wiki/Socionics#Mathematics>`_ ).
+
+For a more specific description of each function as manifested in :doc:`Model A <model_a>`, see descriptions of the :doc:`Information elements <elements>`.
+
+
+
+Ego
+-----------------
+
+The first row of :doc:`Model A <model_a>` (functions 1 and 2) is called the Ego block. These functions describe the :doc:`aspects of reality <information_aspect>` that a person perceives with the greatest depth and clarity and verbalizes with the greatest ease. The Ego block also describes the most natural and common states of mind and behavior styles used when interacting with other people, and also a certain perspective that a person injects into the things he says. 
+
+The information aspects that corresponds to the Ego block elements are things that a person can't help spontaneously commenting on and is comfortable discussing out loud (especially true of the leading function). If something is not right in these areas, a person can barely continue until he has spoken out about it and done something to fix the problem. When problems arise, the people who are most likely to point them out are those whose perception of that aspect of reality comes from the Ego block. 
+
+The Ego block functions require a constant stream of new information and stimulation (whether by direct experience, observation, study, or reflection) and quickly sort through this information, recognizing what is useful and necessary and what is not. When exposed to the types of information corresponding to the elements of the Ego block, a person takes immediate note and quickly forms his own attitude or opinion on the matter. He is more confident of his own judgments in these areas than of other people's, even if those people are widely accepted authorities. Instinctively, people are likely to overuse these functions and apply them in practically any area, even when their relevance is minimal. This makes the ego functions (and in particular the base function) more obvious to a casual observer than the other functions.
+
+The Ego block describes a person's preferred and most comfortable and natural role or "mode of operation" when interacting with other people. When a person gets to use his Ego block functions in interaction, he becomes lively and confident and exudes an air of authority and expertise. These functions also have the most endurance; a person can use them longer than other functions without getting worn out.
+
+The Ego block functions imply a certain perspective or set of values since they are the most preferred approaches to solving life problems, giving advice, and achieving one's goals. The individual wants to see society become more like himself and wants to instill his personal philosophy or values in his work activities, his living space, and the people around him. For a person to feel needed and fulfilled, he has to see that his unique perspective is making a difference somewhere. The areas where a person is most likely to make a difference correspond to the Ego block elements. They are called Ego exactly because they are so naturally identified with one's own perspective, ideals, and identity.
+
+The Ego functions are mostly indifferent to praise, since it is very hard to tell a person something about these aspects of himself that he didn't already know—and can easily describe to others. Moreover, when others display misunderstanding of these elements, he feels that it is his right and duty to correct them. 
+
+.. _leading-func:
+
+Leading Function
+^^^^^^^^^^^^^^^^^^^^
+
+The **leading function**, also called the **base**, **program**, or simply **first function**, is an individual's most dominant psychic function. It describes in general terms the person's most comfortable thinking patterns, perspective on life, state of mind, and behavioral style as well as their positive motivational forces (what they pursue most vigorously when they have a choice). The leading function is critical to interpersonal dynamics because people constantly and inadvertently make judgments, assessments, and assumptions based on it. These comments and judgments portray a particular set of core values and share a common vector or general message, and those who the person interacts closely with must be accepting of this message for interaction to be cohesive and :doc:`compatible <compatability>`. 
+
+Generally speaking, the leading function perceives, processes, and produces information most intensively. When a person "speaks" or "acts" from their leading function, they convey a sense of robust confidence and often begin to speak categorically, persuasively, and using exaggerations. 
+
+Proper development of one's leading function is generally seen as being crucial to :doc:`personal development <personal_dev>`. This requires having people around you who are accepting of your core values and most natural, confident behavior styles. Profession-wise, the base function provides the best platform for developing a unique niche that will bring real value to other people. Rather than describing the professions a person would be best at, the base function describes a general approach and behavior style that can be successfully applied to virtually any field of activity. 
+
+Use of the base function comes effortlessly and produces a sense of internal satisfaction regardless of any external rewards. Base function activities can easily be developed into highly effective and productive skills, but there is also a tendency to indulge too much in the base function just because it is easy and rewarding. When overuse becomes extreme, a feeling of emptiness and pointlessness follows, and use of the base function stops bringing satisfaction. 
+
+The influence of the base function on perception and core values is so strong that people tend to project these values onto other people: everyone else surely must want the same things that your base function strives for. This projection is often a source of conflict with other people who have opposing values, but it is also one of the mechanisms for :doc:`dualization <duality>`. The base function's empathy towards others stimulates :doc:`duals <duality>` (and, to a certain degree, :doc:`activators <activation>` and :doc:`semi-duals <semi_dual>`) to try to take care of the other person's problems with the corresponding function. This is exactly what the dual is looking for subconsciously, since one dual's base function is the other's :ref:`suggestive function <suggestive-func>`. However, in many other cases a person's natural interest in aspects of other people's lives that correspond to his own base function creates mistrust and strained relations. 
+
+According to the :doc:`dimensionality of functions <dimensionality>`, the base function is able to effectively process and apply personal experience and social norms, present different solutions for different situations, and recognize and extrapolate the development of this :doc:`aspect of information <information_aspect>` over time. The time dimension, which is shared by the :ref:`demonstrative function <demonstrative-func>`, allows it to "fill in the blanks" between two related aspects, thus allowing it to infer the existence of previously unknown content. 
+
+.. _creative-func:
+
+Creative Function
+^^^^^^^^^^^^^^^^^^^^
+
+The **creative function** is also called the **function of implementation**, **implementing**, **realizing**, or **second function**. This function describes the primary mode of application of the base function. If the base function forms the core of the individual's personal quests and interests (*"What's in it for me?"*, *"What do I want to be?"*), the creative function describes his main instrument for interacting with the rest of society (*"How do I make contact with other people?"*). For extroverts this means creating a context for people to interact within, and for introverts — creating a product worthy of being included in interaction. 
+
+People use their creative function less than their :ref:`base function <leading-func>` and attach less personal significance to it, although due to the nature of blocked functions it is usually used in tandem with the base function. In their value system, their creative function activities seem less personally significant than their base function activities. When other people try to make this function the main criterion for everything, light irritation can arise, and the person may try to "correct" the other person's emphasis by presenting a perspective from his base function and suggesting that this is more important. Also, when other people express problems having to do with this :doc:`information aspect <information_aspect>`, the person quickly takes interest and tries to present solutions — but always through his own base function. For instance, an SEE will try to help other people solve their Fi |Fi| related problems (relationships and understanding between people) through a Se |Se| perspective (making sure you know what you want and are trying to achieve it; understanding the territorial aspect of interaction; recognizing the obvious "dumb things" that people are doing that are ruining the relationship). When people get to use their creative function to help others' problems, they feel needed and fulfilled and begin to live more fully. Likewise, criticism in this area is more sensitive and unpleasant than in the base function. 
+
+Use of the creative function — while frequent and effortless — seems to turn on and off. One moment the person may seem highly interested in this aspect, and the next — totally indifferent. This may jar people for whom this aspect of reality is of more supreme importance and who expect more consistent attention and effort in this area. A good example of this is one's interaction with their :doc:`mirror <mirror>` partner; each person's leading function is subject to the other's creativity function, so even though both partners do share similar worldviews, they are apt to 'correct' or add on to the other's rigid and finalized points. 
+
+Super-ego
+--------------------
+
+*for* :doc:`intertype relation <intertype>` *of the same name, see* :doc:`Super-ego relations <superego>`.
+
+The second row of :doc:`Model A <model_a>` (functions 3 and 4) is called the **Super-Ego block**. The individual's free and spontaneous use of the Ego block functions implies limitations on the use of these functions, which are a kind of rejected alternative to the :ref:`Ego <ego-block>` block. Each type tends to believe that his own Super-Ego functions are meant to be used only for the purposes established by the Ego functions; that is, their application is limited to serving the Ego block's interests. When a person's own interests are not sufficiently developed and people around him pressure him to be more competent with his Super-Ego functions, distress and disappointment result. The psyche is not able to channel energy through the Super-Ego functions long enough to achieve lasting results, which leads to disappointment, guilt, and even neuroses if the individual believes that the development of these functions is the measure of his worth as a person. 
+
+The Super-Ego functions are the source of much self-consciousness. When among strangers or critical onlookers, people tend to suddenly become aware of the possible inadequacy of their Super-Ego functions and often respond in one of two ways: 
+
+*  demonstratively act through these functions to create an illusion of confidence 
+*  demonstratively state their complete incompetency or rejection of these areas 
+
+The Super-Ego functions are in the mental ring and thus describe things that the individual tries to mentally formulate for himself. However, in contrast to the Ego block functions, the Super-Ego functions almost always keep their conclusions to themselves. Any information which is shared in these areas is meant for abstract discussion, rather than actual advice or criticism. 
+
+
+.. _role-func:
+
+Role Function
+^^^^^^^^^^^^^^^^^^
+
+This **role** function is also called the **third function**. When a person is actively using his :ref:`base function <leading-func>`, the role function is essentially turned off. The two cannot both be "on" at the same time, because they represent two opposing approaches to similar things. An example of each opposing pair of elements are: 
+
+* Si |Si| **vs.** Ni |Ni|: a focus on one's environment and how it's affecting one's physical state **vs.** a focus on a situation's development over time and other underlying meanings
+* Se |Se| **vs.** Ne |Ne|: active acquisition, control, and organization of visible territory and objects **vs.** active search for and development of invisible potential and emerging situations 
+* Fi |Fi| **vs.** Ti |Ti|: evaluation according to personal sentiments **vs.** evaluation according to impersonal laws (mercy vs. justice) 
+* Fe |Fe| **vs.** Te |Te|: evaluation according to the people/social element involved **vs.** evaluation according to efficiency, effectiveness or objective reasoning 
+
+Because of this opposition, the more one gets carried away with one's base function, the more the role function is ignored or suppressed. People are generally somewhat aware of this suppression and perceive it as a personal weakness that needs to be "worked on" in order to meet other people's expectations and achieve something in society. It is typical for people to periodically work on their role function in order to correct imbalances in their life and improve their weak areas. However, these attempts are generally sporadic and are forgotten as soon as the perceived problem begins to go away and the person once again becomes carried away with their usual lifestyle which is dominated by their base function. Thus, development of the role function is more like patching up leaks than building a complete, self-sufficient structure. Often individuals wish they could build up their role function and become "supermen", but an excessive focus on this unreachable goal brings disappointment, because the base function always wins anyways.
+
+When people are criticized for their lack of attentiveness to their role function, they are often irritated because they are already well aware of the deficiency and have already tried and failed to correct it. When problems arise with the role function, energy flows away from the base function, the individual brings his usual activities to a halt, and tries to pick up all the tasks he had been neglecting. Directing energy through the base function is effortless; working with the role function requires effort and concentration. Thus, people's concept of self-development is often centered on development of the role function and the Super-Ego block in general.
+
+Compared to the vulnerable function, role function criticism is easier for a person to respond to or dismiss, since they believe that it has some value, in theory. The role function is triggered situationally, when individuals are met with situations that oppose their base aspect of reality. The base function only accepts information relating to its information aspect, and other information cannot be produced into new data with the creative function. 
+
+.. _PoLR-func:
+
+Vulnerable Function
+^^^^^^^^^^^^^^^^^^^^^^^^
+
+The **vulnerable function** is also called the **point or place of least resistance (PoLR)**, **painful** or **sensitive** function, or simply the **fourth function**. The element in this function creates a feeling of frustration and inadequacy. A person does not understand the importance of this element entirely, and it can easily lead to painful consequences if not adequately considered.
+
+However, to directly engage this function creates feelings of insecurity and distress. One reason why the vulnerable function is so difficult to engage is because three other conscious functions come before it, making this one the most difficult to comprehend. Often an alternative approach may be found from the view of the :ref:`mobilizing function <activating-func>`. Because of the psychological disincentives to using the vulnerable function, people usually try to ignore information related to it, and in extreme cases do so even in situations where it is most relevant. Even with a theoretical understanding of how this element works, it is difficult to turn it into practical norms of behavior. One can "develop" the vulnerable function by recognizing that it is actually important in certain real-life circumstances. Even if the subject recognizes this, he will still usually try to avoid taking responsibility for it himself, or develop a minimalist or non-traditional approach (possibly using other functions) that is enough to satisfy one's own needs. The presence of a dual usually dissolves any concern there might be about how to approach matters of the vulnerable function.
+
+Some examples: 
+
+* A type with **Fe** |Fe| PoLR does not see the point of activities revolving around excessive displays of emotion or behavior that does not reach a concrete or tangible outcome. They would rather keep conversations serious and to the point, for he/she is overwhelmed by such emotional expression, making it quite difficult to express themselves. In social interactions they will make a serious effort to reduce their level of emotive expressiveness such as being too joyful or sad, believing that showing these signs will make them vulnerable to be influenced by others. They don't hold quite a high standard for how people as a group feel about something (even if outnumbered by many when making a personal decision), and instead value situations where they can speak their own subjective opinions and feelings freely.
+*  A type with **Ne** |Ne| PoLR has a difficult time understanding ideas that seem new or novel, especially when it has no tangible effect on their lives. Leaving little to chance, they are able to plan out their lives for years ahead of time. This results in difficulties handling unexpected problems in their lives that put a halt on their usual pursuits, and they tend to fear all the possible "what-if's" when those problems prevent them from seeing a clear future. When unsure about something, these types can either avoid making any changes at all or making too quick and reckless of a decision, either of which resulting in missed opportunities. 
+*  A type with **Si** |Si| PoLR has little patience for sitting back and focusing on how they can physically better themselves in the moment, especially if they are involved in what they view as a very important matter. They would much rather try to act on their long-term priorities instead of their physical comfort, resulting in problems such as an inability to be aware or care about present realities, failure to realize the physical or mental strains they are placing on themselves, and being generally unable to relax and take the focus off of their long-term pursuits. 
+*  A type with **Te** |Te| PoLR tends to reject facts given from a source which they are personally unfamiliar with, firmly believing they can make their own decisions that are solely based on their own perspective and reasoning about it. They will tend to become defensive when questioned about their rationale or efficiency, pointing out that there is no such thing as objective "fact". Also, these types experience a significant level of stress in tending to day-to-day must do's and responsibilities in life (like routine maintenance or working productively), manifesting itself as a general laziness or hyper-diligence. 
+
+
+Super-id
+-------------------
+
+The third row of Model A (functions 5 and 6) is called the **Super-id block**. The subject will appreciate direct help to the Super-id, and sees tasks related to it as chores best left to others, but also as a source of frequent recreation. When feeling like there's something missing in his life, the subject will try to use his Super-id functions, but with limited effect, as it often comes off as overkill and is usually poorly developed. Only in the presence of complementary types can an individual let loose his child-like Super-id without fear of criticism. But ironically, although these types will maintain a good deal of their Super-id information in the atmosphere, they will at the same time doggedly encourage him to keep using his Ego functions, which in the end is the healthiest thing for him to do anyway. 
+
+.. _suggestive-func:
+
+Suggestive Function
+^^^^^^^^^^^^^^^^^^^^^^
+
+The suggestive function is also called the dual-seeking function or the fifth function. The subject finds it difficult to be overwhelmed by this element, since it perfectly complements and drives the activity of the leading function. The more it is present in his daily life, the more he will naturally adapt to its presence (see :doc:`dualization <duality>`). They are easily entertained by this kind of information, and its sustained presence creates a soothing psychological effect. If someone experiences a deficiency of it in his environment, he may attempt to supply it himself, but become soon exhausted. Unlike the mobilizing function, concentrated and prolonged doses from other people are received positively (depending somewhat on the individual's degree of dualization). 
+
+People focus deeply on the use of this function in day-to-day life, always attempting to digest information received from the environment through this aspect of reality. This is because it complements the leading function, making an individual not only more understanding but more satisfied about their pursuits in the Ego. 
+
+
+.. _activating-func:
+
+Activating Function
+^^^^^^^^^^^^^^^^^^^
+
+The **activating function** is also called the **hidden agenda (HA)**, or the **sixth function**. Help in this element is appreciated, but past a certain point is seen as excessive. The subject is more comfortable using this function than the suggestive function but still can only use it sporadically. If he isn't careful and directs it at an individual who does not value it, he will likely meet a harsh response, since they are almost sure to see it as a puerile gesture (more so than when he uses the suggestive function, usage of which comes off as more mature and well-considered, since he takes it more seriously in the first place). The subject's innate lack of balance in the mobilizing function can easily cause him to indulge in it recklessly or to sorely neglect it. It is best used in support of the suggestive function. 
+
+See also :ref:`Ganin's views on the "hidden agenda" <ganin-HA>`.
+
+Id
+-----------
+
+The fourth row of :doc:`Model A <model_a>` (functions 7 and 8) is called the **Id block**. People see Id elements as a relatively easy, if somewhat boring and meaningless exercise, good for sharpening one's skills, but not worth focusing on too much. 
+
+.. _ignoring-func:
+
+Ignoring Function
+^^^^^^^^^^^^^^^^^^^^^^^
+
+The **ignoring function** is also called the **observing** or **limiting** function, or the **seventh function**. 
+
+A person has very little use of this element, as it is the rival image of the :ref:`base function <leading-func>`, representing an antithetical approach to the same domain. It lies in the subconscious as a persistent annoyance to the individual. Therefore, he or she tries to ignore it. When lectured by another on the use of the ignoring function, the individual sees it as superfluous information, for he or she knows how to use the function well, but chooses not to use it in favor of his or her more convenient base function. Usually the base function creates byproducts relating to the ignoring function, but the way it describes such information is very carefully chosen to fit the view of the leading function. 
+
+A person limits the expression of this element in public (in favor of the base function), but sometimes uses it extensively in private, and can call upon it when necessary. For example, an :doc:`SEI <SEI>` usually defaults to his base function Si |Si| and shies from activities that are highly physical or cause conflict, but if inevitable confrontation arises, he is able to use his Se |Se| and become fiercely coercive and quarrelsome for short periods of time. 
+
+The extreme avoidance of this function can make it appear weak at times. However, when engaged it does not cause the same kind of psychological stress as a weak function, instead creating a kind of boredom or malaise. 
+
+.. _demonstrative-func:
+
+Demonstrative Function
+^^^^^^^^^^^^^^^^^^^^^^^^^
+
+This function is also called the **eighth function**. A person uses this element mainly as a kind of game, or to ridicule those who he thinks take it too seriously. This function is often intentionally used against its conventional usage simply to prove a point in favor of person's :ref:`creative function <creative-func>`. It is associated with the protective effect for vulnerable (PoLR) function of one's dual type. However, demonstrative function is also used quite often in private, to produce information of its element to support their creative function when focusing on making contact with the external world. 
+
+A person will often have just as sophisticated an understanding of this function as his or her :ref:`leading function <leading-func>`. Unlike the ignoring function it plays a major part in a person's worldview, since as the :ref:`vulnerable function <PoLR-func>` of one's :doc:`dual <duality>` it requires especially delicate attention. Thus, when a person is given information regarding the element in the demonstrative function by someone else, they will tend to take it as obvious information that is irrelevant to completely focus on. One will often use the demonstrative function to defend and further support their beliefs made in the vulnerable function. 
+
+The demonstrative function is easiest function to use (after the base function) yet often occurs sporadically. When one experiences a problem regarding this function, one must correct it as it does play a vital part in a person's worldview. 
+
+See also
+-------------
+
+* :doc:`Function dichotomies <function_dich>`
+* :doc:`Model A <model_a>`
+* :doc:`model_a_gulenko`
+* :doc:`elements`
+* :doc:`information_aspect`
+
+External Links
+-------------------
+
+* `One hypothesis on the possible nature of functions <https://web.archive.org/web/20130602055349/http://www.socionics.us/philosophy/neurology.shtml>`_ by :doc:`Rick DeLong <delong>`.
+
+.. |Ne| image:: Symbol_i.gif
+.. |Ti| image:: Symbol_l.gif
+.. |Ni| image:: Symbol_t.gif
+.. |Te| image:: Symbol_p.gif
+.. |Fe| image:: Symbol_e.gif
+.. |Se| image:: Symbol_f.gif
+.. |Fi| image:: Symbol_r.gif
+.. |Si| image:: Symbol_s.gif

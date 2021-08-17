@@ -1,0 +1,278 @@
+Common biases in socionics
+======================================
+
+One of the challenges in creating objective statements about Socionics
+is that the very nature of the field invites the potential for bias. For
+a simple demonstration, consider someone trying to ascertain another
+persons strong :doc:`IM elements <elements>` by asking "What do you
+think you can do better than everybody else?" The question itself
+reflects a competitive nature, which may not be equally shared by all
+people. Furthermore, it is likely that some types would phrase this
+question differently from others; and similarly, some socionic types
+would have an easier time responding to the question when phrased that
+way.
+
+Categories of potential causes for systemic biases in socionics include
+those shown in the table of contents below.
+
+
+
+Type, quadra, or dichotomy-centric biases
+-----------------------------------------
+
+Work by socionics theorists of a particular type or quadra may be
+subject to point-of-view biases inherent to their own type or
+:doc:`quadra <quadra>`. For example, because :doc:`Augusta <augusta>` and
+other prominent :doc:`Socionists <socionist>` are from the
+:doc:`Alpha <alpha_quadra>` quadra, their work has sometimes been suspected of
+reflecting an Alpha bias. Likewise, :doc:`Vera Stratievskaya <vera>`'s type descriptions are in turn
+sometimes suspected of reflecting a :doc:`Gamma <gamma_quadra>` bias since her own
+type is :doc:`ESI <ESI>`.
+
+
+
+Alpha-centrism
+~~~~~~~~~~~~~~
+
+An example of possible Alpha bias is that descriptions of |symbol_l.gif|
+and |symbol_i.gif| are often described in what seem to some people to be
+broader, more encompassing terms than the :doc:`IM elements <elements>`
+of :doc:`Gamma <gamma_quadra>`, being the opposing quadra. For example
+|symbol_l.gif| is sometimes described as related to the use of logic and
+understanding, as well as organization, whereas |symbol_p.gif| is often
+described enigmatically as related to "business logic" or random,
+disconnected facts.
+
+
+
+|symbol_i.gif| bias
+~~~~~~~~~~~~~~~~~~~
+
+Similarly, |symbol_i.gif| is often described as relating to ideas,
+insight, and intellectual interest in general, whereas |symbol_t.gif| is
+often described more enigmatically as related to "time." It is very
+likely :doc:`Augusta <augusta>` increased the territory of |symbol_i.gif|
+in comparison to other :doc:`IM elements <elements>` to reflect the most
+outstanding qualities of herself and other :doc:`ILEs <ILE>` around her.
+For example, here are a few lines about leading |symbol_i.gif| from her
+work *The Socion, or Socionics Basics*:
+
+   "When this element is in the leading position, the individual has
+   pronounced cognitive interests. He is constantly studying underlying
+   phenomena, which he is able to communicate to others quite
+   successfully by making complicated things simple. Likes to explain to
+   others his understanding of things. In favorable conditions becomes a
+   scientist or writer"
+   `1 <http://www.socionics.us/works/socion2.shtml>`
+
+The rest of the description is probably objective, but this section
+above would apply to many people of other types with pronounced
+intellectual interests. Over time this bias seems to have weakened in
+Russian socionics, and statements such as Augusta's are now rare among
+publishing socionists. However, in forums and informal discussions they
+are sometimes brought up by amateurs who have picked up the bias from
+socionics literature.
+
+
+
+ILE bias
+~~~~~~~~
+
+The :doc:`ILE <ILE>` bias comes from :doc:`Augusta <augusta>` herself and is
+closely related to the one above. According to Augusta's original
+conception of type roles, :doc:`ILEs <ILE>` were seen as being a type that
+sees the hidden roots of phenomena (supposedly |symbol_i.gif|) and
+arranges them into a system or theory (|symbol_l.gif|). For many years
+:doc:`Augusta <augusta>` and her associates assumed that scientists and
+thinkers who generated new theories were :doc:`ILEs <ILE>` (people like
+Einstein, Bohr,
+Newton, and Darwin). Later,
+she and others seemed to recognize this mistake, but the ILE bias has
+still not been completely undone. Just as "health" does not equate
+exactly to |symbol_s.gif|, "theory" does not equate exactly to
+|symbol_l.gif|, and people of different types may tend to generate
+theories of a slightly different nature.
+
+
+
+Intuitive bias
+~~~~~~~~~~~~~~
+
+In popular socionics, intellectual inquisitiveness and a focus on "the
+big picture" is often associated with :doc:`intuition <sensing_intuition>`, while
+:doc:`sensing <sensing_intuition>` is associated with a "focus on details" or a
+preoccupation with "the here and now." While such a division may appear
+to be true for many or most people, intellectual sensers may not
+identify with the image presented by some descriptions of
+:doc:`sensing <sensing_intuition>`. Such popular descriptions add attributes shared
+by most or all highly :doc:`intelligent <intelligence>` people to the
+"intuitive" category, leading to possible systematic :doc:`typing <diagnosis>`
+errors.
+
+
+
+Misinterpreting the behavior of other types
+-------------------------------------------
+
+This category is similar to type- or quadra-related bias. However, here,
+the issue is that in describing a given type, one may notice behaviors
+that appear foreign. Hence, one's description of a given type may
+reflect how odd or mysterious that type seems to oneself.
+
+**Examples** One possible example is the common assertion that ILIs are
+predisposed against new ideas because of their being new. A number of
+factors may create this impression from the perspective of other types,
+such as that ILIs may:
+
+-  View criticism as being an important form of contribution, which may
+   have the effect of making it seem that they don't like the idea
+   they're criticizing
+-  Tend not to display enthusiasm to the degree of other types (because
+   of :ref:`subdued <valued>` :doc:`Fe <Fe>`)
+-  Not want their primary role to be in the area of practical
+   implementation, including implementation of other people's ideas
+-  Take too little initiative in promoting their own ideas
+-  Be perfectionistic about their own ideas and therefore resentful when
+   people with less honed ideas get more attention for them
+
+A combination of these factors may cause ILIs to seem predisposed
+against new ideas when that may not necessarily be the case.
+
+
+
+National and cultural biases
+----------------------------
+
+Cultural differences in overall demeanor, norms, and the ways people
+express themselves may influence type descriptions.
+
+| **Russian vs. Western views**
+| Competing typologies, such as the :doc:`MBTI <MBTI>` theory, which
+  developed in the U.S. are sometimes described by Russian Socionists as
+  too optimistic, showing too little of the dark side of the various
+  types. In contrast, people from the West may be surprised by the
+  degree to which Socionics types are described as melancholic. This
+  difference may reflect differences in the degree to which people in
+  different cultures tend to express melancholy, morose, pensive
+  characteristics in public--or, on the contrary, the degree to which
+  they are conditioned by their culture to express bright, optimistic
+  qualities. In addition, socionics types's "weaknesses" as perceived by
+  other types, usually reflecting the super-ego functions, are a central
+  part of the socionics conception of types, while :doc:`MBTI <MBTI>`
+  descriptions tend to focus only on each type's "strengths", an
+  approach that Russian socionists tend to see as too "politically
+  correct" and avoiding of a frank discussion of the types.
+
+
+
+Passing on descriptive elements without fully knowing their source
+------------------------------------------------------------------
+
+Many type descriptions contain similar phrases about very specific
+behaviors that have no connection to the position of
+:doc:`functions <functions>` in :doc:`Model A <model_a>`. A famous example is
+a phrase from :doc:`Weisband's <weisband>` early descriptions that
+:doc:`LIEs <LIE>` are "inclined towards alpinism." If these don't reference
+specific studies supporting them, then it becomes very difficult to
+ascertain the validity of such statements. Potentially, an observation
+made on a small number of people may get copied from description to
+description and hence become "standard" in type descriptions (or
+descriptions of other groupings), hence perpetuating a somewhat biased
+understanding. Collective discussion and criticism lessens the frequency
+of these "random" tidbits.
+
+
+
+Associating specific interests and topic areas with types
+---------------------------------------------------------
+
+A kind of bias related to the other categories comes from describing
+types, quadras, and IM elements in terms of specific interests and topic
+areas. For example, a person might associate interest in the arts with
+being an ethical type, interest in pure sciences with being an Alpha NT,
+and interest in applied sciences with being a Gamma NT. While some
+people regard these socionic "stereotypes" as completely valid, others
+point out that they're also inaccurate for a number of people.
+
+One problem with this kind of type-interest linkage is that it fails to
+take into account the roles other IM elements may play within in a
+particular interest. For example, it is commonly suggested that an
+interest in health is related to |symbol_s.gif|. However, when one
+thinks of the breadth of activities that may be related to health, it
+becomes apparent that many different functions might be involved:
+
+-  Gathering and analyzing the latest research on nutrition
+-  Predicting global trends related to world health
+-  Coming up with innovative solutions to health problems
+-  Developing formulas for maintaining good health
+-  Fostering relationships for good psychological health
+-  Using spiritual or emotional means to influence physiological health
+
+By considering the breadth of what's involved in "health," it becomes
+clear that more IM elements than |symbol_s.gif| may be involved.
+
+
+
+Describing socionic categories using language that is foreign to that category
+------------------------------------------------------------------------------
+
+The authors of :doc:`The Semantics of the Information Aspects <semantic_aspects>` found that many
+existing descriptions of :doc:`information aspects <information_aspect>`
+used language that did not resonate with the aspects themselves. For
+example, many descriptions of |symbol_t.gif| contain the word
+"mysticism," which did not resonate with individuals with |symbol_t.gif|
+as a strong function. "Mysticism" was an external interpretation of the
+interests and behaviors of types with strong |symbol_t.gif|, but was not
+how these types themselves perceived things.
+
+Other examples may be when sensers are described as being "focused only
+on the here and now," or intuiters as being "impractical." The first
+sounds like something an intuitive type would say about sensers, while
+the second sounds like what a sensing type might think about many
+intuiters.
+
+It could be argued that describing Socionics categories from the
+perspective of how those of an opposing category may describe them is
+legitimate, valuable information. The bias comes if this isn't done
+evenly for every category (i.e., if some categories are described from
+an internal viewpoint, and others from a more external viewpoint).
+Research on how people of different categories describe themselves and
+are described by people of other categories, and clearly annotated
+information based on such research, may help in overcoming such bias.
+
+
+
+Over-emphasis on duality and intra-quadra relationships
+-------------------------------------------------------
+
+Because Socionics was developed largely to understand behavior in
+long-term personal relationships, the benefits of certain relationships
+in other settings may be overlooked. For example, the impression is
+created that relations between :doc:`opposing quadras <quadra>`
+are adversarial; however, in many settings these relations may be more
+agreeable than predicted (especially :doc:`Contrary <extinguishment>` and
+:doc:`Super-Ego relations <superego>`). In an atmosphere that
+emphasizes purely intellectual discussion and doesn't require emotional
+or practical support, :doc:`Alpha <alpha_quadra>` and :doc:`Gamma <gamma_quadra>` NT types
+may find a certain complementarity.
+
+:doc:`Duality <duality>` is emphasized in Socionics because it involves
+complementarity at all levels. However, other relationships have their
+own merits.
+
+
+
+External Links
+--------------
+
+`Limitations of
+Socionics <http://socionics.us/intro/limitations.shtml>`_, `Mixed
+Effects of
+Socionics <http://socionics.us/philosophy/mixed_effects.shtml>`_ by
+:doc:`Rick DeLong <delong>`
+
+.. |symbol_l.gif| image:: symbol_l.gif
+.. |symbol_i.gif| image:: symbol_i.gif
+.. |symbol_p.gif| image:: symbol_p.gif
+.. |symbol_t.gif| image:: symbol_t.gif
+.. |symbol_s.gif| image:: symbol_s.gif

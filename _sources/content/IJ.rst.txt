@@ -1,0 +1,78 @@
+IJ temperament
+=======================
+
+The **IJ temperament**, or **balanced-stable temperament**, was
+identified by :doc:`Viktor Gulenko <gulenko>` and includes the four
+:doc:`rational <ration_irration>` :doc:`introverts <extra_intro>` (one in each
+:doc:`quadra <quadra>`): :doc:`LII <LII>`, :doc:`LSI <LSI>`, :doc:`ESI <ESI>`, and
+:doc:`EII <EII>`. Each of these types is also :doc:`static <statics_dynamics>`.
+
+Typical characteristics
+-----------------------
+
+-  calm, balanced and inert
+-  "unflappable"
+-  rigid but not very fast gait
+-  may appear passive-aggressive
+-  usually very stable mood
+-  more reactive than active
+-  little inclination to fidget during long periods of inactivity
+
+IJs are both static and rational, so they see reality as mostly not
+changing and when it does, it's in abrupt "leaps" from one state to
+another. An IJ draws inner stability from a stable reality, especially
+as seen through his :ref:`leading function <leading-func>`. That makes
+him confident that things will probably remain as they are despite what
+he sees as minor disturbances; periods of clear upheaval are very
+disturbing and the individual is anxious that things will "settle down"
+one way or the other soon enough.
+
+As introverts, IJs tend to be calm and relaxed about initiating
+relationships with other people, mostly assuming that others will take
+the initiative, but will be more inclined to try to make sure a
+relationship is maintained once established.
+
+Perception of other temperaments
+--------------------------------
+
+**EP**: IJs see EPs as unreliable, and too unpredictable in their
+impulses and initiatives.
+
+**EJ**: IJs see EJs as pleasantly energetic and willing to take the
+initiative and get things going in a balanced, constant way.
+
+**IP**: IJs see IPs as unreliable and unwilling to take any initiative,
+with too low levels of energy.
+
+
+.. list-table:: Small Groups
+    :header-rows: 0
+    :stub-columns: 1
+
+    * - :doc:`Quadras <quadra>`
+      - :doc:`Alpha <alpha_quadra>`
+      - :doc:`Beta <beta_quadra>`
+      - :doc:`Gamma <gamma_quadra>`
+      - :doc:`Delta <delta_quadra>`
+    * - :doc:`Clubs <club>`
+      - :doc:`Researchers <club_researchers>`
+      - :doc:`Socials <club_socials>`
+      - :doc:`Pragmatists <club_pragmatists>`
+      - :doc:`Humanitarians <club_humanitarians>`
+    * - :doc:`Temperaments <temperament>`
+      - :doc:`EP <EP>`
+      - :doc:`EJ <EJ>`
+      - :doc:`IP <IP>`
+      - :doc:`IJ <IJ>`
+    * - :doc:`Communication Styles <communication_styles>`
+      - Business-like
+      - Passionate
+      - Cold-blooded
+      - Sincere
+    * - :doc:`Romance Styles <romance_styles>`
+      - :doc:`Aggressor <aggressor>`
+      - :doc:`Victim <victim>`
+      - :doc:`Caring <caring>`
+      - :doc:`Childlike <childlike>`
+
+

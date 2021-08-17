@@ -1,0 +1,420 @@
+Intertype relations
+==============================
+
+Intertype relations refer to the patterns of functional interaction between two socionic types. There are 14 such patterns -- 12 symmetric and 2 asymmetric. 
+
+
+
+List of Intertype Relations
+---------------------------------------
+
+In English-language socionics, there are a number of competing terms for intertype relations. The ones that are the best translations from the most common Russian versions are listed first. It should be noted that just as with :doc:`Reinin dichotomies <reinin_dich>`, the names of these intertype interactions should not be translated literally. 
+
+**Symmertric interactions**:
+
+* :doc:`Activity / Activation <activation>`
+* :doc:`Business / Look-a-Like / Cooperation <business>`
+* :doc:`Conflict <conflict>`
+* :doc:`Duality <duality>`
+* :doc:`Extinguishment / Contrary <extinguishment>`
+* :doc:`Identity <identity>`
+* :doc:`Kindred / Comparative / Congenerity <kindred>`
+* :doc:`Mirage / Illusionary <illusionary>`
+* :doc:`Mirror <mirror>`
+* :doc:`Semi-duality / Partial duality <semi_dual>`
+* :doc:`Quasi-identity <quasi_identity>`
+* :doc:`Super-ego <superego>`
+
+**Asymmetric interactions**:
+
+* :doc:`Benefit / Request / Social Request or Order <benefit>`
+* :doc:`Supervision / Revision / Audit <supervision>`
+* :doc:`Reverse Benefit and Supervision <reverse_relations>`
+
+Complete Table
+------------------------------
+
+.. list-table:: Table of Intertype Relations
+    :header-rows: 1
+    :stub-columns: 1
+
+    * - 
+      - ILE
+      - SEI
+      - ESE
+      - LII
+      - EIE
+      - LSI
+      - SLE
+      - IEI
+      - SEE
+      - ILI
+      - LIE
+      - ESI
+      - LSE
+      - EII
+      - IEE
+      - SLI
+    * - ILE
+      - |ide|
+      - |dual|
+      - |act|
+      - |mir|
+      - |+ben|
+      - |+sup|
+      - |bus|
+      - |mrg|
+      - |sego|
+      - |ext|
+      - |qua|
+      - |conf|
+      - |ben+|
+      - |sup+|
+      - |kin|
+      - |sdu|
+    * - SEI
+      - |dual|
+      - |ide|
+      - |mir|
+      - |act|
+      - |+sup|
+      - |+ben|
+      - |mrg|
+      - |bus|
+      - |ext|
+      - |sego|
+      - |conf|
+      - |qua|
+      - |sup+|
+      - |ben+|
+      - |sdu|
+      - |kin|
+    * - ESE
+      - |act|
+      - |mir|
+      - |ide|
+      - |dual|
+      - |kin|
+      - |sdu|
+      - |ben+|
+      - |sup+|
+      - |qua|
+      - |conf|
+      - |sego|
+      - |ext|
+      - |bus|
+      - |mrg|
+      - |+ben|
+      - |+sup|
+    * - LII
+      - |mir|
+      - |act|
+      - |dual|
+      - |ide|
+      - |sdu|
+      - |kin|
+      - |sup+|
+      - |ben+|
+      - |conf|
+      - |qua|
+      - |ext|
+      - |sego|
+      - |mrg|
+      - |bus|
+      - |+sup|
+      - |+ben|
+    * - EIE
+      - |ben+|
+      - |sup+|
+      - |kin|
+      - |sdu|
+      - |ide|
+      - |dual|
+      - |act|
+      - |mir|
+      - |+ben|
+      - |+sup|
+      - |bus|
+      - |mrg|
+      - |sego|
+      - |ext|
+      - |qua|
+      - |conf|
+    * - LSI
+      - |sup+|
+      - |ben+|
+      - |sdu|
+      - |kin|
+      - |dual|
+      - |ide|
+      - |mir|
+      - |act|
+      - |+sup|
+      - |+ben|
+      - |mrg|
+      - |bus|
+      - |ext|
+      - |sego|
+      - |conf|
+      - |qua|
+    * - SLE
+      - |bus|
+      - |mrg|
+      - |+ben|
+      - |+sup|
+      - |act|
+      - |mir|
+      - |ide|
+      - |dual|
+      - |kin|
+      - |sdu|
+      - |ben+|
+      - |sup+|
+      - |qua|
+      - |conf|
+      - |sego|
+      - |ext|
+    * - IEI
+      - |mrg|
+      - |bus|
+      - |+sup|
+      - |+ben|
+      - |mir|
+      - |act|
+      - |dual|
+      - |ide|
+      - |sdu|
+      - |kin|
+      - |sup+|
+      - |ben+|
+      - |conf|
+      - |qua|
+      - |ext|
+      - |sego|
+    * - SEE
+      - |sego|
+      - |ext|
+      - |qua|
+      - |conf|
+      - |ben+|
+      - |sup+|
+      - |kin|
+      - |sdu|
+      - |ide|
+      - |dual|
+      - |act|
+      - |mir|
+      - |+ben|
+      - |+sup|
+      - |bus|
+      - |mrg|
+    * - ILI
+      - |ext|
+      - |sego|
+      - |conf|
+      - |qua|
+      - |sup+|
+      - |ben+|
+      - |sdu|
+      - |kin|
+      - |dual|
+      - |ide|
+      - |mir|
+      - |act|
+      - |+sup|
+      - |+ben|
+      - |mrg|
+      - |bus|
+    * - LIE
+      - |qua|
+      - |conf|
+      - |sego|
+      - |ext|
+      - |bus|
+      - |mrg|
+      - |+ben|
+      - |+sup|
+      - |act|
+      - |mir|
+      - |ide|
+      - |dual|
+      - |kin|
+      - |sdu|
+      - |ben+|
+      - |sup+|
+    * - ESI
+      - |conf|
+      - |qua|
+      - |ext|
+      - |sego|
+      - |mrg|
+      - |bus|
+      - |+sup|
+      - |+ben|
+      - |mir|
+      - |act|
+      - |dual|
+      - |ide|
+      - |sdu|
+      - |kin|
+      - |sup+|
+      - |ben+|
+    * - LSE
+      - |+ben|
+      - |+sup|
+      - |bus|
+      - |mrg|
+      - |sego|
+      - |ext|
+      - |qua|
+      - |conf|
+      - |ben+|
+      - |sup+|
+      - |kin|
+      - |sdu|
+      - |ide|
+      - |dual|
+      - |act|
+      - |mir|
+    * - EII
+      - |+sup|
+      - |+ben|
+      - |mrg|
+      - |bus|
+      - |ext|
+      - |sego|
+      - |conf|
+      - |qua|
+      - |sup+|
+      - |ben+|
+      - |sdu|
+      - |kin|
+      - |dual|
+      - |ide|
+      - |mir|
+      - |act|
+    * - IEE
+      - |kin|
+      - |sdu|
+      - |ben+|
+      - |sup+|
+      - |qua|
+      - |conf|
+      - |sego|
+      - |ext|
+      - |bus|
+      - |mrg|
+      - |+ben|
+      - |+sup|
+      - |act|
+      - |mir|
+      - |ide|
+      - |dual|
+    * - SLI
+      - |sdu|
+      - |kin|
+      - |sup+|
+      - |ben+|
+      - |conf|
+      - |qua|
+      - |ext|
+      - |sego|
+      - |mrg|
+      - |bus|
+      - |+sup|
+      - |+ben|
+      - |mir|
+      - |act|
+      - |dual|
+      - |ide|
+
+* +Sup: Type in the left column is Supervisor to the type at the top of the table.
+* Sup+: Type at the top of the table is Supervisor to type on the left. 
+* +Ben: Type in the left column is Benefactor to the type at the top of the table.
+* Ben+: Type at the top of the table is Benefactor to type on the left. 
+
+Categories of relations
+----------------------------------
+
+**Symmetric relations** relations refer to intertype interaction where the functions of Person 1 map to those of Person 2 *the same way* that the functions of Person 2 map to Person 1. Example: :doc:`ESTp <SLE>` has Ni and Te, which are :doc:`INTp <ILI>`'s ego elements, in the 5th and 8th functions, respectively. Likewise, INTp has Se and Ti, which are ESTp's ego elements, in the 5th and 8th functions, respectively. Therefore, the INTp and ESTp have a symmetrical relationship, and they are :doc:`Semi-Duals <semi_dual>`. 
+
+**Asymmetric relations** relations refer to intertype interaction where the functions of Person 1 map to those of Person 2 *differently* from the way that the functions of Person 2 map to Person 1. Example: :doc:`INFj <EII>` has Si and Fe, which are :doc:`ISFp <SEI>`'s ego elements, in the 6th and 7th functions, respectively. However, ISFp has Fi and Ne in the 8th and 5th functions. Therefore they have an asymmetrical relationship where they exert a different, non-symmetric influence on another another. The INFj is a :doc:`Benefactor <benefit>` to an ISFp, but an ISFp is a :doc:`Beneficiary <benefit>` to an INFj. 
+
+Further Links
+-------------------------
+
+* `Socionics Research Institute <http://en.socionics.ru/index.php?option=com_content&view=article&id=262&Itemid=192>`_
+* `the16types.info <http://www.the16types.info/vbulletin/list.php/category/28-Intertype-Relations>`_
+* `Socionics.us <https://web.archive.org/web/20150306212724/http://rickdelong.com/socionics/relations.shtml>`_
+* `Socionics.com <http://www.socionics.com/rel/relcht.htm>`_
+* :doc:`intertype_filatova`
+
+Relations vs. Relationships
+-------------------------------------------
+
+It is common for people to get into the habit of equating intertype interaction (or 'relations,' as it is usually called) with the more everyday concept of relationship. Here is what :doc:`Aleksandr Bukalov <bukalov>` and Olga Karpenko of the :doc:`International Institute of Socionics <IIS>` had to say about the difference between information interaction between types and relationships:
+
+    A.B. - Anyway, Aushra wrote several more works, such as The Socion, The Theory of Intertype Relations, and lengthy descriptions of several types, where she examined in detail how the information model of the psyche works for each type, how intertype relations work and how they manifest themselves — or, to be precise, "intertype information interaction," out of which, on a subjective level, arise relationships. That's how we've formulated it in recent years. 
+
+    O.K. - In order to separate relationships from their information component. 
+
+    A.B. - Yes, information interaction and how relationships feel subjectively are not exactly the same. Aushra mixed the two, but that's natural. `[1] <http://www.socionics.us/interviews/bukalov.shtml>`_ 
+
+Many socionics hobbyists eventually come to realization that congruence of TIMs, or types of information metabolism, does not translate to developing a close intimate relationships or romantic feelings for another person. The table of intertype relations can be applied to different types of social interaction.
+
+Compatibility of types of information metabolism (i.e. socionics types) also does not prevent people form ever having arguments or conflicting with one another. Having compatible types of information metabolism merely increases the chances of both people being receptive to communication with one another. Many also report that even if they enter into an argument with someone of congruent TIM they feel like they have a better understanding of where the other person is coming from than when they argue with someone of less compatible TIM. 
+
+Easy to remember table
+---------------------------------
+
+The intertype relations are easier to remember by looking at :doc:`Jungian dichotomies <jungian>`, using the :doc:`four-letter code <type_names>`.
+
+Examples:
+
+* Duals share only the fourth Jungian dichotomy: 0001
+* Mirrors share only the second and third Jungian dichotomy: 0110 
+
+=================================== ==========
+relation                            conformity
+=================================== ==========
+duality                             0001
+identity                            1111
+activity                            1000
+mirror                              0110
+super-ego                           1001
+quasi-identical                     1110
+contrary                            0111
+conflict                            0000
+semi-duality (rational)             0101
+semi-duality (irrational)           0011
+comparative (rational)              1011
+comparative (irrational)            1101
+illusionary (rational)              0011
+illusionary (irrational)            0101
+look-a-like (rational)              1101
+look-a-like (irrational)            1011
+supervision (rational supervisor)   0100
+supervision (irrational supervisor) 0010
+benefit (rational benefactor)       1010
+benefit (irrational benefactor)     1100
+=================================== ==========
+
+
+
+
+.. |ide| replace:: :doc:`Ide. <identity>`
+.. |dual| replace:: :doc:`Dual <duality>`
+.. |act| replace:: :doc:`Act. <activation>`
+.. |mir| replace:: :doc:`Mirr <mirror>`
+.. |+ben| replace:: :doc:`+Ben <benefit>`
+.. |+sup| replace:: :doc:`+Sup <supervision>`
+.. |bus| replace:: :doc:`Bus. <business>`
+.. |mrg| replace:: :doc:`Mrg. <illusionary>`
+.. |sego| replace:: :doc:`Sego <superego>`
+.. |ext| replace:: :doc:`Ext. <extinguishment>`
+.. |qua| replace:: :doc:`Qua. <quasi_identity>`
+.. |conf| replace:: :doc:`Conf <conflict>`
+.. |ben+| replace:: :doc:`Ben+ <benefit>`
+.. |sup+| replace:: :doc:`Sup+ <supervision>`
+.. |kin| replace:: :doc:`Kin. <kindred>`
+.. |sdu| replace:: :doc:`S-d. <semi_dual>`

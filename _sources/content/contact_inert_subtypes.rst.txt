@@ -1,0 +1,420 @@
+Contact and Inert Subtypes by Meged and Ovcharov
+========================================================
+
+This article serves as the theoretical basis for the widely used Meged
+and Ovcharov's subtype descriptions. It was originally published as
+*"The Concept of Energy Exchanges in Model "A" and Construction of Two
+Main Vertical Subtypes"* by :doc:`Valentina Meged <meged_ovcharov>` and
+:doc:`Anatoliy Ovcharov <meged_ovcharov>`.
+
+
+Introduction
+------------
+
+Practical experience in socionics consulting provided us with an
+opportunity to notice and track certain patterns in external traits and
+particularities of behavior not only between different sociotypes, but
+also among representatives of the same type. These differences extend to
+external appearance, to manners of behavior, and to style of
+conversation. Their variability is large, but two main trends in
+differences between representative of same type can be noticed. Some
+seem more active, initiative-taking, and confident in themselves
+(representatives of active temperaments - sanguine and choleric), while
+others seem more inert, passive, and indecisive (representatives of
+passive temperaments - melancholic and phlegmatic).
+
+We have asked ourselves this question: in what way are these
+temperaments related to the specifics of functioning of EIM model?
+[translator's note: "EIM" acronym stands for energy-informational
+metabolism]. This wasn't difficult to guess. In the circular model "A",
+besides four horizontal blocks there are also two vertical blocks: the
+first vertical block is
+:ref:`inert <contact>` - it gradually
+accumulates information and reluctantly spends it, thus it is socially
+more passive; the second block is
+:ref:`contacting <contact>` - it actively
+expends information and interacts with the environment more intensively.
+
+This draws a clear analogy between temperaments and functioning of
+vertical blocks of Model "A". It means that the elements of EIM located
+in different vertical blocks should also be differently strengthened for
+representatives of different temperaments. Evidently, this determines
+the most important differences between people of the same sociotype but
+different temperaments.
+
+
+
+Relating EIM Model to Neurological Processes
+--------------------------------------------
+
+We could further support this hypothesis by making a connection between
+the particularities of energy exchange of EIM model and the dynamic of
+neurological processes in cerebral cortex that have been described by
+neurophysiologists I. Sechenov and I. Pavlov.
+
+Undoubtedly, that the process called information metabolism is the
+result of higher cognitive activity in human beings. Conditioned and
+unconditioned reflexes described by I. Pavlov find a reflection in
+functions of mental and vital rings of model of EIM. Our goal was to use
+the mechanism of these cognitive processes to analyze the
+characteristics of energy-informational exchanges between socionics
+functions of model "A".
+
+| It is known that the activity of the cerebral cortex presents a
+  complex mosaic of processes of excitation and inhibition. These
+  processes are subject to two fundamental laws of neurophysiology:
+| - Law of irradiation and concentration of energy.
+| - Law of reciprocal induction.
+
+The law of irradiation and concentration of energy, that affects the
+processes of excitation and inhibition, shows itself as follows. When,
+under the influence of some stimulus, there appears excitation of some
+part of the brain, it does not remain in fixed in place but radiates
+(spreads) to other parts of the cerebral cortex. This is the irradiation
+of excitation. Example: being engaged in a conflict, a person responds
+by using higher intonation and gestures. At the same time, there appears
+another process - inhibition, which has a protective function. It
+restricts the process and and directs it to a certain limit. This is the
+concentration of the excitation. The rate of these processes depends the
+type of the nervous system i.e. on person's temperament.
+
+The law of reciprocal induction of excitation and inhibition processes
+can be described as follows. If, in any part of the brain, there appears
+a process of excitation, then, in the neighboring regions of the brain,
+there will appear the process of inhibition. This is the phenomenon of
+negative induction. Example: appearance of a sudden sound or bright
+light will distract a person from work. Similarly, there also exists
+positive induction. If in any part of the brain there appears a process
+of inhibition, the process of excitation will develop in the neighboring
+regions of the brain; an example of this is having dreams.
+
+All of this suggests that the working of any element of EIM does not
+occur in isolation but evokes certain reactions from other elements of
+the EIM.
+
+Moving on from dynamics of nervous processes to workings of model of
+EIM, let us recall the main conclusions of C. Jung about mutual
+exclusion in interaction of opposite functions of the human psyche:
+thinking and feeling, sensation and intuition.
+
+
+
+Construction of Vertical Model
+------------------------------
+
+Now, let's take a look at an example of some circular model of EIM - for
+example :doc:`Model A <model_a>` of type IEE - and all of these patterns
+and conclusions will become evident in the construction of two major
+vertical subtypes.
+
+**TIM IEE (ENFp)**
+
++----------------------------------+----------------------------------+
+| Inert functions                  | Contact functions                |
+|                                  |                                  |
+|                                  |                                  |
++----------------------------------+----------------------------------+
+| 1st Program function - Ne        | 2nd Creative function - Fi       |
++----------------------------------+----------------------------------+
+| 4th Painful function - Ti        | 3rd Role function - Se           |
++----------------------------------+----------------------------------+
+| 6th Activating function -Te      | 5th Suggestive function - Si     |
++----------------------------------+----------------------------------+
+| 7th Ignoring function -Ni        | 8th Demonstrative function - Fe  |
++----------------------------------+----------------------------------+
+|                                  |                                  |
++----------------------------------+----------------------------------+
+
+| The four functions on the left hand side comprise the **Inert Block**
+  and the four functions on the right are called the **Contact Block**.
+
+
+
+Distribution of Energy Potential Across the Model
+-------------------------------------------------
+
+We will be using signs (+) and (-) to illustrate the relative
+distribution of the energy potential between the functions of the
+different subtypes. These plus and minus signs are not related in any
+manner with the signs of functions used by Victor Gulenko, as the
+purpose of our analysis in this article is completely different.
+
+In our analysis, the sign (+) represents augmentation, an increase in
+energy potential, while the sign (-) represents its decrease.
+
+Type IEE, due to :ref:`"program" function <leading-func>` of
+intuition of possibilities, is discerning of undisclosed abilities of
+people. In presence of an object bearing exceptional qualities, this
+function receives a (+) - an increase in energy potential. The more this
+function is accentuated in the individual - the stronger the increase in
+energy potential. This subtype, however, has less pronounced displays of
+affection than the second subtype, which is accentuated with respect to
+the ethics of relations (Fi). Thus we assign (-) to ethics of relations
+for the first subtype. The second subtype, to the contrary, will more
+frequently manifest the ethics of relations in contact with people than
+intuition of their latent potential. Intuition of potential of this
+subtype will be assigned a (-) sign, while ethics of relations - a (+)
+sign.
+
+Thus, the first subtype of IEE will have greater disposition towards
+melancholic or phlegmatic temperamental states, and a relative
+strengthening with the (+) sign of intuition of possibilities compared
+to the second subtype, which has stronger expression of sanguine or
+choleric temperamental states.
+
+In accordance to the rules mentioned above, the process of excitation
+coming from first or second function will extend further across the
+entire model, changing the energy potential of the remaining functions.
+Some functions will become more strongly excited and acquire the (+)
+sign, others will experience certain inhibition and a decrease in the
+energy potential, acquiring the (-) sign.
+
+Carl Jung wrote that for a logical type ethical functions become
+suppressed, and that an unconscious grouping of functions arises in
+accordance to the conscious contents of functions, for example, the
+unconsciousness of a sensing type manifests primarily as a suppression
+of intuition. From C. Jung's deductions and conclusions about the
+relationships between functions of mental and vital rings (conscious and
+unconscious - by Jung), it becomes evident that with excitation of an
+ethical function there is suppression of logical one, and with
+excitation of sensing function there is suppression of an intuitive one.
+This happens not only on mental, but also in vital level of EIM model.
+If, for example, intuition is strengthened, it is strengthened in both
+orientations - introverted and extroverted, which also applies to other
+functions. Thus, with excitation of intuition of possibilities (Ne) of
+IEE model, the intuition of time (Ni) is also strengthened, and
+simultaneously both sensing functions (Se and Si) become inhibited. With
+excitation of ethics of relationships (Fi) there is a concurrent
+suppression of structural and business logic (Ti and Te).
+
+Carl Jung has also noted that logical functions can be easily combined
+with intuitive ones but never with the feeling functions. Intuition,
+same as sensing, is not in opposition to logic, as is feeling that
+competes with logic. Thus, the excitation of intuitive functions in our
+example of type IEE correspondingly slows down the functions of ethics
+of relations and ethics of emotions (Fi and Fe) and, respectively,
+excites both functions of structural and business logic (Ti and Te).
+
+
+
+Construction of Contact and Inert Subtypes
+------------------------------------------
+
+Now let's distribute (+) and (-) signs over the functions of EIM model
+in correspondence to the conclusions made above concerning the
+distributions of energy potential in construction of two vertical
+subtypes. These signs of energy potential represent the processes of
+excitation and inhibition in the cerebral cortex in the process of
+formation of active or passive temperaments, which, in turn, involve a
+relative strengthening of either first or second function of EIM model,
+and subsequent strengthening of all functions of first or second
+vertical block of the model, which is clearly visible in the following
+tables:
+
+**Ne Subtype of TIM IEE - Inert subtype**
+
++----------------------------------+----------------------------------+
+| Inert functions                  | Contact functions                |
+|                                  |                                  |
+|                                  |                                  |
++----------------------------------+----------------------------------+
+| (+)Ne - 1st program function     | (-)Fi - 2nd creative function    |
++----------------------------------+----------------------------------+
+| (+)Ti - 4th painful function     | (-)Se - 3rd role function        |
++----------------------------------+----------------------------------+
+| (+)Te - 6th painful function     | (-)Si - 5th suggestive function  |
++----------------------------------+----------------------------------+
+| (+)Ni - 7th ignoring function    | (-)Fe - 8th demonstrative        |
+|                                  | function                         |
++----------------------------------+----------------------------------+
+|                                  |                                  |
++----------------------------------+----------------------------------+
+
+**Fi Subtype of TIM IEE - Contact subtype**
+
++----------------------------------+----------------------------------+
+| Inert functions                  | Contact functions                |
+|                                  |                                  |
+|                                  |                                  |
++----------------------------------+----------------------------------+
+| (-)Ne - 1st program function     | (+)Fi - 2nd creative function    |
++----------------------------------+----------------------------------+
+| (-)Ti - 4th painful function     | (+)Se - 3rd role function        |
++----------------------------------+----------------------------------+
+| (-)Te - 6th painful function     | (+)Si - 5th suggestive function  |
++----------------------------------+----------------------------------+
+| (-)Ni - 7th ignoring function    | (+)Fe - 8th demonstrative        |
+|                                  | function                         |
++----------------------------------+----------------------------------+
+|                                  |                                  |
++----------------------------------+----------------------------------+
+
+These tables illustrate what was said above, that upon excitation of
+first function, i.e. acquisition of positive potential, all the other
+functions of the left (inert) vertical block acquire the same positive
+potential. With the strengthening of the second function correspondingly
+follows strengthening of all functions of the right (contact) vertical
+block. On basis of this, we can talk about existence of intuitive or
+ethical, sensing or logical subtypes of any type and consider these
+subtypes to be vertical, i.e. associates with the respective functions
+within the vertical blocks of the model of EIM.
+
+On our theory of vertical subtypes, another theory of professional
+orientation of subtypes can be formulated. As is known, the functions of
+ethics and intuition, united into the same "Ego" block, according to V.
+Gulenko correspond to predisposition towards humanitarian professional
+activities, the functions of sensing and logic correspond to management
+and production professional activities, sensing and ethics - to social
+sphere of activity, intuition and logic - to research sphere of
+activity. The career predispositions of main socionics types can be
+easily determined by looking at the horizontal blocks of their
+functional models. To determine the influence of subtypes, one needs to
+take a look at vertical blocks.
+
+For example, intuitive subtype of IEE is inclined towards humanitarian
+professional activity and has a "subtype" predisposition towards
+research. This means that since in the vertical block both intuitive and
+logical functions are strengthened, this person may choose a
+professional field combines scientific and humanitarian professional
+activities, and be quite successful in this. The ethical subtype of IEE,
+due to relative strengthening of ethical and sensing functions in the
+vertical block of EIM model, more successfully realizes him/herself in
+fields of activity that combine humanitarian and social work. In the
+same manner, all other sociotypes can be analyzed.
+
+Based on our theory of vertical subtypes, we have also done empirical
+studies of the visual and behavioral characteristics of 32 subtypes and
+compiled their characterizing profiles [ref. 6].
+
+Our observations indicate that within each of the 32 subtypes we can
+further differentiate 8 variations that are associated with enhancement
+of some elements of EIM, but not related to temperaments rather other
+physiological characteristics of the human central nervous system, which
+also find a reflection in the model of EIM. This is covered in our next
+article "Bioaccentuation of type". Thus, creating a bridge between
+psychology, physiology and socionics, we have noted that this is not the
+limit to variability in individuals of the same type. We invite all our
+readers to follow this promising and exciting path towards new and
+useful discoveries.
+
+References
+----------
+
+#. Augustinavichiute A. "Model of information metabolism" Lithuania,
+   1980.
+#. Gulenko V. "Signs of Socionics functions" - "16", No 2, 1990.
+#. Gulenko V.V., Molodtsov A.V. "Foundations of socio-analysis" - K.,
+   1991
+#. Meged V.V., Ovcharov A.A. "The concept of energy exchanges in model
+   "A" and the construction of subtypes" Socionics, mentology and
+   psychology of personality. MIS 1, 1994.
+#. C. Jung "Psychological Types". M., 1992.
+
+
+
+Additional notes
+----------------
+
+Characterization of 32 vertical subtypes compiled by V. Meged and A.
+Ovcharov:
+
+.. list-table:: 32 vertical subtypes
+    :header-rows: 1
+    :stub-columns: 1
+
+    * - 
+      - strengthened
+      - shielded
+      - attenuated
+      - sensitive
+      - approx.
+    * - Ne-LII
+      - Ne, Fe
+      - Ni, Fi
+      - Ti, Si
+      - Te, Se
+      - β NFs
+    * - Ti-LII
+      - Ti, Si
+      - Te, Se
+      - Ne, Fe
+      - Ni, Fi
+      - δ STs
+    * - Ne-EII
+      - Ne, Te
+      - Ni, Ti
+      - Fi, Si
+      - Fe, Se
+      - γ NTs
+    * - Fi-EII
+      - Fi, Si
+      - Fe, Se
+      - Ne, Te
+      - Ni, Ti
+      - α SFs
+    * - Ni-IEI
+      - Ni, Ti
+      - Ne, Te
+      - Fe, Se
+      - Fi, Si
+      - α NT
+    * - Fe-IEI
+      - Fe, Se
+      - Fi, Si
+      - Ni, Ti
+      - Ne, Te
+      - γ SFs
+    * - Ni-ILI
+      - Ni, Fi
+      - Ne, Fe
+      - Te, Se
+      - Ti, Si
+      - δ NFs
+    * - Te-ILI
+      - Te, Se
+      - Ti, Si
+      - Ni, Fi
+      - Ne, Fe
+      - β STs
+    * - Ne-ILE
+      - Ne, Fe
+      - Ni, Fi
+      - Ti, Si
+      - Te, Se
+      - β NFs
+    * - Ti-ILE
+      - Ti, Si
+      - Te, Se
+      - Ne, Fe
+      - Ni, Fi
+      - δ STs
+    * - Ne-IEE
+      - Ne, Te
+      - Ni, Ti
+      - Fi, Si
+      - Fe, Se
+      - γ NT
+    * - Fi-IEE
+      - Fi, Si
+      - Fe, Se
+      - Ne, Te
+      - Ni, Ti
+      - α SFs
+    * - Fi-ESI
+      - Fi, Ni
+      - Fe, Ne
+      - Se, Te
+      - Si, Ti
+      - β NFs
+    * - Se-ESI
+      - Se, Te
+      - Si, Ti
+      - Fi, Ni
+      - Fe, Ne
+      - δ STs
+
+
+See also
+--------
+
+-  :doc:`Subtyping Schemes <subtype>`

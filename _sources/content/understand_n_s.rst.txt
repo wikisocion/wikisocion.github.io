@@ -1,0 +1,329 @@
+On the Correct Understanding of Dichotomy Intuition-Sensing by Trehov and Tsypin
+=======================================================================================
+
+| Written by :doc:`A. Trehov <trehov>` and :doc:`P. Tsypin <tsypin>` from School of Structural Socionics.
+| `Original text. <http://real-socionics.ru/page18.html>`__
+
+
+
+
+
+Review of Definitions and Confusions
+------------------------------------
+
+In this section, we will be discussing several definitions of
+intuitive-sensing dichotomy encountered in literature.
+
+   "Intuition  an abstract perception of the world in manner of
+   holistic images and pictures of fantasy" [4, p 186.].
+
+   "Sensing  a function of concrete perception of the world through the
+   senses" [4, p 187.].
+
+According to this definition, it turns out that intuitive types are
+either born with "underdeveloped" senses, or don't know how to use them.
+Both interpretations explicitly discriminate against people of intuitive
+types, especially considering their purely "abstract perception of the
+world" and irresistible tendency to draw "pictures in their fantasy".
+From these definitions it appears that an intuitive type  is a person
+who receives weak or distorted signals from their senses (he poorly
+sees, hears, smells, touches), and, in addition to that, he further
+obscures his perception of the surrounding world by continuous
+groundless fantasizing. So here it turns out that an intuitive type  is
+a disabled person, from a physical as well as from a mental point of
+view.
+
+   "Sensing type  perceives the world concretely, living in the "here
+   and now", values comfort, knows how to create it, gravitates to
+   practical activities, prefers getting results from his work in a
+   material form.
+   Intuitive type  is characterized by a holistic perception of
+   reality, a dreamer and a romantic, an experimenter and a generator of
+   many ideas that are sometimes impracticable. At times he is
+   scattered, and prefers uncertain opportunities to real benefits." [5,
+   \p. 57]
+
+With this definition it turns out that about half of humanity "doesn't
+value comfort". Of course it isn't like this. Intuitive types are people
+same as sensing types, and also love to enjoy comfort  in the
+acceptable to each manner. Moreover, frequently enough one encounters
+people of sensing types who lead a spartan way of life, who love
+difficult treks and hikes, and other "testing" experiences. They tend to
+think that the traditional "bourgeois", "European comfort" is for people
+who are too weak and tender.
+
+Further, it is unclear why intuitive types generate unfeasible ideas?
+What is the inexhaustible source of their "idiocy"? It would have made
+more sense to say that intuitive types, by virtue of their natural
+orientation at the control of time parameters, tend to generate ideas
+for the future, that are intended for realization after a certain period
+of time. However, this is also not the case, as the ideas of intuitive
+types are often oriented at the present situation, for example, in many
+companies people of intuitive types work successfully in marketing (and
+as managers in other specializations). TIMs LIE, IEE, IEI can instantly
+provide a number of solutions to a difficult situation. Without their
+ideas and methods some modern businesses and companies would struggle to
+succeed.
+
+Finally, who is this person who prefers "vague, unpredictable
+possibilities" to "real concrete benefits"? Are there people who
+voluntarily refuse real rewards and income? Such people are very hard to
+find, both among sensing types and among intuitive types. Even the most
+"hopeless" intuitive type is not going to give up the real benefit that
+(with varying degrees of probability) is coming into his hands. Another
+matter that the potential and possibilities of future benefits are
+usually of interest to him, and he is always ready to consider or
+discuss his financial plans or hopes at least. But this doesn't prevent
+the intuitive type from earning money in the present. It should be
+noted, however, that intuitive types, by virtue of their fundamental
+orientation at time, are more patient with waiting to receive their
+rewards than sensing types. Intuitive types are more strategic in this
+sense, ready to wait until they recoup their expenses and until measures
+initiated by them become actualized.
+
+   "In accordance with the direction of their activities - practical and
+   theoretical - people can be distinguished by their belonging to one
+   of the other pole of the scale "sensing - intuition."
+   Sensing types - are people of concrete sensations. They have
+   well-developed spatial orientation, thanks to well-developed senses
+   (sight, hearing, taste, smell, touch). Sensing types are very
+   practical. They can't do without physical activity and movement, and
+   are able to do many things with their own hands. They are very
+   attentive to their appearance, health, comfort, and nutrition.
+   Motivated primarily by material incentives. If you act more than you
+   think and meditate, you are a sensing type.
+   " ... Intuitive types - are people of imagination and fantasy. They
+   live not in the present day as by the future prospects. They lack in
+   practical sense and groundedness, and are more interested in abstract
+   problems than the actual state of affairs. They are often motivated
+   by interesting engagements and extraordinary people than material
+   gains and immediate rewards. Often, they don't pay enough attention
+   to their health and appearance. If you think more than you act, you
+   are an intuitive type "[3, p. 20].
+
+This definition is quite biased in our view. First of all, people of
+intuitive types are able to experience "concrete sensations" and process
+information that comes from their senses just as well as people of
+sensing types. Next, spatial orientation (for example, in a city) is
+functionally dependent on an entire set of factors: on sensing of the
+surrounding space ("near / far" and so forth) - Se, on ability to orient
+by maps and schematic drawings - Ti, on ability to create
+representations of an area based on visual impressions and maps - Ne,
+and so on. It is also notable that representatives of very different
+types complain about their "topographical cretinism", including TIMs
+ESE, SEE, SLI, while people of other types are able to successfully
+navigate an area not having any sensing aspects in their ego block.
+
+Further, according to this description, it turns out that intuitive
+types "can do without physical activity" and are not very attentive to
+their appearance and their health. So, their own health is of no
+interest to them? Physical activity and sports attract intuitive types
+no less than sensing types: for intuitive types this is an area of
+self-development and a great opportunity to keep fit. Among professional
+athletes in "non-combat" sports intuitive TIMs EIE, LIE, ILE, IEI, and
+LII are often encountered.
+
+Finally, the "dichotomy" "thinking / action" seems inaccurate. A
+question arises: is it possible, in principle, to only think or to only
+act? Certainly not. From this follows that any individual has a specific
+(innate) balance of thought to activity. The period of reflection makes
+it possible to act effectively; the period of action necessitates
+further reflection. Is it needed to calculate how much time is necessary
+for acting and for thinking? Obviously, this would be meaningless. This
+definition implies that sensing types tend to act without thinking, and
+intuitive types - are simply slackers, spectators, and couch potatoes,
+plunged headlong into a barren thought process. Does this peculiar
+distinction relate to socionics traits? No, not in the slightest.
+
+
+
+Our definition
+--------------
+
+   **Intuition  the predominant attitude of mind oriented at perception
+   and processing of information about objects in time.**
+
+   **Sensing  the predominant attitude of mind oriented at perception
+   and processing of information about objects in space.**
+
+Therefore, this dichotomy defines the orientation of consciousness, its
+approach to assessing phenomena. Approach of sensing types: the
+phenomenona fundamentally do not change and will remain as they are now,
+that is, the time factor is ignored (fully or partially). Approach of
+intuitive types is that the phenomena are constantly changing under the
+influence of various factors, and mainly under the influence of time
+itself; thus, for intuitives the world around them seems unstable,
+"unreliable". Neither of these approaches can be considered to be more
+successful than the other  they simply have different spheres of
+application: sensing type approach to reality is intended for management
+of space and its characteristics, while the intuitive type approach is
+intended for management of phenomena in time. There is no competition
+here.
+
+This dichotomy is sufficiently accurately described by terms "tactics"
+and "strategy", where "tactics" denotes the priority of dealing with
+immediate problems and "strategy" denotes assessment of potential and
+possibilities of current situation, and constant correlation of the
+current moment with outlook for the future. A more detailed analysis of
+the topic "tactics / strategy" is presented in article [7]. Here, we
+will provide only one quotation from Ausra Augustinavichiute:
+
+   "They (intuitive types) are distinguished by strategic abilities and
+   much calmness and sobriety in relation to all that is happening, but
+   at the same by slowness. Sensing types are distinguished by tactical
+   abilities: quick decision-making, tempo, and rhythm of life, and
+   busyness" [1, str.236].
+
+If we consider the given dichotomy primitively, then the following
+example would be characteristic. A certain "typical" sensor has
+quarreled with some "typical" intuitive. It came to use of physical
+force, and the sensor won. The sensor is inclined to think in this
+situation that his opponent is defeated forever, and that if a similar
+situation repeats he will easy win again. The intuitive will make very
+different conclusions: he might take up sports or self-defense classes,
+and when the conflict happens again his opponent can quite unexpectedly
+encounter fierce resistance. Conclusion: If we consider the situation
+from the perspective of "here and now", the winner usually the sensing
+type; if we take into account perspectives and opportunities provided by
+time, the victory may be on the side of the intuitive type. The sensing
+type is not inclined to consider that someone or something that can
+seriously change: one who was weak, in his opinion, will remain weak
+forever.
+
+A classic example from history that illustrates the dichotomy of
+intuition-sensing was the war of 1812. A sensing type Napoleon
+Bonaparte, having seized large tracts of territory of opponent state and
+occupied its capital, was sure that he has won, but the time factor
+worked against him, and the victory eventually went to Mikhail Kutuzov
+(Ni,Te), who objectively assessed the dynamics of what is happening and
+the possible further developments of the military-strategic situation.
+
+
+
+Sensors-Intuitives and Waiting
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Sensing types don't know how to wait. They get virtually nothing from
+waiting. When a typical sensing type is made to wait, they become
+anxious or even aggressive. Intuitive type worries about waiting *only
+if* this waiting will "eat up" certain other possibilities or some of
+his concrete abilities. If waiting is harmless in this sense, he will
+wait calmly, and even with pleasure: as the passing of time
+automatically brings him closer to his goals. Intuitive types often
+mentally consider or talk about the topic if "too late - too early",
+implying that an expected event will still happen at some given time, so
+no need to worry.
+
+
+
+Sensors-Intuitives and Uncertainty
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+All other things held equal (*ceteris paribus*), a sensing type worries
+much more in conditions of informational uncertainty than an intuitive
+type. Certainty for a sensing type - is defined as full knowledge
+(clarity) of all concrete aspects, factors, and circumstances of a
+situation. Certainty for an intuitive type - is researching and
+obtaining needed blocks of information, from which intuitive type
+further extrapolates and make conjectures, thereby filling in for the
+missing pieces of information.
+
+
+
+Confusion with other traits
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Intuition may be mistaken for irrationality due to its characteristic
+"non-rigid" planning**. All people make plans, but plans of sensory
+types are quite concrete, containing many specific aspects, and based on
+the current actual state of affairs. Plans of intuitive types, in
+contrast, are based on their perception of the potential and
+possibilities of what could happen and where it could possibly lead, and
+don't always have a direct connection to the concrete state of affairs
+of the present moment.
+
+.. note::
+    Editor's note: This point specifically complicates the typing of Pe-Ij types, as due to accentuated irrational creative function, they are far from making an impression of what Rational types are described to be like, and not infrequently try typing themselves into Irrational types, e.g. a LII-Ne may seriously consider ILE, ILI, or IEI as their type, based on the conspicuous irrationality of their accentuated creative Ne function.
+
+
+
+Environmental factors
+~~~~~~~~~~~~~~~~~~~~~
+
+Very often the sensing-intuitive dichotomy is considered to be related
+to everyday practicality of people: sensing types are "always practical
+and neat", while intuitive types are "impractical and sloppy". We hope
+that from what was written above the lack of direct correlation between
+everyday or domestic practicality and socionics dichotomies is evident.
+We note that presence or absence of practical skills and acumen is
+related to a person's living environment. For example, it is obvious
+that people who live in the countryside, away from modern urban
+civilization, often from young age learn many practical and domestic
+upkeep skills, such as farming, chopping wood, milking cows, household
+maintenance, etc. regardless of their type. Analogously, many sensing
+types who live in modern cities do not have such skills - their sensing
+is often directed at aesthetics and self-care. If an intuitive type
+finds himself at remote from civilization regions, he will quickly learn
+all the necessary know-how and skills. There is no "pathological"
+inability to develop "sensory skills" in intuitive types - only
+unwillingness or irrelevance of their development. \*\*
+
+Here we quote the position of V. Gulenko:
+
+   "The states of function may be deterministic, coming as a consequence
+   of age. In particular, for children the most filled functions are
+   sensory ones, for young adults - ethical, for mature people -
+   logical, and in the elderly - intuitive. However, such developments
+   may also be arbitrary - resulting from individual's adaptation to his
+   environment or conscious learning and practice. If we consider such
+   dynamic traits of type, then we need to add the following requirement
+   to sociotype diagnostics: in process of type identification, it is
+   necessary to figure out the *relative* and not absolute expression of
+   a person's functions. From this it follows that there may be ethical
+   types who are more effective at solving some local logical problems,
+   than logical types ... As well as, sensing types who are more
+   imaginative and dreamy than intuitive types, and, conversely,
+   intuitive types displaying practical acumen in various situations
+   that exceeds the grounding of average sensing types" [2].
+
+.. note::
+    Editors' note: Other factors that may influence how grounded, practical, and pragmatic a person seems are their upbringing, education, socioeconomic level of their parents, and their own earnings. Sensing types are often described as being more wise with use of money, more concerned with material resources and prosperity, while intuitive types are described as spendthrifts who ignore their material levels of life. However, an intuitive type coming from a background of poverty may be more keen with their material resources and thrifty with the use of their money than a sensing type coming from a rich upper class family that always provided for them. Likewise, many practical and personal upkeep skills and know-how are taught to children and young adults by their parents. If a person of sensing type was never taught such skills, they could appear to be poorly adapted in a practical sense. Care should be taken to not mistake sensing-intuition dichotomy for the impact of parenting and socioeconomic factors.
+
+Diagnostic
+~~~~~~~~~~
+
+Here, characteristics of external appearance and person's physique could
+be of help. The relevant information is provided in [6]. We will only
+note only that effective control of objects in space necessitates
+stronger physical constitution, while control of objects in time could
+suffice with weaker physical constitution.
+
+Literature
+----------
+
+#. Augustinavichiute A. "Socionics: Introduction" / Comp. L. Filippov.
+   M. - SPb., AST, 1998.
+#. Gulenko V. V. "Disappear in Order to Reappear Again" // Socionics,
+   Mentology and Personality Psychology, 3, 1995.
+#. Meged V. V., Ovcharov A. A. "Learn to manage people effectively." -
+   Evenly: PPF "Volinski charms" 2000.
+#. Rumyantsev E. A. "On the Way to Understanding: Socionics for Teachers
+   and Parents." - M .: Armada-press, 2002.
+#. Filatova E. S. "Socionics for all. Science of communication,
+   understanding and consent." - SPb .: B & K 1999.
+#. Tsypin P. E. "Techniques of Successful Typing." - M .: Good Keyword:
+   black squirrels, 2005.
+#. Tsypin P. E. "Jung Foundations and the True Basis of Socionics or
+   Partial Reprogramming of Socionic Functions" //, Socionics,
+   Mentology, and Psychology of Personality, 3, 2005.
+
+
+
+Additional Links
+----------------
+
+- :doc:`understand_e_i`
+- :doc:`understand_t_f`
+- :doc:`understand_n_s`
+- :doc:`understand_j_p`
+

@@ -1,0 +1,569 @@
+<!doctype html>
+<html class="no-js">
+  <head><meta charset="utf-8"/>
+    <meta name="viewport" content="width=device-width,initial-scale=1"/>
+    <meta name="color-scheme" content="light dark"><link rel="index" title="Index" href="../genindex.html" /><link rel="search" title="Search" href="../search.html" /><link rel="next" title="Dimensionality of Functions by Eglit" href="dimensionality_eglit.html" /><link rel="prev" title="Signs of Functions of Model A by Eglit" href="sign_eglit.html" />
+
+    <meta name="generator" content="sphinx-4.1.2, furo 2021.08.11.beta42"/>
+        <title>Dimensionality of functions - Wikisocion</title>
+      <link rel="stylesheet" type="text/css" href="../_static/pygments.css" />
+    <link rel="stylesheet" type="text/css" href="../_static/styles/furo.css?digest=197f00461d56902ea7ca048ec6e6ba026f62c97b" />
+    <link rel="stylesheet" type="text/css" href="../_static/styles/furo-extensions.css?digest=93475b62d1c3bc01323a0eefdc14a62d77b12690" />
+    
+    
+
+
+<style>
+  body {
+    --color-code-background: #f8f8f8;
+  --color-code-foreground: black;
+  
+  }
+  body[data-theme="dark"] {
+    --color-code-background: #202020;
+  --color-code-foreground: #d0d0d0;
+  
+  }
+  @media (prefers-color-scheme: dark) {
+    body:not([data-theme="light"]) {
+      --color-code-background: #202020;
+  --color-code-foreground: #d0d0d0;
+  
+    }
+  }
+</style>
+    <link media="(prefers-color-scheme: dark)" rel="stylesheet" href="../_static/pygments_dark.css"></head>
+  <body>
+    
+<svg xmlns="http://www.w3.org/2000/svg" style="display: none;">
+  <symbol id="svg-toc" viewBox="0 0 24 24">
+    <title>Contents</title>
+    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+      stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+      <path stroke="none" d="M0 0h24v24H0z" />
+      <line x1="4" y1="6" x2="20" y2="6" />
+      <line x1="10" y1="12" x2="20" y2="12" />
+      <line x1="6" y1="18" x2="20" y2="18" />
+    </svg>
+  </symbol>
+  <symbol id="svg-menu" viewBox="0 0 24 24">
+    <title>Menu</title>
+    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+      stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather-menu">
+      <line x1="3" y1="12" x2="21" y2="12"></line>
+      <line x1="3" y1="6" x2="21" y2="6"></line>
+      <line x1="3" y1="18" x2="21" y2="18"></line>
+    </svg>
+  </symbol>
+  <symbol id="svg-arrow-right" viewBox="0 0 24 24">
+    <title>Expand</title>
+    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+      stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather-chevron-right">
+      <polyline points="9 18 15 12 9 6"></polyline>
+    </svg>
+  </symbol>
+  <symbol id="svg-sun" viewBox="0 0 24 24">
+    <title>Light mode</title>
+    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+      stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" class="feather-sun">
+      <circle cx="12" cy="12" r="5"></circle>
+      <line x1="12" y1="1" x2="12" y2="3"></line>
+      <line x1="12" y1="21" x2="12" y2="23"></line>
+      <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
+      <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
+      <line x1="1" y1="12" x2="3" y2="12"></line>
+      <line x1="21" y1="12" x2="23" y2="12"></line>
+      <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
+      <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
+    </svg>
+  </symbol>
+  <symbol id="svg-moon" viewBox="0 0 24 24">
+    <title>Dark mode</title>
+    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+      stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" class="icon-tabler-moon">
+      <path stroke="none" d="M0 0h24v24H0z" fill="none" />
+      <path d="M12 3c.132 0 .263 0 .393 0a7.5 7.5 0 0 0 7.92 12.446a9 9 0 1 1 -8.313 -12.454z" />
+    </svg>
+  </symbol>
+  <symbol id="svg-sun-half" viewBox="0 0 24 24">
+    <title>Auto light/dark mode</title>
+    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+      stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" class="icon-tabler-shadow">
+      <path stroke="none" d="M0 0h24v24H0z" fill="none"/>
+      <circle cx="12" cy="12" r="9" />
+      <path d="M13 12h5" />
+      <path d="M13 15h4" />
+      <path d="M13 18h1" />
+      <path d="M13 9h4" />
+      <path d="M13 6h1" />
+    </svg>
+  </symbol>
+</svg>
+
+<input type="checkbox" class="sidebar-toggle" name="__navigation" id="__navigation">
+<input type="checkbox" class="sidebar-toggle" name="__toc" id="__toc">
+<label class="overlay sidebar-overlay" for="__navigation">
+  <div class="visually-hidden">Hide navigation sidebar</div>
+</label>
+<label class="overlay toc-overlay" for="__toc">
+  <div class="visually-hidden">Hide table of contents sidebar</div>
+</label>
+
+
+
+<div class="page">
+  <header class="mobile-header">
+    <div class="header-left">
+      <label class="nav-overlay-icon" for="__navigation">
+        <div class="visually-hidden">Toggle site navigation sidebar</div>
+        <i class="icon"><svg><use href="#svg-menu"></use></svg></i>
+      </label>
+    </div>
+    <div class="header-center">
+      <a href="../index.html"><div class="brand">Wikisocion</div></a>
+    </div>
+    <div class="header-right">
+      <div class="theme-toggle-container theme-toggle-header">
+        <button class="theme-toggle">
+          <div class="visually-hidden">Toggle Light / Dark / Auto color theme</div>
+          <svg class="theme-icon-when-auto"><use href="#svg-sun-half"></use></svg>
+          <svg class="theme-icon-when-dark"><use href="#svg-moon"></use></svg>
+          <svg class="theme-icon-when-light"><use href="#svg-sun"></use></svg>
+        </button>
+      </div>
+      <label class="toc-overlay-icon toc-header-icon" for="__toc">
+        <div class="visually-hidden">Toggle table of contents sidebar</div>
+        <i class="icon"><svg><use href="#svg-toc"></use></svg></i>
+      </label>
+    </div>
+  </header>
+  <aside class="sidebar-drawer">
+    <div class="sidebar-container">
+      
+      <div class="sidebar-sticky"><div class="sidebar-scroll"><a class="sidebar-brand" href="../index.html">
+  
+  
+  <span class="sidebar-brand-text">Wikisocion</span>
+  
+</a><form class="sidebar-search-container" method="get" action="../search.html" role="search">
+  <input class="sidebar-search" placeholder=Search name="q" aria-label="Search">
+  <input type="hidden" name="check_keywords" value="yes">
+  <input type="hidden" name="area" value="default">
+</form>
+<div id="searchbox"></div>
+</div>
+      </div>
+      
+    </div>
+  </aside>
+  <div class="main">
+    <div class="content">
+      <article role="main">
+        <div class="content-icon-container">
+          <div class="theme-toggle-container theme-toggle-content">
+            <button class="theme-toggle">
+              <div class="visually-hidden">Toggle Light / Dark / Auto color theme</div>
+              <svg class="theme-icon-when-auto"><use href="#svg-sun-half"></use></svg>
+              <svg class="theme-icon-when-dark"><use href="#svg-moon"></use></svg>
+              <svg class="theme-icon-when-light"><use href="#svg-sun"></use></svg>
+            </button>
+          </div>
+          <label class="toc-overlay-icon toc-content-icon" for="__toc">
+            <div class="visually-hidden">Toggle table of contents sidebar</div>
+            <i class="icon"><svg><use href="#svg-toc"></use></svg></i>
+          </label>
+        </div>
+        <div class="section" id="dimensionality-of-functions">
+<h1>Dimensionality of functions<a class="headerlink" href="#dimensionality-of-functions" title="Permalink to this headline">¶</a></h1>
+<div class="section" id="introduction">
+<h2>Introduction<a class="headerlink" href="#introduction" title="Permalink to this headline">¶</a></h2>
+<p><strong>Dimensionality of a function</strong> is the number of qualitative
+information processing parameters in the framework of which a function
+of <a class="reference internal" href="model_a.html"><span class="doc">model A</span></a> is capable of processing information. Each
+function has two characteristics: the amount of accumulated experience
+and its ability to process information, which is also known as the
+“strength” of the function. The concepts of dimensionality was
+introduced when it was noticed that a weaker function that has, for one
+reason or another, accumulated a lot of experience is easily mistaken
+for a strong function, which can lead to errors in typing. To resolve
+this issue, the concept of functional dimensionality was proposed by
+Kiev socionists (<a class="reference internal" href="bukalov.html"><span class="doc">Bukalov</span></a>, <a class="reference internal" href="ermak.html"><span class="doc">Yermak</span></a>)
+and is now widely applied by socionists from various schools. A summary
+of this concept is given below.</p>
+</div>
+<div class="section" id="four-dimensions">
+<h2>Four dimensions<a class="headerlink" href="#four-dimensions" title="Permalink to this headline">¶</a></h2>
+<p>The four information processing parameters of each function of model A
+are:</p>
+<p><strong>Experience</strong> (<em>Ex</em>) = the ability to recognize patterns and make
+generalizations based on personal experience. This is the first
+qualitative parameter of information processing of a function. This
+parameter is present in all functions - all functions are able to
+gather and use life experience of a person. This is the individual
+experience of perception of information on some aspect.</p>
+<p><strong>Norms</strong> (<em>Nr</em>) = the ability to recognize and apply standard
+practices from one’s surroundings. This is the second qualitative
+parameter of information processing of a function. Use of norms is
+attributable to all functions except for painful and suggestive. This
+is information concerning the assessment of the aspect by others,
+i.e. an instrument for evaluating it in terms of “as is customary”,
+“as it should be”.</p>
+<p><strong>Situation</strong> (<em>St</em>) = the ability to recognize and respond to the
+subtleties of specific situations. This is the third qualitative
+parameter of information processing of a function, that is an
+attribute only of strong functions. This is the ability to develop
+new solutions within the parameters of a particular situation, i.e.
+taking into account situation specific properties and circumstances.</p>
+<p><strong>Time</strong> (<em>Tm</em>) = the ability to recognize and envision development
+over time. This is the fourth qualitative parameter of information
+processing of a function. Time is attributable only to the 1st and
+8th functions of model A. This is the ability to evaluate (to
+transfer) of the situation in time, to model a situation in another
+time frame (not to be confused with the intuition of time).</p>
+</div>
+<div class="section" id="dimensionality-of-functions-of-model-a">
+<h2>Dimensionality of Functions of Model A<a class="headerlink" href="#dimensionality-of-functions-of-model-a" title="Permalink to this headline">¶</a></h2>
+<p>1-dimensional functions process information on a single parameter of
+experience; 2-dimensional function - on two parameters: experience and
+norms; 3-dimensional function - on three parameters: experience, norms,
+situation; 4-dimensional functions - on four parameters: experience,
+norms, situation, and time.</p>
+<div class="line-block">
+<div class="line">The dimensionality of <a class="reference internal" href="functions.html"><span class="doc">functions</span></a> of model A is as
+follows.</div>
+<div class="line">* Leading function (1) and Demonstrative function (8) have
+4-dimensions: Ex, Nr, St, Tm.</div>
+</div>
+<ul class="simple">
+<li><p>Creative function (2) and Ignoring function (7) have 3-dimensions:
+Ex, Nr, St.</p></li>
+<li><p>Activating function (6) and Role function (2) have 2-dimensions: Ex,
+Nr.</p></li>
+<li><p>Suggestive function (4) and Vulnerable function (5) have 1-dimension:
+Ex.</p></li>
+</ul>
+<div class="table-wrapper"><table class="docutils align-default">
+<colgroup>
+<col style="width: 35%"/>
+<col style="width: 30%"/>
+<col style="width: 35%"/>
+</colgroup>
+<thead>
+<tr class="row-odd"><th class="head"><p>Functions</p></th>
+<th class="head"><p>Dimensionality</p></th>
+<th class="head"><p>Encompassed
+dimensions</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="row-even"><td><p>(1,8) Leading,
+Demonstrative</p></td>
+<td><p>4-dimensional (4D)</p></td>
+<td><p>Experience, Norms,
+Situation, Time</p></td>
+</tr>
+<tr class="row-odd"><td><p>(2,7) Creative,
+Ignoring</p></td>
+<td><p>3-dimensional (3D)</p></td>
+<td><p>Experience, Norms,
+Situation</p></td>
+</tr>
+<tr class="row-even"><td><p>(3,6) Activating,
+Role</p></td>
+<td><p>2-dimensional (2D)</p></td>
+<td><p>Experience, Norms</p></td>
+</tr>
+<tr class="row-odd"><td><p>(4,5) Suggestive,
+Vulnerable</p></td>
+<td><p>1-dimensional (1D)</p></td>
+<td><p>Experience</p></td>
+</tr>
+</tbody>
+</table></div>
+<div class="table-wrapper"><table class="colwidths-given docutils align-default" id="id1">
+<caption><span class="caption-text">Functions of Model A</span><a class="headerlink" href="#id1" title="Permalink to this table">¶</a></caption>
+<colgroup>
+<col style="width: 30%"/>
+<col style="width: 10%"/>
+<col style="width: 30%"/>
+<col style="width: 10%"/>
+<col style="width: 20%"/>
+</colgroup>
+<thead>
+<tr class="row-odd"><th class="head"><p>function</p></th>
+<th class="head"><p>dim</p></th>
+<th class="head"><p>function</p></th>
+<th class="head"><p>dim</p></th>
+<th class="head"><p>blocks</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="row-even"><td><p>1st Program</p></td>
+<td><p>4D</p></td>
+<td><p>2nd Creative</p></td>
+<td><p>3D</p></td>
+<td><p><a class="reference internal" href="model_a.html#ego-block"><span class="std std-ref">Ego</span></a></p></td>
+</tr>
+<tr class="row-odd"><td><p>4th Vulnerable</p></td>
+<td><p>1D</p></td>
+<td><p>3rd Role</p></td>
+<td><p>2D</p></td>
+<td><p><a class="reference internal" href="model_a.html#superego-block"><span class="std std-ref">Super-ego</span></a></p></td>
+</tr>
+<tr class="row-even"><td><p>6th Activating</p></td>
+<td><p>2D</p></td>
+<td><p>5th Suggestive</p></td>
+<td><p>1D</p></td>
+<td><p><a class="reference internal" href="model_a.html#superid-block"><span class="std std-ref">Super-id</span></a></p></td>
+</tr>
+<tr class="row-odd"><td><p>7th Ignoring</p></td>
+<td><p>3D</p></td>
+<td><p>8th Demonstrative</p></td>
+<td><p>4D</p></td>
+<td><p><a class="reference internal" href="model_a.html#id-block"><span class="std std-ref">Id</span></a></p></td>
+</tr>
+</tbody>
+</table></div>
+<p><strong>1-dimensional functions - 4th (vulnerable) and 5th (suggestive)
+functions</strong> of Model A. These functions are capable of using only one
+parameter of Experience. Absorbing and processing information on the
+aspects of 1-dimensional functions is difficult. Here the person relies
+only on individual life experience that either he or she has lived
+through in the past or has observed of others. In other words, on these
+aspects a person learns only on own mistakes, while any explanations are
+not accepted and processed. When a new situation arises for which there
+is no already available template of behavior, a person may chose the
+next readily available one, which may not be entirely appropriate
+(inadequate or inappropriate behavior), or may even completely refuse to
+respond on the relevant aspects and instead shift emphasis to own strong
+functions.</p>
+<p><strong>2-dimensional functions - 3rd (role) and 6th (activating) functions</strong>
+of model A. These functions are capable of using two parameters of Norms
+and Experience. 2-dimensional functions can process both experiential
+information and information that comes from “theory” i.e. from
+experience of other people with no need to personally live through it,
+that is, from collective experiences that form social norms. On the
+aspects of these functions a person is able to learn from explanations
+and books written by others on how it “should be” and about typical
+solutions and normative methods. However, the person further proceeds to
+use this information in a standardized manner, not taking into account
+the specifics of various situations i.e. without situation appropriate
+modification of this information.</p>
+<p><strong>3-dimensional functions - 2nd (creative) and 7th (ignoring)
+functions</strong> of model A. These functions are capable of using three
+parameters of Situation, Norms, and Experience. 3-dimensional functions
+can process information on their aspects accounting for personal
+experience, norms, as well as the specifics of the current situation. As
+a result, these functions are characterized by creative use of
+accumulated experience and “theory”, adapting these to the concurrent
+situation or applying this information to completely different fields.
+They are able to combine person’s experience from different life
+situations in such a way that it allows to solve some new problems in
+new situations that a person hasn’t previously encountered.</p>
+<p><strong>4-dimensional functions - 1st (leading) and 8th (demonstrative)
+functions</strong> of model A. These functions are capable of using four
+parameters of Time, Situation, Norms, and Experience. 4-dimensional
+functions can process information of their aspects accounting for
+experience, norms, situation, as well as time, that is, they can
+transfer their assessment of a given situation along the time axis. This
+gives 4-dimensional functions high proficiency in prognosing of
+information on their aspects. These functions are capable of working
+“ahead of time” i.e. seeing the different contingencies and results of
+some experience or situation before its realization. Ability to compound
+diverse situations over time allows 4-dimensional functions to derive
+some general global level understanding on their aspects, that serves as
+main pool of understanding for a person and that is difficult to convey
+in its entirety. These functions are capable of coming up with something
+that is radically new in principle.</p>
+</div>
+<div class="section" id="other-notes-on-function-dimensionality">
+<h2>Other Notes on Function Dimensionality<a class="headerlink" href="#other-notes-on-function-dimensionality" title="Permalink to this headline">¶</a></h2>
+<p>Addendum to 4-dimensional functions written by <a class="reference internal" href="eglit.html"><span class="doc">Irina Eglit</span></a> in “Four Parameters: experience, norms,
+situation, and time (or globality)”:</p>
+<blockquote>
+<div><p>“Let’s imagine that you were shown a single frame of a situation and
+asked how you would you act in this case? Your data processing in
+this case will depend on the dimensionality of the function. The
+3-dimensional function will process the information that is presented
+by this single frame situation to decide how to act in this
+situation. The 4-dimensional function will process the information
+concerning this single frame situation, and all the frames preceding
+that frame, and all the possible follow-up shots, to come to a
+decision. The 4-dimensional function cannot simply be limited to the
+situation, for it does not see the situation as static but as a
+development. Therefore, the solution coming from these two functions
+will be different. The 4th dimension - is a dynamic perception of the
+ever-changing world.”(c)</p>
+</div></blockquote>
+<p>1-dimensional functions from <a class="reference external" href="http://en.socionicasys.org/teorija/dlja-novichkov/funkcii/razmernost/odnomernost">School of System
+Socionics</a>
+page:</p>
+<blockquote>
+<div><p>Any information that ends up in a one-dimensional function is
+assessed by the function as pleasant or unpleasant. Natural (from the
+viewpoint of one-dimensional function) reaction when encountering an
+“unpleasant” information is the desire to get rid of it, to turn
+away, not to take it into account, to pretend that it does not exist,
+to forget, to fence off in any way.</p>
+<p>One of the methods of “getting away” is mental time hastening - “I
+wish it ends quickly,” which leads to the feverishness of the
+function. Thinking becomes impatient, shallow and very narrow. It can
+be compared with the rapid running through dark places, when your
+field of vision is narrowed to a spot, you do not want to see
+anything around. Reactions are accelerated, there is haste. We are
+hurriedly doing something to get rid of the unpleasant thing faster:
+we quickly tinker through our relationship, we hastily make our
+calculation, or in general, we quickly react to the information
+related to the element of our one-dimensional function. This, of
+course, often leads to mistakes, and we get the opposite of what we
+have hoped for - we do not get rid of the unwanted situation, we make
+it worse. Trying to “run through” the situation at high speed, just
+to feel relieved that it’s over, deep down, we still feel that we are
+failing and we feel “suspended.”</p>
+</div></blockquote>
+<p>From “Structure of Model A” published at Socionics Research Institute:</p>
+<blockquote>
+<div><p>“In presence of harmonious development, these 4 vectors are balanced
+in an individual. If one or more of these vectors are amplified in
+comparison to others, it may indicate distortions in development.
+If a person has strengthened vector of globality, this is reflected
+by the fact that he sees things globally, such as projects, events,
+and people, and can see significant developments and challenges; at
+the same time he exaggerates their value.
+If a person has strengthened vector of situation, this is reflected
+in the fact that he easily orients in different situations, quickly
+and successfully adapts to events, and finds many creative solutions;
+at the same time he may be opportunistic and easily change his
+opinion and position.
+If a person has strengthened vector of norms, he carefully and
+accurately follows social norms and standards in both work and
+informal communication, in appearance, in style of speech (as he
+understands them), and ensures that the rules and the order are not
+violated.
+If a person has strengthened vector of personal experience, in most
+situations he relies primarily on himself or herself, on own
+experience and own opinions, while ignoring the opinions of others
+and not learning from the mistakes of others; he cannot broadly and
+creatively look at the situation, and evaluates people “by his own
+yardstick”.</p>
+</div></blockquote>
+<p>From Sociomodel.ru:</p>
+<blockquote>
+<div><p>“To give a simplified figurative example of the above descriptions,
+explaining anything on a 1-dimensional function, that “one should not
+step on the rake”, is meaningless: until a person steps on the rake
+and gets hit by it, he or she won’t “absorb” any recommendations and
+explanations; then, after getting hit by the rake, a person may not
+understand why this has happened and in the future may avoid anything
+resembling a rake even distantly (1-dimensional functions have skewed
+and distorted perception). A 2-dimensional function will understand
+and remember the advice that “one should not step on a rake”, but it
+will remember it in a formulaic sense and always apply it, even in
+situations when it’s possible to break this rule without any
+consequences (such as when a rake is standing vertically against a
+wall), until once again a person tries this out directly. In contrast
+to a 2-dimensional function, a 3-dimensional function is capable of
+seeing and distinguishing such “exceptional” situations. Finally, a
+4-dimensional function does not need to be given such advice: looking
+at the rake, it is capable of perceiving what consequences can arise
+as a result of stepping on it.”</p>
+</div></blockquote>
+</div>
+<div class="section" id="see-also">
+<h2>See also<a class="headerlink" href="#see-also" title="Permalink to this headline">¶</a></h2>
+<ul class="simple">
+<li><p><a class="reference external" href="http://en.socionicasys.org/teorija/dlja-novichkov/funkcii/razmernost/odnomernost">1st
+Dimension</a></p></li>
+<li><p><a class="reference external" href="http://en.socionicasys.org/teorija/dlja-novichkov/funkcii/razmernost/dvumernost">2nd
+Dimension</a></p></li>
+<li><p><a class="reference external" href="http://en.socionicasys.org/teorija/dlja-novichkov/funkcii/razmernost/trehmernost">3rd
+Dimension</a></p></li>
+<li><p><a class="reference external" href="http://en.socionicasys.org/teorija/dlja-novichkov/funkcii/razmernost/chetyrehmernost">4th
+Dimension</a></p></li>
+<li><p><a class="reference external" href="Dimensionality_of_Functions_by_Eglit">Description of Function Dimensionality from School of System
+Socionics</a></p></li>
+<li><p><a class="reference external" href="http://en.socionicasys.org/teorija/dlja-novichkov/funkcii/razmernost/indikatory-razmernosti-funkcij">Indicators of
+Dimensionality</a></p></li>
+<li><p><a class="reference internal" href="model_a.html"><span class="doc">Model A</span></a></p></li>
+</ul>
+</div>
+</div>
+
+      </article>
+      <footer>
+        
+        <div class="related-pages">
+          <a class="next-page" href="dimensionality_eglit.html">
+              <div class="page-info">
+                <div class="context">
+                  <span>Next</span>
+                </div>
+                <div class="title">Dimensionality of Functions by Eglit</div>
+              </div>
+              <svg><use href="#svg-arrow-right"></use></svg>
+            </a>
+          <a class="prev-page" href="sign_eglit.html">
+              <svg><use href="#svg-arrow-right"></use></svg>
+              <div class="page-info">
+                <div class="context">
+                  <span>Previous</span>
+                </div>
+                
+                <div class="title">Signs of Functions of Model A by Eglit</div>
+                
+              </div>
+            </a>
+        </div>
+
+        <div class="related-information">
+              Copyright &#169; 2021, Wikisocion Authors
+            |
+            Built with <a href="https://www.sphinx-doc.org/">Sphinx</a>
+              and
+              <a class="muted-link" href="https://pradyunsg.me">@pradyunsg</a>'s
+              <a href="https://github.com/pradyunsg/furo">Furo theme</a>.
+            |
+            <a class="muted-link" href="../_sources/content/dimensionality.rst.txt"
+               rel="nofollow">
+              Show Source
+            </a>
+        </div>
+        
+      </footer>
+    </div>
+    <aside class="toc-drawer">
+      
+      
+      <div class="toc-sticky toc-scroll">
+        <div class="toc-title-container">
+          <span class="toc-title">
+            Contents
+          </span>
+        </div>
+        <div class="toc-tree-container">
+          <div class="toc-tree">
+            <ul>
+<li><a class="reference internal" href="#">Dimensionality of functions</a><ul>
+<li><a class="reference internal" href="#introduction">Introduction</a></li>
+<li><a class="reference internal" href="#four-dimensions">Four dimensions</a></li>
+<li><a class="reference internal" href="#dimensionality-of-functions-of-model-a">Dimensionality of Functions of Model A</a></li>
+<li><a class="reference internal" href="#other-notes-on-function-dimensionality">Other Notes on Function Dimensionality</a></li>
+<li><a class="reference internal" href="#see-also">See also</a></li>
+</ul>
+</li>
+</ul>
+
+          </div>
+        </div>
+      </div>
+      
+      
+    </aside>
+  </div>
+</div><script data-url_root="../" id="documentation_options" src="../_static/documentation_options.js"></script>
+    <script src="../_static/jquery.js"></script>
+    <script src="../_static/underscore.js"></script>
+    <script src="../_static/doctools.js"></script>
+    <script src="../_static/scripts/main.js"></script>
+    </body>
+</html>

@@ -1,0 +1,34 @@
+Myers-Briggs Typology
+============================
+
+The Myers-Briggs Typology is a development of Jung's Typology that is well-known in the United States and other western countries. The first type test (which later came to be called the Myers-Briggs Type Indicator, or "MBTI") was created 65 years ago, in 1942. Socionics would appear in more or less finished form only 40 years later. 
+
+Relation to socionics
+-------------------------------
+
+Socionics developed independently of the Myers-Briggs Typology, since Augusta had very little access to the works of foreign authors. Early on, she made some conceptual developments that differed significantly from the approach of Myers and Briggs - namely, she introduced the concept of information aspects, increased the number of functions to eight, and focused from the very beginning on studying the interaction of types, which has been an afterthought in Myers-Briggs type theory.
+
+In "borderline" type cases (i.e. where the individual displays prominent traits that are not generally associated with his type), these theoretical differences may make socionists prone to assign different typings than MBTI specialists. For example, socionists from the International Institute of Socionics (Kiev, Ukraine) have confirmed in personal correspondence that if an individual appears to display typical traits of a certain socionic type, but his relationships and interactions with others fit in the framework of another type, they will give preference to the type that accurately explains their interactions. In the Myers-Briggs system, these things would not be considered. This means that socionics' understanding of psychic functions tends to be adapted to interpersonal interaction, whereas functions in Myers-Briggs Typology are adapted to observable and generally more obvious behavior. This can consistently produce different typings in borderline cases.
+
+Furthermore, those who administer the MBTI must conform to an ethical code that gives the test-taker the last word in their type diagnosis. In theory, specialists are trained to look for a "best fit" type, whereas socionists look for finality in type diagnosis. In practice, the "finality" of many socionists is no different from an MBTI "best fit."
+
+An ongoing discussion with regards to socionics and MBTI is the issue of the "J/P switch". For example, let us look at the functions that a Socionics INFp and an MBTI INFP both have. If we assume that the four functions that distinguish types in MBTI are the ego and super-ego blocks in Socionics, there is a difference. The INFp has Ni, Fe, Si, and Te, in that order. However, the INFP has Ne, Fi, Si, and Te, which matches with the Socionics INFj. Assuming that the functional definitions between the systems of typology are similar (a contested idea), all MBTI INFPs will be INFjs in Socionics.
+
+Myers-Briggs Typology and Jung's Typology
+--------------------------------------------------
+
+Compared to Jung's Typology, the Myers-Briggs system has gone down the dichotomial route, with understanding of psychic functions (now called "cognitive" or "mental" functions) taking a second seat. Building tests based on dichotomies is much easier than testing the positions of various functions. Compared to Jung's Typology, the MBTI system has developed more "external" descriptions of the workings of psychic mechanisms. Jung's descriptions are very introspective and perhaps difficult for many people to understand.
+Myers-Briggs Typology and Keirsey
+
+David W. Keirsey mapped four 'Temperaments' to the existing Myers-Briggs system groupings SP, SJ, NF and NT, often resulting in confusion of the two theories. However, the Keirsey Temperament Sorter is not directly associated with the official Myers-Briggs Type Indicator.
+
+Isabel Myers' type descriptions and David Keirsey character descriptions have several differences between them. One of the primary differences between the two models is that Myers was primarily focused on how people think and feel whereas Keirsey is focused more on how people behave. Keirsey notes that one can not directly observe that people think or feel. A second important difference is that the Myers used a linear four-factor model in her descriptions whereas Keirsey uses a systems field theory model in his descriptions. A third important difference is the emphasis Keirsey and Myers place on certain dichotomies or preferences. Keirsey believes that whether someone is observant or is introspective is a much more important distinction than whether someone is expressive (somewhat correlated to extraversion) or attentive (somewhat correlated to introversion). On the other hand, Jung, and hence Myers, placed the most emphasis on whether or not someone is extraverted or introverted. A fourth difference is the difference between 'function attitudes' in Myers-Briggs and temperament types in Keirsey’s models.
+
+Criticism of the MBTI
+------------------------------
+
+The MBTI is subject to similar criticism as socionics. Despite decades of research, the MBTI is not based upon scientific findings in the sense of describing objective, measurable phenomena. Functions are complex, qualitative phenomena that manifest themselves in the way people do things, whereas more easily measurable psychological traits such as the Big Five do not reveal any hidden qualities or potential in people.
+
+Although the MBTI assumes that people belong to one pole of each dichotomy, in reality test scores are grouped around the center of each scale, which suggests that either discrete types do not exist, or that the MBTI does a poor job of measuring types. Results are often given as percentages, which reinforces the idea that one can be, for instance, 40% N and 60% S.
+
+The reliability of the MBTI methodology is also low, in that test takers who retake the test often being assigned a different type. Skeptics claim that the MBTI lacks falsifiability, which can cause confirmation bias in the interpretation of results with the terminology of the MBTI so vague that it allows any kind of behavior to fit any personality type, resulting in the Forer effect, where an individual gives a high rating to a positive description that supposedly applies specifically to them. Socionists try to avoid this issue by not relying on tests, for the most part. 

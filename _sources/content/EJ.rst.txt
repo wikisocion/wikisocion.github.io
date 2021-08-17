@@ -1,0 +1,78 @@
+EJ temperament
+=========================
+
+The **EJ temperament**, or **linear-assertive temperament**, was
+identified by :doc:`Viktor Gulenko <gulenko>` and includes the four
+:doc:`rational <ration_irration>` :doc:`extroverts <extra_intro>` (one in each
+:doc:`quadra <quadra>`): :doc:`ESE <ESE>`, :doc:`EIE <EIE>`, :doc:`LIE <LIE>`, and
+:doc:`LSE <LSE>`. Each of these types is also :doc:`dynamic <statics_dynamics>`.
+
+Typical characteristics
+-----------------------
+
+-  proactive
+-  restless
+-  difficult to relax unless tired
+-  walk tends to be quick-paced and "purposeful", as well as stiff
+-  "calmly energetic" with few intense variations in the level of energy
+   during the day
+-  inclined to fidget when forced to remain inactive for long periods
+
+EJs are both dynamic and rational, so they see reality as in continuous,
+gradual, often imperceptible change. At the same time, an EJ has his own
+views of what reality "should" be. This inclines him to be quick to take
+action, normally using his :ref:`leading function <leading-func>`, in
+order to make sure things will remain, or become, as they should be,
+before change can get too far.
+
+As extroverts, EJs tend to feel that it is up to them to initiate
+contacts with other people, whether in the context of establishing or
+maintaining a relationship. They will not necessarily act on that,
+though, and sometimes wish others would take over this role.
+
+Perception of other temperaments
+--------------------------------
+
+**EP**: EJs see EPs as unpredictable and moody, and therefore a bit
+irritating, but also as extremely energetic once they do focus on doing
+something, as well as the source of initiatives that may be worthwhile.
+
+**IP**: EJs see IP as unpredictable, moody, as well as too passive and
+unreliable, especially if they are required to show initiative or even
+reciprocity.
+
+**IJ**: EJs see IJs as solid, reliable, and reassuringly predictable,
+and usually not inclined towards being the first to take the initiative
+in taking action.
+
+
+.. list-table:: Small Groups
+    :header-rows: 0
+    :stub-columns: 1
+
+    * - :doc:`Quadras <quadra>`
+      - :doc:`Alpha <alpha_quadra>`
+      - :doc:`Beta <beta_quadra>`
+      - :doc:`Gamma <gamma_quadra>`
+      - :doc:`Delta <delta_quadra>`
+    * - :doc:`Clubs <club>`
+      - :doc:`Researchers <club_researchers>`
+      - :doc:`Socials <club_socials>`
+      - :doc:`Pragmatists <club_pragmatists>`
+      - :doc:`Humanitarians <club_humanitarians>`
+    * - :doc:`Temperaments <temperament>`
+      - :doc:`EP <EP>`
+      - :doc:`EJ <EJ>`
+      - :doc:`IP <IP>`
+      - :doc:`IJ <IJ>`
+    * - :doc:`Communication Styles <communication_styles>`
+      - Business-like
+      - Passionate
+      - Cold-blooded
+      - Sincere
+    * - :doc:`Romance Styles <romance_styles>`
+      - :doc:`Aggressor <aggressor>`
+      - :doc:`Victim <victim>`
+      - :doc:`Caring <caring>`
+      - :doc:`Childlike <childlike>`
+

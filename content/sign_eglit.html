@@ -1,0 +1,1596 @@
+<!doctype html>
+<html class="no-js">
+  <head><meta charset="utf-8"/>
+    <meta name="viewport" content="width=device-width,initial-scale=1"/>
+    <meta name="color-scheme" content="light dark"><link rel="index" title="Index" href="../genindex.html" /><link rel="search" title="Search" href="../search.html" /><link rel="next" title="Dimensionality of functions" href="dimensionality.html" /><link rel="prev" title="Plus and minus" href="plus_minus.html" />
+
+    <meta name="generator" content="sphinx-4.1.2, furo 2021.08.11.beta42"/>
+        <title>Signs of Functions of Model A by Eglit - Wikisocion</title>
+      <link rel="stylesheet" type="text/css" href="../_static/pygments.css" />
+    <link rel="stylesheet" type="text/css" href="../_static/styles/furo.css?digest=197f00461d56902ea7ca048ec6e6ba026f62c97b" />
+    <link rel="stylesheet" type="text/css" href="../_static/styles/furo-extensions.css?digest=93475b62d1c3bc01323a0eefdc14a62d77b12690" />
+    
+    
+
+
+<style>
+  body {
+    --color-code-background: #f8f8f8;
+  --color-code-foreground: black;
+  
+  }
+  body[data-theme="dark"] {
+    --color-code-background: #202020;
+  --color-code-foreground: #d0d0d0;
+  
+  }
+  @media (prefers-color-scheme: dark) {
+    body:not([data-theme="light"]) {
+      --color-code-background: #202020;
+  --color-code-foreground: #d0d0d0;
+  
+    }
+  }
+</style>
+    <link media="(prefers-color-scheme: dark)" rel="stylesheet" href="../_static/pygments_dark.css"></head>
+  <body>
+    
+<svg xmlns="http://www.w3.org/2000/svg" style="display: none;">
+  <symbol id="svg-toc" viewBox="0 0 24 24">
+    <title>Contents</title>
+    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+      stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+      <path stroke="none" d="M0 0h24v24H0z" />
+      <line x1="4" y1="6" x2="20" y2="6" />
+      <line x1="10" y1="12" x2="20" y2="12" />
+      <line x1="6" y1="18" x2="20" y2="18" />
+    </svg>
+  </symbol>
+  <symbol id="svg-menu" viewBox="0 0 24 24">
+    <title>Menu</title>
+    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+      stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather-menu">
+      <line x1="3" y1="12" x2="21" y2="12"></line>
+      <line x1="3" y1="6" x2="21" y2="6"></line>
+      <line x1="3" y1="18" x2="21" y2="18"></line>
+    </svg>
+  </symbol>
+  <symbol id="svg-arrow-right" viewBox="0 0 24 24">
+    <title>Expand</title>
+    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+      stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather-chevron-right">
+      <polyline points="9 18 15 12 9 6"></polyline>
+    </svg>
+  </symbol>
+  <symbol id="svg-sun" viewBox="0 0 24 24">
+    <title>Light mode</title>
+    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+      stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" class="feather-sun">
+      <circle cx="12" cy="12" r="5"></circle>
+      <line x1="12" y1="1" x2="12" y2="3"></line>
+      <line x1="12" y1="21" x2="12" y2="23"></line>
+      <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
+      <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
+      <line x1="1" y1="12" x2="3" y2="12"></line>
+      <line x1="21" y1="12" x2="23" y2="12"></line>
+      <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
+      <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
+    </svg>
+  </symbol>
+  <symbol id="svg-moon" viewBox="0 0 24 24">
+    <title>Dark mode</title>
+    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+      stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" class="icon-tabler-moon">
+      <path stroke="none" d="M0 0h24v24H0z" fill="none" />
+      <path d="M12 3c.132 0 .263 0 .393 0a7.5 7.5 0 0 0 7.92 12.446a9 9 0 1 1 -8.313 -12.454z" />
+    </svg>
+  </symbol>
+  <symbol id="svg-sun-half" viewBox="0 0 24 24">
+    <title>Auto light/dark mode</title>
+    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+      stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" class="icon-tabler-shadow">
+      <path stroke="none" d="M0 0h24v24H0z" fill="none"/>
+      <circle cx="12" cy="12" r="9" />
+      <path d="M13 12h5" />
+      <path d="M13 15h4" />
+      <path d="M13 18h1" />
+      <path d="M13 9h4" />
+      <path d="M13 6h1" />
+    </svg>
+  </symbol>
+</svg>
+
+<input type="checkbox" class="sidebar-toggle" name="__navigation" id="__navigation">
+<input type="checkbox" class="sidebar-toggle" name="__toc" id="__toc">
+<label class="overlay sidebar-overlay" for="__navigation">
+  <div class="visually-hidden">Hide navigation sidebar</div>
+</label>
+<label class="overlay toc-overlay" for="__toc">
+  <div class="visually-hidden">Hide table of contents sidebar</div>
+</label>
+
+
+
+<div class="page">
+  <header class="mobile-header">
+    <div class="header-left">
+      <label class="nav-overlay-icon" for="__navigation">
+        <div class="visually-hidden">Toggle site navigation sidebar</div>
+        <i class="icon"><svg><use href="#svg-menu"></use></svg></i>
+      </label>
+    </div>
+    <div class="header-center">
+      <a href="../index.html"><div class="brand">Wikisocion</div></a>
+    </div>
+    <div class="header-right">
+      <div class="theme-toggle-container theme-toggle-header">
+        <button class="theme-toggle">
+          <div class="visually-hidden">Toggle Light / Dark / Auto color theme</div>
+          <svg class="theme-icon-when-auto"><use href="#svg-sun-half"></use></svg>
+          <svg class="theme-icon-when-dark"><use href="#svg-moon"></use></svg>
+          <svg class="theme-icon-when-light"><use href="#svg-sun"></use></svg>
+        </button>
+      </div>
+      <label class="toc-overlay-icon toc-header-icon" for="__toc">
+        <div class="visually-hidden">Toggle table of contents sidebar</div>
+        <i class="icon"><svg><use href="#svg-toc"></use></svg></i>
+      </label>
+    </div>
+  </header>
+  <aside class="sidebar-drawer">
+    <div class="sidebar-container">
+      
+      <div class="sidebar-sticky"><div class="sidebar-scroll"><a class="sidebar-brand" href="../index.html">
+  
+  
+  <span class="sidebar-brand-text">Wikisocion</span>
+  
+</a><form class="sidebar-search-container" method="get" action="../search.html" role="search">
+  <input class="sidebar-search" placeholder=Search name="q" aria-label="Search">
+  <input type="hidden" name="check_keywords" value="yes">
+  <input type="hidden" name="area" value="default">
+</form>
+<div id="searchbox"></div>
+</div>
+      </div>
+      
+    </div>
+  </aside>
+  <div class="main">
+    <div class="content">
+      <article role="main">
+        <div class="content-icon-container">
+          <div class="theme-toggle-container theme-toggle-content">
+            <button class="theme-toggle">
+              <div class="visually-hidden">Toggle Light / Dark / Auto color theme</div>
+              <svg class="theme-icon-when-auto"><use href="#svg-sun-half"></use></svg>
+              <svg class="theme-icon-when-dark"><use href="#svg-moon"></use></svg>
+              <svg class="theme-icon-when-light"><use href="#svg-sun"></use></svg>
+            </button>
+          </div>
+          <label class="toc-overlay-icon toc-content-icon" for="__toc">
+            <div class="visually-hidden">Toggle table of contents sidebar</div>
+            <i class="icon"><svg><use href="#svg-toc"></use></svg></i>
+          </label>
+        </div>
+        <div class="section" id="signs-of-functions-of-model-a-by-eglit">
+<h1>Signs of Functions of Model A by Eglit<a class="headerlink" href="#signs-of-functions-of-model-a-by-eglit" title="Permalink to this headline">¶</a></h1>
+<div class="line-block">
+<div class="line">Published by <a class="reference internal" href="eglit.html"><span class="doc">Irina M. Eglit</span></a> in <em>Socionics,
+mentology, and psychology of personality.</em> - 2007. -  2.</div>
+<div class="line"><a class="reference external" href="http://socionicasys.org/biblioteka/statji/znaki-funkcij">Original
+article.</a></div>
+</div>
+<div class="section" id="introduction">
+<h2>Introduction<a class="headerlink" href="#introduction" title="Permalink to this headline">¶</a></h2>
+<p>Keywords: <em>TIM model of the psyche, mental function, signs of mental
+functions, the concept of signs of mental functions, aspects of
+information flow</em>.</p>
+<blockquote>
+<div><p>Abstract: In this publication, we will examine the theoretical
+background, peculiarities of manifestations, and practical
+observations of signs functions of Model A. The results of this
+investigation will be illustrated by real examples taken from typing
+practice. We has also included practical recommendations for the
+experts on use of signs of socionics functions for the purpose of
+verification of TIMs.</p>
+</div></blockquote>
+<p>The signs of the functions are an important element of the type model.
+Initially, signs of the functions have been introduced to match the
+observations of the functioning of psyche of representatives of
+different TIMs with the theoretical model [1]. If we draw an analogy
+between mental functions and certain kind of virtual processors of
+information, the signs of the functions would pertain to the “operating
+system” of these processors that provides for the functioning of
+“working programs” of mental functions which process the information of
+certain aspects. It is important to note that the information aspects in
+themselves, as constituents of the informational flow, do not have signs
+in the sense that will be discussed below [4].</p>
+<p>Substantiation of sign notations presents a known difficulty, since it
+is tied to the system interactions in the socion, specifically, the
+operation of octave rings of the socion (groups of asymmetric
+interactions of TIMs ? see [4, Sec. 8.3]). At present time (2007), there
+exists no clear theoretical basis for sign notation. There is also no
+consensus on sign definitions and implications. Despite this, the
+concept of sign notation has taken root, because it works well on a
+practical level and can explain phenomena of information processing that
+cannot be explained otherwise.</p>
+<p>However, not all socionics schools interpret and apply functional signs
+in the same ways. Due to different understandings of signs by different
+socionics schools, it is difficult, and sometimes even impossible, to
+approach this topic outside of the paradigm of a particular approach.</p>
+<p>The purpose of this article is to review the manifestations of signs of
+functions that have been observed in typing practice within the paradigm
+of School of System Socionics (SSS). The work of typers from School of
+System Socionics, who conduct typing on the site
+<a class="reference external" href="http://en.socionicasys.org/">socionicasys.org</a> using methods
+developed by V. D. Ermak, serves as the material for this article. SSS
+typers base their TIM evaluations on properties imparted by the signs
+mental functions, as was proposed by <a class="reference internal" href="gulenko.html"><span class="doc">V. V. Gulenko</span></a> [1] and further clarified by <a class="reference internal" href="ermak.html"><span class="doc">V. D. Ermak</span></a> [4]. Another goal of this study have
+been a comparison of the practical results that have been obtained with
+other conceptual interpretations of signs. The material should be useful
+for practicing typers, as in this article we will address how to
+identify signs using numerous examples from real typings, show
+indicators of manifestations of signs, draw attention to some difficult
+and contentious instances, and offer recommendations, that are results
+of careful research of this topic in practice.</p>
+</div>
+<div class="section" id="the-history-of-the-question-theoretical-background">
+<h2>The history of the question. Theoretical background.<a class="headerlink" href="#the-history-of-the-question-theoretical-background" title="Permalink to this headline">¶</a></h2>
+<p>The concept of signs of socionic functions was proposed in 1989 by the
+Kiev socionist V. V. Gulenko [1]. Within this interpretation, signs of
+the functions are defined by the direction of flow of information in the
+rings of social progress. V. V. Gulenko writes: “It would be logical to
+assume that the first function of all the sociotypes in the left ring of
+socioprogress (negating, revolutionary, discontinuous) carries the “?”
+sign, while the first function of sociotypes involved in the right ring
+of socioprogress (affirming, evolutionary, sequential) carries the “+”
+sign ” [1]. As a reminder, the left ring socioprogress is comprised of
+TIMs: ESE, LII, SLE, IEI, LIE, ESI, EEI, SLI (<a class="reference internal" href="process_result.html"><span class="doc">“left/result” types</span></a>). The right ring of socioprogress is
+comprised of types: ILE, SEI, EIE, LSI, SEE, ILI, LSE, EII
+(<a class="reference internal" href="process_result.html"><span class="doc">“right/process” types</span></a>).</p>
+<p>The semantics of functional signs i.e. the properties imparted by the
+signs of functions, V. V. Gulenko has formulated as follows: “The sign
+of a function in socioanalysis transmits the following aspects. First,
+it indicates the quality of the function: “+” a positive assessment of
+the quality, “?” a negative evaluation. Second, it indicates the scale
+of function: “+” means details, specifics, “?” means large scale, a
+general plan, a global consideration. Third, it indicates the distance
+of the effect of the function: “+” means that the function manifests at
+a short distance from the reference point, “?” means at a far distance.
+Fourth, the sign reflects the direction of the function: “+” means
+addition, acceptance, movement towards oneself, “?” means separation,
+return, movement away from oneself [1]. The term “aspects”, used by V.
+V. Gulenko here, carries the connotation of “the contextual side of
+properties of functions.”</p>
+<p>Next, V.V. Gulenko writes:</p>
+<blockquote>
+<div><p>Based on this proposed placement of signs of functions, we can
+decipher the meaning of each. Socionic functions, in our view, carry
+the following semantic content:</p>
+<p>+ Fe - positive emotions, joy, merriment, emotional elation,
+excitement, a smile, laughter, enthusiasm, optimism, good mood, the
+experience of happiness;</p>
+<p>- Fe - negative emotions, grief, sorrow, sadness, emotional
+recession, depression, crying, tears, frustration, pessimism, poor
+mood, the experience of unhappiness;</p>
+<p>+ Fi - good relations, love, friendship, affection, attraction,
+warmth in relations, sociability, close psychological distance,
+goodness, compassion;</p>
+<p>- Fi - poor relations, hatred, animosity, antipathy, repulsion,
+indifference in relations, alienation, unsociability, remote
+psychological distance, wickedness, mercilessness;</p>
+<p>+ Te - useful, beneficial, economical, technology, facts,
+acquisition, stockpiling, purchases, savings, bringing order,
+practicality;
+- Te - useless, unprofitable, wasteful, utilization, deterioration,
+exhaustion, costs, expenses, risk-taking, experimentation, sales,
+trade, action in atmosphere of chaos, ingenuity;</p>
+<p>+ Ti - specificity, itemization, detailed study, thoroughness,
+accuracy, strictness, place in hierarchy, regulations, instructions,
+choosing the best option, precision of function, logic of
+organization, indicators, reporting;</p>
+<p>- Ti - abstractness, generality, universality, system,
+classification, typology, general regularities, objectivity, truth,
+justice, comprehensive review, analysis, dissection, the logic of
+science, criteria;</p>
+<p>+ Ne - prospects, opportunities, positive potential, core meaning,
+essence, principle, new ideas, advancing hypotheses, theory, insight,
+interest, originality, unusual, fantastical, hopefulness;</p>
+<p>- Ne - hopelessness, alternatives, negative potential,
+meaninglessness, absurdity, paradox, the forgotten and the old,
+insight, mediocrity, commonness, repressed possibilities, reality,
+disbelief, sensation[hit];</p>
+<p>+ Ni - future, change in the situation over time, prediction,
+premonition, gradual development, evolution, gradual ascent, the
+dynamics of change, the flow of time, imagination, harmonious
+description, subtle step-by-step changes, convergence, confluence;</p>
+<p>- Ni - past, accounting for errors, avoidance of danger, anxiety, a
+worrying premonition, a warning, the ripening of a crisis,
+revolution, a leap in time, ability to hedge against troubles, sudden
+shifts, discordant description, the moment of decisive action,
+divergence, deviation;</p>
+<p>+ Se - retention of power, insubordination, defense, cover,
+countermove, counterattack, firmness, defense of one’s interests,
+strong-willed pressure from the bottom upwards, strength, will,
+possession;</p>
+<p>- Se - capture of power, subjugation, offensive attack, initiative,
+perseverance, determination, demands, strong-willed pressure from top
+downwards, the assertion of own interests at the expense of others,
+overthrowing, appropriating, weakness, passivity;</p>
+<p>+ Si - pleasant sensations, comfort, convenience, harmony, beauty,
+attraction, leisure, health, relaxation, well-being, pleasure,
+enjoyment, sensitivity;</p>
+<p>- Si - unpleasant thrill sensations, discomfort, inconvenience,
+disharmony, ugliness, unattractiveness, work, fatigue, stress,
+illness, suffering, pain [1].</p>
+</div></blockquote>
+<p>It is difficult to agree with such interpretation of semantic content of
+properties imparted by the signs of functions. Indeed, a person of TIM
+ESE (with first function of ?Fe) cannot always be in a state of
+“negative emotions, grief, sadness, emotional recession, crying,
+frustration, pessimism, the experience of adversity …”  good moods
+and feelings of happiness are not alien for people of this type. The
+outlook of a person of TIM LIE (?Te) is not dominated only by “…
+uselessness, lack of profits, utilization, depreciation, costs,
+expenses, risk-taking …”. Practical experience of any observant
+socionist will indicate that this is wrong. An analysis of actual
+results of identification of TIMs (typings) indicates a more complex
+structure of the properties imparted by the signs of functions.</p>
+<p>In the above-mentioned work, V. V. Gulenko has denoted the signs only of
+the first (base) function. He did not clarify how the signs of other
+functions are to be assigned and distributed across the TIM models. The
+results of further such assignments indicate the following: the signs of
+functions alternate starting with the first, and for functions of same
+E/I-orientation they coincide.</p>
+<p>A. V. Bukalov, making a presentation at one of the socionics conferences
+and agreeing with the proposed by V. V. Gulenko assignment of signs of
+functions of the Mental superblock, has commented, however, that the
+signs of functions of the vital ring should be, in his view, opposite to
+the signs of corresponding functions of the mental ring, and should
+coincide with the signs of functions of the dual TIM. A. V. Bukalov did
+not forward a further explanation of this concept.</p>
+<p>Later, V. V. Gulenko introduced a new system of signs, coming from
+Reinin traits “Positivism/Negativism” and “Static/Dynamic”, and offered
+the following explanation of this new development:</p>
+<blockquote>
+<div><p>“The plus (+) sign is usually associated with a trait of
+sustainability, immobility, while minus () sign is associated with a
+trait of transience, mobility. An example from physics: negatively
+charged electrons are in motion around the positively charged atomic
+nucleus. Consequently, static trait is positive and dynamic trait is
+negative. In this work [Structural and functional model  Kiev, 1997
+/ / “Socionics, mentology and psychology of personality” 1998,  4] I
+will be considering the top ring of model A, irrespective of which
+sociotype is being considered, as the static one, and the bottom ring
+as the dynamic one. The ring of stabilization (top ring) is
+therefore a carrier of positive charge, and the ring of development
+(lower ring) is thus negatively charged. The ring of stabilization
+can thus be considered functional, and the ring of development
+dysfunctional.”</p>
+</div></blockquote>
+<p>In regard to the trait “Positivism/Negativism” he wrote: “… the
+communicative functions of Positivists are best denoted with a plus
+sign, the functions of the Negativists  with a minus sign. The sign of
+function applies equally to the positions of the upper and the lower
+rings of model A” [2].</p>
+<p>V. V. Gulenko has also changed his position on the semantics of signs.
+V. Ledin (a student of Vladimir Gulenko) writes:</p>
+<blockquote>
+<div><p>“In the first version of sign interpretations, V. Gulenko has
+suggested four properties: distance, quality, scale, and orientation,
+because these qualities comprised the semantic core of Left/Right
+orientations at the time of the publication of this version. However,
+further studies on Reinin traits have shown that it is only distance
+and scale (which are in essence the same thing) that have any
+relation to the “Left/Right” trait, while direction and quality have
+a relation to the trait of “Positivism/Negativism”. It is noteworthy
+that independently from our school E. Filatova has arrived at the
+same conclusion based on her own practical experience [3] (see E. S.
+Filatova “Reconsidering “the signs of Socionics functions” V.
+Gulenko”, SMiPL number 3, 1998 [6]).”</p>
+</div></blockquote>
+<p>V. D. Ermak has complemented the theory of signs (1), originally
+proposed by V. V. Gulenko , and introduced the concept of “areas of
+competence “(confident understanding, orientation) and “areas of
+incompetence “(uncertainty, disorientation) of the functions of TIMs
+[4]. According to V. D. Ermak (see Fig. 1), the zone of competence of a
+function carrying a plus sign is the plus zone (in the positive), “from
+zero and above”, with simultaneous incompetence in the minus zone (in
+the negative), while the zone of competence of function carrying a minus
+signs is both the minus zone (the negative) and the plus zone (the
+positive).</p>
+<img alt="../_images/signs.gif" class="align-center" src="../_images/signs.gif"/>
+<p>Fig. 1. The property of “quality” determined by the signs – areas of competence (confident understanding, orientation) and incompetence (uncertain understanding, disorientation) of functions. (From book of V. D. Ermak [4])</p>
+<p>Properties of the functions imparted to them by signs V. D. Ermak
+describes as follows (clarifications of definitions by V. V. Gulenko)
+[4]:</p>
+<p><strong>Quality</strong></p>
+<ul class="simple">
+<li><p>+ sign - the “positive”, competence in the positive zone of properties and incompetence in the negative zone;</p></li>
+<li><p>- sign - withdrawal from the “negative”, leaving negative properties for positive ones, competence in both positive and negative zones;</p></li>
+</ul>
+<p><strong>Scale</strong></p>
+<ul class="simple">
+<li><p>+ sign - locality, the “big plan”, concretization, detalization within the sphere of the function;</p></li>
+<li><p>- sign - globality, “the general plan,” universality of the function;</p></li>
+</ul>
+<p><strong>Direction</strong></p>
+<ul class="simple">
+<li><p>+ sign - the orientation into the sphere of the responsibility of the function (interest in protection of “own circle”);</p></li>
+<li><p>- sign - the orientation outside of the sphere of responsibility of the function (influence, “pressure” exerted on other “localities”);</p></li>
+</ul>
+<p><strong>Distance</strong></p>
+<ul class="simple">
+<li><p>+ sign - “close” psychological distance;</p></li>
+<li><p>- sign - “far” psychological distance.</p></li>
+</ul>
+<p>It should be noted that the introduction of the concept of “competence
+areas” of signs by V. D. Ermak clearly shows that a sign is a marker
+rather than a dichotomy or a polarity. A sign is an attribute of the
+function (an essential, inherent property that characterizes information
+processing conducted by this function), rather than a classification
+trait. The structure of signs is asymmetric, therefore it should not be
+concluded that the function with a minus sign cannot orient in the plus
+region. This mistake is often committed by those who first become
+acquainted with the theory of signs.</p>
+<blockquote>
+<div><p>A function with a plus (+) sign orients in the zone of the positive
+(plus zone) and does not orient in the zone of the negative (minus
+zone).
+A function with a minus (?) sign orients in both the negative (minus)
+and positive (plus) zones.</p>
+</div></blockquote>
+<p>It is also necessary to draw into attention that a sign is an attribute
+of a function and not of the aspect of the information flow: “Aspects of
+information flow do not have signs” [4].</p>
+</div>
+<div class="section" id="practice">
+<h2>Practice<a class="headerlink" href="#practice" title="Permalink to this headline">¶</a></h2>
+<p>In practice observations of the manifestations of signs in different
+functions, based on theoretical conception of Gulenko-Ermak, allow for
+some further clarifications of the above descriptions of the properties
+of signs. The work on studying functional signs was conducted in process
+of typing analyses performed at School of System Socionics, the results
+of which were documented. TIMs of people who have been typed at SSS were
+confirmed not only through correlation of their answers with the TIM
+models, but also by observation after typing. Let’s consider some of the
+in-field results of this study of signs of functions in the model A.</p>
+<div class="section" id="the-property-of-quality">
+<h3>The property of “quality”<a class="headerlink" href="#the-property-of-quality" title="Permalink to this headline">¶</a></h3>
+<p>The property of “quality”, when it is attributed to a function with a
+plus (+) sign, is described as “the positive”, competence in the
+positive zone of properties and incompetence in the negative zone. When
+the property of “quality” is attributed to a function with a minus (?)
+sign, it is described as a departure from “the negative”, moving away
+from the negative traits towards positive ones, competence in both
+negative and positive regions.</p>
+<p>This “quality” property manifest quite brightly in functions that
+process information on aspects Fi, Fe, Ti, Te, Ni, Ne, Si, Se.</p>
+<div class="section" id="function-with-the-plus-sign">
+<h4>Function with the “plus” sign<a class="headerlink" href="#function-with-the-plus-sign" title="Permalink to this headline">¶</a></h4>
+<p>The property of “quality” of the “minus” sign, described as “movement
+away from the negative”, needs to be further explained. Observations
+show that the “movement away from the minus zone” is characteristic not
+only of minus functions, but also of plus functions. However, the
+reasons for this “departure” are different depending on the sign. The
+plus (+) function is incompetent in the “minus” region, so its
+“departure” is due to the wish to not fall into the “minus zone” at all
+? this departure is most similar to an escape or flight. The plus (+)
+function loses its orientation when it is in the “minus zone”, thus it
+does not know how to react and its reactions may be completely
+inadequate.</p>
+<blockquote>
+<div><p>A function attributed a plus (+) sign avoids the “minus zone” on
+property of “quality” due to its incompetence in this area.</p>
+</div></blockquote>
+<p>Naturally, this is reflected in desire of a person to quickly leave the
+“minus zone” by all means possible, in both the real sense and in the
+psychological sense: “I see nothing, I hear nothing.”</p>
+<p><strong>Examples of incompetence of a plus (+) function in the “minus zone”:</strong></p>
+<div class="admonition-example admonition">
+<p class="admonition-title">Example</p>
+<p><em>What is your understanding of poor taste? Can you give an example?</em></p>
+<p>“No, I cannot … I can hardly ever say this about anyone, that they
+have poor taste.”</p>
+<p>(+Se : EII “Dostoevsky”)</p>
+</div>
+<div class="admonition-example admonition">
+<p class="admonition-title">Example</p>
+<p><em>Someone expresses their negative attitude towards yourself. What is
+your reaction? Can you easily express (show, demonstrate) to another
+person your own negative attitude? If so, how? Can you experience a
+prolonged negative deposition towards someone? Do you forgive if you
+have been slighted?</em></p>
+<p>“Blatantly obvious negative attitude I have encountered only once. I
+tried being friendly and making contact with this person. Still,
+through various nuances of communication this person showed his
+antipathy. In the end, I simply quit trying to make contact, but I
+did not overstep the boundaries of my goodwill. From my end,
+expressions of negative attitudes are very rare. This ruins my own
+mood, so I feel a desire to maintain harmony even while responding to
+the negative. Strange, but this is true. Insults, it seems, I
+forgive. Just now I’ve attempted to remember some past offenses, and
+I couldn’t do it. This means that I have already forgiven them.”</p>
+<p>(+Se : EII “Dostoevsky”)</p>
+</div>
+<div class="admonition-example admonition">
+<p class="admonition-title">Example</p>
+<p>“To me it seems to be quite an intimate moment, and if a person is
+crying in a public place, I’ll pretend that I haven’t noticed it,
+because after a while he or she may regret it and doesn’t need more
+worries. Let him cry his soul out, it’s not my business. There is
+also a hysterical type, the kind that wants to attract attention to
+him or herself  this angers me. Typically, women cry not in
+beautiful manner, especially older women, they cry like weeping
+alcoholics, and this is unpleasant.”</p>
+<p>(+Fe : EIE “Hamlet”)</p>
+</div>
+<div class="admonition-example admonition">
+<p class="admonition-title">Example</p>
+<p><em>Give some examples of inappropriate expression of emotions.</em></p>
+<p>“I don’t like turbulent shows of emotion. Any emotions, negative or
+positive, and various types of hysterics. In regard to inappropriate
+expressions  hmm … I don’t know, may be, when, for example, there
+was a situation where a person could cry and lament, and then it
+passed, but this person is still recalling it  not as an event, a
+fact, but with the same sobs and lamentations as before. Though
+logically the situation should have already bee resolved and quieted
+down.”</p>
+<p>(+Fe, rejection of “minus” : EIE “Hamlet”)</p>
+</div>
+<div class="admonition-example admonition">
+<p class="admonition-title">Example</p>
+<p>“I would rather want to see only good things in people. I see some
+negatives in people, but I think that it won’t get expressed towards
+me, I don’t want to understand that it could be directed at me. I
+think that if one treats another person well, that person will repay
+in kind. And when my expectations are not met, this for me is not
+surprising. Just a crumbling of my ideals. But for some reason my
+gullibility continues as before - I want and I will see only the
+good.”</p>
+<p>(+Ne : IEI “Esenin”)</p>
+</div>
+<div class="admonition-example admonition">
+<p class="admonition-title">Example</p>
+<p>“Here, one cannot simply draw something, because here we do
+production. All the designs and drafts submitted pass through me, and
+I see all the mistakes that the designer has made. From there, I have
+two choices 1) either correct the errors in the draft, give a warning
+to the designer who allowed for the mistake, and return the draft to
+him 2) or, I can ignore this matter because it wasn’t my mistake, but
+his, while my responsibility is to create technical itinerary and
+programs EXACTLY by the provided design. But I cannot ignore it. If I
+see that someone has made a mistake in their design, I can’t let it
+go. I will even go to my enemy, and say  here you’ve made a mistake.
+To be honest … for me, I don’t know how to explain this  this
+would mean producing defects. I cannot do a poor job, or rather I
+will not … My conscience won’t allow me to pass by something if I
+see it being done poorly.”</p>
+<p>(+Te : LSE “Stirlitz”)</p>
+</div>
+<div class="admonition-example admonition">
+<p class="admonition-title">Example</p>
+<p><em>Is it true that all that happens, happens for the better?</em></p>
+<p>“This is what creates interest. First, something has happened. How,
+why, for what?? And only then you begin to realize that everything
+happened naturally, and that it couldn’t have been any different …
+and so it turns out that all that happens, happens for the better,
+now and afterwards.”</p>
+<p><em>Please give examples to illustrate this statement.</em></p>
+<p>“After the Great Depression in U.S., several laws got passed for the
+regulation of the banking and monetary systems. During these times of
+turmoil, people would lose their homes, but now, in present times,
+this is unheard of  you won’t get evicted from your home as long as
+you pay. Before, in times of Great Depression, they closed the loans
+in view of the general great material losses. Renters weren’t
+considered at all. And there you have it, the suffering of present
+times can similarly serve as the beginning of changes for the better,
+and thus things happen for the better, for future progress.”</p>
+<p>(+Ni : LIE “Jack”)</p>
+</div>
+</div>
+<div class="section" id="function-with-the-minus-sign">
+<h4>Function with the “minus” sign<a class="headerlink" href="#function-with-the-minus-sign" title="Permalink to this headline">¶</a></h4>
+<p>The minus () function is competent in the “minus zone”, capable of
+orienting in this “minus”, but may not wish to remain in the “minus”
+(specifically, the “qualitative minus”) because this is not satisfactory
+for it. For the minus () function, the movement away from the zone of
+the minus is not an escape or a flight, but a choice.</p>
+<p>This phenomenon of “movement away from the negative” is not observed in
+manifestations of signs on property of “scale” and is less pronounced on
+properties of “orientation” and “distance”. A “minus” with property of
+“scale” shows itself as the globality of scope, while departure towards
+the “plus” entails specification, which the minus () function doesn’t
+want to do. The minus () function with properties of “orientation” and
+“distance” may remain in the “plus zone”, not directing its influence to
+the outside and staying at a close range, in cases when it faces some
+limitations, such as rules and habits. Such limitations on
+manifestations of signs are evaluated not as something characteristic of
+TIM, but as a distortion. For example, if SLE (“Zhukov”) does not want
+to expand his or her area of control or SEE (“Caesar”) does not seek to
+broaden his or her circle of interaction and use it for furthering own
+interests.</p>
+<p>Why do limitations of the “minus” on the property of “quality” seem so
+appropriate? It is possible that this is a natural result of the
+negative assessment of certain phenomena in society, such as
+unethicalness, rudeness, discomfort, dirt, untidiness, stupidity,
+aggression, anger, sloth, short-sightedness, etc. Even on a
+multi-dimensional functions a person does not want to live in such
+“negative.” And if he has a choice  to be in the “minus” or leave it
+most likely he will leave such “negatives”. SLI (“Gabin”)  moves away
+from discomfort, “minus” in Si; SEE (“Caesar”)  move away from
+rudeness, “minus” in Fi; LIE (“Jack”)  moves away from inactivity,
+“minus” in Te; LII (“Robespierre”)  moves away from illogic, “minus” in
+Ti, etc. They can exist in this “minus”, can realize it situationally,
+but can also leave it and move towards the “plus” (quality), while
+keeping a “minus” on other properties (magnitude, direction, distance).</p>
+<p><strong>Important note for typers!</strong>  Based on the above, in process of
+typing, make sure to clarify the cause behind “movement away from the
+negative”, as well as to check for the sign not only on one property but
+also on other properties. It is possible to carry out this verification
+not only of one information aspect, but of all information aspects that
+have the same I/E orientation.</p>
+<p><strong>Examples of competence of function with minus () sign in the negative
+zone:</strong></p>
+<div class="admonition-example admonition">
+<p class="admonition-title">Example</p>
+<p>“I avoid conflicts simply because, without any specific goal.
+Although sometimes I’ll go for a conflict in order to shake things up
+and for enjoyment. But I do this only in cases when it’s not going to
+become too serious and will not deeply hurt anyone.</p>
+<p>I never think: one shouldn’t argue with this person out of self
+benefit. Simply why argue when one can do without it? Yesterday I
+have talked to five people for whom I don’t have any friendly
+feelings. There was no benefit from talking to them, and no negative
+consequences if I showed my true attitude. But they want to be
+friends with me so why not. I will express the most good and friendly
+attitude. My true attitude towards someone, incidentally, gets
+expressed in a form of “bonuses”, that is, I will do something extra
+or special for that person, something that I won’t do just for
+anyone. Those who don’t know about this, think that I am friendly and
+positive towards everybody.</p>
+<p>Regarding remembering wrongdoings and grudges  on one hand, slights
+I remember forever, but only as a “fact of grievance”. On the other
+hand, it’s not a given that I will resent the person and dream about
+getting revenge  I can peacefully interact with an offender. I will
+simply make a mental note that this person has treated me poorly,
+which means either that this is a bad person or that this person has
+negative attitude towards me. In either case, this is useful and
+important for me information that should not be forgotten.</p>
+<p>In this sense I do remember everything bad, even minor things, and
+remember them for the entire life. Good things I may forget. Because
+for me the good things are not as important  if you forget that a
+person has treated you well, this is less dangerous than forgetting
+that he or she has treated your poorly, and is capable various bad
+and malicious behavior.</p>
+<p>Here’s one more thing: I acutely feel bad or poor attitudes  towards
+myself or between other people. I see poor attitude immediately and I
+am never wrong in this. Meanwhile, in good relations I orient rather
+poorly … Two days ago my boyfriend has introduced one of my friends
+to his friend. I watched the couple the entire evening, but couldn’t
+discern if his friend liked her or not. There were no signs of
+negative attitude, that’s for sure, but I couldn’t estimate the
+degree of good relations between them either.</p>
+<p>I show my negative attitude when interactions with someone ruin my
+mood. In such cases, I can forget about the benefits of our
+interaction and about the negative consequences of conflict. If a
+person drives me into a depressed state, I cannot hide my negative
+relation to him.”</p>
+<p>(-Fi, mental, during uncertainty in Ne : ESI “Draiser”)</p>
+</div>
+<div class="admonition-example admonition">
+<p class="admonition-title">Example</p>
+<p>“I express a good attitude by smiles, glances, nods and affirmations,
+compliments, gifts, and some protection from rude replicas from
+outside, by carefully listening to all their problems, using the
+pronoun “we” sometimes in context of “against them” (it sounds like
+“we are together” and “they are far from us”). If I like a clerk in
+the store, then I smile and say “thank you”. On May 9th [WWII Victory
+Day], I bought some carnations and presented them to a nice veteran
+man with whom I’m not even familiar. Poor attitude  by nitpicking
+what a person says, sharpness, barbs, ridicule, derision, displays of
+disdain, purposeful disregard, and a general arrogant attitude
+towards the person (“with the likes we don’t bother.”)”</p>
+<p>(-Fi : EIE “Hamlet”)</p>
+</div>
+<div class="admonition-example admonition">
+<p class="admonition-title">Example</p>
+<p><em>What do you understand by the word “reflection”? In what form is it
+familiar to you?</em></p>
+<p>“Self-discovery with a negative sign. That is, attempts to find
+something bad in myself without trying to find something good (I
+think that I’m very familiar with the good, and therefore I don’t
+purposefully search for it). In general, reflection from a
+philosophical point of view, as far as I know, means the process of
+self-discovery.”</p>
+<p><em>Why would a person (you, in this case) look for something bad? Does
+this help you in life somehow? What is to be done with this
+information?</em></p>
+<p>“Masochism in a separate home [?]. I also think that this is one of
+defensive reactions: nobody thinks worse about me than I think about
+myself. This means that they won’t be able to unexpectedly hurt me,
+to strike at me, to jab and offend me. If they want to offend me,
+they will first need to break through a wall.”</p>
+<p>(-Fe : EII “Dostoevsky”)</p>
+</div>
+<p>The property of “minus” in a function manifests, on one hand, as a
+selection, a highlighting of primarily the negative, and, on the other
+hand hand  as the desire to cut off anything superfluous (in such
+examples one can track the “direction” of the minus function). The
+“plus” for a minus function is therefore all that remains after removal
+of all that was superfluous. For example, a well-known statement of
+sculptor Rodin about the essence of his work: “I take a block of marble
+and cut off all that is unnecessary.” This phrase mirrors the processing
+of information by a minus (?) function. This particularity also gets
+reflected in the statements of someone being typed that were made from a
+function with a “minus” sign.</p>
+<p><strong>Important note for typers!</strong>  It must be remembered that the plus (+)
+function can also provide a description of that which lies beyond the
+sphere of its competence. The form of such statements will be similar to
+those of a minus function. In order to not make a mistake in this, the
+thinking of the person must be assessed as a whole instead of relying on
+a few particular phrases. A minus function, after eliminating the
+superfluous, won’t go into describing the “plus” that is left behind,
+that which it deemed acceptable. A plus function, after eliminating the
+excess, will go deeper into descriptions of the remaining, acceptable
+plus.</p>
+<p><strong>Examples of highlighting of primarily negative, “minus” manifestations
+by minus functions:</strong></p>
+<div class="admonition-example admonition">
+<p class="admonition-title">Example</p>
+<p><em>What is sequential narration?</em></p>
+<p>“There are no deviations from the subject matter, no “lyrical
+digressions” for a hundred pages, no interruptions of the time
+continuum (with an exception of when the main topic or the result are
+presented in the beginning, followed by explanations of why and how
+this occurred).”</p>
+<p>(-Ti : EIE “Hamlet”)</p>
+</div>
+<div class="admonition-example admonition">
+<p class="admonition-title">Example</p>
+<p><em>What is consistency?</em></p>
+<p>“It’s easier to say what is inconsistency.”</p>
+<p>(-Ti : SLI “Gabin”)</p>
+</div>
+<div class="admonition-example admonition">
+<p class="admonition-title">Example</p>
+<p>“A beautifully dressed person  is a person whose presentation is
+harmonious, not containing any contradictions and absurdities. One’s
+image should be in harmony not only in itself but also with the
+person, with their personality. All of this together begets beauty.”
+“The essence of beauty  is in harmony, as I have said. When you look
+at the person and it’s pleasant to do so, when nothing hurts your
+eyes, when you experience pleasure from looking at them as a whole
+and studying the details of their appearance. This is beauty – when to look is pleasant.”</p>
+<p>(?Si : SLI “Gabin”)</p>
+</div>
+<div class="admonition-example admonition">
+<p class="admonition-title">Example</p>
+<p><em>What is coziness? What is comfort? How do they differ? What do you
+do to create coziness? Comfort?</em></p>
+<p>“When there is nothing irritating, a pleasant environment, warm
+company … Coziness pertains to home environment, while comfort can
+be found anywhere … To create coziness  I usually gather a company
+where we all know one another and there is no contrariety … To
+create comfort  simply remove majority of the irritating objects and
+items.”</p>
+<p>(-Si : IEI, “Esenin”)</p>
+</div>
+</div>
+</div>
+<div class="section" id="property-of-scale">
+<h3>Property of “scale”<a class="headerlink" href="#property-of-scale" title="Permalink to this headline">¶</a></h3>
+<p>The property of “scale” when it is attributed to a function with a
+“plus” sign is described as a locality, “close view”, concretics,
+detalization within “one’s own circle”. When the property of “scale” is
+attributed to a function with a “minus” sign, it is described as
+globalization, “general view”, universality of the function. The
+property of “scale” is most vividly and readily observable with
+functions that process information on aspects of Ti, Te, Ni, Ne, Fi, Si.</p>
+<div class="section" id="plus-functions-limitations-of-a-plus-function">
+<h4>Plus (+) functions: limitations of a plus function<a class="headerlink" href="#plus-functions-limitations-of-a-plus-function" title="Permalink to this headline">¶</a></h4>
+<p>Analysis of responses of volunteers being typed shows that when speaking
+from the plus (+) function, the person seeks to delineate the boundaries
+of their competence on this aspect of information. This is a significant
+and characteristic feature of the “plus” sign, which follows from its
+own properties. For example, LSE (“Stirlitz”) initially speaks of
+concrete objects that are familiar to him (+Te), EII (“Dostoevsky”)
+speaks of specific relationships (+Fi), LSI (“Maxim”) speaks of specific
+rules and regulations (+Ti); ILE (“Don Quixote”) speaks of concrete
+possibilities, etc.</p>
+<p>If the conversation is steered towards the “minus zone”, towards general
+or abstract discussion (or the question is made from the “minus zone”),
+the person with a plus function will be able to come up with an answer,
+but he or she will generalize through a different function that carries
+a “minus” sign. While at this task, inside he will make the following
+operations: thinking in the “plus zone” (specific examples, situations)
+generalization using the minus of another function (usually within the
+framework of one macro-aspect of information)  response. For example, a
+question about work “in general” for SLE (“Stirlitz”) brings to mind a
+flow of various examples of concrete activities this person has been
+carrying out, then generalization happens on “minus” Ti, and a response
+is issued. This response may thus mislead to a typer regarding the sign
+of the function.</p>
+<p><strong>Important note for typers!</strong>  When typing someone, it is recommended
+to clarify the methods of thinking i.e. the thought process that
+accompanied the responses. This can be done by asking additional
+questions towards this purpose.</p>
+<p><strong>Examples of a plus (+) function limiting areas of competence,
+narrowing of boundaries, performing concretization and detalization:</strong></p>
+<div class="admonition-example admonition">
+<p class="admonition-title">Example</p>
+<p><em>What is the particularity of your outlook on life?</em></p>
+<p>“Not on life  at things! Well, I understand it like this, what’s
+meant here is that I see things from some particular angle, can
+advise how to get out of this or that situation, provide a layout.
+Examples, hmm … usually I take this for granted.”</p>
+<p><em>What did you mean by “things”?</em></p>
+<p>“The outlook on life is something more global, outlook on things -
+more concrete. Life is like a field for interactions of things.”</p>
+<p>(+Ne : ILE “Don Quixote”)</p>
+</div>
+<div class="admonition-example admonition">
+<p class="admonition-title">Example</p>
+<p><em>Could you describe a room that you would furnish to your taste?</em></p>
+<p>“Light, medium sized, carpet on the floor, soft, fluffy, with thick
+strands. The window is located opposite to the door, and there is a
+curtain stretching across the entire wall, soft folds, light (tulle)
+cream color. To the left  a sofa bed and lots of pillows, two chairs
+and a coffee table between them (made out of glass). To the right  a
+chest of drawers, a mirror above it, a bit further a table with a
+computer, lots of small items, shelves with various statues, vases,
+very cozy bright room.”</p>
+<p>(+ Se, the description itself consists of enumeration of concrete
+details : EII “Dostoevsky”)</p>
+</div>
+<div class="admonition-example admonition">
+<p class="admonition-title">Example</p>
+<p><em>How would you define the movement from general to specific, and from
+specific to general?</em></p>
+<p>“An example of movement from general to specific: from collective
+farms (kolkhoz) to the private economy (private firms, farmers,
+etc.). Reverse example: when individual forms of life become part of
+a bigger and stronger form of life. They can join in independently or
+have been made to do it.”</p>
+<p>(+Te, concretization, a general definition was not provided at all :
+LSI “Maxim”)</p>
+</div>
+</div>
+<div class="section" id="minus-functions-absence-of-limitations-on-areas-of-competence">
+<h4>Minus () functions: absence of limitations on areas of competence<a class="headerlink" href="#minus-functions-absence-of-limitations-on-areas-of-competence" title="Permalink to this headline">¶</a></h4>
+<p>The minus () function does not have clear boundaries. Its area of
+competence expands and extends far without a clear indication of limits.
+Responding to a question from a minus function, the person generalizes,
+“grasps” the situation as a whole or abstractly, and does not wish to
+into the details and contretics.</p>
+<p>When one listens to reasoning coming from a minus () function, observes
+the behavior and the reactions on this function, an impression emerges
+that the person, while possessing an extensive “minus zone”, is trying
+to “anchor” him/herself somewhere in the “golden middle” in order not to
+lose the wide-reaching grasp, the scale, the globality in the “minus”,
+but also to not overlook details on the “plus”. Thus, SLI (“Gabin”) and
+LSE (“Stirlitz”) do not seek to bring comfort and cleanliness to an
+ideal state, but rather they remain in a zone of acceptable discomfort.
+In clothing there is also a tendency to remain in the “golden mean”
+comfortable, convenient, but not too refined and sophisticated, not
+disharmonious, but also not a perfect fit, rather something in between.
+However, if there is a situational necessity, they may well submerge
+into the “plus” and create a combination that will amaze with its sense
+of taste, with its selection in colors, and how it fits them them, where
+every detail will be thought out. Often this search of the “golden mean”
+becomes reflected in responses.</p>
+<p><strong>Examples of absence of restrictions in areas of competence, globality
+of thinking, and a tendency to stay within the “golden mean” of the
+minus (?) functions:</strong></p>
+<div class="admonition-example admonition">
+<p class="admonition-title">Example</p>
+<p><em>How would you define the movement from general to specific, and from
+specific to general?</em></p>
+<p>General to specific: a conclusion about some properties of an object
+based on this object belonging to a certain multiple set, of which it
+is known that any of its subsets possess the same properties.</p>
+<p>Specific to general: a conclusion about the general properties of
+many objects on basis that any of its subsets have known common
+properties.”</p>
+<p>(-Ti, abstraction : LII “Robespierre”)</p>
+</div>
+<div class="admonition-example admonition">
+<p class="admonition-title">Example</p>
+<p><em>You have said that you have good “intuition”. Then why is it so
+difficult for you to prognose events for you?</em></p>
+<p>“The key word here is “events”. Forecasting events is hard for me. I
+“prognose” (though this is not the right word, rather “see” or “feel”
+something in the future) the general situation or environment, the
+balance of powers, the “aesthetics of a position”, but not the
+concrete events. These events actually may be quite random. And they
+need to be sufficiently analyzed in detail to make conclusions about
+the actual happenings and times ? which is not always easy to achieve
+and requires much effort.”</p>
+<p>(-Ni : IEI “Esenin”)</p>
+</div>
+<div class="admonition-example admonition">
+<p class="admonition-title">Example</p>
+<p><em>Which opinions of yourself coming from other people who are familiar
+with you seem to you as: 1. Just. 2. Unjust. 3. Unclear.</em></p>
+<p>“I’m not sure I understand the question. Do I need to give concrete
+examples? I can outline the gist of my opinions:</p>
+<ol class="arabic simple">
+<li><p>Just: good and bad opinions that are based on extensive interaction with me, analysis of my actions, comments, opinions, and how they relate to each other, not subject to emotional coloration, such as love, hate, resentment, etc.</p></li>
+<li><p>Unjust: immediate opinions designed to either insult or appease.</p></li>
+<li><p>Unclear: these are more likely claims, and not opinions.”</p></li>
+</ol>
+<p><em>Try to reproduce the thoughts you have had when you were trying to
+understand and answer this question.</em></p>
+<p>“My first thought was very well-defined: this question is too vague.
+Next, that I won’t be able to provide specific statements, which is
+what I wanted to write down. It was only in the process of writing
+that it occurred to me that I can try to generalize, and thus not be
+tied to specific statements. From there on it was easy, I simply
+tried to formulate what for me constitutes as fair, unfair, unclear
+in relation to people who are close to me.”</p>
+<p>(-Ne, “globality” : EII “Dostoevsky”)</p>
+</div>
+<div class="admonition-example admonition">
+<p class="admonition-title">Example</p>
+<p><em>Comment on this phrase: “Production must be of good quality.”</em></p>
+<p>“The quality of production should be enough to be satisfactory for
+the present moment. Else it won’t be able to satisfy the demand of
+population, plus the whole economic system is built, excuse me, to
+make some profit. In order to not go down the pipe financially, one
+shouldn’t purchase unnecessary things. That is, quality must be
+present, but it should correspond to the moment and to its purpose.”</p>
+<p>(-Te : LIE “Jack”)</p>
+</div>
+</div>
+<div class="section" id="globality-of-thinking-on-first-base-function-and-globality-of-minus-functions">
+<h4>Globality of thinking on first (base) function and globality of minus (?) functions<a class="headerlink" href="#globality-of-thinking-on-first-base-function-and-globality-of-minus-functions" title="Permalink to this headline">¶</a></h4>
+<p>Usually, it is easy to determine signs of functions in the Ego block,
+since a person speaks willingly from this block. However, in determining
+the sign of the first (base) function there is a certain complication
+that needs to be taken into consideration.</p>
+<p><strong>Important note for typers!</strong>  We know that a minus (?) sign endows a
+function with the property of globality of thinking. The first (base)
+function also has characteristics of expansive scale and globality of
+thinking (even if the base function carries a plus sign) due to the fact
+that the phisolophical values that drive human development are embedded
+in this function, since it is the base function that imparts a sense of
+infinite development and possibility of further improvement. Perhaps
+this global characteristic of base function is associated with it being
+a four-dimensional function [5]. Such “resonance” of globality can be
+observed with good filling of base function in a well realized TIM.</p>
+<p><strong>An example:</strong></p>
+<div class="admonition-example admonition">
+<p class="admonition-title">Example</p>
+<p>“The biggest problem of modern society is disintegration of
+relations, most importantly  the breakdown of families. In this
+regard, I am simply terrified by dogmatic socionics, because it
+points to an inherent futility of attempts of good people to build
+relationships if they have “inappropriate types.” And if we also
+consider that many people have as many types as there are typers
+(this is so for me). My interest for socionics was primarily related
+to this fear, because such an approach fundamentally undermines my
+life principles, and I’m trying to find ways that lead out of bounds
+of socionics. In this manner, I would like to bring to society mutual
+goodwill and warmth and an orientation at the future. But I’m afraid
+this idea is doomed. At some point, I thought otherwise.”</p>
+<p>(+Fe : EII “Dostoevsky”)</p>
+</div>
+<p>Here, a plus in “quality” of function sounds like a minus on its “scale”
+thinking on scale of entire society. Perhaps, quality of scale is
+attributed to the neighboring function in the same block ?Ne.</p>
+</div>
+</div>
+<div class="section" id="property-of-orientation">
+<h3>Property of “orientation”<a class="headerlink" href="#property-of-orientation" title="Permalink to this headline">¶</a></h3>
+<p>The property of “orientation”, when it is assigned to a function with a
+plus (+) sign, is described as a psychological orientation of thinking
+directed inside the area of responsibility of function, while a minus
+(?) sign is described as the orientation of mental function to the
+outside of the area of its responsibility. Most clearly the property of
+“orientation” is revealed in functions processing the information on
+aspect of Se. Orientation in this aspect is manifested in an effort to
+capture and expand space (“minus”), or preserve and protect it (“plus”).</p>
+<p><strong>Examples:</strong></p>
+<div class="admonition-example admonition">
+<p class="admonition-title">Example</p>
+<p><em>What are some strategies of attack? Are you able to implement them?
+When is attacking justified?</em></p>
+<p>“There are many strategies of this kind, but most often I use a
+planning-waiting strategy. Sooner or later, the deer will walk into a
+trap if the traps are cleverly positioned. An attack is justified
+when it’s done towards a good purpose and when it brings results.”</p>
+<p>(-Se : LSI “Maxim”)</p>
+</div>
+<div class="admonition-example admonition">
+<p class="admonition-title">Example</p>
+<p><em>How can you organize yourself and others? By what methods? Do you
+know how to pressure? If so, how does this happen?</em></p>
+<p>“Myself usually with the words: “You must do this”. At any cost, but
+do it. Through the “I don’t want to-s” and “I cannot-s”. If you took
+up a task, then bring it to completion. Of course, that doesn’t
+always happen. And it’s not always necessary. But in general it’s
+like this. With others, I usually raise my voice, approach a person
+closely, may even shout at them. I can, of course, hit them but
+wouldn’t allow this to myself. I think this is a sign of weakness. In
+addition, I have a feeling that if I give freedom to my hands, then I
+will, as always, perform the task at 100%, to the finish line.
+However, negative emotions need some kind of release. Thus, I can
+throw an object. Or overturn a table. On the whole, it happens all
+together: the way I speak, my gestures, facial expressions, choice of
+words. All of this is perceived by others as an attack and
+pressuring.”</p>
+<p>(-Se : SLE “Zhukov”)</p>
+</div>
+<div class="admonition-example admonition">
+<p class="admonition-title">Example</p>
+<p>Any power situation for me personally is unpleasant. If a necessity
+arises to use physical force, for me is much easier to defend myself
+i.e. to shield, to avoid, but not to deal the blows myself. My father
+always told me “the best defense is an attack.” This probably works
+in chess, but not in life. I cannot imagine myself as attacking. Even
+if it’s necessary to strike in response. It evokes in me some kind of
+uncertainty, some sense of inadequacy. In public transport, I always
+move and cave in to give way to people wanting to get through, but if
+it’s crowded many try to occupy the space which I have yielded to
+them so they could get by, and they don’t care that I end up standing
+in an arched pose. That surprises me, either people don’t feel these
+boundaries for themselves, or they can easy take up “their” space and
+don’t consider the space of “others”. When I have to stand up in a
+crowded spot, I try to do it so that I bring minimal inconvenience to
+others.</p>
+<p>(+Se : LSE “Stirlitz”)</p>
+</div>
+<div class="admonition-example admonition">
+<p class="admonition-title">Example</p>
+<p>I never think about offensive strategies, because the concept of
+“attack” in itself has little to do with me. An attack on my part may
+come only in the case of defending my space, if someone tries to
+violate it or intrude into other people’s affairs. And even then,
+only in cases of extreme irritation, when a person doesn’t understand
+what is needed of him. I cannot recall a single example when I have
+decided to take over someone else’s territory.</p>
+<p>(+Se : SLI “Gabin”)</p>
+</div>
+</div>
+<div class="section" id="property-of-distance">
+<h3>Property of “distance”<a class="headerlink" href="#property-of-distance" title="Permalink to this headline">¶</a></h3>
+<p>The property of “distance”, when it is assigned to a function carrying a
+plus (+) sign, is described as a “close” psychological distance, and
+when it is assigned to a minus () function it is described as “far”
+psychological distance. Most brightly the property of “distance”
+manifests in functions that process information on aspects Fi and Se.
+The term “psychological distance” is semantically related to information
+aspects of Fi (relations) and Se (boundaries). This was confirmed by
+responses of representatives of different TIMs to the following
+question:</p>
+<p><em>What is psychological distance?</em></p>
+<p><strong>SLI:</strong> “It’s similar to the density of a wall, which separates you
+and another person. Sometimes it is thick and solid, like the Great
+Wall of China, and sometimes transparent and airy. That’s how I
+perceive it  as this wall. From my end it feels like an inner
+shield, sometimes I remind myself of a snail. From another person I
+feel a kind of estrangement. I talk to them, but my words are
+deflected by this wall and do not reach him or her. What determines
+this is probably the degree of trust. Close distance implies
+trustworthiness, confidence, large distance  the absence of such. “</p>
+<p><strong>ILE</strong>: “It’s a degree of intimacy. If a person is interesting to me
+and show friendliness and openness, then I readily accept their
+attention and begin to actively communicate with them. Becoming my
+friend literally takes two weeks of close interaction. But for this
+to happen, the paces of our lives should match. And the distance is
+set as a very close one. If a person is not interesting to me, but
+shows friendliness and openness towards me, then I don’t know how to
+get rid of him. I am conscious of manners, thus I cannot rudely send
+someone away someone, so I simply ignore them. “</p>
+<p><strong>IEE</strong>: “Psychological distance for me is how closely I allow
+someone to approach. The extent to which I’m honest and open. What
+I’ll allow and what I won’t allow. Close psychological distance not
+only gives additional opportunities to my partner, but also imposes
+obligations on me. That which I’m not obliged to do at a large
+psychological distance and can simply ignore will be awkward to
+refuse at close distance. Thus big distances give some room for
+maneuvering  I have a few commitments in this case. For example, it
+is easier to deny a favor, to not give any information which I don’t
+want to give, to keep my opinion to myself, that is, not to reveal my
+real stance. A certain distance needs to be kept in order to protect
+yourself. If there is a suspicion that you could be cheated or used,
+or transgress on that which is close to your heart. How do I feel
+psychological distance? From another person by how he holds himself
+towards me. If a person internally is like a hedgehog with his
+needles up, this is felt by me. I see that he is being too cautious
+in conversation, that something remains unspoken. Especially this is
+evident in contrast, when there is someone nearby with whom he has a
+more trusting relationship. His desire to build a protective wall is
+felt  to not let in close. The person often looks like a louring
+creature or a cold wall. “</p>
+<p><strong>EII</strong>: “This is the distance which determines the degree of mutual
+openness, for both the negative and the positive. I think that it
+depends strongly on the feelings of mutual sympathy, the nature of
+which I won’t even try defining. I don’t even try to change it. The
+distance may be reduced over time, especially in the case of a very
+guarded person. Simply, as people get to know each other, the degree
+of trust between them grows, they begin to understand each other’s
+inner worlds, and their similarity. Initially, a short distance can
+be set if a person is “resonant/in tune” with you. It can also be
+quite large and not change much over time, if the manner in which the
+person thinks is alien to you. Sometimes it’s a wall, thick and
+sturdy. And it feels just like a wall, for overcoming of which I see
+no reasons. Sometimes it is like a mist that covers a person, who may
+be shy or not very trusting by nature but close to you in some ways.
+And sometimes there is no distance. Such a person I can invite to my
+home on the very first day of our acquaintance. Also, I also think
+that circumstances may affect the psychological distance between
+people. “The effect of a travel companion”, for example, allows for
+even a very private person to open up.”</p>
+<p><strong>ESE</strong>: “I feel this distance very well, and how it changes. It
+could be that a person increases this distance, then I try to
+understand what might have happened, what was the cause these
+changes, and revert it back where it was. In principle, I feel most
+comfortable when I am the one setting the distance, rather than
+merely accepting that which is offered by another person. But
+sometimes there’s nothing to be done … “</p>
+<p><strong>SEE</strong>: “Well, psychological distance is how I act depending on how
+I relate to a person (or a group). It includes different aspects,
+ranging from physical space between us to topics of conversation. The
+“distance” part for me means how open a person is, whom and how close
+he allows to be near him. I feel this very well (when I’m in a normal
+state, naturally, as there was a precedent at the hospital where I
+didn’t feel it - I was too occupied), this openness or guardedness of
+a person is somehow evident by itself, this is their relation towards
+you. Changing it  it all depends on the given person, on my desire
+to change anything, on my relation towards them, on the reasons why I
+would need this  generally, many different things.”</p>
+<p><strong>Examples of assessing the property “distance” from text:</strong></p>
+<div class="admonition-example admonition">
+<p class="admonition-title">Example</p>
+<p><em>Can you understand it when someone says that it’s possible to love
+the whole world?</em></p>
+<p>“Well, yes and no.</p>
+<p>Yes - because I am familiar with this feeling  when everything is
+great, and you love everything and everyone, every person that you
+see before you, and every peron that don’t see before you at this
+very moment and about whose existence you don’t even suspect, every
+bird and every dog, every rock and stone of your native city, and
+that dastardly front door of your apartment complex that freezes shut
+in winter such that it can’t be broken open  you love it, too.</p>
+<p>And no - because this love is quite superficial. Perhaps there are
+people who have enough heart to encompass the whole world …
+however, this is unlikely … I know that I can love much stronger,
+with greater dedication, and that there won’t be enough of me for everyone in this world, but only for a loved person, my family, and my friends. But … concerning the loved person – I got carried away when I spoke in singular form. Up to this time I have dated three people, about whom I can say that I loved them all and still love them very much – each one differently, but all equally strongly. And I suspect that this list will not end there.”</p>
+<p>(-Fi : EIE “Hamlet”)</p>
+</div>
+<div class="admonition-example admonition">
+<p class="admonition-title">Example</p>
+<p><em>To how many people could you attitude extend (in general), do you
+need a small circle for interaction or does it not matter at all?</em></p>
+<p>“Generally, I have many friends. Once I tried to organize my contact
+lists on ICQ, my notebook, and my phone, and found out that I have
+300 people added as friends on ICQ (250 after cleaning the list from
+inactive contacts), around this number in my notebook, and these
+lists don’t overlap much. Plus another 500 people (approximately, I
+haven’t actually counted them) whom I’ve met and know only in person,
+but I don’t have their contact information. This certainly does not
+mean that I am interacting with them all at the same time. But with
+all of them I keep in touch i.e. periodically contact them, bump into
+them somewhere, talk to them … At the same time I prefer a group of
+about 10-15 people, may be 20, but above 20 it’s often difficult to
+overview it all. However, if there are more people, it does not
+bother me much, because I don’t need to speak in front of all of them
+(no tea at the meetings) but talk with each person individually,
+change my seat, cross the room, in an evening exchange a couple of
+words with everyone, and if not, at least smile at them. But still I
+prefer one-on-one communication. This way you can say more to each
+other without getting distracted i.e. because you can focus on one
+person, hear from him and convey to him all that was wanted and all
+that was needed.”</p>
+<p>(-Fi : EIE “Hamlet”)</p>
+</div>
+<div class="admonition-example admonition">
+<p class="admonition-title">Example</p>
+<p><em>In other people do you also see negative qualities? How do you react
+to this?</em></p>
+<p>“No, by default, each new person appears to me in a positive light
+(if nothing about his external appearance points otherwise). How do I
+assess this … don’t ask … as I have no idea, simply sometimes,
+even before exchanging words, there is a negative feeling. Luckily,
+this happens very rarely. I don’t concentrate on what’s negative in
+others. It can even be said that I am completely oblivious of this,
+that is, until the time that it affects me personally. At the same
+time, with people who are close to me in long-standing relations, I
+can very articulately describe both their good and bad qualities. But
+then again, I don’t concentrate on the bad. But neither does it shock
+me.</p>
+<p>(-Ni, +Fi : EII “Dostoevsky”)</p>
+</div>
+<p>As can be seen from these examples, “close” psychological distance
+(“plus” sign) indicates a close and narrow social circle. “Large”
+psychological distance (“minus” sign)  is indicative of a wider social
+circle.</p>
+<p><strong>Conclusions about manifestations of properties of “distance” and
+“orientation”:</strong></p>
+<p>According to our observations, the properties of “distance” and
+“orientation” appear only in functions that process information on
+aspects Fi and Se, and therefore they can be considered a specific case
+of a more general property of “scale”. Thus, we can identify two main
+and distinct, non-overlapping properties of signs of functions:
+“quality” and “scale”. However, this conclusion does not coincide with
+the conclusion B. V. Gulenko that the property of “scale” is attributed
+on basis of “Right/Left” trait, and that property of “quality” is
+attributed on basis of “Positivism/Negativism”. According to our
+observations, both of these properties are determined by trait
+“Right/Left”.</p>
+<p>E. S. Filatova has come at the same conclusion that it’s necessary to
+keep only two properties of signs. However, he proposes to leave the
+properties of “scale” and “distance”: “… I think that two unmistakable
+characteristics of signs of functions should be kept, namely, “distance”
+and “scale”. In this case, a plus sign will designate a detailed
+examination of the object of the function at a close range, and a minus
+sign will designate large scale focus, for which it is necessary to move
+to a far distance” [6].</p>
+</div>
+</div>
+<div class="section" id="signs-in-one-dimensional-functions">
+<h2>Signs in one-dimensional functions<a class="headerlink" href="#signs-in-one-dimensional-functions" title="Permalink to this headline">¶</a></h2>
+<p>A certain difficulty arises in trying to assess signs of 1-dimensional
+functions. Responses that come from these functions are based on
+people’s individual experience. Often, these responses are simply
+memories and lists of experiences. From the point of view of assessing
+functional signs, responses consisting of a listing of one’s experiences
+are associated with the plus (+) sign: concretization, detalization,
+etc. In actuality, this concretization is a consequence of 1-dimensional
+nature of the function and not its sign. Thus, it is difficult to
+estimate the property of “scale” of a sign, and other properties, for
+one-dimensional functions. If the evaluator cannot adequately assess the
+manifestations of a 1-dimensional function, and there is no opportunity
+to observe the person being typed from aside, then such responses should
+not be replied upon.</p>
+<p>For example, does the crudeness of type SLE (“Zhukov”) on the aspect of
+Fi arise from the sign of this function or from its 1-dimensionality
+(absence of norms)? Who is unethical to a greater extent: ILE (“Don
+Quixote”) with 1-dimensional minus Fi or SLE (“Zhukov”) with
+one-dimensional plus Fi? Is the illogic of 1-dimensional Ti types SEE
+(“Caesar”) and IEE (“Huxley”) a consequence of the sign or lack of
+norms? These questions cannot be answered unequivocally. Perhaps, after
+continuous observation the influences of signs can be traced in
+1-dimensional functions. The sign still leaves an imprint on the
+peculiarities of perception and information processing of these
+functions.</p>
+<p>However, on the background of idiosyncrasy of 1-dimensional functions,
+and limits in time devoted to the typing process, it is difficult to
+identify these imprint. Another nuance: these imprints of the influence
+of functional signs can be seen at a greater distance, at a more
+generalized view. To trace these manifestations of 1-dimensional
+functions, let alone explain them in terms of sign by method of
+question-answer, is very complicated. However, experiences of people,
+who know the model well, and who can identify and clarify their
+reactions by introspection and self-review, help in discerning the
+manifestations of signs in one-dimensional functions. A few of the
+observations of manifestations of signs in one-dimensional functions
+have been given below.</p>
+<div class="section" id="signs-of-the-4th-function-of-tims">
+<h3>Signs of the 4th function of TIMs<a class="headerlink" href="#signs-of-the-4th-function-of-tims" title="Permalink to this headline">¶</a></h3>
+<p>The practice of identifying TIMs shows some peculiarities in
+manifestations of signs of the fourth function of the model. It would
+seem that 1-dimensional functions with a plus sign would be more
+“narrow” in assessing information on their aspect than 1-dimensional
+functions with a minus sign. In actuality, reactions of <a class="reference internal" href="functions.html#polr-func"><span class="std std-ref">fourth function</span></a> with a minus sign look more
+“painful” than the reactions of fourth function that carries a plus
+sign. People with a minus 4th function have a tendency to safeguard
+themselves on this function, and demonstrate a clearly observable desire
+to “move away from the minus”. Thus, LSE (“Stirlitz”) is very afraid of
+being late and tries by all means to forewarn of such “mishaps” (?Ni).
+Manifestations of the sign of fourth function (+Ni) for TIM ESE (“Hugo”)
+are much calmer. TIM ESE is more impatient in anticipation of something
+pleasant. TIM SEI (“Dumas”, 4th function of ?Te) is very responsible and
+conscientious in regard to his work, afraid of receiving a negative
+evaluation, often takes onto his shoulders too much work, doesn’t
+adequately assess his capabilities and skills, but still tries to pull
+through. IEI (“Esenin”, 4th function of +Te) can simply shirk from work,
+tries to avoid excessive works loads and in general any unpleasant
+activities. EII (“Dostoevsky”, 4th function of ?Se) does everything
+possible to avoid situations that require use of extroverted sensing,
+while LII (“Robespierre”, 4th function of +Se) at times behaves like a
+fighting rooster in situations of opposition. Of course, these examples
+should not be viewed as instructions for differentiating vulnerable
+function responses of these TIMs, but overall there is a trend of
+“greater fear” for the 4th functions that carry a minus sign.</p>
+<p>A possible explanation of this phenomenon: while processing information,
+minus function starts processing information from the minus, from the
+negative. And if the first recollection of 1-dimensional function is
+that of negative experience, then the first reaction that follows this
+memory will be a desire move itself away from this negativity.</p>
+</div>
+<div class="section" id="signs-of-the-5th-function-of-tims">
+<h3>Signs of the 5th function of TIMs<a class="headerlink" href="#signs-of-the-5th-function-of-tims" title="Permalink to this headline">¶</a></h3>
+<p>The <a class="reference internal" href="functions.html#suggestive-func"><span class="std std-ref">fifth function</span></a>
+one-dimensional, suggestive  upon perceiving information on its aspect,
+also processes it in accordance to its sign. Thus, LSE (“Stirlitz”) on
+?Fi automatically notices manifestations of negative attitudes, such
+that “forsake the thought” that they might be directed at him. And as
+soon as he sees the first signs of a negative relation, an automatic
+defensive reaction follows (vital ring, resulting 8th function of +Se).</p>
+<p><strong>Examples:</strong></p>
+<div class="admonition-example admonition">
+<p class="admonition-title">Example</p>
+<p><em>Someone shows a clearly negative relation to you  what is your
+reaction?</em></p>
+<p>“This annoys and unsettles me. I will be discussing this situation
+with my friends, in the manner of what is this shit, who does he
+think he is? I myself am not inclined to directly express my negative
+attitudes, but will simply ignore the person: look “through” him,
+turn a deaf ear to what he is saying, avoiding meeting eyes. I can
+relate poorly for a long time, if I have to meet with this person (at
+work, for example), gradually I will soften. It’s not that I forgive
+grievances, but if relations have improved, then I won’t focus my
+attention on past slights, though I will hold the “prickly spikes” on
+the ready. In general, I’m not vindictive. I certainly will not
+dedicate my life to revenge, though, as they say “never say never”.
+… A bullying attempt is an unreasonable claim, expressed in an
+assertive, oppressing form. I become tense, damn it, can answer
+rudely, tell them to go somewhere far away.”</p>
+<p>(-Fi : ILE “Don Quixote”)</p>
+</div>
+<div class="admonition-example admonition">
+<p class="admonition-title">Example</p>
+<p><em>Can you tell a person what you think of him or her in a conflict?
+What if it offends them?</em></p>
+<p>“It’s easier to me to be in direct and open conflict, then I can tell
+this person all that I think of them. Well, it will offend him, of
+course, but he has offended me too. I can also initiate a quarrel.
+When my patience is exhausted, I express all that I think quite
+bluntly, and mention old offenses as well.”</p>
+<p>(-Fi : ILE “Don Quixote”)</p>
+<p><em>Can you prognose events? And overall is this even possible to do?</em></p>
+<p>“If I exert myself ? I can. But it is difficult.”</p>
+<p><em>What kind of exertion is required?</em></p>
+<p>“… and the question “tell me about yourself” puts me into a dead
+end. I don’t know what exactly the person wants to know about me.
+Maybe I’ll start to talk about how I ate porridge as a child, while
+he is interested in something completely different … In general, I
+need specificity, leading questions.”</p>
+<p>(+Ne : SLI “Gabin”)</p>
+</div>
+</div>
+</div>
+<div class="section" id="distinguishing-information-aspects-in-relation-to-signs-of-functions">
+<h2>Distinguishing information aspects in relation to signs of functions.<a class="headerlink" href="#distinguishing-information-aspects-in-relation-to-signs-of-functions" title="Permalink to this headline">¶</a></h2>
+<p>In the process of determining the signs of functions during typings, it
+should be remembered that information is passed onto the entire model as
+a whole and processed by all functions almost simultaneously.</p>
+<p><strong>Important note for typers!</strong>  In order to correctly identify the
+signs of functions processing information on one aspect, it is necessary
+to consider the complete macro-aspect in its entirety, as well as the
+workings of the block. Each macro-aspect (objects, space, energy, time)
+can be divided into two aspects: black and white (by the color of the
+icon, or essential and relational by context), and functions, that
+process the information from these aspects, have different signs.</p>
+<p>It is important to clearly distinguish between the essential and
+relational aspects, so as not to confuse the signs of functions of TIMs.
+Thus, essential aspect of Fe  is information about an energy state,
+while relational aspect of Fi  is information about the ratio of the
+energy states. Naturally, when observing (and showing) relations (Fi) a
+person simultaneously observes (and shows) both emotions and an energy
+state (Fe). When a typer asks questions about negative emotions, do not
+expect that someone will answer that he’s incompetent in dealing with
+negative emotions. All people are capable of both seeing them and
+showing them. Most often, the person being typed cannot distinguish
+between the aspects and cannot assess the adequacy of his or her
+reactions in the minus zone. For him there is no difference between
+“being angry with someone” and “crying”  both of these he will consider
+to be “negative emotions”. The goal of the typer is to find out which of
+his information aspects  Fi or Fe  orients in the minus zone. For
+example, if a person enters into the conflict area (where there is
+information on both aspects of ?Fe and ?Fi), then his reaction will
+depend on the signs of his own functions.</p>
+<p>Thus, +Fi will avoid the minus (the negative) in relations, and
+simultaneously demonstrate a vivid reaction from ?Fe. However, ?Fi will
+react to negative attitudes, but will be inadequate in ?Fe. While the
+quality of information processed will depend on both the dimensionality
+functions, as well as on which functions are in mental superblock and
+which are in the vital block. Thus, EII (“Dostoevsky”) avoids negative
+relations, and his mood will automatically get ruined (?Fe). LSE
+(“Stirlitz”) will automatically react with “minus” of Fi, meanwhile
+demonstrating emotions that are inadequate in “minus” (which looks like
+an explosion, aggression). SEE (“Caesar”) will be able to consciously
+exert influence on conflict in ?Fi, though emotions also may be
+inadequate. The negative emotions of ESE “Hugo” will be quite adequate
+to the situation, but at the same time automatically orientated at not
+ruining the relations.</p>
+<p>In determining the signs of functions in a block, the mistakes are made
+most often in establishing the signs of Fe of two TIMs: ESE (“Hugo”) and
+EIE (“Hamlet”). Very often practitioners don’t understand why the ESE is
+assigned ?Fe, while the EIE is attributed +Fe. Emotions of EIE are
+perceived as more dramatic (EIE sees the world in dark tones) and an
+impression is created that EIE easily orients in minus Fe. However, the
+“minus” for EIE actually manifests in a neighboring function, which
+processes the aspect of Ni  a vision of events primarily in a negative
+light, hence the gloomy and dramatic presentation. At the same time, the
+EIE strives to maintain an uplifted emotional state (note: “uplifted”
+does not mean “merry”, but an inner state of energetic elevation, of
+“adrenaline in the blood stream”). And interestingly, it is the negative
+(on scale and quality) events which raise the life tone i.e. heighten
+the “energy” state of TIM EIE. However, the EIE does not take pleasure
+in this and does not orient in negative emotional states, but instead
+seeks to avoid lowered “energy” states. ESE may well sink into a lower
+“energy” state (suffer, to cry) and easily leave it when it is needed.
+ESE orients in a large spectrum of emotions, and the swings of the
+pendulum of emotions does not frighten them  contrasting states (clue
+of presence of minus) are fully acceptable to the ESE.</p>
+</div>
+<div class="section" id="signs-in-vital-and-mental-blocks">
+<h2>Signs in vital and mental blocks<a class="headerlink" href="#signs-in-vital-and-mental-blocks" title="Permalink to this headline">¶</a></h2>
+<p><strong>Important note for typers!</strong>  In practice, identification of signs of
+vital functions by method of interview does not differ from
+identification of signs of mental functions. Nevertheless, it may be
+complicated by the fact that as a whole vital block information is
+always recalled from memory. The answers may sound blurry,
+approximating, verbalized with difficulty. At the same, a person being
+typed is able to adequately assess himself or herself on
+multidimensional functions of Id block. Therefore, in determining the
+signs of vital functions, it is better to rely on information coming
+from person’s multidimensional functions.</p>
+<p>Observations of the people in the process of type identification, as
+well as analysis of responses to different aspects in terms of signs,
+show that functions of same E/I orientation carry the same sign
+throughout the TIM model.</p>
+</div>
+<div class="section" id="findings">
+<h2>Findings<a class="headerlink" href="#findings" title="Permalink to this headline">¶</a></h2>
+<p>Based on the results of this work, the following can be concluded:</p>
+<p>1. In the process of identifying TIMs (typing), the signs of functions
+can be identified based on the properties that were originally described
+in work of V. V. Gulenko and taking into account clarifications made by
+V. D. Ermak (“zones of competence”).</p>
+<p>2. The sociotypes of the “left” ring of socioprogress have a “minus”
+sign in the first (base) function, while first function of types of the
+“right” ring of socioprogress instead carries a “plus” sign.</p>
+<p>3. Functions of same E/I orientation have the same sign throughout the
+model.</p>
+<p>4. The properties of “scale” and “quality” are observed in the groups of
+TIMs united into rings of socioprogress (V. V. Gulenko attributes the
+property of “quality” to “Positivism/Negativism”).</p>
+<p>5. The concept of functional signs has become an important addition to
+the Model A, further specifying the descriptions of each TIM, as well as
+giving socionics practitioners an additional tool for distinguishing
+information processed by first (base) function of kindred types, and for
+practical identification of TIMs in general.</p>
+</div>
+<div class="section" id="references">
+<h2>References<a class="headerlink" href="#references" title="Permalink to this headline">¶</a></h2>
+<ol class="arabic simple">
+<li><p>Gulenko V. V. <em>Signs of socionics functions.</em> - Kiev, 1989 / / “16.”
+- Vilnius. - 1990. -  2.</p></li>
+<li><p>Gulenko V. V. <em>Positivity and negativity of communicative functions.</em>
+- Kiev, 1998.</p></li>
+<li><p>Ledin V. <em>Signs of socionics functions.</em></p></li>
+<li><p>Ermak V. D. <em>How to learn to understand people.</em> - M., Astrel. - 2003. - S. 131-134.</p></li>
+<li><p>Eglit I. M. <em>Dimensions of functions.</em> / / Socionics, mentology, and
+psychology of personality. - 2007. -  2.</p></li>
+<li><p>Filatova E. S. <em>Returning to the “signs of socionics functions” of V.
+Gulenko</em> / / Socionics, mentology, and psychology of personality. - 1998. -  3.</p></li>
+</ol>
+<p>1 Systematic substantiation of semantics of signs of functions was done
+by V. D. Ermak and G. B. Senyuk in 1994 and it somewhat differs from the
+interpretation of signs of V. V. Gulenko, especially in more recent
+years.</p>
+</div>
+<div class="section" id="additional-notes">
+<h2>Additional notes<a class="headerlink" href="#additional-notes" title="Permalink to this headline">¶</a></h2>
+<p>School of System Socionics chart of functional sign distribution of 16
+TIMs:</p>
+<img alt="../_images/sss_signs.png" class="align-center" src="../_images/sss_signs.png"/>
+</div>
+<div class="section" id="see-also">
+<h2>See also<a class="headerlink" href="#see-also" title="Permalink to this headline">¶</a></h2>
+<ul class="simple">
+<li><p><a class="reference external" href="http://en.socionicasys.org/biblioteka/statji/functions-of-a-model">Characteristics of Functions of Model
+A</a></p></li>
+<li><p><a class="reference external" href="http://en.socionicasys.org/">School of System Socionics (SSS)
+(en)</a></p></li>
+</ul>
+</div>
+</div>
+
+      </article>
+      <footer>
+        
+        <div class="related-pages">
+          <a class="next-page" href="dimensionality.html">
+              <div class="page-info">
+                <div class="context">
+                  <span>Next</span>
+                </div>
+                <div class="title">Dimensionality of functions</div>
+              </div>
+              <svg><use href="#svg-arrow-right"></use></svg>
+            </a>
+          <a class="prev-page" href="plus_minus.html">
+              <svg><use href="#svg-arrow-right"></use></svg>
+              <div class="page-info">
+                <div class="context">
+                  <span>Previous</span>
+                </div>
+                
+                <div class="title">Plus and minus</div>
+                
+              </div>
+            </a>
+        </div>
+
+        <div class="related-information">
+              Copyright &#169; 2021, Wikisocion Authors
+            |
+            Built with <a href="https://www.sphinx-doc.org/">Sphinx</a>
+              and
+              <a class="muted-link" href="https://pradyunsg.me">@pradyunsg</a>'s
+              <a href="https://github.com/pradyunsg/furo">Furo theme</a>.
+            |
+            <a class="muted-link" href="../_sources/content/sign_eglit.rst.txt"
+               rel="nofollow">
+              Show Source
+            </a>
+        </div>
+        
+      </footer>
+    </div>
+    <aside class="toc-drawer">
+      
+      
+      <div class="toc-sticky toc-scroll">
+        <div class="toc-title-container">
+          <span class="toc-title">
+            Contents
+          </span>
+        </div>
+        <div class="toc-tree-container">
+          <div class="toc-tree">
+            <ul>
+<li><a class="reference internal" href="#">Signs of Functions of Model A by Eglit</a><ul>
+<li><a class="reference internal" href="#introduction">Introduction</a></li>
+<li><a class="reference internal" href="#the-history-of-the-question-theoretical-background">The history of the question. Theoretical background.</a></li>
+<li><a class="reference internal" href="#practice">Practice</a><ul>
+<li><a class="reference internal" href="#the-property-of-quality">The property of “quality”</a><ul>
+<li><a class="reference internal" href="#function-with-the-plus-sign">Function with the “plus” sign</a></li>
+<li><a class="reference internal" href="#function-with-the-minus-sign">Function with the “minus” sign</a></li>
+</ul>
+</li>
+<li><a class="reference internal" href="#property-of-scale">Property of “scale”</a><ul>
+<li><a class="reference internal" href="#plus-functions-limitations-of-a-plus-function">Plus (+) functions: limitations of a plus function</a></li>
+<li><a class="reference internal" href="#minus-functions-absence-of-limitations-on-areas-of-competence">Minus () functions: absence of limitations on areas of competence</a></li>
+<li><a class="reference internal" href="#globality-of-thinking-on-first-base-function-and-globality-of-minus-functions">Globality of thinking on first (base) function and globality of minus (?) functions</a></li>
+</ul>
+</li>
+<li><a class="reference internal" href="#property-of-orientation">Property of “orientation”</a></li>
+<li><a class="reference internal" href="#property-of-distance">Property of “distance”</a></li>
+</ul>
+</li>
+<li><a class="reference internal" href="#signs-in-one-dimensional-functions">Signs in one-dimensional functions</a><ul>
+<li><a class="reference internal" href="#signs-of-the-4th-function-of-tims">Signs of the 4th function of TIMs</a></li>
+<li><a class="reference internal" href="#signs-of-the-5th-function-of-tims">Signs of the 5th function of TIMs</a></li>
+</ul>
+</li>
+<li><a class="reference internal" href="#distinguishing-information-aspects-in-relation-to-signs-of-functions">Distinguishing information aspects in relation to signs of functions.</a></li>
+<li><a class="reference internal" href="#signs-in-vital-and-mental-blocks">Signs in vital and mental blocks</a></li>
+<li><a class="reference internal" href="#findings">Findings</a></li>
+<li><a class="reference internal" href="#references">References</a></li>
+<li><a class="reference internal" href="#additional-notes">Additional notes</a></li>
+<li><a class="reference internal" href="#see-also">See also</a></li>
+</ul>
+</li>
+</ul>
+
+          </div>
+        </div>
+      </div>
+      
+      
+    </aside>
+  </div>
+</div><script data-url_root="../" id="documentation_options" src="../_static/documentation_options.js"></script>
+    <script src="../_static/jquery.js"></script>
+    <script src="../_static/underscore.js"></script>
+    <script src="../_static/doctools.js"></script>
+    <script src="../_static/scripts/main.js"></script>
+    </body>
+</html>

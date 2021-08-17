@@ -1,0 +1,751 @@
+<!doctype html>
+<html class="no-js">
+  <head><meta charset="utf-8"/>
+    <meta name="viewport" content="width=device-width,initial-scale=1"/>
+    <meta name="color-scheme" content="light dark"><link rel="index" title="Index" href="../genindex.html" /><link rel="search" title="Search" href="../search.html" /><link rel="next" title="Quasi-identity observations" href="quasi_observations.html" /><link rel="prev" title="Mirror observations" href="mirror_observations.html" />
+
+    <meta name="generator" content="sphinx-4.1.2, furo 2021.08.11.beta42"/>
+        <title>Semi-duality observations - Wikisocion</title>
+      <link rel="stylesheet" type="text/css" href="../_static/pygments.css" />
+    <link rel="stylesheet" type="text/css" href="../_static/styles/furo.css?digest=197f00461d56902ea7ca048ec6e6ba026f62c97b" />
+    <link rel="stylesheet" type="text/css" href="../_static/styles/furo-extensions.css?digest=93475b62d1c3bc01323a0eefdc14a62d77b12690" />
+    
+    
+
+
+<style>
+  body {
+    --color-code-background: #f8f8f8;
+  --color-code-foreground: black;
+  
+  }
+  body[data-theme="dark"] {
+    --color-code-background: #202020;
+  --color-code-foreground: #d0d0d0;
+  
+  }
+  @media (prefers-color-scheme: dark) {
+    body:not([data-theme="light"]) {
+      --color-code-background: #202020;
+  --color-code-foreground: #d0d0d0;
+  
+    }
+  }
+</style>
+    <link media="(prefers-color-scheme: dark)" rel="stylesheet" href="../_static/pygments_dark.css"></head>
+  <body>
+    
+<svg xmlns="http://www.w3.org/2000/svg" style="display: none;">
+  <symbol id="svg-toc" viewBox="0 0 24 24">
+    <title>Contents</title>
+    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+      stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+      <path stroke="none" d="M0 0h24v24H0z" />
+      <line x1="4" y1="6" x2="20" y2="6" />
+      <line x1="10" y1="12" x2="20" y2="12" />
+      <line x1="6" y1="18" x2="20" y2="18" />
+    </svg>
+  </symbol>
+  <symbol id="svg-menu" viewBox="0 0 24 24">
+    <title>Menu</title>
+    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+      stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather-menu">
+      <line x1="3" y1="12" x2="21" y2="12"></line>
+      <line x1="3" y1="6" x2="21" y2="6"></line>
+      <line x1="3" y1="18" x2="21" y2="18"></line>
+    </svg>
+  </symbol>
+  <symbol id="svg-arrow-right" viewBox="0 0 24 24">
+    <title>Expand</title>
+    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+      stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather-chevron-right">
+      <polyline points="9 18 15 12 9 6"></polyline>
+    </svg>
+  </symbol>
+  <symbol id="svg-sun" viewBox="0 0 24 24">
+    <title>Light mode</title>
+    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+      stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" class="feather-sun">
+      <circle cx="12" cy="12" r="5"></circle>
+      <line x1="12" y1="1" x2="12" y2="3"></line>
+      <line x1="12" y1="21" x2="12" y2="23"></line>
+      <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
+      <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
+      <line x1="1" y1="12" x2="3" y2="12"></line>
+      <line x1="21" y1="12" x2="23" y2="12"></line>
+      <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
+      <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
+    </svg>
+  </symbol>
+  <symbol id="svg-moon" viewBox="0 0 24 24">
+    <title>Dark mode</title>
+    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+      stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" class="icon-tabler-moon">
+      <path stroke="none" d="M0 0h24v24H0z" fill="none" />
+      <path d="M12 3c.132 0 .263 0 .393 0a7.5 7.5 0 0 0 7.92 12.446a9 9 0 1 1 -8.313 -12.454z" />
+    </svg>
+  </symbol>
+  <symbol id="svg-sun-half" viewBox="0 0 24 24">
+    <title>Auto light/dark mode</title>
+    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+      stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" class="icon-tabler-shadow">
+      <path stroke="none" d="M0 0h24v24H0z" fill="none"/>
+      <circle cx="12" cy="12" r="9" />
+      <path d="M13 12h5" />
+      <path d="M13 15h4" />
+      <path d="M13 18h1" />
+      <path d="M13 9h4" />
+      <path d="M13 6h1" />
+    </svg>
+  </symbol>
+</svg>
+
+<input type="checkbox" class="sidebar-toggle" name="__navigation" id="__navigation">
+<input type="checkbox" class="sidebar-toggle" name="__toc" id="__toc">
+<label class="overlay sidebar-overlay" for="__navigation">
+  <div class="visually-hidden">Hide navigation sidebar</div>
+</label>
+<label class="overlay toc-overlay" for="__toc">
+  <div class="visually-hidden">Hide table of contents sidebar</div>
+</label>
+
+
+
+<div class="page">
+  <header class="mobile-header">
+    <div class="header-left">
+      <label class="nav-overlay-icon" for="__navigation">
+        <div class="visually-hidden">Toggle site navigation sidebar</div>
+        <i class="icon"><svg><use href="#svg-menu"></use></svg></i>
+      </label>
+    </div>
+    <div class="header-center">
+      <a href="../index.html"><div class="brand">Wikisocion</div></a>
+    </div>
+    <div class="header-right">
+      <div class="theme-toggle-container theme-toggle-header">
+        <button class="theme-toggle">
+          <div class="visually-hidden">Toggle Light / Dark / Auto color theme</div>
+          <svg class="theme-icon-when-auto"><use href="#svg-sun-half"></use></svg>
+          <svg class="theme-icon-when-dark"><use href="#svg-moon"></use></svg>
+          <svg class="theme-icon-when-light"><use href="#svg-sun"></use></svg>
+        </button>
+      </div>
+      <label class="toc-overlay-icon toc-header-icon" for="__toc">
+        <div class="visually-hidden">Toggle table of contents sidebar</div>
+        <i class="icon"><svg><use href="#svg-toc"></use></svg></i>
+      </label>
+    </div>
+  </header>
+  <aside class="sidebar-drawer">
+    <div class="sidebar-container">
+      
+      <div class="sidebar-sticky"><div class="sidebar-scroll"><a class="sidebar-brand" href="../index.html">
+  
+  
+  <span class="sidebar-brand-text">Wikisocion</span>
+  
+</a><form class="sidebar-search-container" method="get" action="../search.html" role="search">
+  <input class="sidebar-search" placeholder=Search name="q" aria-label="Search">
+  <input type="hidden" name="check_keywords" value="yes">
+  <input type="hidden" name="area" value="default">
+</form>
+<div id="searchbox"></div>
+</div>
+      </div>
+      
+    </div>
+  </aside>
+  <div class="main">
+    <div class="content">
+      <article role="main">
+        <div class="content-icon-container">
+          <div class="theme-toggle-container theme-toggle-content">
+            <button class="theme-toggle">
+              <div class="visually-hidden">Toggle Light / Dark / Auto color theme</div>
+              <svg class="theme-icon-when-auto"><use href="#svg-sun-half"></use></svg>
+              <svg class="theme-icon-when-dark"><use href="#svg-moon"></use></svg>
+              <svg class="theme-icon-when-light"><use href="#svg-sun"></use></svg>
+            </button>
+          </div>
+          <label class="toc-overlay-icon toc-content-icon" for="__toc">
+            <div class="visually-hidden">Toggle table of contents sidebar</div>
+            <i class="icon"><svg><use href="#svg-toc"></use></svg></i>
+          </label>
+        </div>
+        <div class="section" id="semi-duality-observations">
+<h1>Semi-duality observations<a class="headerlink" href="#semi-duality-observations" title="Permalink to this headline">¶</a></h1>
+<div class="section" id="esi-lse">
+<h2>ESI-LSE<a class="headerlink" href="#esi-lse" title="Permalink to this headline">¶</a></h2>
+<p><strong>Oksana (ESI):</strong> I have met in my life both duals and semi-duals. LSE
+pressures too much for my taste. It is said that semi-duality is
+sufficiently comfortable, but the cutting off any initiatives that comes
+from Shtirlits is difficult. My mother is my semi-dual. I was working at
+a business that she owned and ran. She gathered us around and told us:
+“You will all work from 9 to 5.” I stood there looking at her and
+thinking to myself “for what? why do this?” If the weather is bad, if
+there are no customers, if there is no trade, it’s her private business
+and she doesn’t owe it to anyone to keep it open, then why do we have to
+go out and work exactly 9 to 5? But if we don’t work in this regime, it
+kills her, because “you have to”, because this is how it should be.</p>
+<p>When I finished my certification, I went to work as a nurse, and worked
+happily for 20 years until I got a LSE boss who started telling me how I
+should work. I quit that job. It was impossible. When someone stands
+above me and starts to impose their rules, their order, for example:
+“Why are there syringes located here? This is inconvenient.” I said, “We
+put them there because it’s comfortable for us to have them there.” “No,
+this is uncomfortable. This is where it’s most convenient to have them.”
+She would move them 30 times of she had to. And all the dirt, all the
+blood, all the heavy equipment we had to move weren’t as unpleasant to
+me as was this treatment that started to affect my work.</p>
+<p><strong>Olga (ESI):</strong> I’ve worked in an office with an LSE woman who lived in
+the same neighborhood and would give me rides. I work intensively and at
+a quick pace from 10 to 4 and get everything done that I need to do. The
+workday is until 5 but I can never leave at 5, I need to leave at 4
+because I have already finished all my assignments. So we’re together in
+a room, it’s already 4:45, and if it was up to me I would have left
+already, while she tells me: “No, we still have 15 minutes to go. We
+need to sit here.” This is so strange, it throws me off. And those who
+don’t sit until 5, those people are seen as idlers and slackers. If the
+LIE understands that once you have finished your work, and you’ve
+finished it first ahead of everyone else, that you’re the best, then the
+LSE cannot be persuaded. The LSE unlike the LIE doesn’t understand that
+a person can manage their time themselves, there is no sense of personal
+time for them. This is the difference in valued intuition of time: once
+you’ve done your assignment, there is no sense to only remain at work.</p>
+<p>Also LSEs sometimes tell frightening stories of the kind: “Imagine that
+this scary/negative thing could potentially happen.” They just walk by
+and incidentally drop it by you without any unfriendly intent. For
+example: “What if they don’t ask the questions you’ve prepared for on
+the exam?” The LSE starts to pump the ESI up this way. And the ESI on
+his/her own weak intuition listens to this and starts to believe it,
+think about it, he’s already not sleeping nights and so on. For the ESI
+such communication is a true test of his or her nerves! The LSE drops
+such questions in “by the way” manner while I start considering them for
+real and I’m realdy thinking “what should i do?” Such communication
+isn’t very uplifting and cheerful; the ESI starts feeling like she needs
+to dig up a trench and hide herself in it.</p>
+<p>Another thing I don’t like about LSEs is that they do a lot, but they
+want to be praised for it. My EII grandmother is very good at giving out
+praises, adoring others, being adulating and rewarding by her words,
+telling someone that she appreciates what they have done. I will say
+“thank you”, but I’m not going to spend half an hour complimenting their
+work. While the LSE is waiting for it and takes offense otherwise. I
+say: “Then don’t do it. If it’s not needed, why even do this? Don’t
+exert yourself to do something just to be praised.” This is their
+suggestive Fi seeking, this searching for a constant source of
+gratefulness, positive emotion and ethical appraisal of their actions.
+For ESIs this works differently: I give as much as I can give without
+any expectations of being praised.</p>
+<p><strong>Galla (ESI)</strong>: In interaction with an LSE there are a couple of very
+sharp underwater rocks. In general, these can be characterized as
+follows: for everyone around he will be great (which is what you will
+see initially, from a distance) and only you will experience the
+outbreaks of his anger and negativity (if you decide to become his other
+half)*. Sooner or later the LSE will try to make you live by his order
+and do what he sees as most rational. He has a very long inventory of
+“rules” with very little room to make appeals even if you ty to argue
+with him. Take a look at LSE’s duals - are you prepared to break
+yourself and play such role? Initially you may see in him a kindred
+spirit, feel as if you have known each other an entire lifetime, but
+unfortunately the moment will come when you will realize how differently
+you see each other; the rift that separates you will become very
+apparent.</p>
+<div class="admonition note">
+<p class="admonition-title">Note</p>
+<p>This is likely due to incompatibility on Process/Result trait of these types. The ESI is a Result type, while the LSE is a Process type. From <a class="reference internal" href="waves_aging.html"><span class="doc">an article</span></a>: “Manifestations of negative personality traits at large distances and positive traits at short distances are characteristic in   communication of Result types, while the reverse is true of Process types. Result types are thus more accommodating in close-range communication, while process types are more accommodating at larger distances.” Initially the LSE will make a more positive impression on the ESI, which will change with the closing of the interpersonal distance (e.g. if they get married or cohabit extensively) and the LSE will start manifesting some of the more negative and harsh aspects of his or her personality.</p>
+</div>
+<p><strong>Poline (IEI)</strong>: Thank you Galla for your post. I will sign to
+everything as you have stated it - either you will break as a person, or
+become a Cinderella. I very much respect EIIs, but even for them their
+own dual may be too much to handle. In the eyes of other people, the LSE
+often makes a positive impression - a handsome man, an ideal husband,
+and a caring father. And thus nobody will understand why his idiot of a
+wife is so unhappy with him. I know this by my own experience, and I’ve
+seen this in other families, and I looked at them with understanding.
+“Do you remember Peter? Such a great fellow! But he wasn’t treated well
+by his wife who was simply too foolish and ungrateful to understand what
+a great husband she has.”</p>
+<p><strong>Oskirych (LSE)</strong>: The problems in LSE-ESI pair may arise over 1)
+differences of tastes 2) the stubbornness of both in keeping their
+“order” 3) and some other intimate details which I won’t describe in
+detail. ESIs seem attractive and pleasant, but sometimes completely
+incomprehensible to the LSE, which brings up a sense of panic. I like
+that they don’t ask too many questions about everything, unlike our
+duals EIIs. At the same time I can’t live without all those questions,
+and after some time I even become offended if I’m not asked anything.
+Also, I never know how I should adjust myself to be more accommodating
+of ESIs, due to this there is a persistent sense of heaviness.</p>
+<p><strong>Niyazz (ESI)</strong>: It’s not necessary to readjust to us. The main thing
+is to not take our ethical “attacks” and “shakedowns” seriously, but do
+what LIEs do - respond with humor and personal warmth. LSEs seem to be
+constantly under stain and pressure, thus they respond to our emotional
+escapades very aggressively and too directly, instead of taking
+everything and converting it into a joke or a diversion as an LIE would
+do.</p>
+<p><strong>glo (ESI)</strong>: I have lived with an LSE for a year and it seems our
+relationship has reached a dead end. I try not introduce any negatives
+into our relations. However, my “sharp edges” i.e. my actions which he
+all of a sudden started calling “edgy” evoke the sort of categorical,
+uncompromising, and offensive to me reaction from him that I get the
+impression that I’m the only one who needs good, positive relations
+between us. He can’t just say: “It’s unpleasant when you do this. Don’t
+do it.” He behaves in the manner: “Ah! You did this to me - so I’ll do
+this to you!” And none of my words, pleas, explanations that I never
+wished him any harm, that it can still be fixed, can overturn his
+verdict. When I feel offended, I withdraw into myself and distance, but
+my LSE simply copies my behavior. Any apologies coming from me is my way
+of showing that I am ready for a dialogue, for compromises and
+concessions, and I expect something like this in return, but it never
+happens. Right now the most acute problem for us is his criticisms in my
+address. I get the impression that he notices all my flaws and mistakes,
+which causes me to distance and ruins our relations. He says that he is
+simply expressing his opinion. All of this is very heavy for me. I feel
+like I’m trying to adjust and find common language but I’m the only one.</p>
+<p><strong>Shinigani (ESI)</strong>: ESI generally finds it difficult to explain
+anything extensively, thoroughly, explicitly, with bullet points, i.e.
+in form most needed by LSEs and EIIs. ESI’s manner is that everything
+should be understood from a couple brief phrases and a telling look.
+When offended, an ESI often retreats into herself, keeps silent,
+distances and closes off. An offense shows that the other person is in
+the wrong to such an extent in ESI’s eyes that it’s difficult for the
+ESI to explain it to them verbally. ESI’s dual, the LIE, would have long
+ago lightened things up with humor, while LSE’s dual, the EII, would
+have come up with a way to intuitively talk around and circumvent the
+problem; but when two negativist, tactical, sensing types such as ESI
+and LSE argue and clash, their stalemates can last for a long time.</p>
+<p>Thus the time after an argument is best spent not on waiting for LSE’s
+next move, but on thinking over what exactly was offensive and how it
+can be mended. ESIs excel at clearly pointing out the main problems and
+rifts in relations. So perhaps write him a letter stating what you feel
+has gone wrong. It will be easier for you to formulate your thoughts in
+written form. I used to write to my LSE when I was angry with him. Later
+I felt ashamed and awkward, but he said he was taken in by reading these
+letters and always found something interesting in them for himself. A
+telling look and few phrases, which is characteristic of ESI
+explanations, won’t be enough for an LSE. Once he goes on the defensive,
+this stand-off between you may last forever.</p>
+<p>In some situations it’s better to imagine yourself in role of his EII
+dual and simply say “yes, dear, you are right”. Because he is right.
+Then repeat and press on your own opinion - because he is right, and you
+are also right. Imagine for yourself the “right” or “appropriate” way to
+behave and to speak around him, but later do as you wish. This is how an
+EII behaves herself, but for an ESI it is often inconceivable to be this
+way. Imagine that your LSE partner is oriented at constant, stable and
+assertive pressure being exerted on his suggestive Fi (from his
+declarative stubborn dual). He won’t respond well to the “splashes” and
+“pour-outs” of Fi as it happens with ESIs when their exasperation passes
+all permissible levels.</p>
+<p>ESIs often feel hurt by seemingly never-ending barrage of criticisms
+coming from an LSE on topic of “what isn’t a good way to be” and what is
+“inexpedient” or “irrational” way to act. Think for a second - why was
+this criticism so hurtful? Because you didn’t have enough know-how and
+strength yourself to see what was the right thing to do? Right? This
+means that you should ask for advice and help instead of distancing and
+closing yourself off to such advice. Try to abstract away from the form
+and see the meaning behind these criticisms. It is for this meaning that
+EIIs are grateful to their duals and tell them “you are right, of
+course”.</p>
+<p><strong>Osky (LSI)</strong>: When EIIs come into conflict, they are given to
+self-analysis, examination and correction of their attitudes. At a first
+glance, ESIs seem to lack in such introspective ability. But this isn’t
+really so. ESIs do analyze themselves but they don’t bring up the
+results of this self-digging to the public view and speak of it as
+openly of as do EIIs. ESIs, as aggressors, view talking of their
+personal issues as a weakness, a chip in their armor. Therefore ESIs
+often create an inapproachable image for themselves, while EIIs who put
+their personal journeys trials and tribulations for public discourse
+seem more personable and accessible in how they relate and present
+themselves.</p>
+<div class="line-block">
+<div class="line"><strong>JorgeSand (LSE)</strong>: ESIs speak in too few words for me to understand
+what is their attitude towards something, what are they actually
+feeling and thinking. Thus I have to constantly prod them, engage them
+somehow, to get more of a response from them, a longer reply, though I
+think they enjoy this kind of attention. LSEs to them seem too
+restless, especially in comparison to their activators ILIs.</div>
+<div class="line">Someone wrote about LSEs having “strict set of rules”, but which this
+I don’t agree. There is a set of tried and tested methodologies that
+show what can be done and the most effective and efficient way to do
+it. Then there are methodologies that are in the phase of development,
+which the LSE will gladly put at ESI’s disposal.</div>
+</div>
+<p><strong>Baileys (ESI)</strong>: Living together we have no problems with distributing
+tasks and finishing chores, but with some things like coordinating
+interior design or choosing furniture we have some disagreements over
+what each of us thinks is tasteful (perhaps different senses of taste
+are inherent to different quadra). Both of us are sensing types, so each
+of us has a strong sense of what he or she finds as attractive,
+tasteful, elegant and so on. Here our sensing functions begin to
+extinguish one another. For example, he liked drapes with a stripped
+design, while I said they were wonderful but the tint of the color
+wouldn’t match with dark blue shades. He started to grumble and sat down
+with the look “choose by yourself now!”. Each of us has a sense of
+confidence in their creative function, but when it’s turned down then
+you suddenly end up feeling unwanted and unnecessary, having nothing to
+contribute and nothing to do. So the fact that our areas are confidence
+are the same causes complications. With food, I generally gravitate
+towards simple preparation and fresh quality products. I am fine with
+very simple and monotonous food, for example I can eat porridge every
+day for weeks. I keep very few cooking ingredients around. My LSE
+partner usually wants to experiment, to cook something unusual and new,
+and thus he stocks up on many different things. My frugality and
+simplicity isn’t in his style. Some days he has to limit himself in his
+food experiments as it would take too much time to prepare something
+elaborate for himself and to cook something simple for me.</p>
+<p><strong>Loretta (ESE)</strong>: I have rented a room in the home of an LSE-ESI pair
+for three years. They were happily married for 15 years to that point,
+and I consider their relations to be some of the most strong and
+long-lasting. Perhaps a dual marriage would have been even better for
+both, but they were very devoted to each other and understood each other
+from half a sentence. She thought that he was the best companion in any
+enterprise, while he thought that she deserves only the best as his
+wife, friend, and lover. In was obvious to me that they both were
+lacking in intuition. Both of them worked hard and worked honestly, but
+they did not understand in which direction they should move. They were
+afraid of the future, afraid to take risks. Both of them wanted to open
+their own business, but would stumble upon worries on the type “what if
+all of a sudden …” and “who know what will come out of this …”.
+There was also a noticeable excess in sensing. Both the ESI and the LSE
+are quite materialistic and practical. On the bright side, their home
+was always overflowing with abundance. They both liked and knew how to
+receive guests. Both of of them were also very presentable. They paid
+extra attention to their appearance, their shoes, their clothing, their
+style, their cars, their furniture, and so on. However, this excess in
+sensorics wasn’t the best for their son. While they worked hard and
+provided for him to have the best things in the world, they tried to
+steer himself towards “highest ranked” college rather than considering
+his own potential, talents, and preferences.</p>
+<p><strong>artina (IEI)</strong>: My parents are LSE and ESI. They do well together, but
+they don’t see their own mistakes in communication. The LSE tolerates
+all the acting out of ESI until a certain point when he begins to
+harshly point out all the mistakes and failings in ESI’s actions in
+order to tame the ESI and bring her down. Here, the ESI needs to forgive
+more often and be more tolerant and positive towards the LSE.</p>
+</div>
+<div class="section" id="eii-lie">
+<span id="id1"></span><h2>EII-LIE<a class="headerlink" href="#eii-lie" title="Permalink to this headline">¶</a></h2>
+<p><strong>fohrio (EII):</strong> These are good relations. LIEs are cool and flexible.
+They readily make first contact. Talking and relating to them is simple
+and easy. At work they are usually responsible, have a doer attitude,
+and can be relied upon. Although if I work together with an LIE, certain
+problems with making decisions arise - no one wants to have the last
+word, both are “intuitive” types after all. What strains about LIEs:
+when they don’t have anything to do, they try to get into where they
+shouldn’t involve themselves, and, of course, the vulgar humor of many
+members of this TIM - also an unpleasant aspect. From the EII the LIE
+doesn’t receive enough control and invigorating “kicks”; from the LIE
+the EII doesn’t receive enough care and protection.</p>
+<p><strong>BiJou (EII):</strong> On the part of Dostoevsky, in brief, first you meet a
+smart, interesting, and active man, and then you realize that he a)
+doesn’t protect you, and b) doesn’t appreciate that which you consider
+most valuable in yourself, and c) expects something that you can’t and
+don’t want to give him. Attraction, expectation, misunderstanding. If
+things are left at the level of friendship, without trying to deepen the
+understanding - then everything is fine, and it’s cool to be around the
+LIE. LIEs are also very good companions for leisure activities, sports,
+and travel. And good conversationalists.</p>
+<p><strong>felxp (LIE):</strong> I have one subordinate Dostochka, and one of the
+founders of the company is also Dost. They both have the same problem -
+they worry too much, and, as has already been said above: look for
+protection from the LIE. It’s difficult for my subordinate EII - I
+sometimes see it in her eyes - she comes to me with a problem over which
+she is upset and worried, and I tell her various incoherent nonsense
+whilst avoiding precise and clear formulations. Then I see how
+uncomfortable this makes her - but what can I do? My mind works like
+this. If I am being told that our production has screwed up and the
+client has received a faulty product, I can blurt out something like
+this: “<em>May be try to offer him product 2? Damn, would you think of the
+prospects! This is the only client here, and we need to gain a foothold
+in this region! And by the way, maybe we should hire a regional manager?
+We’ll open up a showroom! How much is the rent .. we’ll win over a good
+rent price, and product 3 will be just on its way. Listen, why do we
+need to hire anyone. Let your client become our representative. We’ll
+work out some special conditions for him</em> …” and the response is that:
+“The client is already shouting in the reception room. He wants to
+return the product and is demanding to postpone the payment until the
+product is fixed!” And I reply: “Well, I’ve got to go. I have an idea to
+buy this chipper machine that would make for an interesting schematic.
+In the mean time, make any promises to the client that he needs, and ask
+him to think about the offer that I told you about.” As a result, the
+EII is almost in tears - in shame for our production, from fear of
+having to talk with an enraged client who has already boiling, and from
+discomfort of a decision being postponed. In general, EIIs are very
+responsible, but I see them as not very psychologically stable.</p>
+<p><strong>Saiby (EII):</strong> My type is Dostoyevsky and I have been in a year long
+relationship with a guy of type Jack. From time to time there are
+problems that I don’t know how to solve. I would like to hear any
+effective and practical advice about this type of relations. 1)
+Sometimes he wants me to unquestioningly carry out some of his requests
+that I don’t understand. When I ask for an explanation, he sulks, goes
+silent, and waits until I figure it out myself. Then he says that I am a
+stupid, that he needs to “spoon-feed” and explain everything to me, and
+that for him this is very annoying. 2) He does a lot for the
+relationship, organizes all sorts of events, and seems to be waiting for
+something reciprocal. But I don’t quite understand what he means when he
+says: “You’re not doing anything!” From my side, there is a lot of
+affection, patience, tolerance and understanding. I try to take care of
+him in terms of sensing: watch that he doesn’t forget anything, to help
+with everyday chores, etc. We are not living together to cook, clean,
+and go shopping together, but what I can do at this stage of a
+relationship? 3) When and where is it necessary for me to become
+stubborn and resistant? Sometimes I get so in the wrong place, for
+example, when he asks to do something and I don’t want or cannot do it.
+Sometimes this leads to exhausting and heavy arguments …I would like
+obtain a set of rules about LIEs, for example, what do they mean when
+they do this or that … so that my interest in socionics as a hobby
+would not be useless (as he thinks).</p>
+<p><strong>LaVague (EII):</strong> His friend LIE treats better than his girlfriend.
+Constant misunderstandings, mixed with attraction-repulsion when
+transitioning to a more intimate level. What is disappointing: his
+desire to be conquered, not to conquer, lack of confidence, divergence
+of words and actions. In the struggle between egoism and love,
+selfishness has won.</p>
+<p><strong>mambase (EII):</strong> I’m an EII in a relationship with an LIE, and we
+cannot develop our relations further! It always seems to me that I’m not
+very important to him, while openly talking about this is difficult
+because he dislikes talking about relationships. When I first told him
+about it - he was so surprised! He told me - how could you possibly
+think so? I answered: well, you don’t call, you don’t tell me
+compliments, don’t talk about your feelings. What else could I have
+thought? For some time he did everything for me, and then it went back
+to the same. Though I think I am to blame too … in short, I finally
+understand that I need to regulate relations myself, that I need to call
+myself, to ask him out for dates. But then I am afraid that he will lose
+interest in me and will take me for granted if I start doing this. I
+don’t really know what to do!</p>
+<p><strong>Ariana (IEI):</strong> I took the initiative over my husband myself. He
+wanted to wait longer, but I pressed on, outlined everything in the
+darkest colors and the consequences of his inaction - as a result, he
+mobilized, came over to “ask for my hand” (we lived in different cities)
+and went back already with me. With LIEs I understood the following
+moment: if he already likes you - take the initiative into your own
+hands, this will only make him happy. Scaring him off is almost
+impossible. Rather, one thing will scare him off: flirting with other
+guys right in front of him - Jacks can’t stand this. What I told him is
+that I am turning 30 soon, that I would like to have a family, and that
+I, most likely, will take up scientific work and occupy with my career
+if I am not married soon. Perhaps another man would be deterred such
+directness - but the LIE has strong business logic, and so conversations
+“about business” they receive positively.</p>
+</div>
+<div class="section" id="lsi-ese">
+<span id="id2"></span><h2>LSI-ESE<a class="headerlink" href="#lsi-ese" title="Permalink to this headline">¶</a></h2>
+<p><strong>Olga (EIE):</strong> I think of couples LSI-ESE as beautiful and bright,
+however, as with any semi-dual relations, there may be problems (ESE’s
+demonstrative falling on LSI’s creative, for example). One of the
+advantages of this type of relations is that they are easier to start
+than dual ones. EIEs run by the LSI and don’t notice them - ESEs will
+pay attention. EIEs feel uneasy taking initiative; they feel afraid of
+being too imposing or too accesible - for ESE social interactions are
+much simpler; it’s normal for them to make a friend, to entertain any
+person by light and easy conversation. The ESEs overall are simpler and
+less conflict prone - in this lies their initial appeal for the LSIs,
+and in this lies the source of their major problems in the future imho.</p>
+<p><strong>Albert (LSI):</strong> LSIs love subtle emotions. And prolonged ones - ESE’s
+emotions don’t last enough for the LSI. Negative emotions are also
+desirable, rather than the eternal positivism of Hugo. In addition -
+beautifully negative! When I see a sad ESE, my feeling is that someone
+has offended a child and this person needs to be punished, so much this
+mood isn’t her. While a sad EIE - this is beautiful, this evokes flutter
+and and admiration, and a certain high! It cannot be said that LSIs are
+undemanding and not discriminating and are ready to “eat up” and
+“swallow” any kind of emotions.</p>
+<p><strong>svetix (EIE):</strong> The ESE tends to easily bridge distance with other
+people; democracy: “all men are brothers.” The EIE, to the contrary,
+worries about whether he or she has been intrusive, if it’s appropriate
+to call in this situation, if it’s ok to take the initiative. That is,
+the EIE in a state of constant wariness and maintaining distance. Plus
+“aristocracy”, which, unfortunately, never sleeps, and is constantly
+dividing people into friends and foes - for the EIE, the slightest
+“aberration” makes us doubt whether it’s necessary become close with a
+given person. Then there are the workings of “white intuition” with a
+minus sign, -Ni, that sees the gradual development of a situation in
+time: “Ok, it’s wasn’t so good here - so in the future there definitely
+will be problems.” Such an interesting extraversion this type has. ESE’s
+creative function on the background of EIE’s vulnerable function paints
+an interesting picture: ESE, when seeing an attractive person in a
+group, with a joyful smile comes up to them with hugs, kisses, “pies”,
+and other joys of life, while EIE sits all distanced and gloomy, getting
+used to the new situation and new person. There are no kisses here -
+only the closest people are allowed so close to the body. In general,
+ESEs are very cool people and very positive. One of my friends has
+managed to joke at a friend’s funeral - he said he felt a bit ashamed of
+it, but couldn’t help himself. Maybe it’s better for LSIs to be together
+with ESEs - the later won’t scare them with bleak prospects, or should
+it be said, with the bleak absence of prospects.</p>
+<p><strong>Laviniya (ESE):</strong> I’ve watched how an LSI pursued an ESE. It was slow,
+but sure, very precise and unambiguously oriented siege. It’s like in
+that opera, when it is easier to surrender than to explain why you won’t
+do it.</p>
+<div class="line-block">
+<div class="line"><strong>Ecila (LSI):</strong> I will share my personal experiences with this
+relationship. At first, everything is great and easy - and this great
+lasts for a long time … then, as always happens, “underwater rocks”
+appear. In my experience, these are: 1) sense of time and timing 2)
+life goals 3) egoism, and 4) stubbornness.</div>
+<div class="line">On the first aspect: This becomes evident only when we work together.
+With the ESE I’ve noticed many extraneous actions that tend to waste
+time. In a “couple of hours”, as was previously estimated, nothing can
+be done, so there’s delay for another two hours, or four … and then
+all the public transportation stops working. This makes me worry, and
+I can’t help myself telling her how to do things more OPERATIVELY, and
+CORRECTLY to save on time - while the ESE finds it unpleasant to hear
+this.</div>
+<div class="line">On the second aspect: However much we talk about this - for her the
+happiness is with his friends and family, while for me it is tightly
+connected to social work and personal realization in my career. Here,
+misunderstandings are frequent. Thus, I try not to bring up this topic
+- it’s to my own peril.</div>
+<div class="line">On the third aspect: “You put yourself above others, but we are all
+human, we’re all the same” … There have been such statements.</div>
+<div class="line">On the fourth: Endless debates. No one wants to compromise. If both of
+us has formed a firm opinion, this is for a long time.</div>
+<div class="line">Fortunately, most of these “underwater rocks” are easily to get
+through and are eventually forgotten. We cannot take offense at each
+other for a long time - usually 10 minutes, at worst - until the next
+day. ESEs also have huge advantages: they are responsible and fair,
+and in most cases can be trusted and relied upon.</div>
+<div class="line">My subjective opinion, is that ESEs don’t have enough depth - in sense
+of creativity, art, erudition, personal goals, self-realization, and
+other similar things about which they don’t support a prolonged
+conversation.</div>
+</div>
+<p><strong>Laboratory_of_sleep (LSI):</strong> I agree with some of your statements,
+Ecila. Responsible and fair - perhaps so, but sometimes this sense of
+fairness dissipates due to a misunderstanding. Sometimes ESE skillfully
+varies up the answers, so that he/she wouldn’t get caught. I don’t see
+fairness in this towards me. Maybe it’s because he/she feels the
+contrast between own subtlety of my linear straightforwardness, which
+who knows, might be interpreted as rudeness. Sometimes I caught myself
+on a thought that I can break the ESE - such feelings this type evokes.
+Mistrust arises. I want specifics. ESE escapes. Perhaps because they are
+mainly interested in superficial topics. Arguments come up often over
+minor things. Thus, the questions are about minor things. The ESE
+doesn’t tend to think deeply (though perhaps he or she knows where he or
+she engages in profound thought). Of course, if the ESE works for you -
+that’s a little bit different. It could be a very interesting type.</p>
+</div>
+<div class="section" id="lii-eie">
+<span id="id3"></span><h2>LII-EIE<a class="headerlink" href="#lii-eie" title="Permalink to this headline">¶</a></h2>
+<p><strong>KPOT (LII):</strong> I will share my experiences with semi-dual (presumably)
+relations. I remember meeting one EIE girl, and although nothing serious
+developed, I still liked her, talking to her was interesting, like a
+kindred soul (at the same time I learned about socionics, but thought
+it’s not all that clear-cut, and semi-dual relations aren’t as bad).
+Couple times we have tried to awkwardly discuss joint trips and small
+adventures (we both like it), but either I haven’t fully understood her
+(she would start at a distance, using hints), either she hasn’t
+understood me. Thus we were gathering, preparing, and in the end went
+nowhere. EIE needs to be persuaded, rocked into motion and shaken up
+with Se, while LIIs have problematic Se and don’t like persuading,
+although, of course, we’ll understand hints. (ESEs don’t need to be
+persuaded at length - she’ll organize anything herself, and then pull
+you out by your ears if needed be.) We lost contact for a long time,
+then she sends me an unexpected text message. I was happy that she wants
+to get in touch again, on the way came up with an idea and organized an
+unusual event. She really liked it, though she did tire me out with her
+doubting again. Said she will come again. Several time she came to this
+event, and brought more and more of her friends. Then she stopped
+coming, turning down my invitations with “may be’s” and “well, I don’t
+know yet’s”. Her friend, whom I have typed as LSI, manages to persuade
+her and make her do something, while I didn’t feel like doing it
+somehow, I sought to be understood without any persuasions. Some
+holidays were coming up, and I again put together a trip, to which she
+responded “may be yes, may be no”, wanted to first bring a friend along,
+then two of her friends who were a couple, and turn this into a mass
+outing again. She asked me to call her in the evening, but hasn’t picked
+up the phone, then wrote me in the morning that it won’t work out for
+her. I became very upset with this, and since that time we aren’t
+communicating any more.</p>
+</div>
+<div class="section" id="related-discussions">
+<h2>Related discussions<a class="headerlink" href="#related-discussions" title="Permalink to this headline">¶</a></h2>
+<ul class="simple">
+<li><p><a class="reference external" href="https://www.google.com/webhp?sourceid=chrome-instant&amp;ion=1&amp;espv=2&amp;ie=UTF-8#q=site%3Ahttp%3A%2F%2Fpersonalitycafe.com%2Fsocionics-forum%2F%20semi-duality">Semi-duality relations discussions on PerC</a></p></li>
+<li><p><a class="reference external" href="https://www.google.com/webhp?sourceid=chrome-instant&amp;ion=1&amp;espv=2&amp;ie=UTF-8#safe=strict&amp;q=site:http:%2F%2Fwww.the16types.info%2F+semi-duality">Semi-duality relations discussions on 16t</a></p></li>
+<li><p><a class="reference external" href="http://www.typologycentral.com/forums/forum90/">Semi-duality relations discussions on Typoc</a></p></li>
+<li><p><a class="reference external" href="https://www.reddit.com/r/Socionics/">Semi-duality relations discussions on Reddit</a></p></li>
+<li><p><a class="reference internal" href="vera.html"><span class="doc">Intertype Relations by Stratievskaya</span></a></p></li>
+</ul>
+</div>
+</div>
+
+      </article>
+      <footer>
+        
+        <div class="related-pages">
+          <a class="next-page" href="quasi_observations.html">
+              <div class="page-info">
+                <div class="context">
+                  <span>Next</span>
+                </div>
+                <div class="title">Quasi-identity observations</div>
+              </div>
+              <svg><use href="#svg-arrow-right"></use></svg>
+            </a>
+          <a class="prev-page" href="mirror_observations.html">
+              <svg><use href="#svg-arrow-right"></use></svg>
+              <div class="page-info">
+                <div class="context">
+                  <span>Previous</span>
+                </div>
+                
+                <div class="title">Mirror observations</div>
+                
+              </div>
+            </a>
+        </div>
+
+        <div class="related-information">
+              Copyright &#169; 2021, Wikisocion Authors
+            |
+            Built with <a href="https://www.sphinx-doc.org/">Sphinx</a>
+              and
+              <a class="muted-link" href="https://pradyunsg.me">@pradyunsg</a>'s
+              <a href="https://github.com/pradyunsg/furo">Furo theme</a>.
+            |
+            <a class="muted-link" href="../_sources/content/semi_dual_observations.rst.txt"
+               rel="nofollow">
+              Show Source
+            </a>
+        </div>
+        
+      </footer>
+    </div>
+    <aside class="toc-drawer">
+      
+      
+      <div class="toc-sticky toc-scroll">
+        <div class="toc-title-container">
+          <span class="toc-title">
+            Contents
+          </span>
+        </div>
+        <div class="toc-tree-container">
+          <div class="toc-tree">
+            <ul>
+<li><a class="reference internal" href="#">Semi-duality observations</a><ul>
+<li><a class="reference internal" href="#esi-lse">ESI-LSE</a></li>
+<li><a class="reference internal" href="#eii-lie">EII-LIE</a></li>
+<li><a class="reference internal" href="#lsi-ese">LSI-ESE</a></li>
+<li><a class="reference internal" href="#lii-eie">LII-EIE</a></li>
+<li><a class="reference internal" href="#related-discussions">Related discussions</a></li>
+</ul>
+</li>
+</ul>
+
+          </div>
+        </div>
+      </div>
+      
+      
+    </aside>
+  </div>
+</div><script data-url_root="../" id="documentation_options" src="../_static/documentation_options.js"></script>
+    <script src="../_static/jquery.js"></script>
+    <script src="../_static/underscore.js"></script>
+    <script src="../_static/doctools.js"></script>
+    <script src="../_static/scripts/main.js"></script>
+    </body>
+</html>

@@ -1,0 +1,298 @@
+Dimensionality of functions
+===================================
+
+Introduction
+------------
+
+**Dimensionality of a function** is the number of qualitative
+information processing parameters in the framework of which a function
+of :doc:`model A <model_a>` is capable of processing information. Each
+function has two characteristics: the amount of accumulated experience
+and its ability to process information, which is also known as the
+"strength" of the function. The concepts of dimensionality was
+introduced when it was noticed that a weaker function that has, for one
+reason or another, accumulated a lot of experience is easily mistaken
+for a strong function, which can lead to errors in typing. To resolve
+this issue, the concept of functional dimensionality was proposed by
+Kiev socionists (:doc:`Bukalov <bukalov>`, :doc:`Yermak <ermak>`)
+and is now widely applied by socionists from various schools. A summary
+of this concept is given below.
+
+ 
+
+Four dimensions
+---------------
+
+The four information processing parameters of each function of model A
+are:
+
+**Experience** (*Ex*) = the ability to recognize patterns and make
+generalizations based on personal experience. This is the first
+qualitative parameter of information processing of a function. This
+parameter is present in all functions - all functions are able to
+gather and use life experience of a person. This is the individual
+experience of perception of information on some aspect.
+
+**Norms** (*Nr*) = the ability to recognize and apply standard
+practices from one's surroundings. This is the second qualitative
+parameter of information processing of a function. Use of norms is
+attributable to all functions except for painful and suggestive. This
+is information concerning the assessment of the aspect by others,
+i.e. an instrument for evaluating it in terms of "as is customary",
+"as it should be".
+
+**Situation** (*St*) = the ability to recognize and respond to the
+subtleties of specific situations. This is the third qualitative
+parameter of information processing of a function, that is an
+attribute only of strong functions. This is the ability to develop
+new solutions within the parameters of a particular situation, i.e.
+taking into account situation specific properties and circumstances.
+
+**Time** (*Tm*) = the ability to recognize and envision development
+over time. This is the fourth qualitative parameter of information
+processing of a function. Time is attributable only to the 1st and
+8th functions of model A. This is the ability to evaluate (to
+transfer) of the situation in time, to model a situation in another
+time frame (not to be confused with the intuition of time).
+
+ 
+
+Dimensionality of Functions of Model A
+--------------------------------------
+
+1-dimensional functions process information on a single parameter of
+experience; 2-dimensional function - on two parameters: experience and
+norms; 3-dimensional function - on three parameters: experience, norms,
+situation; 4-dimensional functions - on four parameters: experience,
+norms, situation, and time.
+
+| The dimensionality of :doc:`functions <functions>` of model A is as
+  follows.
+| \* Leading function (1) and Demonstrative function (8) have
+  4-dimensions: Ex, Nr, St, Tm.
+
+-  Creative function (2) and Ignoring function (7) have 3-dimensions:
+   Ex, Nr, St.
+-  Activating function (6) and Role function (2) have 2-dimensions: Ex,
+   Nr.
+-  Suggestive function (4) and Vulnerable function (5) have 1-dimension:
+   Ex.
+
++-----------------------+--------------------+-----------------------+
+| Functions             | Dimensionality     | Encompassed           |
+|                       |                    | dimensions            |
++=======================+====================+=======================+
+| (1,8) Leading,        | 4-dimensional (4D) | Experience, Norms,    |
+| Demonstrative         |                    | Situation, Time       |
++-----------------------+--------------------+-----------------------+
+| (2,7) Creative,       | 3-dimensional (3D) | Experience, Norms,    |
+| Ignoring              |                    | Situation             |
++-----------------------+--------------------+-----------------------+
+| (3,6) Activating,     | 2-dimensional (2D) | Experience, Norms     |
+| Role                  |                    |                       |
++-----------------------+--------------------+-----------------------+
+| (4,5) Suggestive,     | 1-dimensional (1D) | Experience            |
+| Vulnerable            |                    |                       |
++-----------------------+--------------------+-----------------------+
+
+
+.. list-table:: Functions of Model A
+    :header-rows: 1
+    :widths: 30 10 30 10 20
+
+    * - function
+      - dim
+      - function
+      - dim
+      - blocks
+    * - 1st Program
+      - 4D
+      - 2nd Creative
+      - 3D
+      - :ref:`Ego <ego-block>`
+    * - 4th Vulnerable
+      - 1D
+      - 3rd Role
+      - 2D
+      - :ref:`Super-ego <superego-block>`
+    * - 6th Activating
+      - 2D
+      - 5th Suggestive
+      - 1D
+      - :ref:`Super-id <superid-block>`
+    * - 7th Ignoring
+      - 3D
+      - 8th Demonstrative
+      - 4D
+      - :ref:`Id <id-block>`
+
+
+**1-dimensional functions - 4th (vulnerable) and 5th (suggestive)
+functions** of Model A. These functions are capable of using only one
+parameter of Experience. Absorbing and processing information on the
+aspects of 1-dimensional functions is difficult. Here the person relies
+only on individual life experience that either he or she has lived
+through in the past or has observed of others. In other words, on these
+aspects a person learns only on own mistakes, while any explanations are
+not accepted and processed. When a new situation arises for which there
+is no already available template of behavior, a person may chose the
+next readily available one, which may not be entirely appropriate
+(inadequate or inappropriate behavior), or may even completely refuse to
+respond on the relevant aspects and instead shift emphasis to own strong
+functions.
+
+**2-dimensional functions - 3rd (role) and 6th (activating) functions**
+of model A. These functions are capable of using two parameters of Norms
+and Experience. 2-dimensional functions can process both experiential
+information and information that comes from "theory" i.e. from
+experience of other people with no need to personally live through it,
+that is, from collective experiences that form social norms. On the
+aspects of these functions a person is able to learn from explanations
+and books written by others on how it "should be" and about typical
+solutions and normative methods. However, the person further proceeds to
+use this information in a standardized manner, not taking into account
+the specifics of various situations i.e. without situation appropriate
+modification of this information.
+
+**3-dimensional functions - 2nd (creative) and 7th (ignoring)
+functions** of model A. These functions are capable of using three
+parameters of Situation, Norms, and Experience. 3-dimensional functions
+can process information on their aspects accounting for personal
+experience, norms, as well as the specifics of the current situation. As
+a result, these functions are characterized by creative use of
+accumulated experience and "theory", adapting these to the concurrent
+situation or applying this information to completely different fields.
+They are able to combine person's experience from different life
+situations in such a way that it allows to solve some new problems in
+new situations that a person hasn't previously encountered.
+
+**4-dimensional functions - 1st (leading) and 8th (demonstrative)
+functions** of model A. These functions are capable of using four
+parameters of Time, Situation, Norms, and Experience. 4-dimensional
+functions can process information of their aspects accounting for
+experience, norms, situation, as well as time, that is, they can
+transfer their assessment of a given situation along the time axis. This
+gives 4-dimensional functions high proficiency in prognosing of
+information on their aspects. These functions are capable of working
+"ahead of time" i.e. seeing the different contingencies and results of
+some experience or situation before its realization. Ability to compound
+diverse situations over time allows 4-dimensional functions to derive
+some general global level understanding on their aspects, that serves as
+main pool of understanding for a person and that is difficult to convey
+in its entirety. These functions are capable of coming up with something
+that is radically new in principle.
+
+ 
+
+Other Notes on Function Dimensionality
+--------------------------------------
+
+Addendum to 4-dimensional functions written by :doc:`Irina Eglit <eglit>` in "Four Parameters: experience, norms,
+situation, and time (or globality)":
+
+   "Let's imagine that you were shown a single frame of a situation and
+   asked how you would you act in this case? Your data processing in
+   this case will depend on the dimensionality of the function. The
+   3-dimensional function will process the information that is presented
+   by this single frame situation to decide how to act in this
+   situation. The 4-dimensional function will process the information
+   concerning this single frame situation, and all the frames preceding
+   that frame, and all the possible follow-up shots, to come to a
+   decision. The 4-dimensional function cannot simply be limited to the
+   situation, for it does not see the situation as static but as a
+   development. Therefore, the solution coming from these two functions
+   will be different. The 4th dimension - is a dynamic perception of the
+   ever-changing world."(c)
+
+1-dimensional functions from `School of System
+Socionics <http://en.socionicasys.org/teorija/dlja-novichkov/funkcii/razmernost/odnomernost>`__
+page:
+
+   Any information that ends up in a one-dimensional function is
+   assessed by the function as pleasant or unpleasant. Natural (from the
+   viewpoint of one-dimensional function) reaction when encountering an
+   "unpleasant" information is the desire to get rid of it, to turn
+   away, not to take it into account, to pretend that it does not exist,
+   to forget, to fence off in any way.
+
+   One of the methods of "getting away" is mental time hastening - "I
+   wish it ends quickly," which leads to the feverishness of the
+   function. Thinking becomes impatient, shallow and very narrow. It can
+   be compared with the rapid running through dark places, when your
+   field of vision is narrowed to a spot, you do not want to see
+   anything around. Reactions are accelerated, there is haste. We are
+   hurriedly doing something to get rid of the unpleasant thing faster:
+   we quickly tinker through our relationship, we hastily make our
+   calculation, or in general, we quickly react to the information
+   related to the element of our one-dimensional function. This, of
+   course, often leads to mistakes, and we get the opposite of what we
+   have hoped for - we do not get rid of the unwanted situation, we make
+   it worse. Trying to "run through" the situation at high speed, just
+   to feel relieved that it's over, deep down, we still feel that we are
+   failing and we feel "suspended."
+
+From "Structure of Model A" published at Socionics Research Institute:
+
+   "In presence of harmonious development, these 4 vectors are balanced
+   in an individual. If one or more of these vectors are amplified in
+   comparison to others, it may indicate distortions in development.
+   If a person has strengthened vector of globality, this is reflected
+   by the fact that he sees things globally, such as projects, events,
+   and people, and can see significant developments and challenges; at
+   the same time he exaggerates their value.
+   If a person has strengthened vector of situation, this is reflected
+   in the fact that he easily orients in different situations, quickly
+   and successfully adapts to events, and finds many creative solutions;
+   at the same time he may be opportunistic and easily change his
+   opinion and position.
+   If a person has strengthened vector of norms, he carefully and
+   accurately follows social norms and standards in both work and
+   informal communication, in appearance, in style of speech (as he
+   understands them), and ensures that the rules and the order are not
+   violated.
+   If a person has strengthened vector of personal experience, in most
+   situations he relies primarily on himself or herself, on own
+   experience and own opinions, while ignoring the opinions of others
+   and not learning from the mistakes of others; he cannot broadly and
+   creatively look at the situation, and evaluates people "by his own
+   yardstick".
+
+From Sociomodel.ru:
+
+   "To give a simplified figurative example of the above descriptions,
+   explaining anything on a 1-dimensional function, that "one should not
+   step on the rake", is meaningless: until a person steps on the rake
+   and gets hit by it, he or she won't "absorb" any recommendations and
+   explanations; then, after getting hit by the rake, a person may not
+   understand why this has happened and in the future may avoid anything
+   resembling a rake even distantly (1-dimensional functions have skewed
+   and distorted perception). A 2-dimensional function will understand
+   and remember the advice that "one should not step on a rake", but it
+   will remember it in a formulaic sense and always apply it, even in
+   situations when it's possible to break this rule without any
+   consequences (such as when a rake is standing vertically against a
+   wall), until once again a person tries this out directly. In contrast
+   to a 2-dimensional function, a 3-dimensional function is capable of
+   seeing and distinguishing such "exceptional" situations. Finally, a
+   4-dimensional function does not need to be given such advice: looking
+   at the rake, it is capable of perceiving what consequences can arise
+   as a result of stepping on it."
+
+ 
+
+See also
+--------
+
+-  `1st
+   Dimension <http://en.socionicasys.org/teorija/dlja-novichkov/funkcii/razmernost/odnomernost>`__
+-  `2nd
+   Dimension <http://en.socionicasys.org/teorija/dlja-novichkov/funkcii/razmernost/dvumernost>`__
+-  `3rd
+   Dimension <http://en.socionicasys.org/teorija/dlja-novichkov/funkcii/razmernost/trehmernost>`__
+-  `4th
+   Dimension <http://en.socionicasys.org/teorija/dlja-novichkov/funkcii/razmernost/chetyrehmernost>`__
+-  `Description of Function Dimensionality from School of System
+   Socionics <Dimensionality_of_Functions_by_Eglit>`__
+-  `Indicators of
+   Dimensionality <http://en.socionicasys.org/teorija/dlja-novichkov/funkcii/razmernost/indikatory-razmernosti-funkcij>`__
+-  :doc:`Model A <model_a>`

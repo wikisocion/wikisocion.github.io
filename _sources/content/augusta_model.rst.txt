@@ -1,0 +1,236 @@
+Augusta model of the information metabolism
+==================================================
+
+**A. Augustinavichiute**
+
+*Journal Socionics, methodology and psychology of personality, N 1,
+1995*
+
+**Model of the information metabolism**
+
+The scientific technical revolution joins two tendencies: the creation
+of new industrial enterprises and new approaches to the use of working
+resources. In this situation the problem of psychological typologies
+gains new importance.
+
+I call the reader's attention to the typology created by Carl Gustav
+Jung, which I have improved upon using A. Kepinski's theory of
+information metabolism. It allows one to look at the specific social
+function of each individual, which depends on their type of personality
+or intellect. The personality type determines the methods of selecting
+which information is accepted from the external world. The ability to
+focus on one or another aspect of the external world depends on the
+individual's aspirations, on where he directs his behavior, and his
+relation to other people.
+
+A double bond with the surrounding world is a necessary condition of any
+functioning organism. From one side it is connected in the process of
+energy metabolism, i.e. in the exchange of chemical substances with the
+environment. From the other side it is connected through the process of
+information metabolism to the world of electro-magnetic phenomena.
+According to A. Kepinski the external information signals which the
+psyche receives are similar to the food which the organism obtains
+through the process of energy metabolism, i.e. as food is necessary for
+the organisms energy metabolism, so information signals are for the
+information metabolism of the psyche.
+
+The ability of an organism to receive and transfer signals depends on
+the formation of energy pulses within the organism, i.e. the process of
+information metabolism begins with the formation of small energy
+charges. In order to function as the apparatus of information
+metabolism, the brain depends on a constant stream of signals obtained
+from both outside and within the organism. If this stream of signals
+ceases for any length of time, the organism's psyche will begin to
+disintegrate.
+
+According to information theory, a system only receives the information
+that it is attuned to, i.e. the only signals which it picks up are those
+which it can issue itself. The signals which the organism is more
+consciously aware of will likewise be more consciously produced. For
+example, a man who does not notice his own tone when speaking, does not
+pay attention to the tone of other people speaking.
+
+The signals which are obtained externally are organized into two groups.
+The first group contains all the dynamic processes. A man's conscious
+and unconscious movement communicates to others not only his present
+actions, but to a certain degree his future ones as well. These signals
+of future actions comprise a second group which are about people's
+emotional states and moods. These two groups of signals transfer the
+information about external and internal dynamics.
+
+There are also two aspects to information of static phenomena. Each
+organism is an object which tries to avoid collisions with other objects
+which are dangerous to it. Therefore it is necessary to transfer and
+receive information about external qualities. Simultaneously he feels
+the need to examine his own structure and the structures of other
+objects in order to understand the potential capabilities of himself and
+others. These signals can be transmitted, for example, through the color
+of a face.
+
+Thus, we can say that like every living being, man possesses four
+functions, or four capacities of adaptation to the external world. Four
+groups of man's capabilities will subsequently be called extraverted and
+be designated by the following symbols: |symbol_p.gif| |symbol_e.gif|
+|symbol_f.gif| |symbol_i.gif| . The capacity to gather information about
+external processes we will conditionally call logic - |symbol_p.gif| ,
+the capacity to gather information about internal processes which occur
+in the internal world of man - ethics - |symbol_e.gif| , the capacity to
+have precise information about the form and appearances of surrounding
+objects - sensation - |symbol_f.gif| , and the capacity to examine
+structure and potential abilities - intuition - |symbol_i.gif| .
+
+Any type of information is processed by one of two methods: information
+about objects |symbol_f.gif| and their structure |symbol_i.gif|
+assimilated in the context of the space between them - |symbol_l.gif|
+(white logic) and in the context of their mutual attraction to each
+other - |symbol_r.gif| (white ethics). Information about processes
+grasped in the context of time - |symbol_t.gif| (white intuition) and in
+the context of well-being - |symbol_s.gif| (white sensing). Thus, there
+are four spatial capabilities or skills of the psyche: the perception of
+distances - |symbol_l.gif| , the perception of attraction-repulsion -
+|symbol_r.gif| , the perception of time - |symbol_t.gif| and the
+perception of well-being - |symbol_s.gif| .
+
+It is possible to compile this table:
+
+.. list-table:: Symbols of the seperate component parts of perception
+    :header-rows: 2
+
+    * - black
+      - white
+    * - properties of objects
+      - properties of space
+    * - action, motion |symbol_p.gif|
+      - distance |symbol_l.gif|
+    * - excitation, motivation to act |symbol_e.gif|
+      - attraction |symbol_r.gif|
+    * - form |symbol_f.gif|
+      - state |symbol_s.gif|
+    * - structure |symbol_i.gif|
+      - time |symbol_t.gif|
+
+These capacities are inherent in all life. Mankind is segregated due to
+the fact that he has not one, but sixteen types of personality.
+Therefore within the psyche of individuals of different personality
+types, only some of those elements of perception take special positions.
+Two of them dominate, forming the so called ego. This is confirmed when
+we study people and see how differently they think, how many alternate
+ways of thinking of the very process of thinking exist.
+
+Within the abstract theoretical model, if we contemplate a subject then
+with the brains functioning occurs a displacement of energy charges. Two
+rings of information metabolism (IM) are formed (See fig. 2).
+
+One of these rings (static) receives and digests information about the
+form of objects, their structure, attraction to other objects and
+distance between them. In this case the information received is about
+both the objects of the external world and about the organism itself as
+an object. This is the initial point of analytical thinking.
+
+The second ring recieves dynamic information, i.e. information about the
+internal processes of the object (including emotions) and movements in
+space. In the context, as has already been explained, of well-being and
+in the context of time. This is the initial point for synthetic
+thinking.
+
+One of these rings (the upper in fig. 2) is more active, the other is
+more passive. Therefore some types' IM will be predominantly analytical
+in thinking, the others - synthetic. It is interesting that analytical -
+static thinking people always have a purposeful goal to obtain, and
+synthetic - dynamic thinkers have a particular means for the achievement
+of objectives.
+
+--------------
+
+⬆ good to go 
+
+--------------
+
+⬇ needs to be worked on
+
+--------------
+
+One element of the active and one element of the passive ring performs
+the leading role of the IM series. When in the active upper ring this
+role belongs to a white element the psyche formed is introverted,
+inlined to a certain idleness with the external world. When this role
+belongs to a black element the psyche formed is extraverted, clearly
+inclined towards the external over the internal world. The leading
+elements of both rings are always a pair of elements, for example Te and
+Ti.
+
+In connection with the fact that the energy pulses can have one of two
+directions, and both rings can be the active ring, it becomes clear why
+the number of personality types is sixteen: 4 X 2 X 2 = 16.
+
+The active ring IM assumes information directly from nature and other
+environments, including the social environment. In this ring there is
+much independence. If a man receives commands and instructions through
+these elements then they are inspected for accordance with real life
+situations. Within this ring is the ego block. Concerning the ego block,
+one should say that on the basis of the information processed by this
+block, the individual is only inclined to lead and not to be
+subordinated.
+
+Socially the activity of the passive ring is seemingly limited to an
+auxiliary role, assuming information in essence about itself and its
+activity. If the active ring contains the ego and super-ego blocks, i.e.
+the individual's conscience and social personality, then within the
+passive ring lies super-id (the unconscience)- the accusations of man
+with respect to those surrounding his deficiencies of health. Also in
+the passive ring is the id block - the barely realised or insufficiently
+realised actions of the individual. This ring has a tendency to follow
+any directive information. If external activity is insufficient for
+activation then tendencies are formed towards insufficient physical
+activity. This causes psychosomatic disturbances.
+
+Thus, an integral intellect is formed from the people with sixteen types
+of thinking. These sixteen different types are each different and
+simultaneously equivalent units of the social intellect of society. It
+is possible to say that the unit of the integral human mind is only the
+collective group of sixteen personality types together.
+
+The function of an individual within society is determined by their type
+and capacity of intellect.
+
+It is possible to speak about the social function and role of each
+personality type. First of all, the fact that some types fulfill the
+role of theoreticians, others - businessmen, the third are disposed to
+artistic and poetic roles, the fourth are inclined towards power and
+control. In some types thinking is abstract, in others - concrete.
+
+Each individual has a need to feel that they introduce contributions to
+their environment which correspond to their intellectual level and type
+of personality. In my opinion, man transfers a manifestation of his
+intellect more easily than a manifestation of his personality type.
+
+Note on the transfer: It is now known, for example, that working in
+leadership roles worsens the psychosomatic state in introverts and
+improves it in extraverts. Introverts are inclined towards work where
+they can reveal their personal abilities and values, but not leadership
+talents. Leadership talents are inclined to be exhibited with more or
+less success by extraverted personality types. For the best leadership
+of research institutes any of the intuitive- logical extraverts are
+suitable. Large industrial and agricultural exterprises as well as
+different government economic agencies of the state can be led by both
+sensory-logical extraverts. For the leadership within sociocultural
+institutions, up to the Red Cross and society "knowledge", both
+ethical-sensory extraverts. And for the leadership within theatrical
+types of organizations- ethical-intuitive extraverts.
+
+ 
+
+Below are several models of separate personality types
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+.. image:: images/augusta_model.jpg
+    :align: center
+
+.. |symbol_p.gif| image:: Symbol_p.gif
+.. |symbol_e.gif| image:: Symbol_e.gif
+.. |symbol_f.gif| image:: Symbol_f.gif
+.. |symbol_i.gif| image:: Symbol_i.gif
+.. |symbol_l.gif| image:: Symbol_l.gif
+.. |symbol_r.gif| image:: Symbol_r.gif
+.. |symbol_t.gif| image:: Symbol_t.gif
+.. |symbol_s.gif| image:: Symbol_s.gif

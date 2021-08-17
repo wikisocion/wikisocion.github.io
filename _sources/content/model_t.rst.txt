@@ -1,0 +1,19 @@
+Model T
+============
+
+**Model T** is a psychophysiological model proposed by :doc:`Viktor Talanov <talanov>` as an alternative to Model A. The model is based on the idea of perceptual thresholds and employs 4 psychic :doc:`functions <functions>` instead of 8 as in :doc:`Model A <model_a>`.
+
+Model T explains some Reinin traits which are otherwise difficult to understand:
+
+* :doc:`Emotivist / Constructivist <constructivist_emotivist>`
+* :doc:`Tactical / Strategic <tactical_strategic>`
+* :doc:`Yielding / Obstinate <yielding_obstinate>`
+* :doc:`Carefree / Farsighted <carefree_farsighted>`
+
+Model T is further covered in the following articles written in Russian:
+
+* `Introduction to Model T by V. Talanov <http://www.socionic.ru/index.php/2010-10-04-22-22-38/1328-model_t_viktor_talanov>`__
+* `Complete Model T by V. Talanov <http://www.socionic.ru/index.php/2010-10-04-22-22-38/1335-polnaya_model_t>`__
+* `Model T and Reinin Traits by V. Talanov <http://www.socionic.ru/index.php/2010-10-04-22-22-38/1330-model_t_i_priznaki_reinina>`__
+* `Model T and Intertype Relationships by V. Talanov <http://www.socionic.ru/index.php/2010-10-04-22-22-38/1329-model_t_i_intertipnye_otnosheniya>`__
+* `Comparison of Model T and Model A by V. Talanov <http://www.socionic.ru/index.php/2010-10-04-22-22-38/1341-sravnenie_modeli_t_i_modeli_a>`__

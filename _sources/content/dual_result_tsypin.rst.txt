@@ -1,0 +1,172 @@
+On Dual Relationships of Result Types by Tsypin
+======================================================
+
+| Written by :doc:`Pavel Tsypin <tsypin>`.
+| `Original text. <http://real-socionics.ru/page22.html>`__
+
+
+Introduction
+------------
+
+This phenomenon has been noticed for a while, that
+:doc:`Process <process_result>` type dual pairs are more frequently
+encountered, while :doc:`Result <process_result>` type dual pairs are
+much rarer in comparison. In addition, Process (right) dual couples tend
+to coexist together for a long time, while Result (left) couples often
+quickly fall apart.
+
+Why does this happen?
+
+The hypothesis is as follows: Process (right) dual pairs have a "plus"
+sign in their program (leading function) aspects. This indicates the
+possibility of a gradual acceptance of a partner. Process types are
+ready to accept any manifestations on their "plus" program aspects. For
+the Result types the situation is completely different. The "minus" sign
+in leading functions inclines them to immediately reject the person (as
+"bad") or accept them right after acquaintance. However, there are no
+ideal people, thus Result types frequently make negative verdicts on
+their dual candidacies. The way they describe and justify it is
+different: "unappealing", "mean", "unpleasant", "untidy",
+"unattractive", etc. Result types seem to be always trying to shield
+themselves from unpleasant perceptions and feelings, which also happens
+to shield them from potential partners on grounds that they seemed
+unsuitable at a first glance. Getting into details and understanding a
+partner better seems uninteresting to Result types  people of these
+types prefer to make quick, far-reaching assessments.
+
+The specificity of dual relations is such that initially there is an
+absence of mental resonance that would allow the people to find common
+themes and become captivated with each other through conversation. Here,
+what happens is an assessment of energy compatibility, which is
+verbalized with much difficulty. A reliable assessment of the degree of
+energy compatibility requires time, while Result type style of
+communication is based on quick assessments.
+
+Thus, Process types are oriented at making dual relationships work. How
+do Result type fare?
+
+
+
+Examination by type
+-------------------
+
+**ESE, ESFj (Hugo)**
+
+Often characterizes his dual as: "boring", "too indecisive", "helpless",
+"wimp", "unkempt", "dull person", "too quiet and monotonous". The ESE
+usually feels attracted to bright, responsive, and practical partners.
+Often proceeds to build relationships with SEI, LSE, LSI, and EII as
+life partners.
+
+**LII, INTj (Robespierre)**
+
+Often characterizes his dual as: "completely unpredictable", "chaotic",
+"utterly confused", "emotional dictator", "aggressive", "too
+straightforward", "too stupid", "has no knowledge him/herself, but
+continues to argue", "not interested in anything serious", "doesn't
+leave anyone alone". The LII gravitates towards more calm and
+predictable (in his view) relations and often chooses SEI, LSE, EIE, LIE
+as his romantic partners.
+
+**SLE, ESTp (Zhukov)**
+
+Typical descriptions of his dual: "wimp", "useless", "worthless",
+"failure at life", "inexperienced in life", "dead-end", "unsuccessful"
+"too effeminate", "crybaby". The SLE is more interested in partners with
+whom he can, more or less on equal footing, discuss and resolve
+important "sensory" issues to himself  covering the uncovered
+territory, making money, accumulation of material prosperity,
+arrangement of his "territory", building his career. Thus, he often
+chooses SEI and SLI as his partners from strategic considerations, and
+also gets interested in ESI, ILI, EIE, and LSI.
+
+**IEI, INFp (Yesenin)**
+
+In his eyes, his dual usually appears as: "too shallow", "too
+materialistic", "too appearance oriented", "uncultured boor", "vulgar
+dork", "a dictator", "a man in a skirt (about female duals)", "a
+martinet". Very often the IEI doesn't feel comfortable meeting his dual
+and strives towards relationships that seem more soulful and
+intellectually resonant to him. Often his "partners in life" are types
+LII, LSI, ESI, SLI, and ILE.
+
+**LIE, ENTj (Jack)**
+
+The most common descriptions of his dual: "strict doll", "not a woman,
+but a kindergarden teacher", "petty bourgeois", "pathologically
+jealous", "total monotony", "dull and boring", "too gloomy", "can't say
+a word to him/her". LIE seeks partners that won't limit his freedom, who
+have a lenient outlook on his "adventures", and who won't teach him how
+to live and control his every step. He often chooses EII, LSI, ILI, SEE,
+and LII as his partners.
+
+**ESI, ISFj (Dreiser)**
+
+The perception of his dual can be characterized as following: "the
+inconstancy itself", "windbag", "womanizer", "lover of extreme
+situations", "consummate extremalist". ESI often prioritizes partners
+who are more promising of stability and calm way of life, as well as
+those who dedicate more consideration to questions of ethics and moral
+behavior. Often ESI ends up pairing up with LSI, ESE, EIE, and LII.
+
+**IEE, ENFp (Huxley)**
+
+Their issues with perception of their dual are characterized by the
+following adjectives: "nature's mystery", "lazybones", "ice queen",
+"bore", "incorrigible egoist", "too quiet", "has his own agenda". Far
+more attractive partners to the IEE are often sociable, open, and
+emotional people. It is difficult for the IEE to reconcile with the fact
+that for SLI everything soon gets boring. This is a typical
+misunderstanding between a :doc:`static <statics_dynamics>` type, who
+is somewhat inert in own interests and tastes, and a
+:doc:`dynamic <statics_dynamics>` type, who does not wish to get stuck
+and fixated on anything for too long. Thus, IEE, desiring to create a
+strong relationship, gravitates towards types ILI, SEI, SLE, and IEI.
+
+**SLI, ISTp (Gabin)**
+
+In his eyes, his dual often appears as: "superficial", "intrusive",
+"taking everything too close to heart", "chaotic", "noisy",
+"chatterbox", "neurotic". The SLI does not aspire to relationships where
+parameters are fixed once and for always; he needs certain freedom in
+behavior. Any restrictions and bans, even if they are expressed in a
+very mild form, he perceives rather painfully. Attempting to ensure
+emotional comfort and privacy of personal space, the SLI is inclined to
+pick EII, ESI, SLE, and IEI for life together.
+
+
+
+Concluding remarks
+------------------
+
+1. Of course, the dual pairs of Result types are found in practice. But,
+firstly, they rarely make it together to an old age; and secondly,
+statistically in comparison with Right dual pairs they are relatively
+rare. In any case, this article should not be interpreted in a sense
+that Result dual pairs are impossible to form.
+
+2. When two people are typed as a couple, often one of them is typed
+wrong because the typer falls under the influence of "the myth of
+duality" and convinces himself or herself that if one partner is LIE
+then other has to be ESI. Many couples thus continue living together
+under the impression that they duals, while in actuality their pair is
+characterized by another intertype relationship.
+
+3. The article lists the most common pairings for Result TIMs, but this
+is not to be understood rigidly. In reality, there may be the most
+"exotic" pairings of types, and moreover these unions may be harmonious
+to a certain extent. There are, for example, supervision and conflict
+couples who live together for a very long time. They seem to come out of
+the difficult, stressful situations due to the richness of their
+personal qualities. A person choosing their marriage partner focuses
+mainly not on their TIM, but on their personal qualities, and therefore
+is able to get along with a representative of almost any TIM if the
+personal qualities of the selected partner are close and dear to him.
+
+
+
+See also
+--------
+
+-  :doc:`Process and Result Types <process_result>`
+-  :doc:`Duality observations <dual_observations>`

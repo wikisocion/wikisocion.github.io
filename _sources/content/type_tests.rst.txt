@@ -1,0 +1,4 @@
+Socionic type tests
+====================
+
+

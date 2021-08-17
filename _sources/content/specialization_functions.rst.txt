@@ -1,0 +1,255 @@
+On Specialization of Functions of Model A by Tsypin
+============================================================
+
+Written by :doc:`Pavel Tsypin <tsypin>`. 
+
+`Original text. <http://real-socionics.ru/page28.html>`_
+
+
+Introduction
+------------
+
+:doc:`Model A <model_a>` of information metabolism is comprised of 8
+functions, each of which is filled with a certain :doc:`information aspect <information_aspect>` according to the specific TIM. The
+functions, or channels, in themselves have certain properties that are
+independent of the information aspects that occupy them. The most
+important of these properties include: :ref:`Accepting - Producing trait <accepting>` (also called
+continuous / discrete), as well as :ref:`Contact - Inert trait <contact>` (this is the location
+of the function in either :doc:`inert or contact block of model A <contact_inert_subtypes>`).
+
+*Accepting channels* are characterized by continuous activity, that is,
+they are almost constantly processing information. They constitute the
+starting links of cause-effect relationships of model A  in other
+words, they are connected to the causes. Information in these channels
+is "constantly simmering" i.e. being processed. Aspects that occupy
+accepting functional channels  are subjects of constant reflection,
+consideration, constant scanning for something new, interesting, and
+meaningful.
+
+Aspects located in *producing channels* of model A, by measure of
+accumulated information in accepting elements, produce new information
+and reconsider information that is available. Producing elements of
+information metabolism always follow as a consequence of accepting
+elements. Producing elements reflect a person's own opinion, his
+contribution to the common information field. This is the processing and
+treatment of his personal experiences and views. Conversations on topics
+of "producing" elements of information metabolism often begin with
+phrases such as "I think", "I consider that", "It seems to me", "In my
+opinion", "I am confident that", while on "accepting" elements we appeal
+to facts of reality and collective awareness.
+
+Positioning of a channel within the *inert block* of model A indicates
+its weakness in connection to the external information field; inert
+block forms a kind of internal information environment, an area of
+??self-sufficient review and treatment of information.
+
+The *contact block*, on the other hand, has direct access to the
+external information environment. It is oriented either at absorption of
+signals from it on the respective aspect, or at creation or introduction
+into this environment new, valuable, relevant information of
+individual's own creation.
+
+In general, inert channels are less adaptive and flexible than contact
+channels; they require some time to process, to "digest" the
+information; contact channels are quicker in comparison.
+
+
+
+Combinations of Two Functional Traits: Accepting-Producing and Contact-Inert
+----------------------------------------------------------------------------
+
+The combination of Contact-Inert and Producing-Accepting traits produces
+4 groupings of information processing channels:
+
+| **Accepting + Inert Channels**
+| **Functions I and VII (Leading and Ignoring)**
+
+This combination of functional traits will be called **analytical** [3]. Aspects located in these channels are subjected to constant analysis, study, research, verification with respect to various standards, both social and individual. The results of this constant evaluation by analytical function are often evident only in an indirect and diffuse manner  and often through the work of the relevant producing aspects. For example, the results of the workings of Ignoring function (VII) can be observed by the workings of Demonstrative function (VIII). In general, the working of "analytical" channels is characterized by certain degree of imperceptibly and concealment for outside observers, such that superficially it may seem as an absence of processing.
+
+| **Accepting + Contact Channels**
+| **Functions III and V (Role and Dual-seeking)**
+
+This combination of functional traits may be termed as **absorbing** [or "suctioning"]. N. Chaur believes that these functions correspond to the reception of information [3]. On these aspects, there is constant absorption or suctioning of all available information from the external environment, without any preliminary analysis and evaluation. If there is such information available - it needs to be obtained, and any assessments of its validity are for later. In justification of such information there are usually appeals to authority: "It was said ...", "It was written in the newspaper ...", " It was discussed in a radio program... ". Naturally, information of "absorbing" channels is not distinguished by discernment or differentiation - it is simply a collection of information that is more or less useful for individual's functioning in his or her environment.
+
+| **Producing + Inert Channels**
+| **Functions IV and VI (Mobilizing and PoLR)**
+
+A fitting name for this group of channels  is **formulaic** [or template]. Here information, that has accumulated on corresponding accepting channels, gets processed. Here a person draws conclusions, but - for himself or herself, as an individual, and not for society. These conclusions and findings the person keeps to himself and considers them to be templates and reference points, that gradually multiply and form a system of thought patterns in the imperative form. On example of type LIE: Si-IV and Se-VI - "You have to be hardy, resilient, able to endure hardships and inconveniences." When asked a question to whom and why this is needed, there is no reply. The main arguments here base on personal experiences, education, and values ??of the surrounding society. In such a way (that is, by aspects in channels IV and VI of model A) a person has understood their surrounding environment and society. The latter appeared to him from exactly such a side: for LIE, EIE - sensing; for ILE, SLE - ethical, etc.
+
+| **Producing + Contact Channels**
+| **Functions II and VIII (Creative and Demonstrative)**
+
+These can reasonably be called **manipulative**. These are the most agile and flexible channels. We easily and naturally share and help others on information aspects that are located in these channels. On the other hand, we freely manipulate with the relevant information - often in our own interests. On example of ILI Ti-II: "I will create such a classification that I want, and if I don't want - I won't create any classification". Or IEE Fi-II: "I will create a system of relations that I want in a team, can also make everyone quarrel," etc. In general, these channels allow the creation of new information databases  but only on the basis of information on the relevant accepting channels. Information aspects located in "manipulative channels" of II-Creative and VIII-Demonstrative are most noticeable to outside observers; this is something a person can easily demonstrate, thus, it may seem that he is strong precisely in these aspects. In actually, all the "achievements" of "manipulative" elements were prepared in advance by information database of analytical channels. 
+
+.. note::
+    Translator's note: This is important to consider in typing. Since creative and demonstrative functions are the "*most noticeable to outside observers*", while leading and ignoring functions are "*characterized by certain degree of imperceptibly and concealment*", this creates a precedent for mistaking creative functions for leading functions, which is further amplified for creative subtypes (i.e. LII-Ne being mistaken for ILE or IEE, or EIE-Ni being typed as IEI or ILI, etc.). Care should be taken to take this into considering when typing.
+
+
+
+Examination in Application to TIMs
+----------------------------------
+
+Consider how the four groups of channels are working on the basis of
+their content aspect of all models A TIM.
+
+**Analytical (Base and Ignoring) Ne and Ni - ILE, ILI, IEE, IEI.** In
+their zone of constant attention and reflection are their and others'
+chances of success, expenditures of time on different activities and
+tasks, pace and rhythm of events, the degree of timeliness and viability
+of the various activities. These types accumulate such information over
+long period of time, and eventually (with age) it becomes transformed
+into an extensive database from which it is always possible to draw the
+necessary information.
+
+**Absorbing (Role and Dual-seeking) Se and Si - ILE, ILI, IEE, IEI.**
+Constantly absorb (or soak up) information from their environment about
+characteristics of their surrounding space and objects located in this
+space, which includes information about aesthetics, style, nutrition,
+health, strength, durability, weakness, and so on. In other words, they
+always consume such information "with appetite". People of these TIMs
+are characterized by unabating interest in everything physical in the
+broadest meaning of the word.
+
+**Formulaic (Activating and Vulnerable) Fe and Fi - ILE, SLE, ILI,
+SLI.** Characterized by accumulation of personal experiences and social
+attitudes that relate to ethics, emotionality, morality, emotional
+influencing of other people, rationale and motivations of others'
+actions. These accumulated beliefs and attitudes are usually used
+uncritically in their thinking and behavior - as already ready,
+pre-prepared models and examples to follow and mimic.
+
+**Manipulative (Creative and Demonstrative) Te and Ti - ILE, SLE, ILI,
+SLI.** Show ease in dealing with information of technical nature e.g.
+different classifications, structures, formulas, documentation. Easy
+lend appropriate assistance to other people with such information. Have
+a tendency to invent their own variations and versions of technologies,
+documentation, designs, schematics, etc, and sometimes will try to
+impose (in stronger or milder forms) such "innovations" on other people.
+
+**Analytical (Base and Ignoring) Se and Si - SEI, SEE, SLI, SLE.**
+Almost constantly consider and think about qualities of their
+environment and objects within it, aesthetics, kinetic energy of people,
+their strength or weakness, conceptualize information about health,
+nutrition, sexuality; think about their own wishes and needs in this
+respect and the needs and wishes of others.
+
+**Absorbing (Role and Dual-seeking) Ne and Ni - SEI, SEE, SLI, SLE.**
+Constantly seek out and adsorb any information of intuitive nature -
+information concerning potential, prospects, opportunities for success,
+plans of other people, projections and forecasts for the future,
+information on expenditure of time on various matters. Not inclined to
+treat such information critically. Sometimes comprehend other people's
+conjectures and questionable undertakings rather literally.
+
+**Formulaic (Activating and Vulnerable) Te and Ti - SEI, SEE, IEI,
+IEE.** In the process of living, constantly accumulate various norms and
+standards related to technological and material aspects of life - how to
+properly apply and use them, how to correctly understand the relevant
+documentation. Also formulate standards of behavior in hierarchical
+social structures.
+
+**Manipulative (Creative and Demonstrative) Fe and Fi - SEI, SEE, IEI,
+IEE.** Quite easily and naturally form relationships in social groups
+they are in; always ready to give a moral-ethical evaluation of any
+social phenomenon of whichever scale - from family, to country, to
+worldwide, and share with those around them their understanding of
+people's actions and activities. Easily change their assessments of
+people and their motivations, basing on updates in information on
+relevant channels of model A.
+
+**Analytical (Base and Ignoring) Te and Ti - LII, LIE, LSI, LSE.**
+Continuously process and conceptualize information on the effectiveness
+of different technologies and business ventures, work with a variety of
+documentation of technical and administrative nature. Analyze and hoard
+information on workings of hierarchical social structures; like to study
+technical innovations, try to get familiarized with any available
+advanced technologies.
+
+**Absorbing (Role and Dual-seeking) Fe and Fi - LII, LIE, LSI, LSE.**
+Don't dismiss any information associated with the attitudes of people
+around them; soak up any information of ethical and moral character.
+Take other people's emotional expressions close to heart, and take any
+external ethical programming very seriously. They often wonder who
+relates how to whom (and why is it so), what are the motivations of
+people's behavior in various situations. However, their attitude towards
+such information is rather naive, careless, uncritical, and not
+sufficiently analytical.
+
+**Formulaic (Activating and Vulnerable) Se and Si - LII, LIE, EII,
+EIE.** Accumulate life experience and knowledge base related to the
+physical existence of the human body in various conditions: proper
+nutrition and effective health treatments, how to defend against attacks
+and to defend one's territory and property, how to maintain a proper
+(approved by society) appearance. Information of this kind is turned
+into imperatives that they try to follow almost all the time, not quite
+taking the present situation they are in into account.
+
+**Manipulative (Creative and Demonstrative) Ne and Ni - LII, LIE, EII,
+EIE.** Enjoy sharing with others their own suppositions, speculations,
+and forecasts. Like to manipulate other people's time, with best
+intentions strive to "open up a person", to develop his or her
+possibilities. They are ready to build individual plans for success for
+anyone. Perceive times as something flexible, plastic, into which you
+can fit virtually any number of events; such understanding of time they
+often broadcast to others. Sometimes inclined to consider their own
+resources and possibilities as limitless.
+
+**Analytical (Base and Ignoring) Fe and Fi - ESE, ESI, EIE, EII.**
+Constantly analyze and evaluate their own and others' emotional
+expressions and moods, as well as the moral actions of others, but most
+often keep these evaluations to themselves, until they see a need to put
+them forward. Easily discern motivations behind the actions of others,
+have an extensive collection of information about human characters and
+their inherent behavioral motives.
+
+**Absorbing (Role and Dual-seeking) Te and Ti - ESE, ESI, EIE, EII.**
+Greedy for any information about material objects and related to them
+technologies and algorithms. Keep an eye on a variety of information
+about the workings of public institutions, respect the documents
+produced by them. They like to listen to non-fiction stories from
+different sources about the technical and inanimate nature, and approach
+such information uncritically. Like numbers, schedules and other similar
+precise information, but don't always use this information in practice.
+
+**Formulaic (Activating and Vulnerable) Ne and Ni - ESE, ESI, LSE,
+LSI.** In parallel to their life experiences accumulate information on
+how to intelligently, effectively, and purposefully spend their time;
+cultivate their own norms of time consumption on various activities and
+tasks. Try also to follow that which they consider "standards" of
+personal talent. They have at their disposal "template" rules and
+combinations of finding exits out of various difficult situations, which
+they try to follow sometimes too uncritically in application to the
+situation they find themselves in.
+
+**Manipulative (Creative and Demonstrative) Se and Si - ESE, ESI, LSE,
+LSI.** Like to demonstrate their own aesthetics, endurance,
+attractiveness, sexuality, and believe that their audience is able to
+assess the merits of these. With pleasure share information on
+maintaining harmonious appearance, proper nutrition, care for one's
+health. Have a tendency to manipulate kinetic energy of others, in
+particular, to command, to order around, to enforce realization of their
+statements by a variety of methods, in development of which they show an
+enviable ingenuity. Often act as defenders of justice, of weak and
+oppressed, and are ready to offer and spend on these people their own
+kinetic energy.
+
+From analysis of location of information aspects in channels of model A
+with different functional purposes, it is evident that TIMs connected by
+intertype relations of exact opposite (common interests) [2] have
+identical filling of channels of same functionality [these are
+contrary or extinguishment relations]. Contrary TIMs same the same
+"analytical", "absorbing", "formulaic", and "manipulative" aspects. This
+indicates a considerable resonance in the relationship of exact
+opposites, and this, in turn, ensures certain level of mutual
+understanding between partners. The resonance of functional purposes of
+channels to a lesser extent also occurs in relations of Kindred, Mirage,
+and Semi-duality.
+
+Literature
+----------
+
+#. Augustinavichiute A. "Theory of Reinin traits. Essays on socionics".
+   "Socionics, Mentology, and Psychology of Personality", 1998, 1-6.
+#. Tsypin P.E. "Encyclopedia of relations". - M .: The Black Squirrel,
+   2005
+#. Chaur N. "Faces and Masks". - M .: The Black Squirrel, 2003.

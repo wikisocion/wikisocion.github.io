@@ -1,0 +1,185 @@
+Intuitive Logical Introtim (ILI)
+======================================
+
+**Intuitive Logical Introtim**
+
+Type abbreviations: ILI, INTp, TP 
+
+Ego Block Elements: NiTe (|Ni| |Te|) 
+
+Nicknames: Critic, Observer, Balzac, or archetype **Honoré de Balzac**. 
+
+.. list-table:: ILI(INTp) Model A
+    :header-rows: 1
+    :align: center
+
+    * - :ref:`Inert <contact>`
+      - :ref:`Contact <contact>`
+      - Properties
+      - Blocks
+    * - | **Ni**
+        | 1st :ref:`Program function <leading-func>`
+      - | **Te**  
+        | 2nd :ref:`Creative function <creative-func>`
+      - | *conscious* 
+        | *valued*
+      - :ref:`Ego <ego-block>`
+    * - | **Fe**
+        | 4th :ref:`Vulnerable function <PoLR-func>`
+      - | **Si**  
+        | 3rd :ref:`Role function <role-func>`
+      - | *conscious* 
+        | *not valued*
+      - :ref:`Super-ego <superego-block>`
+    * - | **Fi**
+        | 6th :ref:`Activating function <activating-func>`
+      - | **Se** 
+        | 5th :ref:`Suggestive function <suggestive-func>`
+      - | *unconscious* 
+        | *valued*
+      - :ref:`Super-id <superid-block>`
+    * - | **Ne**
+        | 7th :ref:`Ignoring function <ignoring-func>`
+      - | **Ti**
+        | 8th :ref:`Demonstrative function <demonstrative-func>`
+      - | *unconscious* 
+        | *not valued*
+      - :ref:`Id <id-block>`
+
+.. list-table:: ILI :doc:`Dichotomies <dich>` and :doc:`Small Groups <small_groups>`
+    :header-rows: 0
+
+    * - :doc:`Jungain <jungian>` : :doc:`Introverted <extra_intro>` · :doc:`Intuitive <sensing_intuition>` · :doc:`Logical <ethics_logic>` · :doc:`Irrational <ration_irration>`
+    * - :doc:`Reinin <reinin_dich>` : :doc:`Dynamic <statics_dynamics>` · :doc:`Obstinate <yielding_obstinate>` · :doc:`Democratic <democratic_aristocratic>` · :doc:`Tactical <tactical_strategic>` · :doc:`Constructivist <constructivist_emotivist>` · :doc:`Farsighted <carefree_farsighted>` · :doc:`Serious <merry_serious>` · :doc:`Decisive <judicious_decisive>` · :doc:`Negativist <positivist_negativist>` · :doc:`Process <process_result>` · :doc:`Declaring <asking_declaring>`
+    * - :doc:`Small groups <small_groups>` : :doc:`Gamma Quadra <quadra>` · :doc:`Researchers <club>` · :doc:`IP temperament <temperament>` · :doc:`Cold-blooded <communication_styles>` · :doc:`Victim <romance_styles>` · :ref:`Project Groups <project-groups>`
+    * - :doc:`Forms of Thinking <cognitive_styles>` : :ref:`Dialectical-Algorithmic Cognition <DA-cog>`
+
+**Type Profiles**:
+
+* :doc:`ILI Profile by Gulenko <ILI_gulenko>`
+* :ref:`ILI Profile by Filatova <ILI-Filatova>`
+* :doc:`ILI Profile by Stratiyevskaya <ILI_vera>`
+* :ref:`ILI type description by Grigory Reinin <ILI-Reinin>`
+* :ref:`ILI characteristic by Meged and Ovcharov <ILI-Meged>`
+* :ref:`ILI male and female portraits by Beskova <ILI-Beskova>`
+* :ref:`ILI description by Bukalov and Boiko <ILI-Bukalov>`
+* :doc:`Wikisocion ILI composite <ILI_comp>`
+* :ref:`Socionics Type Profiles by T. Prokofieva and M. Kuzmina <ILI-Prokofieva>`
+* :ref:`ILI description from Socionics.ua <ILI-ua>`
+* :ref:`ILI description by Weisband and Aushra <ILI-Weisband>`
+* :ref:`ILI profile by Golihov <ILI-Golihov>`
+* :ref:`ILI profile by Zamanskaya <ILI-Zamanskaya>`
+* :ref:`ILI description by Voroschenko - pathologies <ILI-Voroschenko>`
+* :ref:`ILI description by Blohin - associative <ILI-Blohin>`
+* :doc:`ILI description from Socioscope.com <socioscope_ILI>`
+* :ref:`ILI profile by Piatnitskiy <ILI-Piatnitskiy>`
+
+**See also**:
+
+* :doc:`ILI subtypes <ILI_subtypes>`
+* :ref:`ILI photographs by Filatova <ILI-photos>`
+* :doc:`ILI observations <ILI_observations>`
+* :doc:`Type names <type_names>`
+* :doc:`Famous people <famous_people>`
+
+**Intertype relations**:
+
+* :ref:`SEE-ILI dual relations by Meged and Ovcharov <SEE-ILI-Meged>`
+* :ref:`SEE-ILI dual relations by Meged (extended) <SEE-ILI-work>`
+* :ref:`SEE-ILI Recommendations for Harmonization of Relations by Meged <SEE-ILI-har>`
+* :ref:`SEE-ILI dual relations by Gulenko <SEE-ILI-Gulenko>`
+* :ref:`SEE-ILI dual relations by A. Aushra <SEE-ILI-Aushra>` (untranslated)
+* :doc:`SEE-ILI dual relations by Stratiyevskaya <dual_INTp_ESFp_vera>` (untranslated)
+* :doc:`Romantic and Sexual Behavior of Quadras and Subtypes <romantic_quadra>`
+
+.. list-table:: ILI :doc:`Intertype relations <intertype>`
+    :header-rows: 0
+
+    * - | :doc:`Identical <identity>`
+        | |ILI|
+      - | :doc:`Dual <duality>`
+        | |SEE|
+      - | :doc:`Activator <activation>`
+        | |ESI|
+      - | :doc:`Mirror <mirror>`
+        | |LIE|
+    * - | :doc:`Kindred <kindred>`
+        | |IEI|
+      - | :doc:`Semi-dual <semi_dual>`
+        | |SLE|
+      - | :doc:`Benefactor <benefit>`
+        | |LSI|
+      - | :doc:`Supervisor <supervision>`
+        | |EIE|
+    * - | :doc:`Super-Ego <superego>`
+        | |SEI|
+      - | :doc:`Extinguishment <extinguishment>`
+        | |ILE|
+      - | :doc:`Quasi-identical <quasi_identity>`
+        | |LII|
+      - | :doc:`Conflictor <conflict>`
+        | |ESE|
+    * - | :doc:`Business <business>`
+        | |SLI|
+      - | :doc:`Mirage <illusionary>`
+        | |IEE|
+      - | :doc:`Beneficiary <benefit>`
+        | |EII|
+      - | :doc:`Supervisee <supervision>`
+        | |LSE|
+
+.. list-table:: Socionics Type Descriptions
+    :header-rows: 0
+    :stub-columns: 1
+
+    * - Alpha Quadra
+      - :doc:`ILE(ENTp) <ILE>`
+      - :doc:`SEI(ISFp) <SEI>`
+      - :doc:`ESE(ESFj) <ESE>`
+      - :doc:`LII(INTj) <LII>`
+    * - Beta Quadra
+      - :doc:`SLE(ESTp) <SLE>`
+      - :doc:`IEI(INFp) <IEI>`
+      - :doc:`EIE(ENFj) <EIE>`
+      - :doc:`LSI(ISTj) <LSI>`
+    * - Gamma Quadra
+      - :doc:`SEE(ESFp) <SEE>`
+      - :doc:`ILI(INTp) <ILI>`
+      - :doc:`LIE(ENTj) <LIE>`
+      - :doc:`ESI(ISFj) <ESI>`
+    * - Delta Quadra
+      - :doc:`IEE(ENFp) <IEE>`
+      - :doc:`SLI(ISTp) <SLI>`
+      - :doc:`LSE(ESTj) <LSE>`
+      - :doc:`EII(INFj) <EII>`
+
+
+
+.. |Ne| image:: Symbol_i.gif
+.. |Ti| image:: Symbol_l.gif
+.. |Ni| image:: Symbol_t.gif
+.. |Te| image:: Symbol_p.gif
+.. |Fe| image:: Symbol_e.gif
+.. |Se| image:: Symbol_f.gif
+.. |Fi| image:: Symbol_r.gif
+.. |Si| image:: Symbol_s.gif
+
+
+.. |ILE| replace:: :doc:`ILE <ILE>`
+.. |SEI| replace:: :doc:`SEI <SEI>`
+.. |ESE| replace:: :doc:`ESE <ESE>`
+.. |LII| replace:: :doc:`LII <LII>`
+.. |SLE| replace:: :doc:`SLE <SLE>`
+.. |IEI| replace:: :doc:`IEI <IEI>`
+.. |EIE| replace:: :doc:`EIE <EIE>`
+.. |LSI| replace:: :doc:`LSI <LSI>`
+.. |SEE| replace:: :doc:`SEE <SEE>`
+.. |ILI| replace:: :doc:`ILI <ILI>`
+.. |LIE| replace:: :doc:`LIE <LIE>`
+.. |ESI| replace:: :doc:`ESI <ESI>`
+.. |IEE| replace:: :doc:`IEE <IEE>`
+.. |SLI| replace:: :doc:`SLI <SLI>`
+.. |LSE| replace:: :doc:`LSE <LSE>`
+.. |EII| replace:: :doc:`EII <EII>`
+
+

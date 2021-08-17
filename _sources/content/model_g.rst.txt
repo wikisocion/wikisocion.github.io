@@ -1,0 +1,34 @@
+Model G
+=============
+
+**Model G** is a socionics model of information metabolism proposed by Victor Gulenko as an alternative to Model A.
+
+
+**Report delivered by V. Gulenko on Model G at a socionics meeting on December 1995.**
+
+"Socionic model - is distribution of socionic functions in a certain fixed order. More precisely, there are asymmetrical (vector, one-way) restrictive connections being imposed on the order of the functions. As a result, classical socionics model will inevitably consist of two circular substructures, which are interconnected in an asymmetric relationship.
+
+The ordering of functions for Model A is determined by relations of supervision. If we increase the scale and take the internal structure of the type out, then we should consider a ring of socioprogress that consists of eight (4 + 4) sociotypes, and arrange it in such a way that the neighboring types every time are supervisee and supervisor. Model A is usually drawn as one four-member ring located above another four-member ring. One of these rings is always static and the other is always dynamic.
+
+For example, the depiction of sociotype ILE is as follows:
+
+static ring of functions
+I L}
+R F}
+dynamic function ring
+E S}
+T P}
+
+The supervision rings - static and dynamic - are "stitched" together by benefit connections.
+
+But functions can also be joined into rings via benefit connections. I think that it is either information (as in Model A) or energy (this model is still unknown in socionics) that gets transferred along unidirectional (vector) connections.
+
+I propose to introduce to socionic use an additional to model A socionics structure - Model G.
+
+Both models, if we do not take implementation-technological aspect, are equivalent and complimentary to each other. By forming the upper and lower rings not with supervision but with benefit connections, as is required by the G-transformation, we obtain the following entry for sociotype ILE: I P} extroverted ring of functions (actions, deeds - everything, E F} that is expressed on the outside) R S} introverted ring functions (thinking, states - all, the TL} what's going on inside). These benefit rings are then "stitched" together by supervision links.
+
+From these theoretical constructs an inescapable conclusion follows: that in nature there must be sociotypes of both information transfer and energy transfer. In addition, these two projections of the same type are equivalent to each other. The first projection is adequately described by the usual model A. The second projection is reflected in the proposed model G. This conclusion can be reached in another manner - starting from the facts known to socionics practitioners: some people are drawn to their supervisors and benefactors in both their family and their professional life. Others, on the contrary, often come in contact with their beneficiaries and supervisees, which often leads them to pick them as long-term partners in private and in work relations.
+
+As well as my own long-term practice and work as socioanalyst yield evidence that strong teams form primarily based on benefit and supervision connections, and only secondarily because of duality. Thus it is possible with high degree of certainty to say that the preferred types of asymmetrical relations partners are determined by their belonging to the proposed by of information or energy modification.
+
+Both of these methods of formation of teams in life constantly compete with each other, so the preferred type of partnership should be identified at a certain time interval (I think the order of several years) in order to avoid situational mistakes when the choice of a relationship has been forced in some way or constrained by the circumstances and was not free." 

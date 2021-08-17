@@ -1,0 +1,181 @@
+Delta Quadra
+===================
+
+**Delta**, or the 'fourth' :doc:`quadra <quadra>`, includes :doc:`LSE <LSE>`,
+:doc:`EII <EII>`, :doc:`IEE <IEE>`, and :doc:`SLI <SLI>`.
+
+:doc:`Reinin <reinin_dich>` caracterises this quadra as Judicious,
+Serious, and Aristocratic.
+
+
+Dominant elements
+-----------------
+
+The **dominant**\ :doc:`IM elements <elements>` of the Delta Quadra are
+**Te, Fi, Ne, Si** that correspond to symbols |symbol_p.gif|
+|symbol_r.gif| |symbol_i.gif| |symbol_s.gif|, respectively. Grouping
+together the elements of the :ref:`Ego blocks <ego-block>` of the Delta Quadra
+types, we get a picture of what aspects of life Delta Quadra types
+strive to bring to the forefront of life, as well as the kind of group
+atmosphere and lifestyle they pursue.
+
+**Te** blocked with **Si**: |symbol_p.gif| |symbol_s.gif|
+
+-  Delta types make a point of talking about the rationale behind their
+   actions and emphasizing the productiveness or unproductiveness of
+   different ways of doing things - even in such emotional areas as
+   personal relationships.
+-  Delta types value peaceful, refreshing activities where they are
+   doing something useful and balancing out their inner world at the
+   same time.
+-  Delta types have the philosophy that they will have to rely on their
+   own industriousness to achieve their goals rather than on luck,
+   speculation, group effort, or strong leadership.
+
+**Ne** blocked with **Fi**: |symbol_i.gif| |symbol_r.gif|
+
+-  Delta types love to share personal experience mixed with their own
+   sentiments regarding their experiences, but all in an insightful and
+   non-dramatic manner.
+-  Delta types like to talk about new beginnings, opportunities for
+   personal growth, and their plans and prospects for the future.
+
+Subdued elements
+----------------
+
+The **subdued**\ :doc:`IM elements <elements>` of the Delta Quadra are
+**Fe, Ti, Se, Ni** or |symbol_e.gif| |symbol_l.gif| |symbol_f.gif|
+|symbol_t.gif| respectively. Grouping together the elements of the
+:ref:`Super-Ego blocks <superego-block>` of the Delta Quadra types, we get a
+picture of what aspects of life Delta types strive to keep hidden,
+avoid, not focus attention on, and keep at the periphery of their lives.
+
+**Fe** blocked with **Ni**: |symbol_e.gif| |symbol_t.gif|
+
+-  Delta types rarely display their deep passions and vision, preferring
+   instead to talk in more neutral terms about what they want to do and
+   why.
+-  Delta types reject dramatism and emotional affect in favor of wry
+   humor and understatement.
+-  Delta types don't tend to form or maintain groups based on fun,
+   emotional interaction, but only take groups seriously that perform
+   some common productive or restful activity.
+-  Delta types generally dislike using poetic wording when describing
+   their inner state, but talk simply about what they feel or their
+   bodily sensations.
+
+**Se** blocked with **Ti**: |symbol_f.gif| |symbol_l.gif|
+
+-  Delta types do not fare well in high-pressure situations where they
+   are being forced to do things, are facing threatening opponents, or
+   are submitted to rigorous discipline, but wear out quickly and look
+   for a more peaceful and welcoming environment.
+
+Group behavior
+--------------
+
+Groups made up of primarily Delta types tend to be focused on working on
+projects, enjoying physical recreation, or finding out interesting
+things about each other. Laughter is usually subdued and brief; instead,
+people smile a lot and try to be witty and welcoming. Groups need to be
+focused on some specific productive activity or topic of discussion, or
+else they fall apart. In Delta groups, there is a lot of splintering and
+decentralization. This allows for more focused and productive
+interaction with only those who share your particular interests or
+sentiments. People jump from small group to small group easily to keep
+up their interest level. No one demands that the entire group listen to
+one person or that everyone do the same thing. Delta Quadra types
+believe that if everyone just pursues their own interests and makes some
+accommodations for others, the group will be better off anyway. Delta
+Quadra types do not focusing on building group identity or unity of
+purpose, but prefer for the group to remain splintered and
+decentralized.
+
+Romance styles
+--------------
+
+Delta romantic relationships usually begin simply as the encounter of
+two individuals interested in a relationship and each other in a
+particular moment, with very little in terms of outward demonstrations
+of "romance" in the "wooing" sense of the term or in strong external
+demonstrations of emotions. Deltas are more focused on the present
+moment than Gammas, and therefore even relationships of very strong
+attachment do not lead to constant concerns as to their longer-term
+practical feasibility. Deltas see as optimal romantic relationships
+those where partners spend time together on fun activities and sharing
+ideas of potential practical application. Romantic atmospheres are
+low-key, based on comfort but practicality.
+
+Perception of other quadras
+---------------------------
+
+Alpha
+~~~~~~~~~~~~~~~~~
+
+Deltas tend to see Alpha types as fun company and interesting people to
+discuss ideas and prospects with, but naive and inconsistent in their
+personal and business relationships. Alpha types seem to lack the common
+sense to turn their fun and creative energy into something productive
+and often seem overly idealistic.
+
+Beta
+~~~~~~~~~~~~~~~
+
+Deltas tend to see Beta types as people who "dream big" and always want
+to turn things into grandiose endeavors, yet can't manage day-to-day
+affairs effectively. Also, Beta types seem unwilling to consider things
+from the point of view of others, which gives them a streak of meanness
+and cruelty.
+
+Gamma
+~~~~~~~~~~~~~~~~~
+
+Deltas tend to see Gamma types as driven and reliable in personal and
+business relationships, but not sufficiently understanding of people who
+want to pursue their own individual path in life. Gamma types sometimes
+become too demanding and can have a streak of vindictiveness or
+spitefulness which prevents them from being accepting and forgiving.
+
+
+.. list-table:: Small Groups
+    :header-rows: 0
+    :stub-columns: 1
+
+    * - :doc:`Quadras <quadra>`
+      - :doc:`Alpha <alpha_quadra>`
+      - :doc:`Beta <beta_quadra>`
+      - :doc:`Gamma <gamma_quadra>`
+      - :doc:`Delta <delta_quadra>`
+    * - :doc:`Clubs <club>`
+      - :doc:`Researchers <club_researchers>`
+      - :doc:`Socials <club_socials>`
+      - :doc:`Pragmatists <club_pragmatists>`
+      - :doc:`Humanitarians <club_humanitarians>`
+    * - :doc:`Temperaments <temperament>`
+      - :doc:`EP <EP>`
+      - :doc:`EJ <EJ>`
+      - :doc:`IP <IP>`
+      - :doc:`IJ <IJ>`
+    * - :doc:`Communication Styles <communication_styles>`
+      - Business-like
+      - Passionate
+      - Cold-blooded
+      - Sincere
+    * - :doc:`Romance Styles <romance_styles>`
+      - :doc:`Aggressor <aggressor>`
+      - :doc:`Victim <victim>`
+      - :doc:`Caring <caring>`
+      - :doc:`Childlike <childlike>`
+
+
+
+.. |symbol_i.gif| image:: Symbol_i.gif
+.. |symbol_l.gif| image:: Symbol_l.gif
+.. |symbol_e.gif| image:: Symbol_e.gif
+.. |symbol_s.gif| image:: Symbol_s.gif
+.. |symbol_f.gif| image:: Symbol_f.gif
+.. |symbol_t.gif| image:: Symbol_t.gif
+.. |symbol_p.gif| image:: Symbol_p.gif
+.. |symbol_r.gif| image:: Symbol_r.gif
+
+

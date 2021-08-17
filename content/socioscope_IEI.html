@@ -1,0 +1,567 @@
+<!doctype html>
+<html class="no-js">
+  <head><meta charset="utf-8"/>
+    <meta name="viewport" content="width=device-width,initial-scale=1"/>
+    <meta name="color-scheme" content="light dark"><link rel="index" title="Index" href="../genindex.html" /><link rel="search" title="Search" href="../search.html" /><link rel="next" title="Socioscope EIE" href="socioscope_EIE.html" /><link rel="prev" title="Socioscope LSE" href="socioscope_SLE.html" />
+
+    <meta name="generator" content="sphinx-4.1.2, furo 2021.08.11.beta42"/>
+        <title>Socioscope IEI - Wikisocion</title>
+      <link rel="stylesheet" type="text/css" href="../_static/pygments.css" />
+    <link rel="stylesheet" type="text/css" href="../_static/styles/furo.css?digest=197f00461d56902ea7ca048ec6e6ba026f62c97b" />
+    <link rel="stylesheet" type="text/css" href="../_static/styles/furo-extensions.css?digest=93475b62d1c3bc01323a0eefdc14a62d77b12690" />
+    
+    
+
+
+<style>
+  body {
+    --color-code-background: #f8f8f8;
+  --color-code-foreground: black;
+  
+  }
+  body[data-theme="dark"] {
+    --color-code-background: #202020;
+  --color-code-foreground: #d0d0d0;
+  
+  }
+  @media (prefers-color-scheme: dark) {
+    body:not([data-theme="light"]) {
+      --color-code-background: #202020;
+  --color-code-foreground: #d0d0d0;
+  
+    }
+  }
+</style>
+    <link media="(prefers-color-scheme: dark)" rel="stylesheet" href="../_static/pygments_dark.css"></head>
+  <body>
+    
+<svg xmlns="http://www.w3.org/2000/svg" style="display: none;">
+  <symbol id="svg-toc" viewBox="0 0 24 24">
+    <title>Contents</title>
+    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+      stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+      <path stroke="none" d="M0 0h24v24H0z" />
+      <line x1="4" y1="6" x2="20" y2="6" />
+      <line x1="10" y1="12" x2="20" y2="12" />
+      <line x1="6" y1="18" x2="20" y2="18" />
+    </svg>
+  </symbol>
+  <symbol id="svg-menu" viewBox="0 0 24 24">
+    <title>Menu</title>
+    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+      stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather-menu">
+      <line x1="3" y1="12" x2="21" y2="12"></line>
+      <line x1="3" y1="6" x2="21" y2="6"></line>
+      <line x1="3" y1="18" x2="21" y2="18"></line>
+    </svg>
+  </symbol>
+  <symbol id="svg-arrow-right" viewBox="0 0 24 24">
+    <title>Expand</title>
+    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+      stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather-chevron-right">
+      <polyline points="9 18 15 12 9 6"></polyline>
+    </svg>
+  </symbol>
+  <symbol id="svg-sun" viewBox="0 0 24 24">
+    <title>Light mode</title>
+    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+      stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" class="feather-sun">
+      <circle cx="12" cy="12" r="5"></circle>
+      <line x1="12" y1="1" x2="12" y2="3"></line>
+      <line x1="12" y1="21" x2="12" y2="23"></line>
+      <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
+      <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
+      <line x1="1" y1="12" x2="3" y2="12"></line>
+      <line x1="21" y1="12" x2="23" y2="12"></line>
+      <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
+      <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
+    </svg>
+  </symbol>
+  <symbol id="svg-moon" viewBox="0 0 24 24">
+    <title>Dark mode</title>
+    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+      stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" class="icon-tabler-moon">
+      <path stroke="none" d="M0 0h24v24H0z" fill="none" />
+      <path d="M12 3c.132 0 .263 0 .393 0a7.5 7.5 0 0 0 7.92 12.446a9 9 0 1 1 -8.313 -12.454z" />
+    </svg>
+  </symbol>
+  <symbol id="svg-sun-half" viewBox="0 0 24 24">
+    <title>Auto light/dark mode</title>
+    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+      stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" class="icon-tabler-shadow">
+      <path stroke="none" d="M0 0h24v24H0z" fill="none"/>
+      <circle cx="12" cy="12" r="9" />
+      <path d="M13 12h5" />
+      <path d="M13 15h4" />
+      <path d="M13 18h1" />
+      <path d="M13 9h4" />
+      <path d="M13 6h1" />
+    </svg>
+  </symbol>
+</svg>
+
+<input type="checkbox" class="sidebar-toggle" name="__navigation" id="__navigation">
+<input type="checkbox" class="sidebar-toggle" name="__toc" id="__toc">
+<label class="overlay sidebar-overlay" for="__navigation">
+  <div class="visually-hidden">Hide navigation sidebar</div>
+</label>
+<label class="overlay toc-overlay" for="__toc">
+  <div class="visually-hidden">Hide table of contents sidebar</div>
+</label>
+
+
+
+<div class="page">
+  <header class="mobile-header">
+    <div class="header-left">
+      <label class="nav-overlay-icon" for="__navigation">
+        <div class="visually-hidden">Toggle site navigation sidebar</div>
+        <i class="icon"><svg><use href="#svg-menu"></use></svg></i>
+      </label>
+    </div>
+    <div class="header-center">
+      <a href="../index.html"><div class="brand">Wikisocion</div></a>
+    </div>
+    <div class="header-right">
+      <div class="theme-toggle-container theme-toggle-header">
+        <button class="theme-toggle">
+          <div class="visually-hidden">Toggle Light / Dark / Auto color theme</div>
+          <svg class="theme-icon-when-auto"><use href="#svg-sun-half"></use></svg>
+          <svg class="theme-icon-when-dark"><use href="#svg-moon"></use></svg>
+          <svg class="theme-icon-when-light"><use href="#svg-sun"></use></svg>
+        </button>
+      </div>
+      <label class="toc-overlay-icon toc-header-icon" for="__toc">
+        <div class="visually-hidden">Toggle table of contents sidebar</div>
+        <i class="icon"><svg><use href="#svg-toc"></use></svg></i>
+      </label>
+    </div>
+  </header>
+  <aside class="sidebar-drawer">
+    <div class="sidebar-container">
+      
+      <div class="sidebar-sticky"><div class="sidebar-scroll"><a class="sidebar-brand" href="../index.html">
+  
+  
+  <span class="sidebar-brand-text">Wikisocion</span>
+  
+</a><form class="sidebar-search-container" method="get" action="../search.html" role="search">
+  <input class="sidebar-search" placeholder=Search name="q" aria-label="Search">
+  <input type="hidden" name="check_keywords" value="yes">
+  <input type="hidden" name="area" value="default">
+</form>
+<div id="searchbox"></div>
+</div>
+      </div>
+      
+    </div>
+  </aside>
+  <div class="main">
+    <div class="content">
+      <article role="main">
+        <div class="content-icon-container">
+          <div class="theme-toggle-container theme-toggle-content">
+            <button class="theme-toggle">
+              <div class="visually-hidden">Toggle Light / Dark / Auto color theme</div>
+              <svg class="theme-icon-when-auto"><use href="#svg-sun-half"></use></svg>
+              <svg class="theme-icon-when-dark"><use href="#svg-moon"></use></svg>
+              <svg class="theme-icon-when-light"><use href="#svg-sun"></use></svg>
+            </button>
+          </div>
+          <label class="toc-overlay-icon toc-content-icon" for="__toc">
+            <div class="visually-hidden">Toggle table of contents sidebar</div>
+            <i class="icon"><svg><use href="#svg-toc"></use></svg></i>
+          </label>
+        </div>
+        <div class="section" id="socioscope-iei">
+<h1>Socioscope IEI<a class="headerlink" href="#socioscope-iei" title="Permalink to this headline">¶</a></h1>
+<div class="section" id="intuitive-ethical-introvert-iei-yesenin">
+<h2>Intuitive Ethical Introvert (IEI, Yesenin)<a class="headerlink" href="#intuitive-ethical-introvert-iei-yesenin" title="Permalink to this headline">¶</a></h2>
+<blockquote>
+<div><p>I love</p>
+</div></blockquote>
+<p>Before you is a person-riddle, a person-smile, a person-dream… The
+secret of joy. The joy of a secret.</p>
+<blockquote>
+<div><p>I love life. I love each day: sunny, rainy, snowy. I love it when
+time stops, when the trees are rustling, when there are sounds of
+music, when nearby is someone with whom you can simply remain silent.
+I love to sit near the window in a thunderstorm, covered with a rug,
+and with a large cup of tea in hand. I love all that is warm, soft,
+and furry. I love surprises, the unexpected. I love people who teach
+you something; people who are unusual, unlike the others; people who
+are beautiful on the outside and on the inside. I love love. And
+peaches (especially large ones).</p>
+</div></blockquote>
+<p>This is a fluffy, tender, affectionate kitten that sometimes is ready
+to let out its claws.</p>
+<p>Now the time of IEI has come - the time that lives by its own life,
+flowing whimsically into resounding distance, at times dreamy-frozen, at
+other times rebellious.</p>
+<p>Don’t look for meaning in words, listen to their music!</p>
+<div class="line-block">
+<div class="line">In soul - always - a taut string,</div>
+<div class="line">which at any moment can break with ringing!</div>
+<div class="line">And it will turn into an echo</div>
+<div class="line">… this is not music, but life.</div>
+</div>
+<p>Ready? Then let’s go.</p>
+</div>
+<div class="section" id="my-life-did-you-come-to-me-in-my-dream">
+<h2>My Life - did you come to me in my dream?<a class="headerlink" href="#my-life-did-you-come-to-me-in-my-dream" title="Permalink to this headline">¶</a></h2>
+<p>About [IEI] it is difficult to tell if only because people of this type
+very often know how not only to be, but also to seem. So it has
+turned out, what at IEI there is only it, in addition and it should
+doubt of own reality sometimes - and whether there is it actually?</p>
+<p>Jokes by jokes, and in the view of [IEI] it is sometimes possible to
+note uneasiness: they see, notice its associates. The response
+deteremines further conduct.</p>
+<p>If it sees that they want to associate with it, then instantly it will
+be turned to the people by its most winning side, it will shine and
+begin to sparkle with emotions. If to it (or to its interests) is not
+turned a sufficient attention, then by the now already burning sparks of
+offence it will force others finally to consider itself.</p>
+<p>With emotions [IEI] rewards and punishes, gives and demands.</p>
+</div>
+<div class="section" id="indescribable-dark-blue-gentle">
+<h2>Indescribable, dark blue, gentle…<a class="headerlink" href="#indescribable-dark-blue-gentle" title="Permalink to this headline">¶</a></h2>
+<p>Regardless of their real feelings, he knows how to create the precise
+emotional image and attitude which, in his opinion, sounds best in the
+given situation. However, what he feels in reality: the inaccessible
+secret, which he tries not to let anyone know. But here it is very easy
+for him to determine the interlocutor’s mood, to see confusion, fatigue,
+offense under the guise of slyness, artificial emotions. It is also not
+hard for IEIs - using simple, warm words - to cheer up, calm down, or
+reassure someone, or to stir up feelings of combativeness.</p>
+<p>Outwardly IEIs appear to be very mild, easy, even lazy people. However,
+they almost always experience emotional tension - from joyful - that
+excited to anxious - to excited.</p>
+</div>
+<div class="section" id="walking-along-the-street-i-will-not-pass-any-event">
+<h2>Walking along the street, I will not pass any event<a class="headerlink" href="#walking-along-the-street-i-will-not-pass-any-event" title="Permalink to this headline">¶</a></h2>
+<p>[IEI] dearly loves to observe the flow of life. It draw all-all- all
+events, that they occur all around: of [vzvizgnuli] before the light
+signal of brake - the flown wind it turned leaves - of the window
+reached music - it was heard siren - all the remaining people will go
+further in its matters not on what turning attention, and only it with
+the caught fire eyes will be wrapped up (oh, how it is interesting) on
+top of that and in an undertone it [podpoet] to siren.</p>
+<p>Sometimes it scolds itself for this curiosity [IEI]; it is more precise,
+not for curiosity itself, but for the desire to be coparticipant to all
+these events. Is agreeable [podpel] following the siren child, and the
+indeed this was already grey respectable man in a strict suit</p>
+</div>
+<div class="section" id="from-that-also-i-am-suffering-that-i-will-not-understand-where-the-fate-of-events-carries-us">
+<h2>From that also I am suffering; that I will not understand where the fate of events carries us<a class="headerlink" href="#from-that-also-i-am-suffering-that-i-will-not-understand-where-the-fate-of-events-carries-us" title="Permalink to this headline">¶</a></h2>
+<p>But IEIs cannot remain without information about everything that is
+happening around them. Indeed this all to it is necessary to know that
+precisely it can occur in the near future and good and bad, what danger
+or happiness the fate of events can bring. Its force exactly in the
+fact that it can foresee misfortune in advance and move aside from its
+way so that it the reserve of it as is less as possible.</p>
+<p>This is not an exact calculation, this is intuition.</p>
+<p>On the contrary, if he is trained from an early age to calculate his
+actions in advance, to analyze them and so forth, he will not learn to
+do this well, but can lose his innate gift of foresight.</p>
+<p>Time for [IEI] - the native element. It can prolong thebeautiful
+moment in abundance to take pleasure in it. If grey, dull | boring hours
+or days lie ahead, then he can fall out of them, and they will pass
+imperceptibly for him.</p>
+<blockquote>
+<div><p>As far as today’s life is concerned, I believe that there will be
+changes for the better in the near future.</p>
+</div></blockquote>
+<p>Incidentally, the expressionbright future was devised by some of the
+people of this type. No matter how bad the present is, [IEI] will be
+disposed to something good that will necessarily happen. [It is
+necessary only to wait a little | Just you wait]. Therefore he sees any
+significant development as the precursor of long-awaited changes for the
+best. With such optimism it is indeed easy to wait out | through times of
+turmoil, especially since the actual present [present reality] sometimes
+excites him a little less than the future</p>
+<p>It is unclear how, but [IEI] can easily escape from [approaching
+misfortune | looming catastrophe]. It occurs, that destiny strikes strong
+blow there where it just was - another second ago, but some sixth sense
+forced it for the half seconds thus far to take a step toward side.
+[Often | It is possible], fate strikes a strong blow to where it was just
+another moment | second ago, but some sixth sense prompted him to take a
+step in this direction [for half a second | half a second before this].
+This is like trying to catch the fluff dancing in the air after making a
+sharp motion | movement. The stronger the sweep of the hand, the more
+elusive it is.</p>
+<p>Far more dangerous to [IEI] can be smooth, barely noticeable changes in
+the situation. In this case he simply cannot pick up a dangerous trend.
+Therefore he does not like it when the situation remains quiet and calm
+for too long. So he begins to [stir up water | muddy the waters] and
+conducts investigation through the aid of small emotional storm. Once he
+has gathered the necessary information - all, now again Sky | the sun.</p>
+<blockquote>
+<div><p>I like everything fast.</p>
+</div></blockquote>
+<p>In the life of [IEI], the main problem is that it is difficult to
+constantly force himself deal with daily, uninteresting matters | affairs
+which are purely materialistic. For example, it can be very difficult
+for him to adapt to school discipline aimed at obligatory result. He
+believes that there is no such thing in life for which we should rush or
+change their internal rhythm.</p>
+<p>If he does not wish to do something, then it is practically | almost
+impossible to persuade him to do so - he will [manage | know how] to
+evade | dodge. It is easier to convince his confidence by will decision:
+IT IS NECESSARY!</p>
+<p>In the matters he can be optional, avoiding to take | assume
+responsibility for himself. [IEI] sufficiently strongly strains need
+(but where you will disappear?) the supply of material of its own
+existence.</p>
+<blockquote>
+<div><p>To the ordinary shadows of life it was to be, in its opinion, relate
+with the delicate patience of the guest, who, gates house complete of
+people, awaits the [zakhlopotavshegosya] owner, huddling and feeding
+on the circumstances (Alexander Green, ruby-colored of sail.)</p>
+</div></blockquote>
+<p>In the event of problems that [IEI] cannot (or will not) cope alone, the
+most natural | typical reaction is not to hide from it . Anyone [standing
+nearby | at hand] may be subjected to his complaints. [IEI] is
+subconsciously tuned | adjusted to its dual - emotionally small-receptive
+[SLE] - and therefore issues | gives the perceptible charge ofpitiful
+emotions. But to the majority of remaining people inhabiting this
+planet, such incandescence of passions may seem too excessive. Such
+complaints of [IEI] will cause them more distrust, fatigue, irritation
+or antipathy toward him, than the sincere desire to help.</p>
+<p>He feels very uncomfortable when circumstances require the display of
+independent business initiative, to be occupied by individual business,
+to be twisted or to earn a living for himself through dull, rigidly
+regulated work. But almost any business advice, recommendations, and
+furthermore criticism from others can only worsen the situation and
+solve nothing. In matters he needs specific | concrete aid | assistance from
+others, and is confident in his right to it, [expects it from | forward it
+to] them.</p>
+</div>
+<div class="section" id="it-is-missing-to-flower-heat">
+<h2>It is missing to flower heat<a class="headerlink" href="#it-is-missing-to-flower-heat" title="Permalink to this headline">¶</a></h2>
+<p>No, it in no way asserts itself. [IEI] silently (at the worst by
+[polunamekami]) will give to understand that the specific difficulties
+are experienced are not, not complex, but not in its forces to manage
+them - and it will is very dearly from the side of surrounding, such
+fascinating people, show it this trifling service it is here now good</p>
+<p>Sometimes similar requests be colored into the sufficiently strong
+emotions, the type: Oh, however, well that this such, yes you will only
+look to this, people good!. However, yes that this is done!!! But were
+no matter how given requests, this in no way appears by humiliation,
+vice versa. Once again we shall repeat: [IEI] is subconsiously confident
+in its right to request in people i. to obtain aid from them . The very
+same indeed it shares with them by its glad emotions, optimism, one the
+holiday atmosphere is created around itself only by fact of its
+existence.</p>
+<p>And is happy it must be that person, which [IEI] will allow to worry
+about itself!</p>
+<p>[IEI] please themselves the strong, men of weight, in which everything
+is gripped, for everything it is paid. It checks all its familiar on
+this criterion and it is pulled to that, who, in his opinion, here the
+strongest. It will willingly give it management of itself, it will obey
+it in all matters.</p>
+<p>Next to the strong people [IEI] feels itself [zashchishchennee] and it
+is more confident. But losers, it counts, in no way they stand that in
+order to spend its time on the contact with them. It although is
+outwardly unnoticeable, it attentively tracks information about
+opportunities and abilities of other people, finding out for itself, who
+has more authority and powerful connections.</p>
+<blockquote>
+<div><p>I do not love fools and those, who nothing from itself present, but
+thinks about itself too much.</p>
+</div></blockquote>
+<p>After finding possible powerful patron, [IEI] will attempt to cling
+to it by all means, to find to itself a cushy place in its sphere of
+influence.</p>
+<p>Unfortunately, in the childhood it can reveal strong conformism,
+constant readiness to be joined in the voice of majority. In this case
+its basic vital rule acquires new sounding - to think as all do, to
+act as all do, in nothing not to be separated and not to lag behind
+these all. And it turns out that its personality to a great extent is
+the product of medium and environment significant for it. It becomes
+sufficiently noncritical to the information, which enters from without.
+Everything will be true for it, that speak their, which it is inclined
+to idealize.</p>
+<p>[IEI] is very tactful, it does not love to tell people about their
+deficiencies into the eyes. Moreover, it will try to find something good
+in the collocutor and will compulsorily say to it about this, after
+representing everything in the most advantageous form.</p>
+<blockquote>
+<div><p>I try as criticize people as little as possible, to separate or
+clearly indicate their deficiencies. Depending on the situation, I
+will either correctly say to them about this or generally I will be
+silent.</p>
+</div></blockquote>
+<p>To unknown people it seemingly immediately clearly issues the credit of
+confidence and arrangement to them, moreover is done this so that by its
+further actions them it does not be desirable it to disappoint.</p>
+</div>
+<div class="section" id="oh-how-interesting">
+<h2>Oh, how interesting!<a class="headerlink" href="#oh-how-interesting" title="Permalink to this headline">¶</a></h2>
+<p>It knows how to listen to the collocutor very sympathetically, it will
+try to help it council or at least by warm word, will express admiration
+of its mind and force. With the interest it will listen bragging, it
+will be glad to another’s successes.</p>
+<p>The degree of its enthusiasm, in general, must not be perceived
+seriously. It is better to decrease its time in two or three - so it
+will be nearer to the truth.</p>
+<p>In the not too benevolent representatives of this type similar
+enthusiastic relation to the collocutor it can here be replaced to the
+admiration with the opposite sign, as soon as that will fall back to
+decent distance.</p>
+</div>
+<div class="section" id="pre-dawn-dark-blue-early-and-the-flying-stars-the-paradise">
+<h2>Pre-dawn. Dark-blue. Early. And the flying stars the paradise<a class="headerlink" href="#pre-dawn-dark-blue-early-and-the-flying-stars-the-paradise" title="Permalink to this headline">¶</a></h2>
+<p>In the life of an IEI, there are, to a greater or lesser extent,
+elements of bohemianism. The IEI derives great pleasure from surrounding
+himself with unusual trinkets and pristine gadgets  anything suggestive
+of refinement and cultivation  and sometimes, more is expended on such
+artifacts than the IEI can actually allow.</p>
+<p>He dresses usually with great taste, inconspicuously and elegantly. His
+movements are quite graceful; it seems that he does not walk, but
+rather, simply glides. He is always confident in his ability to charm
+others. Much of his behaviour is unpredictable and spontaneous.</p>
+<p>Ultimately, the IEI sees his destiny in sustaining harmony in a world
+overloaded by technical progress. Best anything it can make this with
+the aid of the skill, this age long game into the immortality.</p>
+<p>The IEI tries to be the poet and artist in any matter, to introduce in
+it the refinement of its very soul.</p>
+</div>
+<div class="section" id="an-overview">
+<h2>An Overview<a class="headerlink" href="#an-overview" title="Permalink to this headline">¶</a></h2>
+<p><strong>First function: Intuition of Time</strong></p>
+<p>Complete absorption in the flow of time. Ability to adapt time to his
+needs. Anticipation of changes for the best. Foresight, the ability to
+turn aside from danger in advance. Joyous predictions, dreaminess, ease,
+intuition.</p>
+<p><strong>Second function: Emotional Ethic</strong></p>
+<p>Emotional perception of events. Rich abundance of emotions,
+understanding of feelings and internal experiences of other people.
+Creative ablity to engender necessary emotions in people. Control of
+people by means of emotions. Tendency to avoid negative emotions.
+Optimism, emotional influence.</p>
+<p><strong>Third function: Comfort Sensing</strong></p>
+<p>The desire to appear elegant and stylish. Concern about his appearance.
+Following the societal norms in this respect. Weak sensitivity. Vague
+perception of the materiality of its own existence. Uncertainty in the
+fact that he can create comfort and cosiness. Following fashion, the
+search for refinement.</p>
+<p><strong>Fourth function: Business Logic</strong></p>
+<p>Inability to act effectively, incomprehension of principles which lead
+to success. Absence of business activity and accumen. The tendency to
+avoid situations where it is necessary to work much. Unwillingness to
+demonstrate the process of his work. Negative attitude toward any
+criticism, and also toward any praise, of how he carries out his
+activities. Work contingent upon mood, the tendency to avoid
+responsibility.</p>
+<p><strong>Fifth function: Volitional Sensing</strong></p>
+<p>Weak volitional impulse, insufficient persistance and purposefulness.
+Underlying, latent desire to follow another’s strong will. Admiration of
+strong and powerful people. Ability to be transparent to undesirable
+external pressure. Reduction in vitality (up to the point of complete
+apathy) without an external organizing and directing force. Physical
+weakness, infantilism, the search for a “defender.”</p>
+<p><strong>Sixth function: Structural Logic</strong></p>
+<p>Irrationality of behavior. Requirement of necessary information from the
+surrounding people. Reduction of activity in work if he is unclear what
+it is necessary for him to do. Inability to seperate the primary from
+the secondary. Desire to boast about his analytical abilities. Adherence
+to another’s solutions.</p>
+<p><strong>Seventh function: Intuition of Possibilities</strong></p>
+<p>Internal confidence in the correctness of his evaluation of proceeding
+events. Subconsious tendency to track the opportunities of surrounding
+people. Constant interest in the plans of surrounding people and the
+attempt to lead in them a good place to himself. Rejection of criticism
+of regarding his abilities and talents.</p>
+<p><strong>Eighth function: Relational Ethic</strong></p>
+<p>Unconscious interest in another’s desires. Ability to smooth out sharp
+corners and dissipate conflicts. Demonstration of benevolence and
+attention to the interests of necessary people, the readiness to go on
+concessions. Verbal agreement with all statements of partner and the
+tendency to enter only in in own way. Demonstration of sensitivity and
+attention, exaggerated politeness, sometimes showy/ostentatious love
+without real content.</p>
+</div>
+</div>
+
+      </article>
+      <footer>
+        
+        <div class="related-pages">
+          <a class="next-page" href="socioscope_EIE.html">
+              <div class="page-info">
+                <div class="context">
+                  <span>Next</span>
+                </div>
+                <div class="title">Socioscope EIE</div>
+              </div>
+              <svg><use href="#svg-arrow-right"></use></svg>
+            </a>
+          <a class="prev-page" href="socioscope_SLE.html">
+              <svg><use href="#svg-arrow-right"></use></svg>
+              <div class="page-info">
+                <div class="context">
+                  <span>Previous</span>
+                </div>
+                
+                <div class="title">Socioscope LSE</div>
+                
+              </div>
+            </a>
+        </div>
+
+        <div class="related-information">
+              Copyright &#169; 2021, Wikisocion Authors
+            |
+            Built with <a href="https://www.sphinx-doc.org/">Sphinx</a>
+              and
+              <a class="muted-link" href="https://pradyunsg.me">@pradyunsg</a>'s
+              <a href="https://github.com/pradyunsg/furo">Furo theme</a>.
+            |
+            <a class="muted-link" href="../_sources/content/socioscope_IEI.rst.txt"
+               rel="nofollow">
+              Show Source
+            </a>
+        </div>
+        
+      </footer>
+    </div>
+    <aside class="toc-drawer">
+      
+      
+      <div class="toc-sticky toc-scroll">
+        <div class="toc-title-container">
+          <span class="toc-title">
+            Contents
+          </span>
+        </div>
+        <div class="toc-tree-container">
+          <div class="toc-tree">
+            <ul>
+<li><a class="reference internal" href="#">Socioscope IEI</a><ul>
+<li><a class="reference internal" href="#intuitive-ethical-introvert-iei-yesenin">Intuitive Ethical Introvert (IEI, Yesenin)</a></li>
+<li><a class="reference internal" href="#my-life-did-you-come-to-me-in-my-dream">My Life - did you come to me in my dream?</a></li>
+<li><a class="reference internal" href="#indescribable-dark-blue-gentle">Indescribable, dark blue, gentle…</a></li>
+<li><a class="reference internal" href="#walking-along-the-street-i-will-not-pass-any-event">Walking along the street, I will not pass any event</a></li>
+<li><a class="reference internal" href="#from-that-also-i-am-suffering-that-i-will-not-understand-where-the-fate-of-events-carries-us">From that also I am suffering; that I will not understand where the fate of events carries us</a></li>
+<li><a class="reference internal" href="#it-is-missing-to-flower-heat">It is missing to flower heat</a></li>
+<li><a class="reference internal" href="#oh-how-interesting">Oh, how interesting!</a></li>
+<li><a class="reference internal" href="#pre-dawn-dark-blue-early-and-the-flying-stars-the-paradise">Pre-dawn. Dark-blue. Early. And the flying stars the paradise</a></li>
+<li><a class="reference internal" href="#an-overview">An Overview</a></li>
+</ul>
+</li>
+</ul>
+
+          </div>
+        </div>
+      </div>
+      
+      
+    </aside>
+  </div>
+</div><script data-url_root="../" id="documentation_options" src="../_static/documentation_options.js"></script>
+    <script src="../_static/jquery.js"></script>
+    <script src="../_static/underscore.js"></script>
+    <script src="../_static/doctools.js"></script>
+    <script src="../_static/scripts/main.js"></script>
+    </body>
+</html>

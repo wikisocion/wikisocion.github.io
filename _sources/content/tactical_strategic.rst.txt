@@ -1,0 +1,262 @@
+Tactical and strategic
+============================
+
+**Tactical** / **strategic** is one of the 15 `Reinin dichotomies <reinin_dich>`.
+
+
+Tactical and strategic types
+----------------------------
+
+-  The tactical :doc:`IM types <socionic_type>` are : :doc:`ILE <ILE>`,
+   :doc:`ESE <ESE>`, :doc:`LSI <LSI>`, :doc:`IEI <IEI>`, :doc:`ILI <ILI>`,
+   :doc:`ESI <ESI>`, :doc:`LSE <LSE>`, and :doc:`IEE <IEE>`.
+-  The strategical :doc:`IM types <socionic_type>` are : :doc:`SEI <SEI>`,
+   :doc:`LII <LII>`, :doc:`EIE <EIE>`, :doc:`SLE <SLE>`, :doc:`SEE <SEE>`,
+   :doc:`LIE <LIE>`, :doc:`EII <EII>`, and :doc:`SLI <SLI>`.
+-  Using the :doc:`four-letter code <type_names>`: tactical types are
+   NP or SJ, strategical types are NJ or SP.
+
+Typical characteristics
+-----------------------
+
+Tactics
+~~~~~~~
+
+#. Focus on methods, and manipulate them, with goals unsettled.
+#. Goals are defined by, and modified to fit methods.
+#. Prefers to expand options. Doesn't like to have too few of them.
+
+Strategy
+~~~~~~~~
+
+#. Focus on goals, and manipulate them, with methods unsettled.
+#. Methods are defined by, and modified to fit goals.
+#. Prefers to defend goals. Doesn't like to be forced to deviate from
+   them.
+
+Extended characteristics
+------------------------
+
+Taken from :doc:`2003 study of Reinin traits <reinin_study>`.
+
+Tactics
+~~~~~~~
+
+-  Tactical types focus their attention on their current situation, on
+   the nearest action, on the actual choicesin other words, they are
+   more oriented at their course, the chain of events, instead of the
+   goal towards which this chain may lead.
+-  As a rule, they do not "fix" for themselves a single "point" which
+   they want to hit or reachin other words, a goal. Thus, the direction
+   in which they are moving is liable to change.
+-  In contrast to Strategic types, they are not inclined to constantly
+   compare their current actions with the desired end state ("goal").
+   The emerging goals are evaluated in accordance to how well they fit
+   their current route (how well the goal coincides with the direction
+   they are adhering to).
+-  All possibilities of events occurring now or those that have occurred
+   in the past (that which has occurred or could have occurred) i.e.
+   different scenarios, outcomes, they perceive as equivalent (equally
+   likely to happen and equally likely to have happened).
+-  They consciously do not set goals or do it very rarely (when
+   pressured by the circumstances). They avoid setting distant (very
+   long-term or global) goals: "Why planyou still need to live to that
+   moment".
+-  Tactical types consciously operate with routes/pathwaysthey examine
+   and contrast many different possible variations of present events and
+   actions they can undertake (i.e. pathways), arrange them according to
+   some kind of criteria (for example, for optimal efficiency).
+-  If Tactical types assess their actions to be directed towards a
+   concrete goal, when the goal is reached they feel a sensation of
+   emptiness, disappointment.
+-  Lexicon: in speech of tacticians words "way" "means" "methods" can
+   often be heard. They are not inclined to speak of the purpose of
+   their actions but rather substitute it with other concepts
+   ("necessity" "dream" "interest" "task" and so on)
+
+Strategy
+~~~~~~~~
+
+-  Strategic types focus their attention on a "point" they wish to
+   reach, i.e. on the goal of their actions instead of the actions and
+   events themselves.
+-  Strategists, as a rule, do not fix their direction i.e. concrete
+   actions the sequence of which leads to the goal. Thus, their
+   "trajectory" by which they move towards fulfilling their goals can
+   change.
+-  They assess their actions and choices from the point of view of how
+   closer they bring them to their desired objectives (goals). Being put
+   before a choice, they reject those options that do not bring them
+   closer.
+-  In analyzing past, Strategists accentuate "key moments" (most
+   significant stages) that led them to present point. They do not
+   consider all versions of events as equivalent (they perceive the
+   version that has actualized separately, by itself)
+-  They consciously set goals and have difficulty scrapping them. May
+   experience confusion if they are forced to change a goal. They
+   experience satisfaction in achieving their set objectives (goals) and
+   disappointment if they had to deviate away from it or could not
+   achieve it.
+-  Strategists consciously operate with goals. In situations where
+   Strategists have several goals, they sort and arrange their goals
+   into a hierarchy.
+-  Without having a conscious goal, Strategists feel as if something is
+   missing and their life is incomplete. They experience discomfort and
+   feel disoriented.
+-  Lexicon: in their speech Strategists often use words "goal" "aim" and
+   other versions of this. Strategists clearly express their goals and
+   purposes, precisely formulate and describe them, do not substitute
+   them with other concepts unlike Tacticians.
+
+**Notes**
+
+The key element in understanding this group is the dichotomy of
+"goal/purposemethod/pathway". The consciousness of the Strategist is to
+a larger degree orientated towards the goal/purpose itself and not
+towards the actions undertaken in process of achieving it, while the
+consciousness of the Tactician is largely focused on the path i.e. the
+actual actions ("steps") but not their end goal. This encompasses not
+only the conscious activities of individuals, which decisions they
+undertake, and so on, but also external circumstances, background
+events, and other concurrent factors. On a general level it is possible
+to speak about a difference in "reference points": either the course is
+corrected in accordance to some fixed goal (Strategist) or the course
+becomes fixed and goals become variable (Tactician).
+
+**Hypotheses**
+
+Tactical types feel disappointment upon reaching a goal in cases when
+they had to deviate from their course. This is because the course or
+pathway is more important for Tactical types than their goal. Thus, in
+situations when their purpose came to the foreground before their
+course, they experienced discomfort. This is further aggravated for
+Rational Tacticals, who, by their nature, are inclined to plan their
+actions, and feel great discomfort if their plans come apart. On the
+other hand, a feeling of emptiness arises because when a goal has been
+reached the course is interrupted. Tactical types feel as if the ground
+temporarily leaves from under their feet. The sensation of confidence,
+resoluteness that accompanies their normal mode of life disappears. When
+they were "moving along their own path", everything was clear and easy.
+Upon reaching a goal, even if it was a much desired one, Tactical types
+lose their "string" and often do not know how to proceed further and
+what to do next.
+
+**Examples**
+
+*Tacticians:* "To speak of global goals is difficult, a goal is several
+localized tasks" "I do not see one big goal, but rather a chain of small
+ones" "I pick up everything as I go along" "Long term goals... well I
+reach them, but somehow it all occurs crookedly" "If I ever set an end
+goal, I would have died! Such a thing does not exit for me" "There are
+multiple goals at the end of each path that you take. I try to "catch"
+them along the way" "My way, for a long time, was clear to me" "There
+are many things that I could have done, but haven't" "There are many
+ways in which my life could have unfolded. I could have lived in
+different places, could have had other professions" "If I was another
+person, everything could have been different" "When I look back and
+think about the things that could have been, I see many crossroads. I
+see myself, as I am living after taking a different turnin another
+universe"
+
+*Strategists:* "The point is not whether the goal is big or small, but
+in being aware of it. The goal is clear, the course is undefined... I
+don't always remember how I accomplish what I have in mind" "I was a
+slave to my goal" "A goal constitutes the central point of
+self-organization. I feel ashamed that some goals are left unfulfilled,
+even if they are insignificant... if a goal was drawn you can't really
+erase it" "A global goal is a comforting thought. If the criteria of a
+course satisfies the criteria set by the goal, I will take it" "There
+aren't any "distractions" along the way" "A person must have a goal in
+life, otherwisewhat's the point?" "A huge list35 items of what I want
+to accomplish in my life" "A person cannot always clearly state that
+what he wishes to accomplish, but nevertheless they accomplish it...
+minor questions I do not consider, I aim somewhere further than that"
+"There are such moment in ones lifecardinal moments,where if I failed
+to do something I wanted, it would not have been me... I always look
+where it would have led me" "Every act leads somewhere" "There were many
+"key moments". The important thing was how they shortened or prolonged
+my movement towards the end point" "I keep track of "key moments" and
+can list them one by one. I regret that because of lack of experience I
+could not solve some problems effectively, and because of this it took
+longer time for me to reach my goal... One way or another, I would have
+reached the result that I wanted to reach."
+
+Examples
+--------
+
+Interaction of of two strategic types taken from Vera Stratievskaya's
+EII-LIE semi-duality description:
+
+-  Both EII and LIE are also strategic types: if they instigate
+   something, it will be something substantial and they won't stop
+   halfway at achieving this goal. Partners-strategists simply put each
+   other before the fact that something is already planned and requires
+   realization and active participation of the other partner. They do so
+   without carefully considering means and capabilities of the other and
+   without receiving his or her advice and consent. They simply suddenly
+   "saddle" their partner with an activity or assignment, which in
+   itself makes each of them feel frustrated. In dual relations, their
+   enduring, hard-working, tactical, sensing partners LSE and ESI, can
+   usually handle these "assignments" and help them realize their goals
+   and plans, through even their energy and strength don't last forever.
+   However, in semi-dual relations these two pragmatic and overly
+   optimistic intuitive types are quickly faced with a mutual rejection
+   of such plans: who likes it when such important and effort intensive
+   decisions are made over their heads, regardless of their opinion,
+   without their consent?  "You want this  you take care of it. Don't
+   count on me. I have intended to do something else today."
+
+Interaction of of two strategic types SLI-EII:
+
+-  I would ask her: "This weekend I'm planning to go to this
+   presentation. Would you like to come along?" She (SLI) would respond
+   with: "No, we have important plans for the weekend. Did you forget?
+   Attend another time." Me: "Well what plans did we have?" Her: replies
+   with something hazy. Then she would was just sit in and watch movies
+   or chat online when the day came.
+
+Theoretical properties of tactical and strategic types
+------------------------------------------------------
+
+Tactical/strategic corresponds with the
+:ref:`inert <contact>`/ :ref:`contact <contact>` dichotomy for
+:doc:`irrational <ration_irration>` :doc:`information elements <elements>`:
+
+-  The tactical types have contact :doc:`sensing <sensing_intuition>` and inert :doc:`intuition <sensing_intuition>`.
+-  The strategic types have contact intuition and inert sensing.
+
+.. list-table:: Type :doc:`dichotomies <dich>`
+    :header-rows: 0
+    :align: center
+
+    * - |jp|
+      - |EI|
+      - |NS|
+    * - |TF|
+      - |SD|
+      - |PR|
+    * - |PN|
+      - |AD|
+      - |CE|
+    * - |CF|
+      - |YO|
+      - |TS|
+    * - |MS|
+      - |JD|
+      - |AD|
+
+.. |EI| replace:: :doc:`Extraversion and introversion <extra_intro>`
+.. |DA| replace:: :doc:`Democratic and aristocratic <democratic_aristocratic>`
+.. |TS| replace:: :doc:`Tactical and strategic <tactical_strategic>`
+.. |CE| replace:: :doc:`Constructivist and emotivist <constructivist_emotivist>`
+.. |PN| replace:: :doc:`Positivist and negativist <positivist_negativist>`
+.. |JD| replace:: :doc:`Judicious and decisive <judicious_decisive>`
+.. |MS| replace:: :doc:`Merry and serious <merry_serious>`
+.. |NS| replace:: :doc:`Sensing and intuition <sensing_intuition>`
+.. |TF| replace:: :doc:`Ethics and logic <ethics_logic>`
+.. |jp| replace:: :doc:`Rationality and irrationality <ration_irration>`
+.. |CF| replace:: :doc:`Carefree and farsighted <carefree_farsighted>`
+.. |YO| replace:: :doc:`Yielding and obstinate <yielding_obstinate>`
+.. |SD| replace:: :doc:`Static and dynamic <statics_dynamics>`
+.. |PR| replace:: :doc:`Process and result <process_result>`
+.. |AD| replace:: :doc:`Asking and declaring <asking_declaring>`

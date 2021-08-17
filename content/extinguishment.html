@@ -1,0 +1,628 @@
+<!doctype html>
+<html class="no-js">
+  <head><meta charset="utf-8"/>
+    <meta name="viewport" content="width=device-width,initial-scale=1"/>
+    <meta name="color-scheme" content="light dark"><link rel="index" title="Index" href="../genindex.html" /><link rel="search" title="Search" href="../search.html" /><link rel="next" title="Identity" href="identity.html" /><link rel="prev" title="Duality" href="duality.html" />
+
+    <meta name="generator" content="sphinx-4.1.2, furo 2021.08.11.beta42"/>
+        <title>Relations of extinguishment - Wikisocion</title>
+      <link rel="stylesheet" type="text/css" href="../_static/pygments.css" />
+    <link rel="stylesheet" type="text/css" href="../_static/styles/furo.css?digest=197f00461d56902ea7ca048ec6e6ba026f62c97b" />
+    <link rel="stylesheet" type="text/css" href="../_static/styles/furo-extensions.css?digest=93475b62d1c3bc01323a0eefdc14a62d77b12690" />
+    
+    
+
+
+<style>
+  body {
+    --color-code-background: #f8f8f8;
+  --color-code-foreground: black;
+  
+  }
+  body[data-theme="dark"] {
+    --color-code-background: #202020;
+  --color-code-foreground: #d0d0d0;
+  
+  }
+  @media (prefers-color-scheme: dark) {
+    body:not([data-theme="light"]) {
+      --color-code-background: #202020;
+  --color-code-foreground: #d0d0d0;
+  
+    }
+  }
+</style>
+    <link media="(prefers-color-scheme: dark)" rel="stylesheet" href="../_static/pygments_dark.css"></head>
+  <body>
+    
+<svg xmlns="http://www.w3.org/2000/svg" style="display: none;">
+  <symbol id="svg-toc" viewBox="0 0 24 24">
+    <title>Contents</title>
+    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+      stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+      <path stroke="none" d="M0 0h24v24H0z" />
+      <line x1="4" y1="6" x2="20" y2="6" />
+      <line x1="10" y1="12" x2="20" y2="12" />
+      <line x1="6" y1="18" x2="20" y2="18" />
+    </svg>
+  </symbol>
+  <symbol id="svg-menu" viewBox="0 0 24 24">
+    <title>Menu</title>
+    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+      stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather-menu">
+      <line x1="3" y1="12" x2="21" y2="12"></line>
+      <line x1="3" y1="6" x2="21" y2="6"></line>
+      <line x1="3" y1="18" x2="21" y2="18"></line>
+    </svg>
+  </symbol>
+  <symbol id="svg-arrow-right" viewBox="0 0 24 24">
+    <title>Expand</title>
+    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+      stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather-chevron-right">
+      <polyline points="9 18 15 12 9 6"></polyline>
+    </svg>
+  </symbol>
+  <symbol id="svg-sun" viewBox="0 0 24 24">
+    <title>Light mode</title>
+    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+      stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" class="feather-sun">
+      <circle cx="12" cy="12" r="5"></circle>
+      <line x1="12" y1="1" x2="12" y2="3"></line>
+      <line x1="12" y1="21" x2="12" y2="23"></line>
+      <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
+      <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
+      <line x1="1" y1="12" x2="3" y2="12"></line>
+      <line x1="21" y1="12" x2="23" y2="12"></line>
+      <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
+      <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
+    </svg>
+  </symbol>
+  <symbol id="svg-moon" viewBox="0 0 24 24">
+    <title>Dark mode</title>
+    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+      stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" class="icon-tabler-moon">
+      <path stroke="none" d="M0 0h24v24H0z" fill="none" />
+      <path d="M12 3c.132 0 .263 0 .393 0a7.5 7.5 0 0 0 7.92 12.446a9 9 0 1 1 -8.313 -12.454z" />
+    </svg>
+  </symbol>
+  <symbol id="svg-sun-half" viewBox="0 0 24 24">
+    <title>Auto light/dark mode</title>
+    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+      stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" class="icon-tabler-shadow">
+      <path stroke="none" d="M0 0h24v24H0z" fill="none"/>
+      <circle cx="12" cy="12" r="9" />
+      <path d="M13 12h5" />
+      <path d="M13 15h4" />
+      <path d="M13 18h1" />
+      <path d="M13 9h4" />
+      <path d="M13 6h1" />
+    </svg>
+  </symbol>
+</svg>
+
+<input type="checkbox" class="sidebar-toggle" name="__navigation" id="__navigation">
+<input type="checkbox" class="sidebar-toggle" name="__toc" id="__toc">
+<label class="overlay sidebar-overlay" for="__navigation">
+  <div class="visually-hidden">Hide navigation sidebar</div>
+</label>
+<label class="overlay toc-overlay" for="__toc">
+  <div class="visually-hidden">Hide table of contents sidebar</div>
+</label>
+
+
+
+<div class="page">
+  <header class="mobile-header">
+    <div class="header-left">
+      <label class="nav-overlay-icon" for="__navigation">
+        <div class="visually-hidden">Toggle site navigation sidebar</div>
+        <i class="icon"><svg><use href="#svg-menu"></use></svg></i>
+      </label>
+    </div>
+    <div class="header-center">
+      <a href="../index.html"><div class="brand">Wikisocion</div></a>
+    </div>
+    <div class="header-right">
+      <div class="theme-toggle-container theme-toggle-header">
+        <button class="theme-toggle">
+          <div class="visually-hidden">Toggle Light / Dark / Auto color theme</div>
+          <svg class="theme-icon-when-auto"><use href="#svg-sun-half"></use></svg>
+          <svg class="theme-icon-when-dark"><use href="#svg-moon"></use></svg>
+          <svg class="theme-icon-when-light"><use href="#svg-sun"></use></svg>
+        </button>
+      </div>
+      <label class="toc-overlay-icon toc-header-icon" for="__toc">
+        <div class="visually-hidden">Toggle table of contents sidebar</div>
+        <i class="icon"><svg><use href="#svg-toc"></use></svg></i>
+      </label>
+    </div>
+  </header>
+  <aside class="sidebar-drawer">
+    <div class="sidebar-container">
+      
+      <div class="sidebar-sticky"><div class="sidebar-scroll"><a class="sidebar-brand" href="../index.html">
+  
+  
+  <span class="sidebar-brand-text">Wikisocion</span>
+  
+</a><form class="sidebar-search-container" method="get" action="../search.html" role="search">
+  <input class="sidebar-search" placeholder=Search name="q" aria-label="Search">
+  <input type="hidden" name="check_keywords" value="yes">
+  <input type="hidden" name="area" value="default">
+</form>
+<div id="searchbox"></div>
+</div>
+      </div>
+      
+    </div>
+  </aside>
+  <div class="main">
+    <div class="content">
+      <article role="main">
+        <div class="content-icon-container">
+          <div class="theme-toggle-container theme-toggle-content">
+            <button class="theme-toggle">
+              <div class="visually-hidden">Toggle Light / Dark / Auto color theme</div>
+              <svg class="theme-icon-when-auto"><use href="#svg-sun-half"></use></svg>
+              <svg class="theme-icon-when-dark"><use href="#svg-moon"></use></svg>
+              <svg class="theme-icon-when-light"><use href="#svg-sun"></use></svg>
+            </button>
+          </div>
+          <label class="toc-overlay-icon toc-content-icon" for="__toc">
+            <div class="visually-hidden">Toggle table of contents sidebar</div>
+            <i class="icon"><svg><use href="#svg-toc"></use></svg></i>
+          </label>
+        </div>
+        <div class="section" id="relations-of-extinguishment">
+<h1>Relations of extinguishment<a class="headerlink" href="#relations-of-extinguishment" title="Permalink to this headline">¶</a></h1>
+<p><em>See also</em><a class="reference internal" href="extinguishment_observations.html"><span class="doc">Extinguishment observations</span></a></p>
+<p><em>Back to</em><a class="reference internal" href="intertype.html"><span class="doc">Intertype relations</span></a></p>
+<div class="section" id="introduction">
+<h2>Introduction<a class="headerlink" href="#introduction" title="Permalink to this headline">¶</a></h2>
+<p><strong>Extinguishment</strong> is one of the 14 <a class="reference internal" href="intertype.html"><span class="doc">intertype relations</span></a>. These relations are also known as
+<strong>Contrary</strong> relations. The two partners of such relation have the same
+<a class="reference internal" href="function_dich.html#strong"><span class="std std-ref">strong traits</span></a> and the same <a class="reference internal" href="function_dich.html#strong"><span class="std std-ref">weak traits</span></a>, with the same
+<a class="reference internal" href="function_dich.html#accepting"><span class="std std-ref">accepting/producing</span></a> order, but with opposite
+<a class="reference internal" href="extra_intro.html"><span class="doc">introvert/extrovert</span></a> values. For example, an
+<a class="reference internal" href="ILE.html"><span class="doc">ILE</span></a> and an <a class="reference internal" href="ILI.html"><span class="doc">ILI</span></a> would produce an extinguishment
+relation.</p>
+<p>As a non-identical symmetrical relation, it produces 8 pairs each on the
+<a class="reference internal" href="socion.html"><span class="doc">socion</span></a>, in comparison to non-symmetrical relations, which
+produce 4 rings of 4 <a class="reference internal" href="socionic_type.html"><span class="doc">IM types</span></a> on the <a class="reference internal" href="socion.html"><span class="doc">socion</span></a>.
+The 8 pairings are bi-directional, so they can be expanded conceptually
+to make 16 total.</p>
+<p>Relations of extinguishment are characterized by an interest in the same
+kinds of things, but partners approach it in a fundamentally different
+and often incomprehensible way. Many people note a certain draw in these
+relations, as if the other person possessed some dual-like qualities,
+but never materializes into a dual. This possibly occurs because at
+first contact individuals are likely to act through their Super-Ego
+functions, which is received positively by the other person. In trying
+to close the distance and get to know the other person closely, partners
+are very often frustrated and thwarted in their attempts by the other
+person’s unexpected and out-of-sync reactions. Partners in these
+relations find it very hard to maintain an organized and stable
+relationship, due to the promising, yet continually frustrating
+interpersonal dynamic.</p>
+<p>Where these relations can become especially unstable is in the case of a
+third person/party being involved in the relation. What happens is both
+Contrary partners attempt to exude their strong sides, which are in
+opposition to each others’ strengths.</p>
+<p>In many cases the introvert partner becomes cautious and distant in
+formal interaction, whereas the extrovert partner becomes especially
+vulnerable, taking careful notice of his/her own actions, and thus
+becoming highly suspicious about the entire relation. This disoriented
+sense of communication tends to build more and more as Contrary partners
+continue to interact together.</p>
+</div>
+<div class="section" id="descriptions-by-various-authors">
+<h2>Descriptions by various authors<a class="headerlink" href="#descriptions-by-various-authors" title="Permalink to this headline">¶</a></h2>
+<p><strong>Valentina Meged, Anatoly Ovcharov</strong></p>
+<p>In these relations, it is difficult to achieve full understanding.
+Despite many mutual interests and common ground, partners often argue
+about petty details, to which they tend to pay too much attention. These
+relations are called “extinguishment” because partners extinguish each
+other’s initiatives - sometimes by highlighting their shortcomings,
+other times by their inability to further and support such initiatives.
+With such a partner, it is difficult to find considerable support for
+one’s projects, but it is always interesting to exchange opinions,
+suggestions and requests. Contrary partners get along better when they
+work separately, since together they pay too much attention to minor
+mistakes of each other. Such criticism are received especially painfully
+in the presence of strangers. Third partner upsets this delicate balance
+even more. If someone’s personal interests have been infringed upon,
+these relations can fall apart. They are more tolerant at a certain
+distance. With close and prolonged contact, fatigue and irritation set
+in due to protracted disputes.</p>
+<p><strong>I.D. Vaisband, publications on Socionics</strong></p>
+<p>Partners communicate well when they are interacting one-on-one,
+occasionally feeling amazed by originality of each other’s insights and
+approaches. However, a third participant often upsets this balance.
+Partners look at the same problems from completely different view
+points. Where one observes external properties of an object, the other
+observes its internal properties, because for the other partner the
+functions are oriented in completely different direction. It is as if
+they talk in different languages. Communication thus becomes rather
+superficial. It is very difficult to do something together and
+coordinate actions because attention is lacking even in details.
+Partners often feel attracted to one another, mainly due to sense of
+mystery which fuels their mutual curiosity. In families formed between
+contrary types partners often find it difficult to reach an agreement,
+which strains these relations.</p>
+<p><strong>O.B. Slinko, “The key to heart - Socionics”</strong></p>
+<p>Extinguishment partners are very much alike. Their interests often
+intersect over a very wide area. However, those functions that are in
+the creative block of one partner, form the Id block of another. Thus,
+your extinguishment partner talks about those things that you implement
+subconsciously and find too commonsense to talk about. This can be
+re-phrased as follows: extinguishment partners have opposing views on
+same topics. Often such a partner seems attractive; he has much in
+common with you, and at the same time is able to offer a fresh and very
+different approach. Thus, friendships and romances between
+extinguishment partners are quite common. In marriage, extinguishment
+partners start to experience difficulties when a child appears in the
+family. This triggers relentless competition between their opposing
+views, which previously seemed to be innocent and only brought some
+spice to relations. Presence not only of children but also of any third
+party tends to upset the balance in this pair.</p>
+<p><strong>R.K. Sedih, “Informational psychoanalysis”</strong></p>
+<p>In this type of relations, it is relatively difficult to achieve mutual
+understanding. The “adult” part of one partner interacts with the
+“self-confident teenager” part of the other. The “teenager” meanwhile
+tries to prove that he indeed knows something, too. “Adult” is annoyed
+by this arrogance and, when possible aims to put the “teenager” in his
+place. Ironically, this situation often leads to professional success of
+partners. For example, in my research I have been very much helped by
+discussions with my extinguishment relation. Listening to him was not
+always pleasant, and from aside our conversations might not have looked
+pretty, yet they were very helpful and even irreplaceable. Both of us
+were engaged in the same field and treated each other with much respect.
+This saved our relationship on many occasions. If both of us were not to
+a large extent dualized, we would not have had the strength to overcome
+the conflicts. Now this is not a threat. Numerous intellectual debates
+have turned our relationship into a a lasting friendship. This is not
+the only example of successful realization of possibilities inherent to
+such interactions, but, unfortunately, such examples are rare. To make a
+relationship with your extinguishment partner easier, try not to realize
+your desire to correct your partner even when it reaches its apex point.
+In all cases, you will suffer no less than him if you are not be able to
+control yourself. Interaction of “child” - “insecure teenager” is
+fraught with similar problems. Only the desire to “debunk” is even more
+dangerous here because insults to the weaker blocks are more difficult
+to forgive. In marriage, this is one of the most difficult relationship
+types.</p>
+<p><strong>Laima Stankevichyute “Intertype relations”</strong></p>
+<p>Often people of extinguishment types feel an attraction for one other.
+Attention is especially drawn to the physical qualities of the partner,
+such as the beauty of their eyes. When alone, these people can have many
+interesting one-on-one conversations and feel amazement and wonder at
+each other’s originality of thought, how the other person is seeing the
+same issue from a different side. When a third person joins the
+conversation, and one of the partners indirectly gains advantage through
+his or her attention or support, the fragile balance immediately
+disappears. If two people of extinguishment types have to live or work
+together, conflict is inevitable. Partners seem to talk about the same
+topics, but from opposing points of view.</p>
+<p><strong>A.V. Bukalov, G. Boiko, “Why Saddam Hussein made a mistake, or what is
+Socionics”</strong></p>
+<p>These are also called relations of neutralization since the
+extraversion-introversion orientation of functions of these partners is
+opposite. In these relations, the introvert as if extinguishes activity
+of the extravert. For example, an ILI informs an ILE with skepticism
+that nothing will come out of his ideas and initiatives, that all of it
+is nonsense, and it is not known yet how everything will turn out, thus
+extinguishing his enthusiasm. The ILE may be inclined to detaches
+philosophical ruminations that for ILI sound as empty noise devoid of
+practical application. However, extinguishment partners also tend to
+have many common interests. Together they communicate well, but the
+presence of even one other person evokes the desire to recruit him or
+her to your side and seeds a sense of competition. At this point
+reaching an agreement becomes impossible. Often partners are amazed by
+each other’s unusual insights, but at all times they are aware that
+their thinking styles are different. In case of marriage, they will have
+to go through a lengthy process of getting used to each other, which is
+further complicated by the fact that they have different expectations of
+sexual interactions based on differences in expectations of romancing
+styles. Most of the conflicts are not major, however, because partners
+cannot seriously hurt one another.</p>
+<p><strong>Victor Gulenko, “Criteria of reciprocity”</strong></p>
+<p><em>Comfortable discussion</em></p>
+<p>Initiating communication partners are drawn to debate, in which they
+feel comfortable. The more active partner relays his opinions, while the
+less active one offers commentary and imparts his corrections. Partners
+usually appeal to one another with style of behavior. Each other’s
+peculiar thinking style feels like a pleasant surprise. However, in
+presence of a third party extinguishment effect occurs  your partner
+impedes your attempts to develop a mutually interesting idea, arguing
+against it.</p>
+<p><em>Binary signs of intertype relations</em></p>
+<p>For relations of extinguishment, it is not recommended to have
+discussions in presence of a large audience. In a small circle, there is
+mutual correction and enrichment with new factual information, but if
+relations become more extraverted then th unpleasant process of
+extinguishment will begin  this manifests as arguing against each
+other’s propositions without substantiation.</p>
+<p>In extinguishment relations partners can predict each other’s behavior
+quite well. This becomes uninteresting, especially if their behavior is
+rationalized. This pair needs to engage in periodic relaxed
+philosophizing and critical analysis of events around them. The pair is
+very flexible and adapts to the stresses of changing environment.</p>
+<p>In extinguishment pair, the flaws of the other partner are easily
+visible. Accusations of not thinking things through, skepticism, and
+criticism are all too common. These relations should not be approached
+emotionally  deep emotional grievances will tear them apart. While
+meticulously counting the flaws of the partner you forget about
+vulnerability of your position  your own flaws which he also easily
+sees.</p>
+<p>In relations of extinguishment you are interested in the methods of your
+partner, his concepts, the general principles of how he operates, rather
+than his actual achievements and current status. There is persistent
+hope to use his methods to “arm” yourself, but it does not have
+sufficient grounds. Extinguishment partners quite successfully predict
+the behavior of each other.</p>
+<p>In extinguishment relations, emotional dynamics do not take the first
+place but rather the sudden changes in behavior of your partner. In
+these relations partners can predict the success or failure of another,
+so any deviations deserve attention. These relations have a “cushioning”
+effect i.e. soften potential damage but also play down success. Partners
+as if vibrate in opposite phases.</p>
+<p>In these relations, any aspirations that seem too extremist or made
+unduly important are cut off. This critical fitting of opinions and
+intentions culminates in rather tolerant attitude towards behavior of
+one another. Here one can observe the process of coming to middle ground
+which suits both partners, even if it is far from their original ideal.</p>
+<p><em>Advice for getting along</em></p>
+<p>Comfort in these relations can be achieved by communicating in a narrow
+circle of friends or associates. Extinguishment effect gets triggered in
+presence of other people  partners begin to challenge the views of
+another without providing solid arguments to back up their points of
+view. Learn to knowingly accept criticisms of each other and to derive
+benefit from them  your ideas and incentive in the light of criticism
+of extinguishment partner will become more realistic.</p>
+<p>Get your contrary partner involved when you need to critically evaluate
+something or make a forecast of a project. Do not expect your partner to
+participate in the implementation of your plans. Collaborative technical
+work will proceed very slowly and follow a strict route.</p>
+<p>If relations are upset, do not try to resolve them on an emotional
+level. Separate and spend some time alone, then resume relations as if
+nothing had happened. Be interested in new information that will give
+you both food for thought and discussion.</p>
+<p>Periodically discharge accumulated irritation through jokes and humor.
+From time to time, arrange a delicious meal with your favorite food and
+drinks. Treat each other with pleasantries and remedies. Combine your
+ideas for practical use - not for finding the ultimate truth. Find
+answers to your questions in past experiences.</p>
+<p><strong>V.V. Gulenko, A.V. Molodtsev, “Introduction to socionics”</strong></p>
+<p>These are relations of unstable distance i.e. partners find it difficult
+to establish the right psychological distance. It can be achieved only
+when they are interacting alone. Appearance of third person has a
+devastating effect: competition and arguments being to surface
+(competition of verbal functions), which sometimes degenerates into
+caustic debates. Nobody wants to drop their credibility in the eyes of
+the third party, as debate will center around strong functions of each
+partner. Partners become impressed by the manner the other behaves in
+company, by his cordiality and warmth. This facilitates the transition
+to closer distances. When communicating in a group, psychological
+climate suddenly begins to change. Introvert partner gradually becomes
+alienated. Relations lose their warmth, become formal, wariness appears.
+Both secretly begin to regret previously moving towards more intimate
+and open relations. To the extraverted partner it seems like he has been
+misunderstood, that he has been treated with bias. This seem surprising,
+since previously communicating one-on-one and mutual understanding
+seemed to have been much better. Introvert partner starts to dampen
+activity of extravert partner: accusatory notes begin to appear in his
+speech, he speaks out strongly against the extrovert and criticizes him.
+Extrovert tries to respond in kind. These peculiar relations vaguely
+resemble alternation of semi-duality with supervision. The extraverted
+partner is probably in a more vulnerable position here. On the one hand,
+he feels “like behind the enemy lines”: starts to take up everything in
+his address, fears to make the wrong step and become exposed. On the
+other hand, he still sees that his partner is a good and decent person
+in general. Only having high level of personal, social, and cultural
+development can help extinguishment partners avoid mutual recrimination.</p>
+<p><strong>Ekaterina Filatova “Art of understanding yourself and others”</strong></p>
+<p>Here we have four identical functions of different orientation in the
+same channels. And, at the same time - not a single communication
+channel on identical functions. This implies that for these partners,
+there isn’t any significant sphere in which they would have same point
+of view.</p>
+<p>Where one pays attention to external processes via his extroverted
+function, the other focuses on the internal states via his introverted
+function, and vice versa. As a result, it becomes difficult for these
+partners to understand each other and agree, except if they deliberately
+set out to look at the same issue from opposite points of view - this is
+sometimes beneficial in creative research.</p>
+<p>So it happens that during a meeting, partners are attracted to each
+other by their “mystery.” Due to this, hasty unions and marriages often
+arise between people who are exact opposites. Not surprisingly, the life
+of the spouses in these families can be fairly strained and difficult
+and often veers on the brink of breakup or divorce.</p>
+<p><strong>Eugene Gorenko, Vladimir Tolstikov, “Nature of self”</strong></p>
+<p>Partners have all functions in common, except in opposite direction. It
+would seem that they should have a lot in common, but in practice it
+turns out that what one sees from the outside that which the other sees
+from the inside. This leads to misunderstandings. Partners don’t find
+each other very interesting; their dialogue is not too fascinating.
+Peaceful communication is possible if there is nobody else in presence,
+but as soon as someone else joins in, the attention of one partner
+(usually the extroverted one) switches on to the third person. We can
+say that relations of this type don’t have that special spice to them,
+but at the same time they are quite safe since the partners cannot cause
+considerable problems for each other.</p>
+<p><strong>Sergei Ganin</strong></p>
+<p><em>Heteroverted - Symmetrical - Rhythmical</em></p>
+<p>These are relations of an unstable psychological distance. Both partners
+experience difficulties in establishing and keeping a stable
+psychological distance. The only chance contrary partners have to get
+along well is if they are left alone. In other cases partners usually
+compete over their strong sides. The reason for this is when somebody
+else is present, each partner tries to capture the attention of the
+listener by showing off their strong side. Contrary partners may like
+some elements of the other partner’s behavior. This often helps the
+partners to begin a more close relationship. However, when they are in
+company, their interaction can change dramatically. The introvert
+partner usually becomes distant, relations lose warm feelings and become
+formal and cautious. Both partners may start regretting that they became
+too trustful.</p>
+<p>The extrovert partner normally gets the false impression that the
+introvert partner is deliberately acting against them. This can bring a
+great deal of misunderstanding and surprise into these relations, as
+both partners are convinced that before everything was fine. The
+introvert partner usually starts suppressing the activity of the
+extrovert partner and may reproach and criticize them. The extrovert
+partner in return can behave in the same way.</p>
+<p>The most vulnerable position in these relations belongs to the extrovert
+partner, who may feel as if they are being betrayed. As a result the
+extrovert partner could start to worry excessively about their next step
+so as not to make any mistakes and may therefore become very suspicious.
+Unfortunately the extrovert partner cannot see that their introvert
+partner is not as bad as they have begun to imagine.</p>
+</div>
+<div class="section" id="extinguishment-pairs">
+<h2>Extinguishment pairs<a class="headerlink" href="#extinguishment-pairs" title="Permalink to this headline">¶</a></h2>
+<ul class="simple">
+<li><p><a class="reference internal" href="ILE.html"><span class="doc">ILE</span></a> with <a class="reference internal" href="ILI.html"><span class="doc">ILI</span></a></p></li>
+<li><p><a class="reference internal" href="SEI.html"><span class="doc">SEI</span></a> with <a class="reference internal" href="SEE.html"><span class="doc">SEE</span></a></p></li>
+<li><p><a class="reference internal" href="ESE.html"><span class="doc">ESE</span></a> with <a class="reference internal" href="ESI.html"><span class="doc">ESI</span></a></p></li>
+<li><p><a class="reference internal" href="LII.html"><span class="doc">LII</span></a> with <a class="reference internal" href="LIE.html"><span class="doc">LIE</span></a></p></li>
+<li><p><a class="reference internal" href="EIE.html"><span class="doc">EIE</span></a> with <a class="reference internal" href="EII.html"><span class="doc">EII</span></a></p></li>
+<li><p><a class="reference internal" href="LSI.html"><span class="doc">LSI</span></a> with <a class="reference internal" href="LSE.html"><span class="doc">LSE</span></a></p></li>
+<li><p><a class="reference internal" href="SLE.html"><span class="doc">SLE</span></a> with <a class="reference internal" href="SLI.html"><span class="doc">SLI</span></a></p></li>
+<li><p><a class="reference internal" href="IEI.html"><span class="doc">IEI</span></a> with <a class="reference internal" href="IEE.html"><span class="doc">IEE</span></a></p></li>
+</ul>
+</div>
+<div class="section" id="theoretical-properties-of-extinguishment-relations">
+<h2>Theoretical properties of extinguishment relations<a class="headerlink" href="#theoretical-properties-of-extinguishment-relations" title="Permalink to this headline">¶</a></h2>
+<p>Extinguishment pairs are same on <a class="reference internal" href="jungian.html"><span class="doc">Jungian dichotomies</span></a> of Logic / Ethics, Intuition /
+Sensing, and Rational / Irrational. One partner is these relations is
+always an extravert, and another is an introvert.</p>
+<div class="section" id="model-a">
+<h3>Model A<a class="headerlink" href="#model-a" title="Permalink to this headline">¶</a></h3>
+<p>Functions 1, 2, 3, 4, 5, 6, 7, and 8 reflect on functions 7, 8, 5, 6, 3,
+4, 1 and 2.</p>
+<div class="table-wrapper"><table class="docutils align-default" id="id1">
+<caption><span class="caption-text">Functions of <a class="reference internal" href="model_a.html"><span class="doc">Model A</span></a></span><a class="headerlink" href="#id1" title="Permalink to this table">¶</a></caption>
+<colgroup>
+<col style="width: 50%"/>
+<col style="width: 50%"/>
+</colgroup>
+<thead>
+<tr class="row-odd"><th class="head"><p>Partner 1</p></th>
+<th class="head"><p>Partner 2</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="row-even"><td><p><a class="reference internal" href="functions.html#leading-func"><span class="std std-ref">base function</span></a></p></td>
+<td><p><a class="reference internal" href="functions.html#ignoring-func"><span class="std std-ref">ignoring function</span></a></p></td>
+</tr>
+<tr class="row-odd"><td><p><a class="reference internal" href="functions.html#creative-func"><span class="std std-ref">creative function</span></a></p></td>
+<td><p><a class="reference internal" href="functions.html#demonstrative-func"><span class="std std-ref">demonstrative function</span></a></p></td>
+</tr>
+<tr class="row-even"><td><p><a class="reference internal" href="functions.html#role-func"><span class="std std-ref">role function</span></a></p></td>
+<td><p><a class="reference internal" href="functions.html#suggestive-func"><span class="std std-ref">suggestive function</span></a></p></td>
+</tr>
+<tr class="row-odd"><td><p><a class="reference internal" href="functions.html#polr-func"><span class="std std-ref">vulnerable function</span></a></p></td>
+<td><p><a class="reference internal" href="functions.html#activating-func"><span class="std std-ref">mobilizing function</span></a></p></td>
+</tr>
+</tbody>
+</table></div>
+</div>
+<div class="section" id="reinin-traits">
+<h3>Reinin traits<a class="headerlink" href="#reinin-traits" title="Permalink to this headline">¶</a></h3>
+<p>As with all non-identical types, Extinguishing types have exactly 7
+<a class="reference internal" href="reinin_dich.html"><span class="doc">Reinin traits</span></a> in common, with the remaining 8 not in
+common.</p>
+<p><strong>In Common</strong>: <a class="reference internal" href="sensing_intuition.html"><span class="doc">sensing and intuition</span></a> · <a class="reference internal" href="ethics_logic.html"><span class="doc">ethics and logic</span></a> · <a class="reference internal" href="ration_irration.html"><span class="doc">rationality and irrationality</span></a> · <a class="reference internal" href="democratic_aristocratic.html"><span class="doc">democratic and aristocratic</span></a> · <a class="reference internal" href="tactical_strategic.html"><span class="doc">tactical and strategic</span></a> · <a class="reference internal" href="constructivist_emotivist.html"><span class="doc">constructivist and emotivist</span></a> · <a class="reference internal" href="process_result.html"><span class="doc">process and result</span></a></p>
+<p><strong>Not in Common</strong>: <a class="reference internal" href="extra_intro.html"><span class="doc">extraversion and introversion</span></a> · <a class="reference internal" href="carefree_farsighted.html"><span class="doc">carefree and farsighted</span></a> · <a class="reference internal" href="yielding_obstinate.html"><span class="doc">yielding and obstinate</span></a> · <a class="reference internal" href="statics_dynamics.html"><span class="doc">static and dynamic</span></a> · <a class="reference internal" href="positivist_negativist.html"><span class="doc">positivist and negativist</span></a> · <a class="reference internal" href="judicious_decisive.html"><span class="doc">judicious and decisive</span></a> · <a class="reference internal" href="merry_serious.html"><span class="doc">merry and serious</span></a> · <a class="reference internal" href="asking_declaring.html"><span class="doc">asking and declaring</span></a></p>
+</div>
+</div>
+<div class="section" id="external-links">
+<h2>External links<a class="headerlink" href="#external-links" title="Permalink to this headline">¶</a></h2>
+<ul class="simple">
+<li><p><a class="reference external" href="http://www.socionics.com/rel/cnt.htm">Contrary relations</a> by <a class="reference internal" href="ganin.html"><span class="doc">Sergei Ganin</span></a></p></li>
+</ul>
+</div>
+</div>
+
+      </article>
+      <footer>
+        
+        <div class="related-pages">
+          <a class="next-page" href="identity.html">
+              <div class="page-info">
+                <div class="context">
+                  <span>Next</span>
+                </div>
+                <div class="title">Identity</div>
+              </div>
+              <svg><use href="#svg-arrow-right"></use></svg>
+            </a>
+          <a class="prev-page" href="duality.html">
+              <svg><use href="#svg-arrow-right"></use></svg>
+              <div class="page-info">
+                <div class="context">
+                  <span>Previous</span>
+                </div>
+                
+                <div class="title">Duality</div>
+                
+              </div>
+            </a>
+        </div>
+
+        <div class="related-information">
+              Copyright &#169; 2021, Wikisocion Authors
+            |
+            Built with <a href="https://www.sphinx-doc.org/">Sphinx</a>
+              and
+              <a class="muted-link" href="https://pradyunsg.me">@pradyunsg</a>'s
+              <a href="https://github.com/pradyunsg/furo">Furo theme</a>.
+            |
+            <a class="muted-link" href="../_sources/content/extinguishment.rst.txt"
+               rel="nofollow">
+              Show Source
+            </a>
+        </div>
+        
+      </footer>
+    </div>
+    <aside class="toc-drawer">
+      
+      
+      <div class="toc-sticky toc-scroll">
+        <div class="toc-title-container">
+          <span class="toc-title">
+            Contents
+          </span>
+        </div>
+        <div class="toc-tree-container">
+          <div class="toc-tree">
+            <ul>
+<li><a class="reference internal" href="#">Relations of extinguishment</a><ul>
+<li><a class="reference internal" href="#introduction">Introduction</a></li>
+<li><a class="reference internal" href="#descriptions-by-various-authors">Descriptions by various authors</a></li>
+<li><a class="reference internal" href="#extinguishment-pairs">Extinguishment pairs</a></li>
+<li><a class="reference internal" href="#theoretical-properties-of-extinguishment-relations">Theoretical properties of extinguishment relations</a><ul>
+<li><a class="reference internal" href="#model-a">Model A</a></li>
+<li><a class="reference internal" href="#reinin-traits">Reinin traits</a></li>
+</ul>
+</li>
+<li><a class="reference internal" href="#external-links">External links</a></li>
+</ul>
+</li>
+</ul>
+
+          </div>
+        </div>
+      </div>
+      
+      
+    </aside>
+  </div>
+</div><script data-url_root="../" id="documentation_options" src="../_static/documentation_options.js"></script>
+    <script src="../_static/jquery.js"></script>
+    <script src="../_static/underscore.js"></script>
+    <script src="../_static/doctools.js"></script>
+    <script src="../_static/scripts/main.js"></script>
+    </body>
+</html>

@@ -1,0 +1,9 @@
+Introverted
+=====================
+
+In socionics the term **introverted** can refer to individuals (:doc:`socionic types <socionic_type>`), :doc:`IM elements <elements>`, or :doc:`information aspects <information_aspect>`. 
+
+Introverts, or introtims 
+---------------------------------
+
+Read more about :doc:`introtims <extra_intro>`, or individuals whose :ref:`leading function <leading-func>` is introverted.

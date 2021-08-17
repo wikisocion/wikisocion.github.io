@@ -1,0 +1,94 @@
+Intelligence
+===================
+
+Is socionic type related to intelligence? Or to different kinds of
+intelligence?
+
+
+
+Intelligence in psychology
+--------------------------
+
+**Intelligence** is a property of mind that encompasses many related
+abilities, such as the capacities to reason, plan, solve problems, think
+abstractly, comprehend ideas and language, and learn. Although
+intelligence is sometimes viewed quite broadly, psychologists typically
+regard the trait as distinct from creativity, personality, character,
+knowledge, or wisdom.
+`1 <http://en.wikipedia.org/wiki/Intelligence_(trait)>`__
+
+Intelligence in psychology may differ from popular definitions of the
+term. Here is a definition signed by 52 intelligence researchers in
+1994:
+
+   *a very general mental capability that, among other things, involves
+   the ability to reason, plan, solve problems, think abstractly,
+   comprehend complex ideas, learn quickly and learn from experience. It
+   is not merely book learning, a narrow academic skill, or test-taking
+   smarts. Rather, it reflects a broader and deeper capability for
+   comprehending our surroundings"catching on", "making sense" of
+   things, or "figuring out" what to do.*
+   `2 <http://www.lrainc.com/swtaboo/taboos/wsj_main.html>`__
+
+This description includes problem solving skills, rapid learning, and
+the ability to understand one's environment in addition to abstract
+thinking and comprehending complex ideas. In the popular awareness,
+intelligence is commonly associated with success in school, but we can
+see that psychologists' definition of the term is significantly wider.
+
+
+
+Intelligence and socionics
+--------------------------
+
+Sometimes socionic definitions of :doc:`intuition <sensing_intuition>` and
+:doc:`sensing <sensing_intuition>` (and to a lesser degree :doc:`logic <ethics_logic>` and
+:doc:`ethics <ethics_logic>`) can give the impression that intuiters are more
+intelligent than sensers, possessing greater abstract thinking
+capabilities (modeling, visualizing, and recognizing hidden meanings).
+However, a close study of the subject reveals that socionists usually
+mean something slightly different by "abstract" than do psychologists.
+In socionics, intuitive types are more interested in *intangible* things
+than sensing types, which prefer more to concentrate on *tangible*
+things that can be experienced and seen.
+
+In contrast, here is a standard definition of **abstract thinking**:
+
+   *Thinking characterized by the ability to use concepts and to make
+   and understand generalizations, such as of the properties or pattern
+   shared by a variety of specific items or events.*
+   `3 <http://medical-dictionary.thefreedictionary.com/abstract+thinking>`__
+
+In other words, abstract thinking describes the ability to generalize
+experience and information and express these generalizations using
+concepts. This trait can probably be exercised equally well by intuitive
+and sensing types, logical and ethical types. Intuitive types will tend
+to generalize :doc:`information <information_aspect>` of an intuitive
+nature, sensing types - of a sensing nature, logical types - of a
+logical nature, and ethical types - of an ethical nature. The socionic
+concept of :doc:`dimensionality <dimensionality>` is an attempt to explain
+these differences.
+
+Other interpretations of abstract thinking may lead to logical
+contradictions. For example, if abstract thinking is attributed to
+intuition, then, according to :doc:`intertype relations <intertype>`, the best match for a high-IQ
+intuiter would be a lower-IQ senser. Research of married couples,
+however, indicates that people are most :doc:`compatible <compatability>`
+with partners of a similar level of intelligence. Using the reasoning
+applied *de facto* by most socionists, the best match for a high-IQ
+("high generalizing") intuiter would actually be a high-IQ senser.
+
+A review of the `Benchmark Type
+List <http://www.socionics.us/celebrities/benchmark.shtml>`__ compiled
+by Russian speaking socionists in 2006 shows that socionists placed
+highly talented and intelligent individuals in all types. However, some
+types indeed seem more likely than others to become famous for
+contributions to theoretical science and philosophy. Also, Chris Langan,
+the man with possibly the highest IQ in the world, has been typed as a
+:doc:`LSI <LSI>` - a sensing type.
+`4 <http://socionist.blogspot.com/2007/02/iq-and-socionic-type-smartest-man-in.html>`__
+
+Certain socionists, however, maintain the view that only intuiters are
+prone to think about anything other than the immediate here and now. In
+particular, this view is held by :doc:`Meged and Ovcharov <meged_ovcharov>`, who report a much higher percentage of
+intuitive types in the population compared to sensers.

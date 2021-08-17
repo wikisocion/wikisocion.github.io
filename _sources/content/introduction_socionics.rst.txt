@@ -1,0 +1,53 @@
+Introduction to socionics
+==============================
+
+**Socionics**
+(`IPA <http://en.wikipedia.org/wiki/International_Phonetic_Alphabet>`:
+`/?so?si'niks/ <http://en.wikipedia.org/wiki/IPA_chart_for_English>`)
+is a theory of interpersonal interaction based on patterns of
+information selection and processing. Socionics has 16 :doc:`types <socionic_type>`
+and 16 kinds of :doc:`intertype relations <intertype>`.
+Furthermore, it divides information itself into :doc:`8 varieties <information_aspect>`.
+
+The primary source of inspiration for socionics was :doc:`Jung's Typology <jung_typology>`. Socionics developed in the 1970s and 80s
+in the former Soviet Union and was cut off from western psychology,
+including similar typological systems such as the :doc:`MBTI <MBTI>`. Today
+socionics is popular in the Russian speaking world and is beginning to
+make inroads into other cultural realms.
+
+For readers familiar with the MBTI, socionics will seem easy to grasp at
+first, but readers should be careful to note differences in theory and
+descriptions. Much knowledge from the MBTI cannot be carried over neatly
+into Socionics, because the definitions of fundamental concepts, and the
+behaviors predicted by the two theories, do not exactly match. Any
+correspondence between types is provisional at best.
+
+
+
+Recommendations for studying socionics
+--------------------------------------
+
+At the moment there are no courses on socionics taught outside the
+former Soviet Union, and only this summer have the first books in
+English been published. However, there is a lot of information on
+socionics available from different sources on the Internet. By combining
+personal study with some :doc:`forum interaction <links>`
+or meeting with other people who study socionics, you can learn it quite
+well without courses.
+
+Much of the theory of socionics is explained in terms of :doc:`Model A <model_a>` and :doc:`information elements <elements>`.
+However, to gain a full understanding of socionics - and especially :doc:`intertype relations <intertype>` - it is necessary to see it in practice. A good way to begin is by
+:doc:`determining <diagnosis>` your own type, as well as those of your
+family, friends, and even casual acquaintances. Human behavior is messy,
+so keep in mind that not everything may fit exactly. When in doubt,
+consider relationships before behavior; relationships, while perhaps the
+most abstract part of socionics, lie at its foundation. Use all
+available resources to your advantage; discussion with other socionics
+enthusiasts can be both educating and fun.
+
+
+
+Resources for beginners
+-----------------------
+
+For more introductory information, visit our page of :doc:`socionics resources <links>` or browse through our section on :doc:`classical socionics <classic_socionics>`.

@@ -1,0 +1,6 @@
+Forer effect
+========================
+
+The Forer effect (also called personal validation fallacy or the Barnum effect after P. T. Barnum) is the observation that individuals will give high accuracy ratings to descriptions of their personality that supposedly are tailored specifically for them, but are in fact vague and general enough to apply to a wide range of people. The Forer effect can provide a partial explanation for the widespread acceptance of some pseudosciences such as astrology and fortune telling, as well as many types of personality tests. 
+
+* `Example of a type description that applies the Forer effect <http://www.socionics.us/types/universal_type.shtml>`_

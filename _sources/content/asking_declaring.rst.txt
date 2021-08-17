@@ -1,0 +1,230 @@
+Asking and declaring
+===============================
+
+**Asking** / **Declaring**, sometimes called **Questim** / **Declatim**
+or **Interrogative** / **Declarative**, is one of the 15 `Reinin dichotomies <reinin_dich>`.
+
+
+Asking and declaring types
+--------------------------
+
+-  The asking :doc:`IM types <socionic_type>` are :doc:`LII <LII>`, :doc:`ILE <ILE>`,
+   :doc:`EIE <EIE>`, :doc:`IEI <IEI>`, :doc:`ESI <ESI>`, :doc:`SEE <SEE>`,
+   :doc:`LSE <LSE>`, :doc:`SLI <SLI>`.
+-  The declaring :doc:`IM types <socionic_type>` are :doc:`ESE <ESE>`,
+   :doc:`SEI <SEI>`, :doc:`LSI <LSI>`, :doc:`SLE <SLE>`, :doc:`LIE <LIE>`,
+   :doc:`ILI <ILI>`, :doc:`EII <EII>`, :doc:`IEE <IEE>`.
+
+
+Typical characteristics
+-----------------------
+
+Askers
+~~~~~~
+
+#. tendency to dialogue
+#. much of what an asker says seems more question-like, even statements
+#. always, as the other person talks, affirm the receipt of information
+   with yeah, mhm, etc.
+#. motive of communication is external
+#. can talk to an audience as a whole very well
+#. starts talking at times expecting someone to get interested and start
+   paying attention
+#. has a tendency to interrupt and feels comfortable pausing half way on
+   the speech and with "questions allowed all the time" way, returning
+   to what was said later if necessary
+#. quite often asks a non-rhetorical question and answers it himself
+#. often just asks questions to fill in time, without serious need to
+   actually find the information asked
+
+Declarers
+~~~~~~~~~
+
+#. tendency to monologue
+#. much of what a declarer says seems more statement-like, even
+   questions
+#. listens attentively and silently to others' speeches to return to a
+   long speech
+#. motive of communication is internal
+#. finds it easier to talk to one person at a time
+#. before starting to talk, first ascertains that attention is grabbed
+#. is very patient in terms of others speeches in terms of letting
+   finish
+#. prefers to finish the speech before letting others talk, likes
+   closure and that their point was conveyed
+#. questions are often either rhetorical or only strictly motivated by
+   serious need for certain information
+
+Extended characteristics
+------------------------
+
+Taken from :doc:`2003 study of Reinin traits <reinin_study>`.
+
+Askers
+~~~~~~
+
+-  Asking types have a tendency to use interrogative intonations. Their
+   statements sound far less categorical than those of declarers.
+-  Asking types are inclined to answer a question with a question. Quite
+   often they begin their story with phrases like "What should I tell
+   you about?...". They often asks question that serve no purpose and
+   require no answer ("Will you be there? - Who? I? I'll be there!") and
+   repeat questions they've been asked even though they heard and fully
+   understood them ("Will you be there? - Will I be there? Well...").
+   Often they use questions as means to keep the conversation going (For
+   instance they may ask questions just to buy time to think of the
+   answers)
+-  Askers, to a large degree, conduct communication in a form of a
+   question and an answer. Always conducting dialogues with who ever
+   they are talking to ("I would like to hear your response", "Ask me,
+   I'll answer") or in imaginary conversations (internal "dialogue").
+   Even if the story of the asker was planned as a monologue, as a rule
+   it decomposes into fragments (question - answer) inevitably turning
+   into a dialogue.
+-  The asker quickly and at once reacts to a question set in the path of
+   it's monologue (Independent of importance and
+   rationality/irrationality of the question asked) ? answers the
+   question then continues where they left off. As they are naturally
+   prone to a dialogue style of communication over a "meek"(Unrequited)
+   monologue mode, they prefer when they are asked questions when in
+   monologue mode. Also because of that it takes great effort to stay on
+   course and resist the temptation to stray of course by interrupting
+   the interlocutor with questions that could possibly take them of
+   course.
+
+Declarers
+~~~~~~~~~
+
+-  When Declaring types speak they're inclined to use affirmative
+   intonations and because of that they are often perceived as confident
+   or as categorical. Even their questions are often relayed in an
+   affirmative tone.
+-  Declaring types are inclined to ask questions to receive/get answers
+   to them. Unlike askers, they rarely answer a question with a question
+   or ask questions that are conversational surplus or ask questions as
+   a way to keep the conversation going.
+-  Declarers are inclined to communicate in forms of monologues, where
+   each party has "it's turn". Because of that they subconsciously
+   attempt to transform a dialogue into a monologue (Either their own or
+   that of their interlocutor by just listening without interrupting)
+   and as a result of that the conversation ends up sounding like a
+   sequence of two alternating monologues.
+-  Declarers can lose their train of thought when they are interrupted
+   with questions during their monologues and because of that they
+   usually wait and respond to such questions later. When asked a
+   question "on topic" they will usually asks the person who asked the
+   question to be patient as they are getting to that or to wait till
+   they are finished and will try to incorporate their answer into their
+   monologue. They relate with greater understanding to the desire to
+   not to be interrupted while they are speaking and because of that
+   they avoid asking questions while their interlocutor is speaking even
+   if they are "on topic" and prefer to ask questions and voice
+   reciprocal arguments after their interlocutor has finished speaking.
+
+**Analogy**
+
+The asker and declarer difference can be explained by a parallel of
+conducting narration in two different literary genres. For the declarer
+it's a finished narration, the full story, you can see the beginning,
+the culmination and the outcome, while the askers have more of a play
+like mentality with constant exchanges between characters.
+
+**Hypotheses**
+
+#. The orientation of the primary function strengthens the manifestation
+   of each of the attribute: extraversion emphasizes the declaring
+   attribute while introversion emphasizes the asking attribute.
+#. Nonverbal communication is more clearly expressed in the asker then
+   in the declarer (eye contact, gestures).
+#. In written speech declarers are more inclined to replace questions
+   with a narrative on the question's essence, while askers are more
+   inclined to replace narration with questions or exclamations (as if
+   demanding an answer, provoking the reader to a response).
+
+**Examples**
+
+*Askers:* "Is there more then one way? Yes" (The person has fully
+repeated the question they were asked) "Where to begin? Well, what would
+you like to know? Yesterday I went..." (The response to a question "what
+did you do yesterday" is with a series of questions practically removing
+the significance of giving an answer)
+
+*Declarers:* "When people list their interests I don't understand
+whether it is with the intention to pursue the interests or what?" (The
+question sounds like a statement) Declarer: Will you be there? Asker:
+Who? I? Very well.
+
+Additional Commentary and Notes
+-------------------------------
+
+See also: `Sociotypograph  determine your sociotype by Renin dichotomies <http://zhilkin.com/socio/en/>`_.
+
+**Important note** Simple requests for information (i.e. asking
+questions) should not be mistaken for socionics "Asking" Renin trait.
+The name of this dichotomy should not be interpreted literally and
+mistaken for questioning done for the purposes of learning,
+clarifications, and gathering of additional information.
+
+In particular, when people are studying socionics, they tend to bring up
+many questions about any topics that are unclear to them. Posing such
+questions for purposes of learning or clarification *does not* make them
+"Asking" types. Declaring types will readily ask questions to obtain
+information that they need, as this is a normal extent of lexical
+operations and human behavior. Conversely, once a person is confident in
+what they know, they will relay it in a more assertive and factual
+manner; such solid grasp on material does not make them a "Declaring"
+type.
+
+Some citations illustrating how asking question *is not same* as Reinin
+"Asking" trait on the example of type EII ("Declaring" type):
+
+-  "But EII is one of the types who will ask a hundred questions before he goes and carries out what is needed of him." (:doc:`EII-LIE semi-duality <semi_dual_INFj_ENTj_vera>`)
+-  "I like that they don't ask too many questions about everything, unlike our duals EIIs." (:doc:`ESI-LSE semi-duality <semi_dual_observations>`)
+
+Since the Asking / Declaring dichotomy is very easily misinterpreted,
+**it is inadvisable to use it in typing**.
+
+
+Theoretical properties of asking and declaring types
+----------------------------------------------------
+
+-  Asking types are either judicious and logical, or decisive and
+   ethical.
+-  Declaring types are either decisive and logical, or judicious and
+   ethical.
+
+.. list-table:: Type :doc:`dichotomies <dich>`
+   :header-rows: 0
+   :align: center
+
+   * - |jp|
+     - |EI|
+     - |NS|
+   * - |TF|
+     - |SD|
+     - |PR|
+   * - |PN|
+     - |AD|
+     - |CE|
+   * - |CF|
+     - |YO|
+     - |TS|
+   * - |MS|
+     - |JD|
+     - |AD|
+
+.. |EI| replace:: :doc:`Extraversion and introversion <extra_intro>`
+.. |DA| replace:: :doc:`Democratic and aristocratic <democratic_aristocratic>`
+.. |TS| replace:: :doc:`Tactical and strategic <tactical_strategic>`
+.. |CE| replace:: :doc:`Constructivist and emotivist <constructivist_emotivist>`
+.. |PN| replace:: :doc:`Positivist and negativist <positivist_negativist>`
+.. |JD| replace:: :doc:`Judicious and decisive <judicious_decisive>`
+.. |MS| replace:: :doc:`Merry and serious <merry_serious>`
+.. |NS| replace:: :doc:`Sensing and intuition <sensing_intuition>`
+.. |TF| replace:: :doc:`Ethics and logic <ethics_logic>`
+.. |jp| replace:: :doc:`Rationality and irrationality <ration_irration>`
+.. |CF| replace:: :doc:`Carefree and farsighted <carefree_farsighted>`
+.. |YO| replace:: :doc:`Yielding and obstinate <yielding_obstinate>`
+.. |SD| replace:: :doc:`Static and dynamic <statics_dynamics>`
+.. |PR| replace:: :doc:`Process and result <process_result>`
+.. |AD| replace:: :doc:`Asking and declaring <asking_declaring>`

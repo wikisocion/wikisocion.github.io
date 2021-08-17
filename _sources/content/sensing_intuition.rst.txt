@@ -1,0 +1,137 @@
+Sensing and intuition
+===========================
+
+**Sensing** / **Intuition** is one of the 4 jungian dichotomies, and one
+of the 15 :doc:`Reinin dichotomies <reinin_dich>`. **Sensing** in
+socionics is a perceptual quality defined by a focus on the tangible,
+directly sensible, and visible content of reality. In contrast,
+**intuition** means a focus on intangible, indirectly perceivable, and
+hidden content of reality.
+
+Sensing and intuitive types
+---------------------------
+
+Sensing :doc:`IM types <socionic_type>` are: :doc:`SEI <SEI>`, :doc:`ESE <ESE>`,
+:doc:`LSI <LSI>`, :doc:`SLE <SLE>`, :doc:`SEE <SEE>`, :doc:`ESI <ESI>`,
+:doc:`LSE <LSE>` and :doc:`SLI <SLI>`.
+
+Intuitive :doc:`IM types <socionic_type>` are: :doc:`ILE <ILE>`, :doc:`LII <LII>`,
+:doc:`EIE <EIE>`, :doc:`IEI <IEI>`, :doc:`ILI <ILI>`, :doc:`LIE <LIE>`,
+:doc:`EII <EII>` and :doc:`IEE <IEE>`.
+
+Using :doc:`four-letter code <type_names>`: Sensing types have an
+*S*, intuitive types an *N* as second letter.
+
+.. _theoretical_properties:
+
+Theoretical properties
+----------------------
+
+In socionics, two :doc:`IM elements <elements>` are sensing
+(|symbol_f.gif| and |symbol_s.gif|), and two are intuitive
+(|symbol_i.gif| and |symbol_t.gif|).
+
+:doc:`IM types <socionic_type>` which contain sensing elements either on
+:doc:`functions <functions>` 1 and 7, or :doc:`functions <functions>` 2 and 8,
+are called **sensing types**. Those which contain intuitive elements one
+of those :doc:`function <functions>` pairs are called **intuitive types**.
+
+Description of the functions
+----------------------------
+
+Sensing
+~~~~~~~
+
+**Sensing** is a mental process (or 'psychic function') that involves
+focusing on concrete, tangible details that can be directly experienced.
+Sensing comes in two varieties (:doc:`extraverted <extroverted>` and
+:doc:`introverted <introverted>`) depending on whether attention is focused
+on reality outside the subject or on the subject's impressions of
+reality.
+
+Half of the :doc:`socion <socion>` consists of **sensing** types. These
+types have either :doc:`introverted <Si>` or
+:doc:`extraverted <Se>` sensing in their :ref:`Ego block <ego-block>` (the first two :doc:`functions <functions>`).
+
+Intuition
+~~~~~~~~~
+
+**Intuition** is a mental process (or 'psychic function') that involves
+distancing perception from concrete, tangible details. Intuition comes
+in two varieties (:doc:`extraverted <extroverted>` and
+:doc:`introverted <introverted>`) depending on whether attention is focused
+on reality outside the subject or on the subject's impressions of
+reality.
+
+Half of the :doc:`socion <socion>` consists of **intuitive** types. These
+types have either :doc:`introverted <Ni>`
+(|symbol_t.gif|) or :doc:`extraverted <Ne>`
+(|symbol_i.gif|) intuition in their :ref:`Ego block <ego-block>` (the first two
+:doc:`functions <functions>`).
+
+Typical characteristics of the types
+------------------------------------
+
+Sensing types
+~~~~~~~~~~~~~
+
+#. More realistic and down-to-earth.
+#. Rather notice details than the big picture.
+#. More focused on their surroundings, living in the here and now.
+#. More naturally comfortable with physical confrontations.
+#. Often more interested in practice than in theory.
+
+Intuitive types
+~~~~~~~~~~~~~~~
+
+#. More idealistic and head-in-clouds.
+#. Rather see the big picture than the details.
+#. More focused on ideas than on surroundings.
+#. Less naturally comfortable with physical confrontations.
+#. Often more interested in theory than in practice.
+
+Additional Links
+----------------
+
+-  :doc:`On the Correct Understanding of Dichotomy Intuition-Sensing by Trehov and Tsypin <understand_n_s>`
+
+.. list-table:: Type :doc:`dichotomies <dich>`
+    :header-rows: 0
+    :align: center
+
+    * - |jp|
+      - |EI|
+      - |NS|
+    * - |TF|
+      - |SD|
+      - |PR|
+    * - |PN|
+      - |AD|
+      - |CE|
+    * - |CF|
+      - |YO|
+      - |TS|
+    * - |MS|
+      - |JD|
+      - |AD|
+
+.. |EI| replace:: :doc:`Extraversion and introversion <extra_intro>`
+.. |DA| replace:: :doc:`Democratic and aristocratic <democratic_aristocratic>`
+.. |TS| replace:: :doc:`Tactical and strategic <tactical_strategic>`
+.. |CE| replace:: :doc:`Constructivist and emotivist <constructivist_emotivist>`
+.. |PN| replace:: :doc:`Positivist and negativist <positivist_negativist>`
+.. |JD| replace:: :doc:`Judicious and decisive <judicious_decisive>`
+.. |MS| replace:: :doc:`Merry and serious <merry_serious>`
+.. |NS| replace:: :doc:`Sensing and intuition <sensing_intuition>`
+.. |TF| replace:: :doc:`Ethics and logic <ethics_logic>`
+.. |jp| replace:: :doc:`Rationality and irrationality <ration_irration>`
+.. |CF| replace:: :doc:`Carefree and farsighted <carefree_farsighted>`
+.. |YO| replace:: :doc:`Yielding and obstinate <yielding_obstinate>`
+.. |SD| replace:: :doc:`Static and dynamic <statics_dynamics>`
+.. |PR| replace:: :doc:`Process and result <process_result>`
+.. |AD| replace:: :doc:`Asking and declaring <asking_declaring>`
+
+.. |symbol_f.gif| image:: Symbol_f.gif
+.. |symbol_s.gif| image:: Symbol_s.gif
+.. |symbol_i.gif| image:: Symbol_i.gif
+.. |symbol_t.gif| image:: Symbol_t.gif

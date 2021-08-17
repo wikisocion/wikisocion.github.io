@@ -1,0 +1,443 @@
+Democratic and aristocratic
+=====================================
+
+**Aristocracy** / **Democracy** is one of the 15 `Reinin dichotomies <reinin_dich>`.
+
+Aristocratic and democratic types
+---------------------------------
+
+-  Democratic types are all :doc:`Alpha <alpha_quadra>` and :doc:`Gamma <gamma_quadra>`
+   types, namely, :doc:`LII <LII>`, :doc:`ESE <ESE>`, :doc:`SEI <SEI>`,
+   :doc:`ILE <ILE>`, :doc:`ESI <ESI>`, :doc:`LIE <LIE>`, :doc:`ILI <ILI>`,
+   :doc:`SEE <SEE>`.
+-  Aristocratic types are all :doc:`Beta <beta_quadra>` and :doc:`Delta <delta_quadra>`
+   types, namely, :doc:`LSI <LSI>`, :doc:`EIE <EIE>`, :doc:`IEI <IEI>`,
+   :doc:`SLE <SLE>`, :doc:`EII <EII>`, :doc:`LSE <LSE>`, :doc:`SLI <SLI>`,
+   :doc:`IEE <IEE>`.
+-  Using the :doc:`four-letter code <type_names>`: democrats are NT
+   or SF, aristocrats are NF or ST.
+
+
+
+
+Typical characteristics
+-----------------------
+
+Aristocrats
+~~~~~~~~~~~
+
+#. Inclined to perceive and refer to other people, and themselves, by
+   means of groupings and categories that they see these people
+   belonging to; these groupings may be created and defined by the
+   Aristocrats themselves, rather than be already existing and socially
+   defined ones.
+#. Their initial attitude towards another person is influenced by their
+   attitude towards the grouping they see this person belonging to.
+#. Tend to attribute common qualities to members of same groupings, and
+   define such groupings by these same qualities.
+#. Inclined to refer to others using expressions that mention
+   generalized features of their groupings.
+
+Democrats
+~~~~~~~~~
+
+#. Perceive and refer to other people, and themselves, primarily
+   describing individual, personal qualities: frank, trustworthy,
+   generous, unimaginative, lighthearted, good-looking, etc. which are
+   generally not in connection to any grouping to which they might
+   belong.
+#. Form their relationships and attitudes toward other persons based on
+   their own individual characteristics, rather than taking into account
+   which grouping these persons fall into or their own relationships
+   with the members of these circles and groupings.
+#. Not inclined to perceive people as representatives of a certain
+   grouping that supposedly possesses qualities inherent to people who
+   comprise it.
+#. When referring to others, not inclined to use expressions that
+   mention the generalized features of the grouping or categories that
+   these people belong to.
+
+
+Extended characteristics
+------------------------
+
+Taken from :doc:`2003 study of Reinin traits <reinin_study>`.
+
+Democrats
+~~~~~~~~~
+
+-  Democrat perceives and distinguishes himself primarily through
+   personal qualities. Perceiving other people, their personal qualities
+   are likewise primary for him (how close, interesting, pleasant or
+   unpleasant this individual is to him personally; their intelligence,
+   ideas, appearance, tastes, etc.). Because of this, individualism is
+   inherent to the democrat: "I am I".
+-  Democrat forms his attitude toward a specific person based on their
+   personal characteristics (authority, intellect, personal
+   achievements, etc.). The democrat recognizes superiority of certain
+   individuals drawing from their personal qualities. The relation of
+   the democrat to another person will not be based on their belonging
+   to one group or another, as well as on their relations to the
+   representatives of these groups.
+-  Democratic types are not inclined to perceive people with whom they
+   associate as representatives of a certain "circle of contacts", which
+   possesses special characteristics, inherent precisely to the members
+   of this circle.
+-  Democrat is not inclined to use expressions that generalize "group
+   features" of certain individuals (for example, "a typical
+   representative").
+
+Aristocrats
+~~~~~~~~~~~
+
+-  The aristocrat frequently perceives and defines himself an other
+   people through group associations (division into groups can occur
+   based on almost any criteria: professional or theoretical, by age or
+   nationality, by place of residence or which floor the persons live
+   on, etc.), for example: "I'm a representative of..." "This person is
+   from such and such...". Collectivism is more inherent to the
+   aristocrat.
+-  Their attitude toward another person forms under the influence of
+   their attitude towards the group to which the person belongs. To the
+   aristocrat, it is incomprehensible how it is possible to belong to
+   two opposing groups at the same time: "You are either with us, or
+   with them and against us".
+-  Aristocrat distinguished his "circle of contacts" by certain traits,
+   realizes its certain "specialty".
+-  In speech aristocrat frequently use expressions like "group",
+   "typical representative of", "our", "all of them are like that", etc.
+
+**Notes**
+
+#. Briefly, the essence of each of these attributes can be expressed as
+   follows: primacy of collective "we" (Aristocrats) or of individual
+   "I" (Democrats) and the corresponding values.
+#. It is possible to say that the aristocrat is to a larger degree a
+   social being, an the democratindividualistic. Therefore, the dispute
+   of what is more importantsociety or the individualcannot be
+   resolved.
+#. From the point of view of social psychology, in perception of a new
+   person the aristocrat strongly involves the mechanism of social
+   recognition: casual attribution (the degree depends on uniqueness and
+   social conditionality of behavior) and "halo/aura" effect (which
+   manifests when the individual has little information about a new
+   person). Both of them are a part of the process of stereotyping
+   (perception/recognition through a stereotype) [1, with. 128].
+
+**Hypotheses**
+
+*Aristocrats:* Ethical intuitive types create new groups ("inhabitants
+of suburbs", "typical representative of a new generation of
+goalkeepers")adding up or summing up certain cumulative features which
+are inherent in the majority. Logical sensing types use these groupings
+that have been created by ethical intuitives, switching to their strong
+logical function and building a system of personal relations on its
+basis.
+
+*Democrats:* In perception of a democrat, a group is created from
+individuals drawn together on basis of a common interest, project, idea
+(for logical intuitive types) or on basis of mutual sentiments and
+sympathies (for ethical sensing types). Additionally, a group in
+perception of democratic types is not the basis for creating a social
+hierarchy.
+
+**Influence of this attribute on determination of the type of
+personality**
+
+#. Hierarchy and status are frequently described as inherent to
+   structural logic (Ti). According to our observations this is entirely
+   false. White logic (Ti) types of the first quadra will adhere to
+   formal requirements, but will not begin to reconstruct all of their
+   behavior in accordance to a new status. In this manner will act the
+   aristocrats of the second quadra, most obviously the sensing logical
+   types. Some confusion can arise due to this. If we were to observe,
+   we would see that other aristocratic types are no less inclined to
+   such "status games", for example "I demand that they relate to me as
+   the director" (EIE), "I cannot associate with those of a higher
+   position than me" (IEE).
+#. Division of people into "mine" and "not mine" is frequently
+   attributed to aristocracy. In actuality, this division holds true for
+   any types that values white ethics (Fi), including the democratic
+   types (SEE, and in particular ESI). If we expand this concept, then
+   "my" is any person with whom close relations have been formed, there
+   is a familiar connection or sincere attachment. For the IEE an EII
+   sincere attachment and belonging to a group become combined: "mine"
+   and "not mine" for them are members of "their group" or "foreign
+   group".
+#. Switching from "you" to "formal you" [Russian language and a few
+   other languages have formal and informal forms of reference] is not
+   always significant from the point of view of manifestation of this
+   attribute. According to the standards of etiquette and rules of
+   behavior, it is accepted to address older people and those in senior
+   position with formal form of "you" (with respect), and different
+   informal situations, regardless of the rules, require switch to
+   informal "you". For instance if a child's mother is the teacher in
+   his class, then the child will refer to her with formal "you" in
+   class. It is possible to give more example of this. The important
+   thing is not how they are addressed, but the reason for doing so.
+
+**Examples**
+
+*Democrats:* "I'm not interested in social affiliations of a person or
+other social 'marks' they may have" "I don't even have thoughts of
+establishing someone's affiliations to any groups. A person is a unit"
+"It is important what the individual represents" "When I interact with
+somebody I don't really care whether they are a man or a woman" "It is
+difficult for me to determine what constitutes belonging to a group, I
+cannot isolate that something that differentiates from others" "I am a
+representative only of my own ideas" "I notice groups, but it's just a
+game (they are not real, the groups are pretended)".
+
+*Aristocrats:* "I perceive people based on their group affiliations,
+place everyone "on a shelf" ("a good mother", "a charming person",
+etc.)" "If it is possible to determine in which grouping the person
+belongs, then this is reassuring. It is easier to receive information
+from someone knowing which group they are a part of" "I separate people
+based on their professional capabilities. First: to what social and
+economic stratus the person belongs to. Second: is he a professional or
+not, the way he conducts himself, his individual qualities" "I am
+referring to you as to a typical representative of translators" "At my
+workplace they hired a new secretary recently, and she works poorly, and
+in general is not that kind of a person. May be because she is from the
+suburbs... please don't misunderstand me, I'm not an aristocrat! I'm
+not!" "For me this religion means nothing, but for the ordinary people
+it is necessary" "You are my friend, but my friends don't steal toilet
+paper from McDonalds!"
+
+**Investigation of Quadra Attributes:** The concept of a "quadra spirit"
+or "quara values" can be expressed through the filling of three quadra
+attributes. Thus, for example, a song from 1930: "We shall sing and
+laugh alike children, in persistent struggle and labor"was composed by
+a person belonging to the second quadra, not because of the "quadra
+spirit", but because two attributes are embedded within itsubjectivism
+and decisivenessthe combination of which exists only in the second
+quadra.
+
+Additional Commentary and Notes
+-------------------------------
+
+See also: `Sociotypograph  determine your sociotype by Renin dichotomies <http://zhilkin.com/socio/en/>`_.
+
+It has been noted that there exists a considerable overlap in traits
+assigned to Aristocratic/Democratic dichotomy in socionics and to
+instincts and instinctual combinations in the enneagram model, leading
+to frequent confusions of their properties. The descriptions of the
+valued Social instinct, in particular, outline a similar set of traits
+to the ones attributed to Aristocratic types in Reinin dichotomies. Here
+is a sample description of valued Social instinct from `Enneagram Institute <http://www.enneagraminstitute.com/articles/nartinstvar.asp>`_:
+
+"**Social**: *This subtype is focused on their interactions with other
+people and with the sense of value or esteem they derive from their
+participation in collective activities. These include work, family,
+hobbies, clubsbasically any arena in which Social types can interact
+with others for some shared purpose. ... Within that social instinct,
+however, are many other implicit imperatives, and primary among them is
+the understanding of "place" within a hierarchical social structure.*"
+
+That is, valued Social instinct is associated with greater awareness of
+social and cultural spheres of life, social norms and conventions,
+social standing and hierarchies, and the inclination to participate in
+the collective activities. All of this may be mistakenly interpreted as
+socionics "Aristocratic" trait (especially for stackings that have
+secondary Social instinct, for whom the social sphere is often an area
+of creative exploration). Conversely, social-last stackings sp/sx and
+sx/sp possess a lowered awareness of the social and cultural spheres,
+decreased interest in group activities and collective themes, and
+exhibit greater social insularity and even disregard or rejection of
+social norms and conventions, which is easily confused with socionics
+"Democratic" traits.
+
+Since the differences between the socionics Aristocratic/Democratic
+trait and properties of the enneagram social instinct have never been
+clearly explained, **it is inadvisable to rely on this dichotomy in
+typing.**
+
+Examples
+--------
+
+Expressions that possibly demonstrate "Aristocratic" traits, such as
+propensity to view people as having certain positions within a group,
+generalization of qualities of one individual onto a broader contingent,
+and explicit regulation of relations:
+
+-  EII: "It's always important to have a sense of humility and to know
+   your place (mine just happens to be at the top). Remember to support
+   those below you - if your inferiors falter, there will be no pyramid
+   for you to stand at the top of." - hierarchical attribution ("your
+   place").
+
+-  EII: "you don't know shit and you need to learn your place" -
+   hierarchical attribution ("your place").
+
+-  EII: "You could have at least done a service for yourself and others
+   by admitting that you are at fault, which you didn't have the decency
+   to do while you were discussing this with me." - explicit/public
+   regulation of relations.
+
+-  SLE-IEI conversation: SLE - "You have no idea what went on, you're
+   assuming shit. She started ignoring me because I was being "mean".
+   Like I said, I was out of my element with this girl, duals are
+   jealous around each other. She felt the same way. Please, know your
+   place woman." IEI in response - '"Know *your* place. If you're not
+   seeing each other exclusively you have no right to treat her as your
+   exclusive property and think you somehow have a "right" to determine
+   who she can/can't hang out with and "punish" her accordingly, duality
+   or not. And even then it's questionable. Grow up, grow balls, etc."
+
+Stratievskaya on "Aristocratic" quadra and relations (excepts from
+various blog entries):
+
+From `IEE-ILI mirage relations <http://www.the16types.info/vbulletin/showthread.php/43943-Article-Mirage-Relations-INTp-and-ENFp-by-Stratiyevskaya>`_:
+
+-  "For example, one may leave for a vacation and ask the IEE to
+   complete some task or activity, and upon return find it ruined in all
+   respects, with no further possibility to restore it or straighten
+   things out. There was agreement  then there was no agreement, and
+   why is this?  there won't be any answer. At best IEE will reply: "I
+   did not hire myself out to work for you!" (aristocracy)."
+
+-  "Furthermore, here we have interaction between a "democratic" type
+   and an "aristocratic" type: IEE dislikes being a servant to and doing
+   errands for the ILI. The mere hint of such a possibility is annoying
+   to the IEE. Therefore, under any circumstances he tries not to give
+   in to any hints, suggestions, requests, or even demands of ILI. He
+   attempts to stay on the dominant position under any circumstances,
+   from the heights of which IEE dispenses the necessary assistance at
+   the right time in the form of valuable advice, as a knowledgeable
+   person and as a seasoned professional."
+
+From `EII-LIE semi-duality relations <http://www.the16types.info/vbulletin/showthread.php/43189-Article-Semi-duality-Relations-INFj-and-ENTj-by-Stratiyevskaya>`_:
+
+-  "LIE will have difficulty understanding and dealing with the "petty"
+   (aristocratic, ceremonious) ethics of relations of EII, since LIE is
+   subconsciously oriented at democratic ethic of relations of his dual
+   ESI, whose ethical function is directed at providing immediate and
+   effective assistance in critical situations and not at "ceremonious"
+   regulation of relationships. Therefore, the callowness and
+   negligibility of EII's grievances and offenses will soon start to
+   annoy the LIE: "How can he (EII) become so offended over such minor
+   things!"
+
+-  "This is something that I (EII) did not like in him (LIE) - his
+   attitude towards women. He did not indulge them, did not tell them
+   beautiful compliments - he did not idolize his women. No - he was a
+   kind and attentive man. I never heard a bad word from him, but
+   neither did he voice any compliments - such a person he was. He has
+   never told me that he loved me, or even that he missed me ...
+   (Aristocratic, subordinate to rituals ethics of relations of EII is
+   not consistent with the democratic, free from accumulations of ritual
+   relations ethics of 3rd quadra. Each quadra has its own code of
+   ethics.)"
+
+Theoretical properties of aristocratic and democratic types
+-----------------------------------------------------------
+
+-  Aristocrats have the **logical** and **sensing** :doc:`IM elements <elements>` in the same blocks of :doc:`Model A <model_a>`.
+
+Here is a possible interpretation of this:
+
+*Material assets are systematized and automated. Systems and production
+have a material expression. Ideas exist for people and societal
+relationships. People and relationships are valued for their personality
+and potential.*
+
+-  Democrats have the **ethical** and '''sensing ''' :doc:`IM elements <elements>` in the same blocks of :doc:`Model A <model_a>`.
+
+Here is a possible interpretation of this:
+
+*Material assets exist for people and societal relationships. Systems
+and production are intangible or out of sight. Ideas and vision exist
+for technology and systems. People and relationships are valued for
+their effect and their comfort.*
+
+When analyzing this dichotomy from the perspective of :doc:`model A <model_a>`, :doc:`Augusta <augusta>` listed all the blocks in this
+dichotomy (so |symbol_l.gif| with |symbol_f.gif|, |symbol_e.gif| with
+|symbol_t.gif| etc for Aristocracy and |symbol_f.gif| with
+|symbol_r.gif|, |symbol_p.gif| with |symbol_t.gif| etc for Democracy),
+attributing specific traits to each block which she extended to
+characteristics of each dichotomy as whole. They are not all obviously
+connected to a focus or lack thereof on groups as per the most common
+definition of this dichotomy and as listed in the "typical
+characteristics" section below.
+
+A possible explanation for this trait regarding group thinking goes as
+follows. Aristocratic reasoning merely structures
+logically(|symbol_l.gif|) characteristics they have observed
+(|symbol_f.gif|) in several individuals, being thus a logical
+"connecting of the dots" applied to people. From a purely logical
+|symbol_l.gif| perspective applied to |symbol_f.gif| perceptions and
+goals, it makes perfect sense to assume that, if you perceive an
+individual as belonging to a group posssessing some traits you have
+already concluded are characteristic of that group, said individual will
+exhibit those traits. For example, if in your experience so far
+(|symbol_f.gif|) all persons belonging to a particular division in a
+company have been unhelpful, it makes sense to conclude logically
+(|symbol_l.gif|) in a purely impersonal way that that is a
+characteristic of that division, and extrapolate that to further persons
+from that group. From the point of view of primitive societies or
+situations of non-organized warfare and conflict, such a reasoning may
+even be crucial for survival since it allows you to estimate who your
+enemies are before they attack you.
+
+By contrast, the Democratic reasoning focuses on observations
+|symbol_f.gif| on a case-by-case basis, that is of the individual they
+happen to be interacting with at the moment (|symbol_r.gif|). A focus on
+|symbol_r.gif| does not lead to creating logical structures, but to
+forming stable connections to persons on individual-to-indvidual basis,
+and in that case there is no point to, and no inclination for,
+considerations of whether the observed reality |symbol_f.gif| of the
+person fits into a broader logical structure of a group
+(|symbol_l.gif|).
+
+This explanation seems more obvious in connection to the :doc:`Beta <beta_quadra>`
+quadra; far less so in the case of :doc:`Delta <delta_quadra>` since the
+|symbol_f.gif| + |symbol_l.gif| block is subdued. Another way of
+explaining this for :doc:`Delta <delta_quadra>` might be through the
+|symbol_i.gif| + |symbol_r.gif| block; on the basis that the realization
+of someone's potential (|symbol_i.gif|) is realized via connections with
+others (|symbol_r.gif|), and that one of Delta's characteristics is the
+formation of groups towards worthy and productive goals.
+
+.. list-table:: Type :doc:`dichotomies <dich>`
+    :header-rows: 0
+    :align: center
+
+    * - |jp|
+      - |EI|
+      - |NS|
+    * - |TF|
+      - |SD|
+      - |PR|
+    * - |PN|
+      - |AD|
+      - |CE|
+    * - |CF|
+      - |YO|
+      - |TS|
+    * - |MS|
+      - |JD|
+      - |AD|
+
+.. |EI| replace:: :doc:`Extraversion and introversion <extra_intro>`
+.. |DA| replace:: :doc:`Democratic and aristocratic <democratic_aristocratic>`
+.. |TS| replace:: :doc:`Tactical and strategic <tactical_strategic>`
+.. |CE| replace:: :doc:`Constructivist and emotivist <constructivist_emotivist>`
+.. |PN| replace:: :doc:`Positivist and negativist <positivist_negativist>`
+.. |JD| replace:: :doc:`Judicious and decisive <judicious_decisive>`
+.. |MS| replace:: :doc:`Merry and serious <merry_serious>`
+.. |NS| replace:: :doc:`Sensing and intuition <sensing_intuition>`
+.. |TF| replace:: :doc:`Ethics and logic <ethics_logic>`
+.. |jp| replace:: :doc:`Rationality and irrationality <ration_irration>`
+.. |CF| replace:: :doc:`Carefree and farsighted <carefree_farsighted>`
+.. |YO| replace:: :doc:`Yielding and obstinate <yielding_obstinate>`
+.. |SD| replace:: :doc:`Static and dynamic <statics_dynamics>`
+.. |PR| replace:: :doc:`Process and result <process_result>`
+.. |AD| replace:: :doc:`Asking and declaring <asking_declaring>`
+
+.. |symbol_l.gif| image:: symbol_l.gif
+.. |symbol_f.gif| image:: symbol_f.gif
+.. |symbol_e.gif| image:: symbol_e.gif
+.. |symbol_t.gif| image:: symbol_t.gif
+.. |symbol_r.gif| image:: symbol_r.gif
+.. |symbol_p.gif| image:: symbol_p.gif
+.. |symbol_i.gif| image:: symbol_i.gif

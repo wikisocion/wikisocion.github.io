@@ -1,0 +1,105 @@
+Club of socials
+======================
+
+**Club of socials** includes :doc:`ESE <ESE>`, :doc:`SEI <SEI>`,
+:doc:`SEE <SEE>`, and :doc:`ESI <ESI>`.
+
+
+Typical characteristics of socials
+----------------------------------
+
+
+Heavy socials
+~~~~~~~~~~~~~
+
+**Heavy socials** are :doc:`SEE <SEE>` and :doc:`ESI <ESI>`. They are a mirror
+pair of :doc:`Gamma <gamma_quadra>`.
+
+
+Light socials
+~~~~~~~~~~~~~
+
+**Light socials** are :doc:`ESE <ESE>` and :doc:`SEI <SEI>`. They are a mirror
+pair of :doc:`Alpha <alpha_quadra>`.
+
+
+Group behavior
+--------------
+
+When a group consists of members of this club, but without either of the
+two quadras having greater weight, its interactions are likely to be
+based on enjoying conversations over their families and personal
+relationships, artistic and sensorial interests such as cooking, gossip,
+and group social activities such as parties, dancing, travels and
+sportive activities. It's the stereotypical "women's group", although
+obviously such clubs formed only of men also exist, with common
+activities and interests usually focused around sports or, depending on
+the age structure, partying, clubbing and the like.
+
+This kind of group behavior, though, in terms of seeing a club as any
+kind of unit, is visible only as long as the group is held together by,
+and focuses on, discussions and activities of their common interests.
+Longer and deeper interactions make such a club visibly "split" into the
+two quadras, Alpha and Gamma.
+
+
+Perception of other clubs
+-------------------------
+
+These perceptions are visible only as long as the other groups are seen
+exclusively through the prism of their activities and interests as a
+group; closer interaction makes such perceptions quickly be overruled by
+the relevant quadra perceptions.
+
+Researchers
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Socials are inclined to regard Researchers with either a sort of pity,
+thinking that Researchers "need to get out more and be more friendly",
+or admiration for their perceived knowledge in many areas.
+
+Pragmatists
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Socials are inclined to enjoy Pragmatists' company in social activities
+and appreciate their practical skills but also to see them as too
+abrasive or cold.
+
+Humanitarians
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Socials are inclined to regard Humanitarians as idealistic people but
+"dreaming too much" and not very practical.
+
+
+.. list-table:: Small Groups
+    :header-rows: 0
+    :stub-columns: 1
+
+    * - :doc:`Quadras <quadra>`
+      - :doc:`Alpha <alpha_quadra>`
+      - :doc:`Beta <beta_quadra>`
+      - :doc:`Gamma <gamma_quadra>`
+      - :doc:`Delta <delta_quadra>`
+    * - :doc:`Clubs <club>`
+      - :doc:`Researchers <club_researchers>`
+      - :doc:`Socials <club_socials>`
+      - :doc:`Pragmatists <club_pragmatists>`
+      - :doc:`Humanitarians <club_humanitarians>`
+    * - :doc:`Temperaments <temperament>`
+      - :doc:`EP <EP>`
+      - :doc:`EJ <EJ>`
+      - :doc:`IP <IP>`
+      - :doc:`IJ <IJ>`
+    * - :doc:`Communication Styles <communication_styles>`
+      - Business-like
+      - Passionate
+      - Cold-blooded
+      - Sincere
+    * - :doc:`Romance Styles <romance_styles>`
+      - :doc:`Aggressor <aggressor>`
+      - :doc:`Victim <victim>`
+      - :doc:`Caring <caring>`
+      - :doc:`Childlike <childlike>`
+
+

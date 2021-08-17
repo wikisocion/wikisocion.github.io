@@ -1,0 +1,426 @@
+<!doctype html>
+<html class="no-js">
+  <head><meta charset="utf-8"/>
+    <meta name="viewport" content="width=device-width,initial-scale=1"/>
+    <meta name="color-scheme" content="light dark"><link rel="index" title="Index" href="../genindex.html" /><link rel="search" title="Search" href="../search.html" /><link rel="next" title="IEE subtypes" href="IEE_subtypes.html" /><link rel="prev" title="LIE subtypes" href="LIE_subtypes.html" />
+
+    <meta name="generator" content="sphinx-4.1.2, furo 2021.08.11.beta42"/>
+        <title>ESI subtypes - Wikisocion</title>
+      <link rel="stylesheet" type="text/css" href="../_static/pygments.css" />
+    <link rel="stylesheet" type="text/css" href="../_static/styles/furo.css?digest=197f00461d56902ea7ca048ec6e6ba026f62c97b" />
+    <link rel="stylesheet" type="text/css" href="../_static/styles/furo-extensions.css?digest=93475b62d1c3bc01323a0eefdc14a62d77b12690" />
+    
+    
+
+
+<style>
+  body {
+    --color-code-background: #f8f8f8;
+  --color-code-foreground: black;
+  
+  }
+  body[data-theme="dark"] {
+    --color-code-background: #202020;
+  --color-code-foreground: #d0d0d0;
+  
+  }
+  @media (prefers-color-scheme: dark) {
+    body:not([data-theme="light"]) {
+      --color-code-background: #202020;
+  --color-code-foreground: #d0d0d0;
+  
+    }
+  }
+</style>
+    <link media="(prefers-color-scheme: dark)" rel="stylesheet" href="../_static/pygments_dark.css"></head>
+  <body>
+    
+<svg xmlns="http://www.w3.org/2000/svg" style="display: none;">
+  <symbol id="svg-toc" viewBox="0 0 24 24">
+    <title>Contents</title>
+    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+      stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+      <path stroke="none" d="M0 0h24v24H0z" />
+      <line x1="4" y1="6" x2="20" y2="6" />
+      <line x1="10" y1="12" x2="20" y2="12" />
+      <line x1="6" y1="18" x2="20" y2="18" />
+    </svg>
+  </symbol>
+  <symbol id="svg-menu" viewBox="0 0 24 24">
+    <title>Menu</title>
+    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+      stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather-menu">
+      <line x1="3" y1="12" x2="21" y2="12"></line>
+      <line x1="3" y1="6" x2="21" y2="6"></line>
+      <line x1="3" y1="18" x2="21" y2="18"></line>
+    </svg>
+  </symbol>
+  <symbol id="svg-arrow-right" viewBox="0 0 24 24">
+    <title>Expand</title>
+    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+      stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather-chevron-right">
+      <polyline points="9 18 15 12 9 6"></polyline>
+    </svg>
+  </symbol>
+  <symbol id="svg-sun" viewBox="0 0 24 24">
+    <title>Light mode</title>
+    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+      stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" class="feather-sun">
+      <circle cx="12" cy="12" r="5"></circle>
+      <line x1="12" y1="1" x2="12" y2="3"></line>
+      <line x1="12" y1="21" x2="12" y2="23"></line>
+      <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
+      <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
+      <line x1="1" y1="12" x2="3" y2="12"></line>
+      <line x1="21" y1="12" x2="23" y2="12"></line>
+      <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
+      <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
+    </svg>
+  </symbol>
+  <symbol id="svg-moon" viewBox="0 0 24 24">
+    <title>Dark mode</title>
+    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+      stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" class="icon-tabler-moon">
+      <path stroke="none" d="M0 0h24v24H0z" fill="none" />
+      <path d="M12 3c.132 0 .263 0 .393 0a7.5 7.5 0 0 0 7.92 12.446a9 9 0 1 1 -8.313 -12.454z" />
+    </svg>
+  </symbol>
+  <symbol id="svg-sun-half" viewBox="0 0 24 24">
+    <title>Auto light/dark mode</title>
+    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+      stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" class="icon-tabler-shadow">
+      <path stroke="none" d="M0 0h24v24H0z" fill="none"/>
+      <circle cx="12" cy="12" r="9" />
+      <path d="M13 12h5" />
+      <path d="M13 15h4" />
+      <path d="M13 18h1" />
+      <path d="M13 9h4" />
+      <path d="M13 6h1" />
+    </svg>
+  </symbol>
+</svg>
+
+<input type="checkbox" class="sidebar-toggle" name="__navigation" id="__navigation">
+<input type="checkbox" class="sidebar-toggle" name="__toc" id="__toc">
+<label class="overlay sidebar-overlay" for="__navigation">
+  <div class="visually-hidden">Hide navigation sidebar</div>
+</label>
+<label class="overlay toc-overlay" for="__toc">
+  <div class="visually-hidden">Hide table of contents sidebar</div>
+</label>
+
+
+
+<div class="page">
+  <header class="mobile-header">
+    <div class="header-left">
+      <label class="nav-overlay-icon" for="__navigation">
+        <div class="visually-hidden">Toggle site navigation sidebar</div>
+        <i class="icon"><svg><use href="#svg-menu"></use></svg></i>
+      </label>
+    </div>
+    <div class="header-center">
+      <a href="../index.html"><div class="brand">Wikisocion</div></a>
+    </div>
+    <div class="header-right">
+      <div class="theme-toggle-container theme-toggle-header">
+        <button class="theme-toggle">
+          <div class="visually-hidden">Toggle Light / Dark / Auto color theme</div>
+          <svg class="theme-icon-when-auto"><use href="#svg-sun-half"></use></svg>
+          <svg class="theme-icon-when-dark"><use href="#svg-moon"></use></svg>
+          <svg class="theme-icon-when-light"><use href="#svg-sun"></use></svg>
+        </button>
+      </div>
+      <label class="toc-overlay-icon toc-header-icon" for="__toc">
+        <div class="visually-hidden">Toggle table of contents sidebar</div>
+        <i class="icon"><svg><use href="#svg-toc"></use></svg></i>
+      </label>
+    </div>
+  </header>
+  <aside class="sidebar-drawer">
+    <div class="sidebar-container">
+      
+      <div class="sidebar-sticky"><div class="sidebar-scroll"><a class="sidebar-brand" href="../index.html">
+  
+  
+  <span class="sidebar-brand-text">Wikisocion</span>
+  
+</a><form class="sidebar-search-container" method="get" action="../search.html" role="search">
+  <input class="sidebar-search" placeholder=Search name="q" aria-label="Search">
+  <input type="hidden" name="check_keywords" value="yes">
+  <input type="hidden" name="area" value="default">
+</form>
+<div id="searchbox"></div>
+</div>
+      </div>
+      
+    </div>
+  </aside>
+  <div class="main">
+    <div class="content">
+      <article role="main">
+        <div class="content-icon-container">
+          <div class="theme-toggle-container theme-toggle-content">
+            <button class="theme-toggle">
+              <div class="visually-hidden">Toggle Light / Dark / Auto color theme</div>
+              <svg class="theme-icon-when-auto"><use href="#svg-sun-half"></use></svg>
+              <svg class="theme-icon-when-dark"><use href="#svg-moon"></use></svg>
+              <svg class="theme-icon-when-light"><use href="#svg-sun"></use></svg>
+            </button>
+          </div>
+          <label class="toc-overlay-icon toc-content-icon" for="__toc">
+            <div class="visually-hidden">Toggle table of contents sidebar</div>
+            <i class="icon"><svg><use href="#svg-toc"></use></svg></i>
+          </label>
+        </div>
+        <div class="section" id="esi-subtypes">
+<h1>ESI subtypes<a class="headerlink" href="#esi-subtypes" title="Permalink to this headline">¶</a></h1>
+<div class="section" id="ethical-subtype-fi-isfj-fi-esi">
+<h2>Ethical subtype Fi-ISFj (Fi-ESI)<a class="headerlink" href="#ethical-subtype-fi-isfj-fi-esi" title="Permalink to this headline">¶</a></h2>
+<div class="section" id="description-by-v-meged-and-a-ovcharov">
+<h3>Description by V. Meged and A. Ovcharov<a class="headerlink" href="#description-by-v-meged-and-a-ovcharov" title="Permalink to this headline">¶</a></h3>
+<p><strong>Appearance</strong></p>
+<p>The ethical subtype usually makes an impression of a modest, gentle,
+soft person, but in his soul he is very principled, demanding, and
+distrustful. It is difficult to make him change his mind. Can be very
+stubborn and intractable. Sensitive, prudish, dislikes imposing his
+company. Internally highly critical and applies his high ethical
+standards to other people, though may not openly voice this. If his
+principles are touched, he can suddenly show his character, becoming
+sharp and uncompromising. Hardworking and practical. At work he is
+responsible and painstaking. Shows good manners, tries to be gracious
+and refined. Dresses with taste, though somewhat monotonously. His gaze
+is soft, at times frightened, and testing. In interactions with others,
+this is a soulful, attentive, caring and considerate person.</p>
+<p><strong>Character</strong></p>
+<p>Restrained, tactful, and polite in interaction. Discerning of
+relationships. Principled in matters of morality and responsibility.
+Distinguished by his sharp and categorical conclusions. He is constantly
+analyzing actions of other people and condemning any violations of moral
+and ethical norms. However, he tries to be more tolerant towards others
+and doesn’t immediately express his opinions if they are negative. Very
+observant: readily notices personal flaws and capabilities of other
+people. Remembers the mistakes of others for a long time, and if
+opportunity presents itself can resort to his “personal files”. May
+idealize those he is sympathetic towards from a distance. Demonstrates
+his attitude not only by words but also by actions.</p>
+<p>This is a person of duty. Does not spare his time and effort for upkeep
+of order and stability at work. Does his work meticulously and
+thoroughly, overcoming any obstacles that arise on the way. Does not put
+off and delay everyday tasks and chores until later. Makes himself to do
+work that is uninteresting but necessary. Helps out others with work
+that they cannot cope with by the deadlines. Very conscientious, aware
+of his obligations, and responsible person, but prefers to share
+responsibility with others. Inclined to sit at work late, trying to
+finish up everything. Accurately maintains records.</p>
+<p>Careful, guarded and distrustful, afraid of making mistakes and letting
+down others. Painfully endures injustice and critical remarks regarding
+his abilities. Needs praise and compliments, though usually he does not
+show this. Tries to exercise foresight in everything, so that any
+unexpected events don’t catch him by surprise. Prefers to plan for
+future activities. Prepares for everything in advance, is punctual and
+usually does not run late.</p>
+<p>Does not give any promises if he is unsure that he can fulfill them. Shy
+and indecisive, dislikes imposing anything on strangers. Appreciates
+comfort, both at his workplace and in relationships. Expresses his
+attitude not so much by words, as by the tone of his voice and look.</p>
+<p>Stable and in his habits, interests and affections. Yielding in
+relations, may put aside his own affairs to solve problems of his
+partner. Very impressionable and vulnerable, but shares his sufferings
+only with his close ones. Values friendship and does not forgive
+betrayal. Considerate and courteous. Modest and undemonstrative, tries
+not to stand out. Dresses simply, but with good taste.</p>
+</div>
+<div class="section" id="description-by-victor-gulenko">
+<h3>Description by Victor Gulenko<a class="headerlink" href="#description-by-victor-gulenko" title="Permalink to this headline">¶</a></h3>
+<p>Delicate and sensitive in nature. A good judge of character and a
+reliable friend. Capable of coming to a compromise. With his softness
+and ease of interaction he sometimes resembles an SEI. This subtype is
+often a better implementer than an organizer. It’s important to him how
+others regard him, their opinions of him. Attentive, caring, and
+sensitive. Good with small children. Can realize himself in applied arts
+and cultural work. Outward appearance is modest. He rarely follows
+fashion and prefers a freer style.</p>
+</div>
+</div>
+<div class="section" id="sensory-subtype-se-isfj-se-esi">
+<h2>Sensory subtype Se-ISFj (Se-ESI)<a class="headerlink" href="#sensory-subtype-se-isfj-se-esi" title="Permalink to this headline">¶</a></h2>
+<div class="section" id="id1">
+<h3>Description by V. Meged and A. Ovcharov<a class="headerlink" href="#id1" title="Permalink to this headline">¶</a></h3>
+<p><strong>Appearance</strong></p>
+<p>The sensory subtype is quite strict, critical, and ironic. Categorical
+in conclusions and uncompromising in decisions. Internally sensitive and
+emotional, but tries to appear as strong, cold, self-assured person.
+Serious, guarded, and private. Conservative in his tastes and habits.
+Diligent in work, though sometimes he lacks in attention and
+perseverance to complete his assignments. At times seems unapproachable,
+arrogant, and prickly. His gaze is piercing. His face sometimes assumes
+a guarded expression. Well-wishing and attentive, but keeps at a
+distance from others. Quite undemonstrative. Dislikes it when his
+appearance is inspected; afraid of external evaluations. Takes care of
+his looks, dresses elegantly, with taste and a bit of strictness. If he
+is confident in his appearance, may allow himself to wear additional
+accessories. His gait is often hammering.</p>
+<p><strong>Character</strong></p>
+<p>Stubborn, firm, and uncompromising in matters that are of importance to
+him. Strong-willed and enduring. Industrious and venturesome. Energetic
+and quick in handling practical matters. Can do several things at once,
+showing extraordinary work ethic and efficiency. From time to time,
+needs an emotional discharge. Difficult life situations invigorate him
+and stimulate him to search for quick solutions and exits out of current
+circumstances. With difficulty takes the initiative in making new
+acquaintances and establishing new contacts, but usually takes the first
+steps in breaking off relations that have run their course. Observant
+and clever, at the right time can hit the weakest spot of his opponent.
+To good and poor treatment answers with the same. Has a tendency to
+divide people into “his own” and “others”.</p>
+<p>Seems somewhat inaccessible, vigilant, and alert. Dislikes it when
+someone puts his qualities to an evaluation because internally he is not
+fully confident in himself. Intolerant of those who are lazy, slovenly,
+and disingenuous. Does not forgive rudeness and tactlessness, which may
+even serve as a reason to break up relations for him. In a company of
+unfamiliar or unpleasant people, he feels constrained and may choose to
+leave quietly. Does not like unexpected visitors, quickly becomes tired
+of them. At times he is overly distrustful and suspicious of others.</p>
+<p>In conversation with people tries to determine their abilities and
+possibilities for future practical application in some area. Tries to
+evaluate people objectively, regardless of his sympathies for them.
+Often possesses good administrative skills. In his decisions seeks to
+rely on factual information.</p>
+<p>In a circle of close people, he is usually talkative, makes jokes,
+sometimes asks tricky questions, inclined to play pranks and set up
+ruses; attempts to entertain others. Subordinates his emotions to the
+situation: he is cheerful among those who are cheerful and serious among
+those who are serious. Defends and upholds ethical standards. Selflessly
+protects his own interests and interest of people who are close to him.
+Able to make others subjugate to his will. In difficult situations,
+readily lends his help to others and offers his services. Tries not to
+show his anger and spite openly, but not everyone can withstand his
+penetrating, prickly gaze.</p>
+<p>Places high demands on himself. Quickly adapts to new circumstances if
+he finds them favorable. Poorly tolerates ambivalence and hesitation.
+Finds it difficult to wait for resolution of important for him
+questions. Often fluctuates in selection of a goal, but at a critical
+moment he can make the right decision. Poorly feels the progression of
+time; due to this, grows nervous getting ready for anything, feels
+anxious that he won’t make it on time. Feels worried concerning upcoming
+changes, for example, when he has to take a trip. Cherishes stability,
+supports conventions of his own circle. Somewhat suspicious and
+skeptical.</p>
+<p>A good economist, able to efficiently handle his finances, dislikes
+being in debt. Easily takes the initiative in concrete and practical
+activities, can even be assertive and imposing. Intolerant of
+irresponsibility and disorganization. Often possesses a developed
+aesthetic taste and dresses originally. Clean and neat, and demands the
+same from others. Finds it difficult to discern individual capabilities
+and hidden motives of others; due to this can have problems with his
+work colleagues, family members and children.</p>
+</div>
+<div class="section" id="id2">
+<h3>Description by Victor Gulenko<a class="headerlink" href="#id2" title="Permalink to this headline">¶</a></h3>
+<p>This is a person of duty, very active and enduring. Characterized by
+expansionism within a small circle. Can be aggressive if he’s not agreed
+with. In conflict situations is never the first to seek reconciliation.
+Gravitates to administrative roles. May become managers of medium-sized
+groups, keeping discipline and order, and applying sanctions to those
+who are at fault. Often is quite forthright and blunt. Shows his
+attitude with an incinerating look. Businesslike and purposeful. Can
+give a rebuff to those who create illegal structures, as they easily
+recognize the seeds of such activities. Prefer prestigious style in
+clothing, sometimes even bright but not ostentatious tones.</p>
+</div>
+</div>
+<div class="section" id="additional-links">
+<h2>Additional Links<a class="headerlink" href="#additional-links" title="Permalink to this headline">¶</a></h2>
+<ul class="simple">
+<li><p><a class="reference internal" href="contact_inert_subtypes.html"><span class="doc">Contact and Inert Subtypes by Meged and Ovcharov</span></a></p></li>
+<li><p><a class="reference internal" href="subtype.html"><span class="doc">Subtyping systems and related articles</span></a></p></li>
+<li><p><a class="reference internal" href="romantic_quadra.html"><span class="doc">Romantic and Sexual Behavior of Quadras and Subtypes</span></a></p></li>
+</ul>
+</div>
+</div>
+
+      </article>
+      <footer>
+        
+        <div class="related-pages">
+          <a class="next-page" href="IEE_subtypes.html">
+              <div class="page-info">
+                <div class="context">
+                  <span>Next</span>
+                </div>
+                <div class="title">IEE subtypes</div>
+              </div>
+              <svg><use href="#svg-arrow-right"></use></svg>
+            </a>
+          <a class="prev-page" href="LIE_subtypes.html">
+              <svg><use href="#svg-arrow-right"></use></svg>
+              <div class="page-info">
+                <div class="context">
+                  <span>Previous</span>
+                </div>
+                
+                <div class="title">LIE subtypes</div>
+                
+              </div>
+            </a>
+        </div>
+
+        <div class="related-information">
+              Copyright &#169; 2021, Wikisocion Authors
+            |
+            Built with <a href="https://www.sphinx-doc.org/">Sphinx</a>
+              and
+              <a class="muted-link" href="https://pradyunsg.me">@pradyunsg</a>'s
+              <a href="https://github.com/pradyunsg/furo">Furo theme</a>.
+            |
+            <a class="muted-link" href="../_sources/content/ESI_subtypes.rst.txt"
+               rel="nofollow">
+              Show Source
+            </a>
+        </div>
+        
+      </footer>
+    </div>
+    <aside class="toc-drawer">
+      
+      
+      <div class="toc-sticky toc-scroll">
+        <div class="toc-title-container">
+          <span class="toc-title">
+            Contents
+          </span>
+        </div>
+        <div class="toc-tree-container">
+          <div class="toc-tree">
+            <ul>
+<li><a class="reference internal" href="#">ESI subtypes</a><ul>
+<li><a class="reference internal" href="#ethical-subtype-fi-isfj-fi-esi">Ethical subtype Fi-ISFj (Fi-ESI)</a><ul>
+<li><a class="reference internal" href="#description-by-v-meged-and-a-ovcharov">Description by V. Meged and A. Ovcharov</a></li>
+<li><a class="reference internal" href="#description-by-victor-gulenko">Description by Victor Gulenko</a></li>
+</ul>
+</li>
+<li><a class="reference internal" href="#sensory-subtype-se-isfj-se-esi">Sensory subtype Se-ISFj (Se-ESI)</a><ul>
+<li><a class="reference internal" href="#id1">Description by V. Meged and A. Ovcharov</a></li>
+<li><a class="reference internal" href="#id2">Description by Victor Gulenko</a></li>
+</ul>
+</li>
+<li><a class="reference internal" href="#additional-links">Additional Links</a></li>
+</ul>
+</li>
+</ul>
+
+          </div>
+        </div>
+      </div>
+      
+      
+    </aside>
+  </div>
+</div><script data-url_root="../" id="documentation_options" src="../_static/documentation_options.js"></script>
+    <script src="../_static/jquery.js"></script>
+    <script src="../_static/underscore.js"></script>
+    <script src="../_static/doctools.js"></script>
+    <script src="../_static/scripts/main.js"></script>
+    </body>
+</html>

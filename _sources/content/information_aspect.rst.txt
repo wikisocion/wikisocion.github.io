@@ -1,0 +1,102 @@
+Information aspect
+=========================
+
+.. warning::
+    This page or section is **incomplete**. Additional contributions are needed.
+
+Introduction
+---------------------
+
+The eight information aspects form a category that is unique to socionics. Augusta, influenced by Antoni Kempinski's theory of information metabolism, concluded that the information that enters the psyche can be divided into different kinds, just as Jung divided psychic functions into different kinds.
+
+Information aspects represent an attempt to divide information into 8 different kinds. While this concept has not been thoroughly developed in socionics, this kind of division may be of interest to information theory and other theoretical fields such as memetics.
+
+The eight information aspects are denoted by the following symbols:
+
+* Ne - |Ne|
+* Ni - |Ni|
+* Se - |Se|
+* Si - |Si|
+* Te - |Te|
+* Ti - |Ti|
+* Fe - |Fe|
+* Fi - |Fi| 
+
+What information the aspects convey
+------------------------------------------------
+
+The following is a fairly conservative, mainstream interpretation of the information aspects 
+
+* Ne |Ne| : Information about the innate, internal, constant properties of objects, the sources of these properties, and the potential that they contain.
+* Ni |Ni| : Information about how something dynamically changes over time.
+* Se |Se| : Information about spatial territory, ownership, and influence.
+* Si |Si| : Information about how something dynamically relates and adjusts to its spatial environment.
+* Te |Te| : Information about technical processes, efficient activity, and the use of resources.
+* Ti |Ti| : Information about structural relationships between components and logical dependencies between states of affairs.
+* Fe |Fe| : Information about states of excitation and how they are communicated.
+* Fi |Fi| : Information about attraction and repulsion between objects as well as personal dependencies. 
+
+Aushra Augusta's concept of information aspects
+---------------------------------------------------------
+
+(*this section will contain a discussion of her work on the subject*)
+
+Confusion with IM elements
+------------------------------------
+
+Though they are denoted by the same symbols, information aspects are not to be confused with elements of information metabolism, or "IM elements." IM elements are the psychic modules that perceive, process, and produce corresponding information aspects.
+
+Whether the information aspects can be referred to using the same names as the IM elements (i.e. "extraverted sensing," "introverted logic") is debatable. 
+
+Properties of information aspects 
+--------------------------------------
+
+Information aspects possess structural properties: 
+
+.. list-table:: Properties of information aspects
+    :header-rows: 0
+    :stub-columns: 1
+
+    * - Statics
+      - |Ne| |Se| |Ti| |Fe|
+      - Things at rest
+    * - Dynamics
+      - |Te| |Fe| |Ni| |Si|
+      - Things at motion
+    * - Bodies
+      - |Ne| |Se| |Te| |Fe|
+      - Things as independent of any subject 
+    * - Fields
+      - |Ni| |Si| |Ti| |Fi|
+      - Things as dependent of subject - i.e. ties between bodies 
+    * - External
+      - |Se| |Te| |Si| |Ti|
+      - Explicit, directly sensible content of reality 
+    * - Internal
+      - |Ne| |Fe| |Ni| |Fi|
+      - Implicit, indirectly percievable content of reality 
+    * - Irrational
+      - |Ne| |Se| |Ni| |Si|
+      -
+    * - Rational
+      - |Te| |Fe| |Ti| |Fi|
+      - 
+
+The categories of static/dynamic and body/field came from Augusta, and external/internal was suggested by another early author. However, this last dichotomy is criticized by some socionists for its lack of meaningful content. The rational/irrational dichotomy comes from Jung's typology. 
+
+Criticism of information aspects
+---------------------------------------
+
+Links
+-----------------
+
+* `[1] <http://socionics.us/theory/information.shtml>`_ Explanation of information aspects. 
+
+.. |Ne| image:: Symbol_i.gif
+.. |Ti| image:: Symbol_l.gif
+.. |Ni| image:: Symbol_t.gif
+.. |Te| image:: Symbol_p.gif
+.. |Fe| image:: Symbol_e.gif
+.. |Se| image:: Symbol_f.gif
+.. |Fi| image:: Symbol_r.gif
+.. |Si| image:: Symbol_s.gif

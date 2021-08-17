@@ -1,0 +1,120 @@
+Stratievskaya, Vera
+============================
+
+**Vera Izraylevna Stratiyevskaya** - author of one the most popular sets
+of socionic type and intertype relationship
+descriptions in the Russian
+socionics community. She is known for producing some of the most
+detailed, lifelike descriptions of socionic types available at her blog
+`socionika-forever <http://socionika-forever.blogspot.com/>`__. These
+thorough descriptions full of detailed behavior and more than a bit of
+irony have been machine translated and made available in English, but
+they are difficult to understand at times. However, quite a few
+socionists and socionics hobbyists have criticized Stratiyevskaya for
+portraying types of :doc:`Gamma quadra <gamma_quadra>` in more positive light
+while exaggerating the weaknesses or peculiarities of types from other
+quadra. This is most likely explainable by her own type being
+:doc:`ESI <ESI>`; thus, her depictions of types and intertype relations are
+said to be most accurate for Gamma types. Reading her profiles and
+intertype relationship descriptions pertaining to types from other
+quadra, especially Alpha, it should be kept in mind that she has written
+these from the point of view of an outside observer that does not
+provide a completely objective view. Stratiyevskaya self-types as ESI
+(suggested extended typing: ESI-Se so/sx 6w7).
+
+Biography
+---------
+
+-  Vera Izraylevna Stratiyevskaya (maiden name Heifetz) - the originator
+   of natural approach of research in socionics, the author of the
+   theory of the evolutionary origin of types of information metabolism
+   and the theory of quadra complexes - was born on July 26, 1953 in
+   Yessentuki, Stavropol Territory. Since 1954, she lived and studied in
+   Leningrad (St. Petersburg).
+-  In 1978 she completed her studies at LGPI of A. I. Herzen (State
+   Pedagogical University in St. Petersburg).
+-  From 1992 to 1993 she was engaged in popularization of Socionics,
+   lectured, conducted socionics surveys and testing.
+-  From 1993 to 1996 worked on the descriptions and characteristics of
+   16 types of IM and in 1997 published them as a book titled "What
+   needs to be done such that we won't separate".
+-  Since 1997, basing on the author's theory of the evolutionary origin
+   of IM types, was engaged in the development of the theory of
+   intertype relations. Described the interaction of all 16 types of IM
+   on 9 types of intertype relationships: dual, identical, mirror,
+   activation, conflict, mirage, business, kindred, semi-dual. (For some
+   TIMs other types of relationships have been described.)
+-  Since 2000, from the standpoint of the author's theory of the
+   evolutionary origin of IM types, is engaged in research and
+   development in the theory of Reinin traits in the natural research
+   orientation.
+-  From 2007, leads a site on socionics, which regularly receives
+   materials on all the above topics, including the latest additions and
+   developments.
+-  In 2009, documents her research on socionics quadra and quadra
+   complexes ("The general concept of Quadra", "Characteristics of
+   Quadra", "The general laws of quadra progression", the " The turnover
+   of quadras aspects", etc).
+-  Since 2009, within the framework of the project "Socionics in aid of
+   history", she started working on a book titled "Two angles of time in
+   the history of Richard III" which features a historical investigation
+   with socionics comments (full text is available online).
+-  Since 2010 lives in Canada. Is a member of the Canadian branch of the
+   "Society of Richard III".
+
+
+
+See also
+--------
+
+-  `Vera Stratievskaya's
+   blog <http://socionika-forever.blogspot.com/>`__
+-  `Page on
+   Zanoza.ru <http://zanoza.socioland.ru/wiki/%D0%A1%D1%82%D1%80%D0%B0%D1%82%D0%B8%D0%B5%D0%B2%D1%81%D0%BA%D0%B0%D1%8F,_%D0%92%D0%B5%D1%80%D0%B0>`__
+
+Her Descriptions
+-------------------------
+
+.. toctree::
+   :maxdepth: 1
+
+   ILE_vera
+   SEI_vera
+   ESE_vera
+   LII_vera
+   SLE_vera
+   IEI_vera
+   EIE_vera
+   LSI_vera
+   SEE_vera
+   ILI_vera
+   LIE_vera
+   ESI_vera
+   IEE_vera
+   SLI_vera
+   LSE_vera
+   EII_vera
+   dual_ISFp_ENTp_vera
+   dual_INTj_ESFj_vera
+   dual_INFp_ESTp_vera
+   dual_ISTj_ENFj_vera
+   dual_INTp_ESFp_vera
+   dual_ISFj_ENTj_vera
+   dual_ISTp_ENFp_vera
+   dual_INFj_ESTj_vera
+   activity_ENFp_ESTj
+   activity_ENTp_ESFj
+   activity_ESFp_ENTj
+   activity_ESTp_ENFj
+   activity_INFj_ISTp
+   activity_INFp_ISTj
+   activity_INTj_ISFp
+   activity_ISFj_INTp
+   business_INFp_ISFp
+   mirror_ISTj_ESTp_vera
+   mirror_INFp_ENFj_vera
+   mirror_INTj_ENTp_vera
+   mirror_INTp_ENTj_vera
+   mirror_INFj_ENFp_vera
+   semi_dual_INFj_ENTj_vera
+   mirage_INTp_ENFp_vera

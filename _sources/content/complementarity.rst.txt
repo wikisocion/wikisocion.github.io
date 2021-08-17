@@ -1,0 +1,29 @@
+Complementarity
+====================
+
+Complementarity is a corollary of duality as applied to elements, functions, and dichotomies, all of which describe how and why duals are the most compatible types. 
+
+Complementary IM elements 
+--------------------------------
+
+Quadra values comprise two pairs of complementary elements, which must be either both valued or both subdued. 
+
+* Ne and Si
+* Ni and Se
+* Fe and Ti
+* Fi and Te
+
+Complementary functions 
+---------------------------
+
+Function x in a type's Model A always contains the same element as function x +/- 4 in its dual's Model A. Thus the complementation of elements may be generalized to complementation of functions. 
+
+* Leading and Suggestive
+* Creative and Mobilizing
+* Role and Ignoring
+* Vulnerable and Demonstrative
+
+Complementary dichotomies 
+--------------------------------------
+
+For any given dichotomy, one's dual has to have either the same or the opposite trait. Quadra values become a specific instance of this, due to the dichotomies of merriness and seriousness (Fe/Ti vs. Fi/Te) and judiciousness and decisiveness (Si/Ne vs. Se/Ni). 

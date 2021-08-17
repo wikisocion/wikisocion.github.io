@@ -1,0 +1,94 @@
+Small groups
+===================
+
+.. warning::
+    This page or section is **incomplete**. Additional contributions are needed.
+
+Socionic types can be combined into groups that share common socionic traits. These are referred to as small groups, or quaternions if the number of types in the group is four. The most well-known small groups in socionics are :doc:`quadras <quadra>` and :doc:`clubs <club>`. 
+
+Small groups as a socionic concept generally include four types which have three :doc:`Reinin traits <reinin_dich>` in common. For example, the :doc:`club of Pragmatists <club_pragmatists>` is Sensing, Logical, and Aristocratic. There are 140 such small groups. 
+
+.. seealso::
+    **Classical Socionics:** :doc:`IM elements <elements>` · :doc:`Functions <functions>` · :doc:`Socion <socion>` · :doc:`Type dichotomies <dich>` · :doc:`Small groups <small_groups>`
+
+.. list-table:: Small Groups
+    :header-rows: 0
+    :stub-columns: 1
+
+    * - :doc:`Quadras <quadra>`
+      - :doc:`Alpha <alpha_quadra>`
+      - :doc:`Beta <beta_quadra>`
+      - :doc:`Gamma <gamma_quadra>`
+      - :doc:`Delta <delta_quadra>`
+    * - :doc:`Clubs <club>`
+      - :doc:`Researchers <club_researchers>`
+      - :doc:`Socials <club_socials>`
+      - :doc:`Pragmatists <club_pragmatists>`
+      - :doc:`Humanitarians <club_humanitarians>`
+    * - :doc:`Temperaments <temperament>`
+      - :doc:`EP <EP>`
+      - :doc:`EJ <EJ>`
+      - :doc:`IP <IP>`
+      - :doc:`IJ <IJ>`
+    * - :doc:`Communication Styles <communication_styles>`
+      - Business-like
+      - Passionate
+      - Cold-blooded
+      - Sincere
+    * - :doc:`Romance Styles <romance_styles>`
+      - :doc:`Aggressor <aggressor>`
+      - :doc:`Victim <victim>`
+      - :doc:`Caring <caring>`
+      - :doc:`Childlike <childlike>`
+
+Sortable Small Group Table
+------------------------------------
+
+See this `PDF <../_static/smallgroups.pdf>`_ file.
+
+Error Correction
+----------------------------
+
+Each small group is a group of four types that share three dichotomy traits in common. Any combination of two of these three traits is enough information to define the small group. Since each small group is defined by all three traits, defining two selects the small group and implies what the third trait must be.
+
+When using dichotomies to type a person, this redundancy can be used to double check observations. For instance, a person who is introverted and irrational, must be the receptive-adaptive temperament, and must also be a dynamic type. If all four of these traits, the three dichotomy and one small group, the are diagnosed independently and agree with each other, it is much more likely the assessment is correct. It is still possible to get a false positive, but it would require getting two dichotomy traits and the small group wrong. This dichotomy relation of two traits implying a third is true even for undefined small groups. The only difference is the description of the small group cannot be used as a check. In this case, it would still require two mistakes to get a false positive. In practice, it is likely that additional traits will be explored to check an original observation. It is very important to remain objective to avoid confirmation bias.
+
+Even though all dichotomies are mathematically related through small groups, if a trait is not very accurate, it can harm the overall assessment. No method is always correct, so testing for the third dichotomy trait always increased the chances of getting inconsistent results. For traits that are reliable, this is worth it because the small chance of error is traded for a much higher confidence. However, traits that are not reliable harm the entire system, and are likely to contradict other correct observations.
+
+In the case of an inconsistency, another method is needed to resolve the error. Some people apply small groups and dichotomies in a first phase to focus what model A questions to ask in a second phase. Others test as many traits as they can and then average the results.
+
+There is not a consensus which dichotomies and small groups are reliable, so it is up to each individual practitioner to try them out and decide what combinations to use. Hopefully, in the future, rigorous scientific trials can test the accuracy of each concept and method, but for now, most of these concepts are still experimental.
+
+Tetrachotomies
+----------------------------
+
+A tetrachotomy is like a dichotomy, but with four elements, instead of two. When applied to the types, each element of a tetrachotomy is a small group.
+
+A tetrachotomy represent an overall theme of the four small groups it divide. Quadra is the tetrachotomy of alpha, beta, gamma and delta. Club is the tetrachotomy of the researcher, humanitarian, socialite and pragmatist small groups. Temperament is the tetrachotomy of flexible-maneuvering, receptive-adaptive, linear-assertive and rigid-stable small groups.
+
+By far, the most common tetrachotomies are combinations of three dichotomies. The table of all 140 small groups are grouped by this kind of regular tetrachotomy. However, it is possible to mix the small groups from two regular tetrachotomies together as long as they share a dichotomy division in common. When two related tetrachotomies are mixed, they result in a conjugate pair of mixed tetrachotomies. There are over a two thousand ways to create unique mixed tetrachotomies, but only four make sense in the context of model A. They are created by mixing regular tetrachotomies #9 with #14 and #19 with #20. All four of these tetrachotomies share the P {irrational, rational} dichotomy. The reason for mixing is the functional and intertype relation structure of model A, which is made asymmetric by rationality. These specific tetrachotomies can be mixed to group all the base functions or all creative functions together.
+
+This is necessary to produce some of Reinin's intertype relation tetrachotomies using type dichotomies, like the square (relaxation) and health group. Square is four types that all have the same leading quadra value and health group is four types with the same leading strength.
+
+Dynamic Socionics
+-------------------------------
+
+There has been further research on all 35 of the small group systems at the Dynamic Socionics Center, headed by Vladimir Mironov. The related resources are linked in the further reading section below, and there is also a one of a kind book written on the subject called "Semantics of information aspects" by Kochubeeva LA, Mironova VV, and Stoyalova ML. All of the resources mentioned in this section as in Russian, so further translation and acquisition of information in English would be greatly appreciated.
+
+Semantics of information aspects book: `<http://www.dynamicsocionics.ru/magazin-socionics/product/view/2/3.html>`_
+
+Further reading
+-----------------------------
+
+* `Small Groups (Quaternions) <http://www.socioniko.net/ru/group/index.html>`_ by :doc:`Dmitriy Lytov <lytov>` (in Russian)
+* `Dynamic Socionics Small Groups <http://www.dynamicsocionics.ru/informatsionnye-aspekty.html>`_ by :doc:`Vladimir Mironov <mironov>` (in Russian) 
+* :doc:`pyramid_diagrams`
+
+.. |Ne| image:: Symbol_i.gif
+.. |Ti| image:: Symbol_l.gif
+.. |Ni| image:: Symbol_t.gif
+.. |Te| image:: Symbol_p.gif
+.. |Fe| image:: Symbol_e.gif
+.. |Se| image:: Symbol_f.gif
+.. |Fi| image:: Symbol_r.gif
+.. |Si| image:: Symbol_s.gif

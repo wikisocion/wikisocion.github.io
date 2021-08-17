@@ -1,0 +1,498 @@
+Reinin dichotomies
+========================
+
+**Reinin dichotomies** or **Reinin traits** refer to a set of 15 :doc:`type dichotomies <dich>` that divide the :doc:`socion <socion>`
+into symmetrical halves. :doc:`Grigoriy Reinin <reinin>` (St. Petersburg,
+Russia), a mathematician and psychologist and one of the earliest
+socionists, mathematically proved the existence of these dichotomies,
+and their approximate content was elaborated by :doc:`Aushra Augusta <augusta>`. Her work, *The Theory of Reinin's Traits*,
+published in 1985, was intended to be an introduction to the 15
+dichotomies - a draft of sorts - but further works have still not been
+written on the subject. The usefulness of many or most Reinin
+dichotomies is consistently questioned by many socionists.
+
+The first four dichotomies correspond to the :doc:`Jungian foundation <jungian>`," or the four original Jungian :doc:`dichotomies <dich>`.
+
+In common use the term "Reinin dichotomies" often refers to the 11
+non-Jungian dichotomies.
+
+
+
+.. _reinin-overview:
+
+Overview 
+----------------
+
+.. list-table:: Overview of Reinin Dichotomies
+    :header-rows: 0
+    :stub-columns: 1
+
+    * - |ILE|
+      - judicious 
+      - subjectivist 
+      - democratic 
+      - process 
+      - carefree 
+      - yielding 
+      - static 
+      - tactical 
+      - constructivist 
+      - positivist 
+      - asking
+    * - |SEI|
+      - judicious 
+      - subjectivist 
+      - democratic 
+      - process 
+      - carefree 
+      - yielding 
+      - dynamic 
+      - strategic 
+      - emotivist 
+      - negativist 
+      - declaring
+    * - |LII|
+      - judicious 
+      - subjectivist 
+      - democratic 
+      - result 
+      - farsighted 
+      - obstinate 
+      - static 
+      - strategic 
+      - emotivist 
+      - negativist 
+      - asking
+    * - |ESE|
+      - judicious 
+      - subjectivist 
+      - democratic 
+      - result 
+      - farsighted 
+      - obstinate 
+      - dynamic 
+      - tactical 
+      - constructivist 
+      - positivist 
+      - declaring
+    * - |EIE|
+      - decisive 
+      - subjectivist 
+      - aristocratic 
+      - process 
+      - carefree 
+      - obstinate 
+      - dynamic 
+      - strategic 
+      - constructivist 
+      - negativist 
+      - asking
+    * - |LSI|
+      - decisive 
+      - subjectivist 
+      - aristocratic 
+      - process 
+      - carefree 
+      - obstinate 
+      - static 
+      - tactical 
+      - emotivist 
+      - positivist 
+      - declaring
+    * - |IEI|
+      - decisive 
+      - subjectivist 
+      - aristocratic 
+      - result 
+      - farsighted 
+      - yielding 
+      - dynamic 
+      - tactical 
+      - emotivist 
+      - positivist 
+      - asking
+    * - |SLE|
+      - decisive 
+      - subjectivist 
+      - aristocratic 
+      - result 
+      - farsighted 
+      - yielding 
+      - static 
+      - strategic 
+      - constructivist 
+      - negativist 
+      - declaring
+    * - |SEE|
+      - decisive 
+      - objectivist 
+      - democratic 
+      - process 
+      - farsighted 
+      - obstinate 
+      - static 
+      - strategic 
+      - emotivist 
+      - positivist 
+      - asking
+    * - |ILI|
+      - decisive 
+      - objectivist 
+      - democratic 
+      - process 
+      - farsighted 
+      - obstinate 
+      - dynamic 
+      - tactical 
+      - constructivist 
+      - negativist 
+      - declaring
+    * - |ESI|
+      - decisive 
+      - objectivist 
+      - democratic 
+      - result 
+      - carefree 
+      - yielding 
+      - static 
+      - tactical 
+      - constructivist 
+      - negativist 
+      - asking
+    * - |LIE|
+      - decisive 
+      - objectivist 
+      - democratic 
+      - result 
+      - carefree 
+      - yielding 
+      - dynamic 
+      - strategic 
+      - emotivist 
+      - positivist 
+      - declaring
+    * - |LSE|
+      - judicious 
+      - objectivist 
+      - aristocratic 
+      - process 
+      - farsighted 
+      - yielding 
+      - dynamic 
+      - tactical 
+      - emotivist 
+      - negativist 
+      - asking
+    * - |EII|
+      - judicious 
+      - objectivist 
+      - aristocratic 
+      - process 
+      - farsighted 
+      - yielding 
+      - static 
+      - strategic 
+      - constructivist 
+      - positivist 
+      - declaring
+    * - |SLI|
+      - judicious 
+      - objectivist 
+      - aristocratic 
+      - result 
+      - carefree 
+      - obstinate 
+      - dynamic 
+      - strategic 
+      - constructivist 
+      - positivist 
+      - asking
+    * - |IEE|
+      - judicious 
+      - objectivist 
+      - aristocratic 
+      - result 
+      - carefree 
+      - obstinate 
+      - static 
+      - tactical 
+      - emotivist 
+      - negativist 
+      - declaring
+      
+      
+
+.. _reinin-math:
+
+Mathematics
+-----------
+
+Definition
+~~~~~~~~~~
+
+Each half of a dichotomy is called a "trait". Any pair of traits (such
+as E and P) may be combined to produce a third (static). These three
+traits form an interdependent triad, meaning that when two are held
+constant the third must too.
+
+They are combined according to the relation \*, defined as follows.
+
+``X*Y = (X & Y) or (~X & ~Y)``
+
+where ~X denotes the opposite of trait X (~E = I, etc.)
+
+Thus,
+
+``static = E*P = E&P or I&J``
+
+In most cases, the "&" is understood.
+
+``static = EP or IJ``
+
+The relation \* can be seen to be associative, meaning
+``(X*Y)*Z = X*(Y*Z)`` is always true.
+
+Proof:
+
+The relation may be restated more concisely as follows:
+
+``X*Y = (X == Y)``
+
+where == denotes `logical
+equality <http://en.wikipedia.org/wiki/Logical_equality>`_ -
+parentheses added for clarity.
+
+We can use a truth table to show that the expressions are the same:
+
+= = = ========= =========
+X Y Z (X==Y)==Z X==(Y==Z)
+= = = ========= =========
+T T T T         T
+T T F F         F
+T F T F         F
+T F F T         T
+F T T F         F
+F T F T         T
+F F T T         T
+F F F F         F
+= = = ========= =========
+
+Another property of ==, commutativity, transfers to \*:
+
+``X*Y = Y*X``
+
+Since \* is both associative and commutative, it forms an
+`abelian <http://en.wikipedia.org/wiki/Abelian>`_ group over four
+traits:
+
+===== = = = =
+\*    1 X Y Z
+===== = = = =
+**1** 1 X Y Z
+**X** X 1 Z Y
+**Y** Y Z 1 X
+**Z** Z Y X 1
+===== = = = =
+
+Here 1 is the identity, which represents the trait that is true of all
+types. It might also be called the "nonnull" trait. Here X, Y, and Z are
+all interdependent.
+
+Complete list
+~~~~~~~~~~~~~
+
+Given four initial independent dichotomies (that is, pairs of opposite
+traits), one can form new ones dependent on the original four. Here the
+"&"s may be understood, so as to simplify the generation of new
+dichotomies. Remember, \* is associative and commutative, so the order
+doesn't matter, and the \*s can be left out. For example, E*N = N*E and
+(E*N)*T = E*(N*T). This means we can just write, in order, the Jungian
+dichotomies a derived dichotomy depends on. In other words, each new
+dichotomy can be uniquely specified in terms of dependence on each of
+the original four. (In this case, each dichotomy can be replaced by one
+of its halves, the corresponding traits. For example, E/I can be
+replaced with just E or just I. The lack of a unifying name for most
+dichotomies makes this a convenient choice. ENTP is the preferred basis,
+for historical reasons.) So, each new dichotomy is either *dependent* or
+*independent* of each original dichotomy. This produces 2^4 = 16
+dichotomies.
+
+The first of these, the one dependent on *no* Jungian dichotomy, is the
+identity - not a dichotomy proper, as it does not split the
+:doc:`socion <socion>`. The remaining 15 are the type dichotomies we know
+and love.
+
+#.  (null/nonnull)
+#. E (extroversion/introversion)
+#. N (intuitive/sensing)
+#. T (logical/ethical)
+#. P (irrational/rational)
+#. EN (carefree/farsighted)
+#. ET (obstinate/compliant)
+#. EP (static/dynamic)
+#. NT (aristocratic/democratic)
+#. NP (tactical/strategic)
+#. TP (constructivist/emotivist)
+#. ENT (positivist/negativist)
+#. ENP (reasonable/resolute)
+#. ETP (subjectivist/objectivist)
+#. NTP (process/result)
+#. ENTP (questioner/declarer)
+
+It is natural to classify these dichotomies based on how many of the
+Jungian foundation they depend on. The Jungian foundation is all the
+order-1 traits, and null/nonnull are the only order-0 traits.
+
+Reinin dichotomies as combinations
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+From the above proof, we see that the Reinin dichotomies can be thought
+of as combinations of the original four.
+
+C = n!/(k!(n-k)!)
+
+Where k is the number of elements in the subset and n is the number of
+elements in the set that is drawn from.
+
+Here there are 4 elements in the original set (E-I, N-S, T-F and P-J).
+The new sets will have between 2 to 4 parameters, so the number of
+Reinin dichotomies (not including the original four) is:
+
+4!/(2!(4-2)!) + 4!/(3!(4-3)!) + 4!/(4!(4-4)!) = 6 + 4 + 1 = 11
+
+It's also easy to find out the combinations on pen and paper. Simply
+find all the ways you can combine four predefined letters (or any other
+things) into groups of two, three and four, where the order doesn't
+matter.
+
+Use of Reinin dichotomies
+-------------------------
+
+Empirical aspects
+~~~~~~~~~~~~~~~~~
+
+Above is the mathematical definition of the Reinin dichotomies. Whether
+they have empirical content, on the other hand, is a completely separate
+matter. Whether they are well-defined at all is one of the main
+criticisms of Reinin dichotomies.
+
+The content of several of the derived dichotomies comes naturally from
+other standard parts of socionics theory. As the correspondence between
+the dichotomies and :doc:`Model A <model_a>` becomes more complex, so does
+the dichotomy's content become less obvious based on purely theoretical
+considerations.
+
+Some of the simpler correspondences between the functional and
+dichotomous models:
+
+Intuitive/sensing and logic/ethics determine a type's :ref:`strengths and
+weaknesses <strong>`; Introversion/extroversion coincides
+with the orientation of the leading function (as well as all
+:ref:`contact <contact>` functions); Rationality/irrationality similarly
+coincides with the "rhythm" of the accepting functions; Static/dynamic
+determines the conscious (":ref:`mental <mental>`") elements in each types
+formula; Aristocratic/democratic determines which elements are blocked
+together; Reasonable/resolute and subjectivist/objectivist correspond to
+:doc:`quadra values <quadra>`;
+
+An interesting question is, can Reinin dichotomies be considered equal
+in their significance to the original Jungian dichotomies? After all,
+the derivation works in reverse too. Only speculation can provide an
+answer at this point. A humorous counterexample is the dichotomies of
+gender and blood type (reference). Obviously the conjunction of the two
+via \* is totally meaningless. That said, the fact that Reinin
+dichotomies' content can be elaborated at all is a testament to the
+highly general nature of socionic type, whose component dichotomies
+combine to form an integrated whole, represented mathematically as the
+nonnull trait: the human being.
+
+Comparison with Model A
+~~~~~~~~~~~~~~~~~~~~~~~
+
+The central idea of socionics is that types are unbalanced entities.
+This understanding is built into Model A, but not into Reinin
+dichotomies. Therefore, Reinin dichotomies must be supplemented with
+other theoretical apparatus in order to explain things like
+relationships as fully as Model A. This could be a good thing in that
+Reinin dichotomies show the theoretical possibility of isolating the
+assumptions implicit in Model A and showing which are independent of
+which.
+
+A few socionists, such as Mironov and others from St. Petersburg,
+consider the Reinin dichotomies to actually be information processing
+mechanisms. Three such dichotomy traits combine to form an information
+element. Most socionists consider the Reinin dichotomies to be divisions
+whose meaning can only be understood by analyzing their effect on Model A.
+
+Criticism
+~~~~~~~~~
+
+It might be said that the Reinin traits should be treated dichotomously
+instead of, or at least in addition to, in terms of information elements
+and Model A. The fundamental difference between rational and irrational
+information elements is not built into the Reinin model. Also, it has no
+concept of element dominance (i.e. functional ordering). It doesn't
+necessarily render the tools used in Model A useless, but it should be
+stressed that the classical traits have a purely dichotomous definition,
+so they should also be explainable using only dichotomies. In fact it is
+likely that any regular categorization system will also be reflected in
+Model A in some more or less regular waythis observation doesn't prove
+anything however.
+
+Possible dichotomous explanations
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+The most natural way to discover the meaning of the dichotomies is as a
+conflict or harmonizing of some sort between pairs of traits. For
+example, rationals want stability, but dynamics perceive change,
+creating a tendency for EJs to want to actively influence their
+environment to control that change - extroversion. Likewise, irrationals
+are more comfortable with fluid change, but statics see things as
+staying the same - which leads them to actively create the change in
+their environment (also extroversion).
+
+An interesting area of research here would be interclub or
+intertemperament relationships. We would also need to establish
+descriptions for the other multiple-dichotomical categories, such as E/I
+combined with S/N, and so on.
+
+See also
+--------
+
+-  :doc:`Dichotomy <dich>`
+-  :doc:`Jungian foundation <jungian>`
+
+Links
+-----
+
+Here are automatic translations of articles on the Reinin dichotomies in
+Russian:
+
+-  `Wikipedia article on the Reinin dichotomies <http://translate.google.com/translate?u=http%3A%2F%2Fru.wikipedia.org%2Fwiki%2F%25D0%259F%25D1%2580%25D0%25B8%25D0%25B7%25D0%25BD%25D0%25B0%25D0%25BA%25D0%25B8_%25D0%25A0%25D0%25B5%25D0%25B9%25D0%25BD%25D0%25B8%25D0%25BD%25D0%25B0&langpair=ru%7Cen&hl=en&ie=UTF8>`_
+-  `Introductory article <http://translate.google.com/translate?u=http%3A%2F%2Fwww.socioniko.net%2Fru%2Fbazis%2Freinin-priz.html&langpair=ru%7Cen&hl=en&ie=UTF8>`_ by :doc:`Dmitriy Lytov <lytov>` and Marianna Lytova on the Reinin traits
+-  `Analysis and criticism of the Reinin traits <http://translate.google.com/translate?u=http%3A%2F%2Fwww.socioniko.net%2Fru%2Farticles%2Freinin-priz.html+&langpair=ru%7Cen&hl=en&ie=UTF8>`_ by :doc:`Dmitriy Lytov <lytov>` and Marianna Lytova
+-  `Reinin's response to the above criticism of the dichotomies <http://translate.google.com/translate?u=http%3A%2F%2Fsocionics.spb.ru%2FSeminar%2FReinin_discusion_pr.htm+&langpair=ru%7Cen&hl=en&ie=UTF8>`_
+-  `Augusta's <Augusta>`__ article *The Theory of Reinin's Traits*: `part 1 <http://translate.google.com/translate?u=http%3A%2F%2Fwww.socioniko.net%2Fru%2Farticles%2Faug-priz1.html&langpair=ru%7Cen&hl=en&ie=UTF8>`_ - `part 2 <http://translate.google.com/translate?u=http%3A%2F%2Fwww.socioniko.net%2Fru%2Farticles%2Faug-priz1.html&langpair=ru%7Cen&hl=en&ie=UTF8>`_ - `part 3 <http://translate.google.com/translate?u=http%3A%2F%2Fwww.socioniko.net%2Fru%2Farticles%2Faug-priz1.html&langpair=ru%7Cen&hl=en&ie=UTF8>`_  - `part 4 <http://translate.google.com/translate?u=http%3A%2F%2Fwww.socioniko.net%2Fru%2Farticles%2Faug-priz1.html&langpair=ru%7Cen&hl=en&ie=UTF8>`_ - `part 5 <http://translate.google.com/translate?u=http%3A%2F%2Fwww.socioniko.net%2Fru%2Farticles%2Faug-priz1.html&langpair=ru%7Cen&hl=en&ie=UTF8>`_
+
+
+
+
+.. |ILE| replace:: :doc:`ILE <ILE>`
+.. |SEI| replace:: :doc:`SEI <SEI>`
+.. |ESE| replace:: :doc:`ESE <ESE>`
+.. |LII| replace:: :doc:`LII <LII>`
+.. |SLE| replace:: :doc:`SLE <SLE>`
+.. |IEI| replace:: :doc:`IEI <IEI>`
+.. |EIE| replace:: :doc:`EIE <EIE>`
+.. |LSI| replace:: :doc:`LSI <LSI>`
+.. |SEE| replace:: :doc:`SEE <SEE>`
+.. |ILI| replace:: :doc:`ILI <ILI>`
+.. |LIE| replace:: :doc:`LIE <LIE>`
+.. |ESI| replace:: :doc:`ESI <ESI>`
+.. |IEE| replace:: :doc:`IEE <IEE>`
+.. |SLI| replace:: :doc:`SLI <SLI>`
+.. |LSE| replace:: :doc:`LSE <LSE>`
+.. |EII| replace:: :doc:`EII <EII>`
+   
+   
+   

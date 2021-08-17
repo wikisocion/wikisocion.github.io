@@ -1,0 +1,715 @@
+Benefit
+================
+
+*See also* :doc:`Benefit observations <benefit_observations>`
+
+*Back to*\ :doc:`Intertype relations <intertype>`
+
+
+
+Introduction
+------------
+
+**Benefit**, also called relations of **request** or **social order**,
+is an :doc:`asymmetric relation <intertype>` in which the
+type at higher level is called the *benefactor* (or *request
+transmitter*) and the type at lower level is called the *beneficiary*
+(*request recipient* or *recipient of social order*).
+
+Often, a mutual two-way yet asymmetric interest develops between people
+in benefit relations. The person in role of the beneficiary admires the
+person who is in role of benefactor. Benefactor's abilities seem
+impressive to the beneficiary from a distance. The manners, behavior,
+and the way the benefactors holds himself seems attractive to the
+beneficiary. Beneficiary comes to consider benefactor's lifestyle and
+values to be worthwhile. Sometimes, this admiration prompts the
+beneficiary to attempt to over-identify with the benefactor to the
+extent of typing them into identical type or typing themselves into
+benefactor's type.
+
+In conversation, the beneficiary notices that the benefactor missing
+information pertaining to the aspect of benefactor's :ref:`activating function <activating-func>`. The benefactor's conscious
+attention seems to be shifted away from this aspect in favor of the
+aspect of the creative function. The activating function is weak and
+semi-conscious for the benefactor, yet for the beneficiary this is a
+strong conscious :ref:`leading function <leading-func>`
+capable of high levels of discernment. Thus the beneficiary easily
+notices benefactor's inadequacy, mistakes, and omissions on the
+activating aspect, to which the benefactor is usually oblivious. At
+closer interaction, the beneficiary attempts to help the benefactor on
+this aspect: inform and teach the benefactor, supply analyses and
+assessments, make corrections, deliver prognoses, and so on. The
+benefactor is interested in receiving information of this kind, since
+the benefactor discovers that such advice helps them to resolve the
+problems of their weak activating function. However, for the benefactor
+this aspect is only of instrumental normative significance, and not a
+global value, as it is for the beneficiary; the benefactor thus
+sometimes makes irritated attempts to cut down what is viewed as
+excessive help, obtrusive advice and lecturing coming from the
+beneficiary. The benefactor will also "refine" information coming from
+the beneficiary in accordance to benefactor's own TIM and valued
+information elements in benefactor's quadrant, modify beneficiary's
+statements, or even outright reject some of them.
+
+The benefactor are interested in receiving highly refined information on
+their activating function, thus benefactors often take note of their
+beneficiaries (as well as their literary, artistic, and musical works).
+However, the benefactor also eventually takes note of the beneficiary's
+weak and unconscious :ref:`suggestive function <suggestive-func>`, which happens to be
+benefactor's strong and conscious creative function. The benefactor
+tries to guide the beneficiary on this function, however, the
+beneficiary doesn't respond to this advice in the way the benefactor
+expects (as benefactor's dual type would respond): the beneficiary often
+responds with delay, may follow through in unsatisfactory to benefactor
+manner, or even brush benefactor's suggestions aside considering them as
+unnecessary on their own leading function. Due to this, the beneficiary
+always appears to be somehow falling behind, making avoidable mistakes,
+or even lacking and incapable to the benefactor. No matter how much
+advice the benefactors gives, the beneficiary never seems to retain it
+and build on it and continues to make the same omissions, or learns at a
+catastrophically slow pace in benefactor's view. The benefactor over
+time may come to consider the beneficiary as incorrigible on this
+aspect, "give up" on the beneficiary and decide to part ways, depending
+on the state of their relations.
+
+Since the beneficiary typically appreciates and admires benefactor's
+values and lifestyle, the beneficiary is often supportive of the
+benefactor in implementation of benefactor's ideas and values, treating
+any of the benefactor's suggestions as a call to action. This
+realization of benefactor's suggestions often comes unexpected to the
+benefactor, since the benefactor has not directly requested the
+beneficiary to do anything. Nevertheless, once the benefactor
+consciously recognizes this support, the benefactor may become more
+appreciative of the beneficiary. If the benefactor acknowledges and
+positively evaluates beneficiary's support, the benefactor is then
+encouraged to continue with the relationship. The benefactor now sees
+the beneficiary as the implementer of his or her own ideas and feels
+hesitant to part ways and lose such a person. The impulse that mobilizes
+the beneficiary to activity is generally attributed to the effect of
+benefactor's creative function falling on beneficiary's suggestive, and
+is sometimes called the "social request" or "social order" that the
+benefactor sends to the beneficiary for actuation. This "request" is
+often not directly stated or evident to either of them, and in the
+initial stages of Benefit relations comes as a surprise to both the
+benefactor (that someone has carried out their suggestion) as well as
+the beneficiary (that they are enacting someone else's request).
+
+A peculiarity of these relations at later, established stages is that
+the beneficiary may find themselves unable to turn down benefactor's
+proposals and suggestions, thus in a way falling into unconscious
+control of the benefactor; which is one clue that allows to identify
+benefit relations.
+
+Any information that comes from beneficiary's own creative function,
+however, falls on the "ignoring" or "limiting" function of the
+benefactor and as a result gets curbed or ignored. This makes the
+beneficiary feel like the benefactor hears him only partially, that some
+of beneficiary's suggestions, persuasions, and calls to action are
+ignored by the benefactor. From the other end, benefactor feels that
+while the beneficiary makes interesting and insightful statements,
+nevertheless these arguments don't always have sufficient persuasive
+power and need to be checked and adapted to benefactor's TIM aspects and
+values. The beneficiary also feels disconcerted by occasional shows of
+benefactor's suggestive function, which corresponds to beneficiary's
+:ref:`vulnerable function <PoLR-func>`.
+
+The above interaction of leading-activating and creative-suggestive
+function creates a two way uneven exchange of information that is of
+interest to both people in Benefit relations. While the beneficiary
+provides mental support and feedback for benefactor's activating
+function, the benefactor motivates and stimulates the beneficiary on
+suggestive function.
+
+This simplified diagram shows the interaction of functions in benefit
+relations:
+
+.. image:: images/benefit.jpg
+    :align: center
+
+The other side of this interaction of functions is that the beneficiary
+may view the benefactor as a capable and admirable person, but somehow
+lacking in discernment and intelligence on the activating function
+(which is leading for the beneficiary). The benefactor may view the
+beneficiary as informative, insightful, and intelligent person, but
+somehow incapable, lagging behind, and inept on beneficiary's suggestive
+(which is creative for the benefactor).
+
+Benefit relations can be conceptualized as an asymmetric exchange of
+energy and information, where information is sent from Beneficiary's
+leading function to activating function of the Benefactor, while the
+energy impulse is sent from Benefactor's creative function to the
+suggestive function of the Beneficiary. Thus, the Benefactor may feel
+informed but de-energized in these relations, while the Beneficiary may
+feel energized but under-informed.
+
+Since Benefit types are on the same side of Introversion-Extroversion,
+and either Sensing-Intuition or Logic-Ethics dichotomies, people of
+Benefit types often have commonalities in interests and lifestyle. This,
+in turn, spurs numerous contacts between Benefactors and Beneficiaries,
+some of which evolve into friendships and long-term serious romantic
+involvements, making Benefit Relations a :doc:`moderately common intertype pairing among married couples <intertype_statistics>`.
+
+If this relation occurs in a work setting, the beneficiary will strive
+to help out the benefactor, and to comply with his expectations. If the
+benefactor doesn't offer the beneficiary some praise for his efforts,
+the beneficiary will feel inadequate - rather similarly as the
+supervisee in a supervision relationship. However, a supervisor will
+take more of a clear leadership role, dominating the exchange, whereas
+the beneficiary feels no obligation to the benefactor to hang around
+once his contributions have been slighted. The relation between
+benefactor and beneficiary is sometimes compared to relations between an
+older and a younger sibling, while supervision is compared to relations
+of a parent and a child. The complementation between the beneficiary's
+first function and the benefactor's second function also makes for a
+more caring and less competitive relationship than supervision.
+
+Descriptions by various authors
+-------------------------------
+
+**Valentina Meged, Anatoly Ovcharov**
+
+Beneficiary experiences activation in the presence of benefactor, tries
+to help him, to do something. He understands the needs of his partner
+very well, but reciprocity exists only in the beginning. Over time the
+harmony in these relations breaks down for the reason that benefactor is
+dismissive of the arguments and conclusions of beneficiary, and even
+tries to impose his own point of view and control his behavior. However,
+beneficiary feels that it is difficult for him to refuse in anything for
+such an admirable, authoritative partner. This inequality in future may
+lead to arguments, at which time the beneficiary will wish to distance
+from the benefactor.
+
+The benefactor perceives his partner as someone who needs his
+protection, patronage, and advice. He appeals to the desire of the
+beneficiary to understand him and help him in difficult situations, but
+from his point of view the assistance is not effective, thus he
+involuntarily underestimates the abilities of beneficiary or starts
+increasing his demands. The benefactor can partially take on the
+execution of responsibilities/work, but over time he becomes tired on
+this and loses interest in his partner. Benefactor may feel irritation
+because he is unable to understand the requests and needs of the
+beneficiary. Beneficiary, in turn, trying to reach an understanding, can
+begin to over-dramatize the situation. He feels that the benefactor is
+not considering his interests and may make attempts to re-educate his
+partner, but this proves to be useless. The benefactor still does not
+understand what was wanted of him.
+
+The matter can end with break up of relations if the beneficiary does
+not accept his role and continues finding faults with the benefactor
+instead of simply helping him accomplish common tasks or projects.
+Mutual work is what unites this pair, in this case the relationship
+becomes stimulating and productive.
+
+**I.D. Vaisband, publications on Socionics**
+
+The beneficiary perceives any grumbling on part of the benefactor as a
+signal to action. However, to carry it out the beneficiary must gain
+distance from the benefactor. In a family situation this is difficult,
+which strains the relationship. The benefactor feels that without him
+the beneficiary won't make it, while beneficiary finds it impossible to
+leave such an outstanding person that he perceives benefactor to be. The
+benefactor activates the beneficiary, but to realize this momentum the
+beneficiary must spend some time away from him. These relations generate
+some of the most romantic love stories: partners agree and grow close,
+disagree and come apart, find that they can't live without each other,
+but neither can they be with each other. This doesn't make for the most
+successful marriages. One partner called the benefactor uses his
+"creative" function to activate the weak function of beneficiary.
+However, good reverse feedback does not exist in these relations, since
+both strong functions of beneficiary have no effect on the benefactor.
+This mechanism dictates the nature of these relations: everything that
+beneficiary says or does, the benefactor doesn't see as very important
+and significant, the beneficiary, in contrast, sees the benefactor as a
+very significant person. The request is impossible not to fulfill: it
+received by beneficiary's weak function that itself is unable to
+critically evaluate the information. Therefore, it is put into action
+without careful evaluation and without any resistance. The benefactor is
+not inclined to give much recognition to the beneficiary, seeing him as
+a weaker partner, so he tends to periodically patronize the beneficiary,
+order him around, attempt to teach him. Naturally, on occasion,
+beneficiary will try to distance from the benefactor. In a family, these
+conditions can be satisfied only if the beneficiary is actively involved
+in some activities or hobbies outside of home, he can then transmit the
+energy he has received from the benefactor onto his activities. If the
+beneficiary is not involved in any such activities, the likelihood of
+conflicts in such union increases.
+
+**O.B. Slinko, "The key to heart - Socionics"**
+
+One partner acts as a transmitter of social request [benefactor], the
+second - as its receiver [beneficiary]. The beneficiary is at a higher
+level of social development than the benefactor, however, in these
+relations he is assigned a subordinate role. The benefactor seems
+interesting, significant, sometimes even unapproachable, and at the same
+time the beneficiary feels that he understands benefactor's concerns and
+human flaws. The benefactor is as if always asking or requesting
+something from the beneficiary, the beneficiary as if owes something to
+the benefactor, he perfectly picks up on the position of the benefactor.
+Benefactor, however, does not fully hear the beneficiary and does not
+look into his problems: it seems that the beneficiary will somehow
+manage on his own and arrange his life in any case. To fulfill the
+social order, the beneficiary must get away from the direct influence of
+the benefactor. Therefore, in these relations the beneficiary will
+periodically put up some resistance and grumble at the benefactor in
+order to distance. Nevertheless, this kind of "disloyalty" has almost no
+psychological effect on the benefactor. These relations are
+distinguished by their emotional warmth, making benefit relations
+marriages to be quite common. In such families, both partners end up
+feeling some pressure: the benefactor because he or she willingly ends
+up taking the main share of responsibilities for both on his or her
+shoulders, and beneficiary from the constant psychological pressuring
+coming from his partner.
+
+**R.K. Sedih, "Informational psychoanalysis"**
+
+This interaction we shall analyze as a combination of activity and
+quasi-identity. Ego - Id plus Superid. The similar element spurs a surge
+of activity in the individual. In this way benefactors are similar to
+one's activity partners.
+
+C/O-request
+
+Quasi-identical component brings the possibility of mutual learning, but
+simultaneously there are difficulties in trying to convince your
+benefactor, prove something to him, or adopt his point of view. This
+sometimes leads to explicit or implicit long-standing arguments and
+disputes. These attempts, however, are not completely useless, because
+the partners do learn a lot from each other, but often still don't
+manage to reach a consensus. This often makes close proximity one-on-one
+communication between them rather tiresome and tedious. The component of
+activation can make the partners seem very attractive to each other
+after only minimal interaction. Following this, the partners get to know
+each other, become closer, which prompts discussions, during which they
+eventually grow tired of one another, temporarily part, then, after
+getting some rest, come together again. If you don't allow yourself to
+argue until losing your voice, the appeal of this interaction can
+persist for a long time. However, if you don't restrain yourself,
+antipathies may arise instead of sympathies. Especially dangerous is the
+development of such situation in marriage, because here communication
+happens on very close distances thus partners may attempt to persuade
+each other with great fervor and stubbornness. It is not necessary for
+negative feelings to arise. The couple can find an outlet for the excess
+energy that is released by investing it into activities outside their
+union.
+
+For example I know a family where the wife is SEI and the husband is
+LSI. Over thirty years of living together they have done a great deal of
+social work. The husband, who is a biologist by profession but working
+school teacher, has organized more than sixty expeditions with his
+students and helped found the nation's largest museum of biology. His
+wife of many years in addition to her regular job was also the head of
+women's council at a large organization and led an embroidery club. I
+must say that there were plenty of problems in this family. These
+conflicts were due to the fact that they were both sensing types. Their
+tastes in clothes and food did not match, neither was there agreement on
+how to conduct financial affairs of the family, and so on. Realizing
+that after decades of living together trying to prove anything to each
+other is useless, they, nevertheless, from time to time could not
+refrain from periodically quarreling.
+
+**Laima Stankevichyute "Intertype relations"**
+
+Those whose first love is their benefactor usually spend a long time as
+friends and later end up exchanging the vows. These relations make for
+some of the most romantic love stories, full of passion and other
+emotions. However, this romance does not last long, because after
+marriage more confusion starts. Mostly these aren't some major scandals
+on matters of great importance, however, the daily life becomes colored
+by persistent discontent. To the benefactor it seems that the
+beneficiary is always doing something wrong, and that it can be done
+better. Benefactor sees the beneficiary as dependent, spoiled, poorly
+adapted to life in some way - it seems that without him the beneficiary
+will be lost. So he spends his time demanding, teaching, explaining,
+while the beneficiary keeps trying. At the beginning of their
+acquaintance, the beneficiary feels proud and happy to have such an
+admirable person associate with him. From the standpoint of beneficiary,
+the benefactor is only lacking one small thing to reach his ideal, and
+this small thing the beneficiary tries to fill. However, it seems to him
+that he can never please the benefactor, that he is constantly
+dissatisfied with something. In fact, this is not the case. Just that
+the beneficiary does not hear the words of support for him. In all
+corrective comments and even in simple questions he imagines a reproach.
+Thus people in these relations often start fighting seemingly over
+nothing. The relationship becomes less pleasant, however, these types
+rarely part. The benefactor feels that the beneficiary will be quite
+lost without him, so he cannot leave. Beneficiary cannot leave because
+it is impossible to leave such an admirable, superior person as the
+benefactor. Life in such a family is usually complicated. It becomes
+impossible to perform even the most basic household work together.
+Therefore, in such families all household problems usually fall to one
+of the partners. Most often they are placed on the beneficiary. But
+there are families where beneficiary stops doing anything and finds
+another sphere of interest, for example, devotes extra time for work and
+business trips, gets new hobbies, spends more time outside of home
+gardening, repairs car in the garage, that is, becomes engaged only in
+those activities where the benefactor has no control over him. Many
+couples that break up then reform again, after some time, are often in
+these type of relations.
+
+**A.V. Bukalov, G. Boiko, "Why Saddam Hussein made a mistake, or what is
+Socionics"**
+
+Relations of benefit function as a conduit for transfer of social
+experience, socially significant information, between the quadra. This
+is needed for progress of society. Interestingly, in this pair both
+partners greatly admire each other. The beneficiary sees the benefactor
+as a person of great interest, while benefactor is delighted with
+beneficiary's ability to do things that he is not able to do. However,
+there is an asymmetry of perception: the benefactor is listened to, but
+the beneficiary is perceived as an interesting person, but not
+convincing enough. Thus the benefactor will try to help the beneficiary,
+try to explain something to him. In general, such relations are pleasant
+and friendly. However, excessive stimulation of the beneficiary prompts
+him to distance from the benefactor. Beneficiary does this to not get
+distracted from fulfilling already set objectives. Benefactor may become
+genuinely surprised by such behavior: "Where did he go? Why did he
+distance/leave?" From social point of view, relations of benefit are
+very important, because together with relations of supervision they
+enable not only transfer of information, but also create ties between
+quadra, thus forming rings of social progress.
+
+**Victor Gulenko, "Criteria of reciprocity"**
+
+*Direct request - integration for intervention*
+
+There is some tension in communication, however, it is quite attractive
+because in your partner you see someone who can implement your plans and
+ideas. Therefore, you start looking for a way to integrate with this
+person and earn his or her trust. This happens only when when you can
+catch them off guard, when he or she was distracted, relaxed, and had
+poor control over his or her actions. Coming out from the "hypnosis" the
+partner understands that he was in some degree used, after which there
+is a period of cooling in these relations. Discovering that your
+influence is weakening, you start to take steps to more fine-tuned
+integration. Communication for this reason has a sort of pulsating
+nature.
+
+*Reverse request - weary integration*
+
+Communication is not as much interesting as it is activating and
+mobilizing. You [the benefactor] are critical of the opinions and
+behaviors of your partner. During a silent moment, you start feeling
+uncomfortable. At times, it seems that your partner is ignoring or not
+noticing something, so then you start to forcibly bring the matter to
+his attention. You don't make efforts to befriend such a partner, more
+likely he invites you himself offering this or that project. Whether
+relations establish or not depends on whether he manages to interest
+you. Once you are sure that your partner indeed provides valuable
+information, you use it with great benefit for yourself.
+
+The reader, perhaps, is surprised to see new types of intertype
+relations - reverse order [benefit] and reverse supervision. Two reasons
+substantiate their existence. First, there should be sixteen types of
+intertype relations, not fourteen as with Aushra (social
+order-fulfillment and audit-report are two sides of the same relation).
+Second, as was demonstrated in practice, in the involutionary
+(:doc:`left <process_result>`) rings of socioprogress the rules are
+inverse, making benefit and supervision in involutionary and
+evolutionary rings be different types of relations. If evolutionary
+(:doc:`right <process_result>`) supervision consists of suppression of
+any deviations, then involutionary (:doc:`left <process_result>`)
+supervision is a demand for more precise formulations and additions.
+Involutionary benefit/social request can be compared to an attempt to
+find the right receiver for your information [beneficiary is looking for
+the right benefactor to pass information to]. Among evolutionary types,
+it is the selection of the transmitter who would supply you with
+valuable information [benefactor looks for the right beneficiary to
+receive information from].
+
+*Binary attributes of intertype relationships*
+
+Relations have extraverted character on both sides. They should be
+picked for stable business activities. Benefit dyads and triads have
+proven themselves to be very productive work groups, carrying out
+expansive policies in their sphere of activity. For family life, these
+relations are recommended only if both spouses are committed to carry
+out joint work with many outside contacts.
+
+Request plus-minus: Without constant verbal contact and planning both
+partners become confused, their performance deteriorates. High momentum
+of their activities can not be chaotic. Disruption of plans is such
+benefit pain is experienced as very painful.
+
+Request plus: Presupposes competence of benefactor in opinion of his
+beneficiary - ability to clearly and convincingly explain the essence
+and necessity of the proposed action. Request, which is not supported by
+facts but based on only emotion or one's ambition, does not lead to any
+progress in these relations. Amplifies specific component of thinking in
+a person, improving his organizational skills that are associated with
+the ability to soberly assess the situation and issue clear
+instructions. Beneficiary cannot be controlled through sheer enthusiasm
+and promises of bright prospects. Control is based on substantiated
+knowledge of the situation and experience in solving the problems of
+this kind.
+
+Request minus: Most dramatic, forces a person to feel very conflicted
+feelings. Falling into this type of relations, a person experiences an
+emotional surge. This awakens his creative powers, but also pushes a
+person towards making annoying mistakes due to lack of objectivity in
+assessing own achievements. Relations of anxiety and negative
+anticipation, but at the same it improves imagination and evokes
+confidence in own abilities. Beneficiary may generate very innovative
+original solutions that run ahead of the current situation.
+
+The benefactor must always be in work activity. He must stay in motion
+and set an active pace for work. Beneficiary experiences strong
+emotional dynamics. His state is dramatized: hopes give way to
+frustration, bitterness is mixed with pleasant feelings.
+
+Beneficiary aims to emulate the benefactor in his methods of solving
+problems, and the benefactor himself is not averse to teaching him his
+secrets. Thus, over time, they converge more and more. Simultaneously,
+the work pressure drops in this pair - it becomes exhausted and
+performance is much reduced. Customer and receiver become almost
+interchangeable representatives of the same dyad to the outside world.
+
+*Recommendations for integration*
+
+Such benefit partners want to integrate, they should not work in
+isolation. If this pair closes off into itself, the beneficiary starts
+to resist the actions of the benefactor (to reverse the order). If you
+want to establish reverse control, try to capture the attention of your
+benefactor with an unusual idea or proposition, but don't demand its
+immediate evaluation, simply distance yourself. Thinking over your
+suggestion the benefactor is very likely to accept it.
+
+In this pair, try to not fail each other's trust. Carry out what you
+have promised. Don't suddenly cancel joint plans and activities. Talk
+about your intentions beforehand. For issuing direct requests, the
+benefactor should try to adjust himself to the beneficiary, display
+goodwill, take care of him. Comfort in these situations is attained by
+way of mutual psychological work. Beneficiary should try to not
+over-dramatize events in these relations. It is better to express your
+emotions through a third party who can guide you away from extreme
+interpretations and offer comfort.
+
+**V.V. Gulenko, A.V. Molodtsev, "Introduction to socionics"**
+
+These relations are asymmetric: first partner relates to the second not
+in the same way as the later relates to the first. First partner, who is
+called request transmitter, or benefactor, looks at the second partner,
+called beneficiary, as someone who is a rank lower, underestimating him.
+The second partner, on the contrary, thinks that the other partner is an
+interesting, meaningful person, overestimating him at first.
+
+Beneficiary can become very fond of benefactor and admire his behavior,
+demeanor, ability to easily do that to which the beneficiary aspires,
+the style of his thoughts, his creative approach. In presence of
+benefactor, beneficiary unwittingly begins to try to win his favor, to
+please him, for some unknown reasons to himself. This starts with little
+things and then progresses more and more. From aside it looks as if the
+beneficiary is trying to somehow justify himself to the benefactor.
+
+At the same time there is something in behavior of benefactor that the
+beneficiary finds irritating. Those features that the benefactor
+demonstratively puts forward to attract attention and look good in
+public view seep into the subconscious of the beneficiary and awaken a
+vague desire to remove the conditions that make the benefactor act so
+unnaturally. The beneficiary may also be unaware what is it exactly that
+he is supposed to do? The issued request is not individual, but social
+in nature i.e. it encompasses problems of the groups of people to which
+this pair belongs.
+
+From aside, relations of benefit look smooth and conflict-free.
+Initiator of these relations is almost always the benefactor.
+Beneficiary feels that deep inside the benefactor is positively
+predisposed towards him. The benefactor tries to encourage and support
+the beneficiary in any way possible. Reciprocating feedback only happens
+at initial stages. Further attempts to establish relations on equal
+conditions are not successful, the reverse connection does not get any
+better. The benefactor, alas, does not hear the beneficiary. As a
+consequence of this, beneficiary moves away and tries to keep distance
+from the benefactor, sometimes may even start to pick on him by way on
+his base function which is much weaker in benefactor. Thus, these
+relations can be called a relations of patronage/protection in the
+absence of reciprocate action. Over time, the beneficiary may begin to
+completely disregard the benefactor. This happens when request has been
+fully understood as a social one.
+
+**Ekaterina Filatova "Art of understanding yourself and others"**
+
+These relations alike relations of audit are asymmetrical. One partner -
+the benefactor - activates the weak 4th function of the beneficiary.
+Good feedback is not here, since both strong functions of beneficiary do
+not affect the benefactor.
+
+This mechanism sets the nature of relations: everything that the
+beneficiary says and does, does not seem as significant to the
+benefactor, while the benefactor is perceived as a very substantial
+person in the sphere of benefactor's 2nd function (it is from here that
+the request is sent). The request is impossible not to carry out because
+it is picked up by beneficiary's weak 4th function that itself is unable
+to critically evaluate the information.
+
+A group of four people comprising single ring of benefit can very
+actively solve various creative problems. Especially effective is a
+group of eight people, which includes two parallel rings and four dual
+pairs. Here all participants are mobilized which increased their mental
+activity, but at the same time they do not become tired because duals
+support one another.
+
+**Eugene Gorenko, Vladimir Tolstikov, "Nature of self"**
+
+These are asymmetric relations. One of the partners is request
+transmitter, the other is request receiver. Transmitter seems like an
+admirable person to the receiver. Receiver very attentively listens to
+what the transmitter requests of him or requires, even if it is only a
+hint. Transmitter at the same time does not pay much attention to the
+actions and words of the receiver, although we should note that this is
+not always the case. Here we must also take into consideration the
+social level of the partners. If the level of the receiver is higher
+than that of the transmitter, then very fruitful mutual contact is
+possible.
+
+**Sergei Ganin**
+
+*Homoverted - Asymmetrical - Arrhythmical*
+
+These relations are asymmetrical. One partner, called the Benefactor, is
+always in a more favourable position in respect to the other partner who
+is known as Beneficiary.
+
+The Beneficiary thinks of the Benefactor as an interesting and
+meaningful person, usually over-evaluating them in the beginning. The
+Beneficiary can be impressed and delighted by their partner's behaviour,
+manners, thoughts and their ability to easily deal with things that the
+Beneficiary conceives as complicated. When partners are together, the
+Beneficiary involuntarily starts to ingratiate themselves with the
+Benefactor, trying to please them without any obvious reason. In the
+worst cases this starts from little things and then becomes bigger until
+the Beneficiary realises the foolishness of their situation.
+
+The Beneficiary can see the weakness of the Benefactor, wishing to help
+their partner to strengthen themselves. Because the strongest point of
+the Beneficiary is the weak and unconscious point of the Benefactor, the
+Beneficiary is convinced that they are able to help. However, when the
+Beneficiary tries to help, the Benefactor usually refuses the help
+without any good explanation. The Beneficiary usually listens to every
+word the Benefactor says but there is no feedback, the Benefactor can
+not hear the Beneficiary. This may be sometimes unpleasant and even
+irritating for the Beneficiary.
+
+The Benefactor accepts the Beneficiary as somebody who is lower in rank
+or social position and often undervalues them in the beginning. The
+reason for this is that the Benefactor feels that the Beneficiary needs
+something from them, that special something that only the Benefactor can
+provide. Therefore the Benefactor naturally finds themselves in an
+advanced position in respect to the Beneficiary, but are at the same
+time willing to encourage and take care of the Beneficiary.
+
+Relations of Benefit may appear even and conflict free. Usually it is
+the Benefactor who initiates the contact. Partners can even feel some
+kind of spiritual connection between them. However, relations last only
+as long as the Benefactor has something to give and the Beneficiary has
+need of it. If this major condition is no longer fulfilled, relations
+enter quite an unpleasant stage of their development. The Beneficiary
+may begin ignoring the Benefactor completely or they may start to
+accentuate too many of the Benefactors inability, provoking arguments
+and quarrels. Finally, when the Benefactor is in a superior position to
+the Beneficiary, it can work quite well, but not when it is the other
+way round!
+
+
+Benefit Rings
+-------------
+
+Benefactor -> Beneficiary (e.g. SEI is the Benefactor of LSI, and so
+forth.)
+
+**Left Ring of Benefit**  These types are :doc:`Process <process_result>` under
+the :doc:`Reinin dichotomies <reinin_dich>`.
+
+-  SEI -> LSI -> ILI -> EII -> SEI  ...
+-  ILE -> EIE -> SEE -> LSE -> ILE  ...
+
+**Right Ring of Benefit**  These types are :doc:`Result <process_result>` under
+the :doc:`Reinin dichotomies <reinin_dich>`.
+
+-  LII -> SLI -> ESI -> IEI -> LII  ...
+-  ESE -> IEE -> LIE -> SLE -> ESE  ...
+
+Theoretical properties of benefit relations
+-------------------------------------------
+
+Benefit pairs share the Introversion / Extroversion :doc:`Jungian dichotomy <jungian>`; if one partner is an introvert, the
+other will also be an introvert. Beneficiaries and Benefactors also
+share the :doc:`Reinin trait <reinin_dich>` of Process / Result but
+alternate on Positivist / Negativist and Static / Dynamic traits.
+
+Types united into benefit rings have compatible :doc:`cognitive styles <cognitive_styles>`. For each type both its Benefactor
+and Beneficiary will share the cognitive style of its dual type. For
+example, for type LII with H-P cognitive style, it's Beneficiary SLI and
+Benefactor IEI both have V-S cognitive style, same as LII's dual ESE.
+This arrangement likely eases information transfer between types in
+benefit pairs and makes their interaction feel more fulfilling and
+engaging. Some socionics literature notes that Benefit relations are
+close to Dual relations in their relative strength.
+
+
+
+Model A
+~~~~~~~
+
+-  Benefactor: Functions 1, 2, 3, 4, 5, 6, 7, 8 reflect on functions 8, 5, 6, 7, 4, 1, 2, 3.
+-  Beneficiary: Functions 1, 2, 3, 4, 5, 6, 7, 8 reflect on functions 6, 7, 8, 5, 2, 3, 4, 1.
+
+.. list-table:: Functions of :doc:`Model A <model_a>`
+    :header-rows: 1
+
+    * - Partner 1
+      - Partner 2
+    * - :ref:`base function <leading-func>`
+      - :ref:`demonstrative function <demonstrative-func>`
+    * - :ref:`creative function <creative-func>`
+      - :ref:`suggestive function <suggestive-func>`
+    * - :ref:`role function <role-func>`
+      - :ref:`mobilizing function <activating-func>`
+    * - :ref:`vulnerable function <PoLR-func>`
+      - :ref:`ignoring function <ignoring-func>`
+    * - :ref:`suggestive function <suggestive-func>`
+      - :ref:`vulnerable function <PoLR-func>`
+    * - :ref:`mobilizing function <activating-func>`
+      - :ref:`base function <leading-func>`
+    * - :ref:`ignoring function <ignoring-func>`
+      - :ref:`creative function <creative-func>`
+    * - :ref:`demonstrative function <demonstrative-func>`
+      - :ref:`role function <role-func>`
+
+
+
+Reinin traits
+~~~~~~~~~~~~~~~~~~~
+
+As with all non-identical types, benefit partners have exactly 7 :doc:`Reinin traits <reinin_dich>` in common, with the remaining 8 not in common.
+
+If the benefactor is :doc:`rational <ration_irration>`:
+
+* **In Common**: |EI| · |PR| · |AD| · |TF| · |YO| · |TS| · |JD|
+* **Not in Common**: |NS| · |CF| · |CE| · |MS| · |jp| · |SD| · |DA| · |PN|
+
+If the benefactor is :doc:`irrational <ration_irration>`:
+
+* **In Common**: |EI| · |PR| · |AD| · |NS| · |CF| · |CE| · |MS|
+* **Not in Common**: |TF| · |YO| · |TS| · |JD| · |jp| · |SD| · |DA| · |PN|
+
+External Links
+--------------
+
+`Relations of Benefit <http://www.socionics.com/rel/bn.htm>`_
+
+
+.. |EI| replace:: :doc:`extraversion and introversion <extra_intro>`
+.. |DA| replace:: :doc:`democratic and aristocratic <democratic_aristocratic>`
+.. |TS| replace:: :doc:`tactical and strategic <tactical_strategic>`
+.. |CE| replace:: :doc:`constructivist and emotivist <constructivist_emotivist>`
+.. |PN| replace:: :doc:`positivist and negativist <positivist_negativist>`
+.. |JD| replace:: :doc:`judicious and decisive <judicious_decisive>`
+.. |MS| replace:: :doc:`merry and serious <merry_serious>`
+.. |NS| replace:: :doc:`sensing and intuition <sensing_intuition>`
+.. |TF| replace:: :doc:`ethics and logic <ethics_logic>`
+.. |jp| replace:: :doc:`rationality and irrationality <ration_irration>`
+.. |CF| replace:: :doc:`carefree and farsighted <carefree_farsighted>`
+.. |YO| replace:: :doc:`yielding and obstinate <yielding_obstinate>`
+.. |SD| replace:: :doc:`static and dynamic <statics_dynamics>`
+.. |PR| replace:: :doc:`process and result <process_result>`
+.. |AD| replace:: :doc:`asking and declaring <asking_declaring>`

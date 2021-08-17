@@ -1,0 +1,22 @@
+Model J
+==============
+
+Model J (Модель Ю in Russian) is an early socionic model which contains the :doc:`functions <functions>` 1, 2, 4 and 5 of :doc:`Model A <model_a>`. :doc:`Augusta <augusta>` created Model J simply as a visual representation of :doc:`Carl Jung <jung>`'s descriptions of four functions of the psyche. Later, as she developed her theory, she replaced Model J with Model A, which contained all eight :doc:`IM elements <elements>` and provided a fuller picture of the psyche and information interaction between types.
+
+In Model J, for example, an ILE would be: |Ne| |Ti| |Fi| |Se|
+
+Today Model J is used by a small handful of "old school" socionists, most notably :doc:`Ekaterina Filatova <filatova>`.
+
+References:
+
+* `Model K and Model J by Ausra Augustinaviciute <http://www.socionic.ru/index.php/2010-10-04-22-22-38/1331-model_yu_augustinavichyute_aushra>`__
+
+.. |Ne| image:: Symbol_i.gif
+.. |Ti| image:: Symbol_l.gif
+.. |Ni| image:: Symbol_t.gif
+.. |Te| image:: Symbol_p.gif
+.. |Fe| image:: Symbol_e.gif
+.. |Se| image:: Symbol_f.gif
+.. |Fi| image:: Symbol_r.gif
+.. |Si| image:: Symbol_s.gif
+

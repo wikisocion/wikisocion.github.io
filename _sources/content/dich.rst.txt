@@ -1,0 +1,158 @@
+Dichotomies
+=====================
+
+A dichotomy is a binary trait that divides phenomena into one of two opposite categories. Dichotomies are a necessary attribute of any typology. For example, :doc:`Jung's Typology <jung_typology>` divides people using four dichotomies: extraverted / introverted, rational / irrational, thinking / feeling, and intuitive / sensing. There are 16 possible combinations of the axes or poles of these four dichotomies. 
+
+Dichotomies in Jung's Typology and in socionics exist side by side with functional models and are generally recognized to be a result of the positioning of various :doc:`information elements <elements>` in different :doc:`functions <functions>` of the model, rather than an independent property. For example, rationality/irrationality and extroversion/introversion dichotomies are defined by the information element positioned in first function of the type, while sensing/intuition and ethics/logic dichotomies are determined by the identity of information elements found in the ego block of the type. Dichotomies are fundamentally built into the rules of information element and function positioning in model of the TIMs. 
+
+Dichotomies are applied in treatment of other key aspects of socionics, such as :doc:`intertype relations <intertype>`. These influences are perhaps harder to understand, since intertype relations theory was originally built upon the interaction of IM elements rather than dichotomies. However, several contemporary socionists, such as :doc:`V. Stratievskaya <vera>` and :doc:`V. Gulenko <gulenko>`, apply both Jungian and Reinin dichotomies to further explain the dynamics and properties of various intertype relations, as well as expand upon such subjects in socionics as characterization of quadra and quadra progression. Smilexian socionics is another attempt to achieve descriptions that factor in dichotomous influences. 
+
+Compared to the :doc:`Myers-Briggs Typology <MBTI>`, socionics employs quite a few additional dichotomies. Some socionists, like :doc:`Viktor Gulenko <gulenko>`, integrate into their systems dichotomies from outside socionics, especially to characterize :doc:`intratype differences <intratype_diff>`. 
+
+Formal Properties
+--------------------------
+
+All dichotomies are:
+
+* **Jointly Exhaustive** - Each dichotomy can categorize all elements in its group.
+* **Mutually Exclusive** - An element cannot fit both traits at the same time. 
+
+Dichotomies in socionics have two additional properties:
+
+* **Central** - Pairs of traits have the same number of elements.
+* **Symmetric** - Traits can be divided evenly in half by other related dichotomies 
+
+The only exception to the last two rules is the identity dichotomy, a mathematically necessary dichotomy for Reinin's style of structure. 
+
+Type dichotomies
+----------------------------
+
+In socionics, each type is characterized by one trait (or pole) of each
+of the following 15 dichotomies. The first four are referred to as the
+:doc:`Jungian foundation <jungian>`, and the other 11 are
+referred to as :doc:`Reinin dichotomies <reinin_dich>`, named after
+the socionist :doc:`Grigoriy Reinin <reinin>`, who mathematically
+demonstrated the existence of a total of 15 orthogonal dichotomies.
+Technically speaking, the Jungian foundation is a subset of the Reinin
+dichotomies, although they are given much more attention in socionics
+and are not questioned.
+
+Each Reinin dichotomy is either dependent or independent of (and hence
+"orthogonal to") each of the dichotomies in the Jungian foundation. Its
+"tier" is the number that it is dependent on. This means that the number
+of dichotomies in the *n*\ th tier must be :sub:`4`\ C\ :sub:`n`, where
+C denotes `combination <http://en.wikipedia.org/wiki/Combination>`_.
+The idea of grouping dichotomies into "tiers" seems to have come from
+:doc:`Dmitriy Lytov <lytov>`, and not G. Reinin himself.
+
+In 2003, a socionics research group at the laboratory of
+interdisciplinary researches of The Institute of Biology and Psychology
+of Humans (IBPCH) has conducted a study which attempted to test for,
+characterize and substantially augment what is known about several
+Reinin groups, presented actual statements made by research subjects, as
+well as advance and test a number of hypotheses. Their publication can
+be found here: :doc:`Reinin Dichotomies: Study Results <reinin_study>`.
+
+Jungian foundation (or first-tier dichotomies)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+-  :doc:`Extraverted / Introverted <extra_intro>`
+   (sometimes called **Extratim** / **Introtim**)
+-  :doc:`Sensing / Intuitive <sensing_intuition>`
+-  :doc:`Ethical / Logical <ethics_logic>`
+-  :doc:`Rational / Irrational <ration_irration>` (sometimes
+   called **Shizotyme** / **Cyclotyme** or **Rigid** / **Labile**)
+
+This first grouping of dichotomies, the :doc:`Jungian foundation <jungian>`, is used universally among
+socionists. The rest are somewhat controversial, but popular among many
+socionists. To understand where they came from, read about the :doc:`Reinin dichotomies <reinin_dich>`.
+
+Second-tier dichotomies
+~~~~~~~~~~~~~~~~~~~~~~~
+
+-  :doc:`Static / Dynamic <statics_dynamics>`
+-  :doc:`Yielding / Obstinate <yielding_obstinate>` (sometimes called **Resource-protecting** / **Interest-protecting**)
+-  :doc:`Aristocratic / Democratic <democratic_aristocratic>`
+-  :doc:`Tactical / Strategic <tactical_strategic>`
+-  :doc:`Constructivist / Emotivist <constructivist_emotivist>`
+-  :doc:`Carefree / Farsighted <carefree_farsighted>` (sometimes called **Incidental** / **Cautious**)
+
+Third-tier dichotomies
+~~~~~~~~~~~~~~~~~~~~~~
+
+-  :doc:`Merry / Serious <merry_serious>` (sometimes called **Subjectivist** / **Objectivist** or **Ascending** / **Descending**)
+-  :doc:`Judicious / Decisive <judicious_decisive>` (sometimes called **Reasonable** / **Resolute** or **Peripheral** / **Central**)
+-  :doc:`Positivist / Negativist <positivist_negativist>`
+-  :doc:`Process / Result <process_result>` (also known as **Right** / **Left** or **Evolutory** / **Involutory**)
+
+Fourth-tier dichotomies
+~~~~~~~~~~~~~~~~~~~~~~~
+
+-  :doc:`Asking / Declaring <asking_declaring>` (sometimes called **Questim** / **Declatim** or **Interrogative** / **Declarative**)
+
+Function dichotomies
+--------------------
+
+:doc:`Functions <functions>` can be categorized by using seven :doc:`Function dichotomies <function_dich>`:
+
+-  :ref:`Mental <mental>` / :ref:`Vital <mental>`
+-  :ref:`Accepting <accepting>` / :ref:`Producing <accepting>`
+-  :ref:`Strong <strong>` / :ref:`Weak <strong>`
+-  :ref:`Inert <contact>` / :ref:`Contact <contact>`
+-  :ref:`Valued <valued>` / :ref:`Subdued <valued>`
+-  :ref:`Evaluatory <evaluatory>` / :ref:`Situational <evaluatory>`
+-  :ref:`Bold <bold>` / :ref:`Cautious <bold>`
+
+Element dichotomies
+-------------------
+
+:doc:`Information elements <elements>` can be categorized by
+using seven :doc:`element dichotomies <elements>`:
+
+-  Extroverted / Introverted
+-  Irrational / Rational
+-  Static / Dynamic
+-  External / Internal
+-  Abstract / Involved
+-  Alpha / Gamma
+-  Beta / Delta
+
+
+Links
+---------------------
+
+.. list-table:: Type :doc:`dichotomies <dich>`
+    :header-rows: 0
+    :align: center
+
+    * - |jp|
+      - |EI|
+      - |NS|
+    * - |TF|
+      - |SD|
+      - |PR|
+    * - |PN|
+      - |AD|
+      - |CE|
+    * - |CF|
+      - |YO|
+      - |TS|
+    * - |MS|
+      - |JD|
+      - |AD|
+
+.. |EI| replace:: :doc:`Extraversion and introversion <extra_intro>`
+.. |DA| replace:: :doc:`Democratic and aristocratic <democratic_aristocratic>`
+.. |TS| replace:: :doc:`Tactical and strategic <tactical_strategic>`
+.. |CE| replace:: :doc:`Constructivist and emotivist <constructivist_emotivist>`
+.. |PN| replace:: :doc:`Positivist and negativist <positivist_negativist>`
+.. |JD| replace:: :doc:`Judicious and decisive <judicious_decisive>`
+.. |MS| replace:: :doc:`Merry and serious <merry_serious>`
+.. |NS| replace:: :doc:`Sensing and intuition <sensing_intuition>`
+.. |TF| replace:: :doc:`Ethics and logic <ethics_logic>`
+.. |jp| replace:: :doc:`Rationality and irrationality <ration_irration>`
+.. |CF| replace:: :doc:`Carefree and farsighted <carefree_farsighted>`
+.. |YO| replace:: :doc:`Yielding and obstinate <yielding_obstinate>`
+.. |SD| replace:: :doc:`Static and dynamic <statics_dynamics>`
+.. |PR| replace:: :doc:`Process and result <process_result>`
+.. |AD| replace:: :doc:`Asking and declaring <asking_declaring>`

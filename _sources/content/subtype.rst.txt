@@ -1,0 +1,156 @@
+Subtype
+===================
+
+Introduction
+------------
+
+When individuals of the same socionic type can be grouped into
+subcategories by certain traits, we speak of "**subtypes**." Many
+socionists use some kind of subtype system to help describe :doc:`intratype differences <intratype_diff>`. A number of such systems are
+familiar to many western readers.
+
+
+
+Subtyping Systems
+-----------------
+
+This subtype theory is based on the premise that, within the same type,
+some individuals are inclined to have an strengthening, focus, or
+accentuation of a particular function(s) of their TIM model. This
+strengthening has an effect across the entire TIM model, which
+introduces variations to type expression within a type. Several
+socionics authors have tried to capture subtype variations in their
+descriptions of subtypes. Since type subtypes modify the expression of
+several traits, such as extroversion/introversion and
+rationality/irrationality along with others, some socionics
+practitioners recognize their influence in determining type.
+
+The most commonly used subtype systems are 2-subtype systems such as
+"Contact/Inert" and "Accepting/Producing", and a 4-subtype system called
+"Dominant/Creative/Normalizing/Harmonizing", abbreviated as DCNH.
+
+
+
+Accepting / Producing Subtypes
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Accepting/Producing subtypes refers to accentuation of :ref:`accepting functions <accepting>` (1, 3, 5, 7)
+versus :ref:`producing functions <accepting>` (2, 4, 6, 8)
+of TIM model.
+
+**Accepting subtype** corresponds to accentuation of "accepting"
+functions 1, 3, 5, 7; these are Program, Ignoring, Role, and
+Suggestive.
+
+**Producing subtype** corresponds to accentuation of "producing"
+functions 2, 4, 6, 8; these are Creative, Demonstrative, Activating,
+and Vulnerable.
+
+
+
+Contact / Inert Subtypes
+~~~~~~~~~~~~~~~~~~~~~~~~
+
+This system of subtypes was proposed by V. Meged and A. Ovcharov. It is
+based on the premise that within a type some individuals will be more
+inclined to focus on their :ref:`inert functions <contact>` (1, 4, 6, 7), and
+others, on their :ref:`contact functions <contact>` (2, 3, 5, 8).
+
+**Contact subtype** corresponds to strengthening of contact functions
+2, 3, 5, 8. These are Creative, Demonstrative, Suggestive, and Role
+:doc:`functions <functions>`.
+
+**Inert subtype** corresponds to strengthening of inert functions 1,
+4, 6, 7. These are Base, Ignoring, Activating, and Vulnerable
+:doc:`functions <functions>`.
+
+Theoretical information underpinning Contact-Inert subtype system is
+further described in the following articles:
+
+-  :ref:`Contact and Inert Functions <contact>`
+-  :doc:`Contact and Inert Subtypes by Meged and Ovcharov <contact_inert_subtypes>`
+-  :doc:`On Specialization of Functions of Model A by Tsypin <specialization_functions>`
+
+
+Terminating / Initiating Subtypes
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Terminating/Initiating is a subtype notation introduced by :doc:`Victor Gulenko <gulenko>`. This subtyping system is based on
+strengthening of the :ref:`first, "program" function <leading-func>` versus the :ref:`second, "creative" function <creative-func>` of TIM model.
+
+**Terminating (or terminal) subtype** refers to streightening of the
+first, "program" function.
+
+**Initiating (or initial) subtype** refers to strengthening of the
+second, "creative" function.
+
+
+
+DCNH Subtypes
+~~~~~~~~~~~~~
+
+DCNH is a theory with 4 different subtypes proposed by Victor Gulenko.
+
+* **Dominating subtype (D)**
+* **Creative subtype (C)**
+* **Normalizing subtype (N)**
+* **Harmonizing subtype (H)**
+
+Further explication and profiles of the four subtypes can be found in
+the following articles:
+
+-  :doc:`Theory of Subtypes: System of DCNH by Victor Gulenko <DCNH>`
+-  :doc:`DCNH Subtypes: Empirical Portraits by Vera Borisova <DCNH_Borisova>`
+
+Notation
+--------
+
+Like the names of core socionics types, subtypes can be called by
+different names (though most are fairly similar). This nomenclature can
+reference a particular subtyping system a person is using or assume a
+more general form. For example, type EII with strengthened second,
+creative intuitive function can be called:
+
+-  Ne-EII or EII-Ne (the most common notation)
+-  EII intuitive subtype
+-  EII creative subtype
+-  EII contact subtype
+-  EII producing subtype
+-  intuitive/producing/contact EII
+-  terminating/initiating EII
+
+
+
+Dual-type theory
+----------------
+
+Dual-type theory is the proposition that individuals are in possession
+of two personality types which work together to create the experience of
+reality, see :doc:`Dual-type theory <dual_type_theory>`. Although this
+theory is highly speculative, Carl Jung himself hinted at the
+possibility of more than one simultaneous type in :doc:`Psychological Types <psychological_types>`.
+
+
+
+Criticism of subtype systems
+----------------------------
+
+Critics of subtype systems say that in practice an emphasis on
+identifying subtypes draws attention away from the more central task of
+:doc:`diagnosing type <diagnosis>`. Subtypes can be used as a
+"cop-out" to avoid taking a stance on a person's type, or for explaining
+traits and behavior that contradict the basic type the socionist has
+diagnosed. Critics say that in many cases the basic type has been
+incorrectly diagnosed, and the addition of a "subtype" simply masks the
+contradiction.
+
+Some socionists think that subtypes are best used to retroactively
+explain behavior of a person whose type is already known.
+
+
+
+See also
+--------
+
+-  :doc:`Accentuation of Functions <accentuation_of_functions>`
+-  :doc:`Visual Identification of Subtypes <vi_subtype>`

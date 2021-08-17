@@ -1,0 +1,79 @@
+EP temperament
+=====================
+
+The **EP temperament**, or **flexible-maneuvering temperament**, was
+identified by :doc:`Viktor Gulenko <gulenko>` and includes the four
+:doc:`irrational <ration_irration>` :doc:`extroverts <extra_intro>` (one in each
+:doc:`quadra <quadra>`): :doc:`ILE <ILE>`, :doc:`SLE <SLE>`, :doc:`SEE <SEE>`, and
+:doc:`IEE <IEE>`. Each of these types is also :doc:`static <statics_dynamics>`.
+
+
+Typical characteristics
+-----------------------
+
+-  flexible
+-  mobile
+-  impulsive, shifting from apparent inactivity to bursts of energy,
+   often several times a day, showing impatience during them
+-  walk is energetic but "cat-like"
+-  often seems optimistic and open-minded
+-  entertains people easily and naturally
+-  inclined to fidget when forced to remain inactive for long periods
+
+EPs are both static and irrational, so they perceive reality as mostly
+not changing, and when it does, it's in abrupt "leaps" from one state to
+another. An EP is bothered by the lack of change, especially as seen
+through his :ref:`leading function <leading-func>`, since his personal
+preference is for change. That makes him impulsive, with sudden bursts
+of action, energy, or even just thought, as he tries to get his
+perceptions "moving".
+
+As extroverts, EPs tend to be feel that it is up to them to initiate
+contacts with other people, and EPs in particular tend to feel quite
+natural in that role.
+
+Perception of other temperaments
+--------------------------------
+
+**Exxj**: Eps perceive Ejs as active but too restless and nervous,
+slightly annoying due to a lack of sense of spontaneity.
+
+**Ixxp**: Eps perceive Ips as pleasantly flexible and responsive to
+their initiatives, sometimes too unpredictable but for that very reason
+never boring.
+
+**Ixxj**: Eps perceive Ijs as too predictable and boring, too unwilling
+to do things on the spur of the moment.
+
+
+.. list-table:: Small Groups
+    :header-rows: 0
+    :stub-columns: 1
+
+    * - :doc:`Quadras <quadra>`
+      - :doc:`Alpha <alpha_quadra>`
+      - :doc:`Beta <beta_quadra>`
+      - :doc:`Gamma <gamma_quadra>`
+      - :doc:`Delta <delta_quadra>`
+    * - :doc:`Clubs <club>`
+      - :doc:`Researchers <club_researchers>`
+      - :doc:`Socials <club_socials>`
+      - :doc:`Pragmatists <club_pragmatists>`
+      - :doc:`Humanitarians <club_humanitarians>`
+    * - :doc:`Temperaments <temperament>`
+      - :doc:`EP <EP>`
+      - :doc:`EJ <EJ>`
+      - :doc:`IP <IP>`
+      - :doc:`IJ <IJ>`
+    * - :doc:`Communication Styles <communication_styles>`
+      - Business-like
+      - Passionate
+      - Cold-blooded
+      - Sincere
+    * - :doc:`Romance Styles <romance_styles>`
+      - :doc:`Aggressor <aggressor>`
+      - :doc:`Victim <victim>`
+      - :doc:`Caring <caring>`
+      - :doc:`Childlike <childlike>`
+
+

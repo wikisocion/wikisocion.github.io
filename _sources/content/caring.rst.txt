@@ -1,0 +1,138 @@
+Caring
+=============
+
+The **Caring** types, identified as such by :doc:`Viktor Gulenko <gulenko>`, are the four types with **Si** |symbol_s.gif| **in their
+ego block**, two types in :doc:`Alpha quadra <alpha_quadra>` and two types in
+:doc:`Delta Quadra <delta_quadra>`: :doc:`ESE <ESE>`, :doc:`SEI <SEI>`, :doc:`LSE <LSE>`,
+and :doc:`SLI <SLI>`.
+
+Despite the differences between these types in terms of
+:doc:`temperament <temperament>`, :ref:`base function <leading-func>`, and
+:doc:`quadra <quadra>` `values <quadra>`, it seems that in the area of
+physical attraction, desire, and flirting, the :ref:`ego <ego-block>`
+:doc:`element <elements>` Si |symbol_s.gif| is the most significant factor
+in determining Caring type's behavior.
+
+
+Typical Characteristics of "Caring" Romancing Style
+---------------------------------------------------
+
+-  Inclination towards smooth, easy flowing, "soft" or suave interaction
+   with elements of playful teasing, rather than "hard" approach and
+   direct physical provocation.
+-  Attraction is sparked by aesthetic and mental attributes of the
+   prospective partner, but cools if such attributes are accompanied by
+   an overly "aggressive" sexuality.
+-  Caring types are attentive in courtship. In conversation, they are
+   inclined to focus their attention on the statements and needs of
+   their partner, and may ask questions concerning how their partner is
+   doing and how are they feeling.
+-  Interest is kept up if their partner is welcoming of their care and
+   attention, and even evokes it, and seeks them out.
+-  Prone to assume that partner needs their support and help in everyday
+   daily matters, and in meeting their needs.
+-  Neutral as to who ended a relationship. "Power" is not seen as
+   important in such matters, though the ethical matters may still be of
+   importance.
+
+This romance style is defined by focus on Si |symbol_s.gif| which is
+dynamic, irrational, and introverted, with perceptions of the present
+reality and physical sensations rather than inner imagery. This means
+that a Caring type sees attraction between two individuals as a dynamic
+state, which he feels is completely natural, as he also sees the
+physical comfort and well-being of another person as dynamic. This
+accounts for a Caring type's inclination to focus on the mutual
+attraction, or particularly the attraction felt by the other person, as
+connected to that person's physical well-being. The individual's own
+dynamic and introverted Ne |symbol_s.gif| perceptions lead to a sense of
+sleepy drifting in them, which makes him welcome |symbol_i.gif| impulses
+from another person designed to shake him out of it from time to time.
+
+Perception of other romance styles
+----------------------------------
+
+This refers to perceptions of the partner in a romantic or prospective
+relationship.
+
+:doc:`Aggressor <aggressor>`\ **:** Caring types tend to perceive
+Aggressors as a bit over-the-top in their approach to romantic
+interactions and sexuality and ultimately not pleasant to have stable
+intimate relationships with.
+
+:doc:`Victim <victim>`\ **:** Caring types tend to perceive Victims as
+puzzling and never contented, sometimes as paranoid and insecure.
+
+:doc:`Caring <caring>`\ **:** Caring types tend to perceive other Caring
+types as comfortable partners, but ultimately somehow less than
+satisfactory, having excessive focus on their needs while not clearly
+demonstrating their own.
+
+:doc:`Childlike <childlike>`\ **:** Caring types tend to perceive Childlike
+types as fun, interesting, and delightful partners, who make refreshing,
+unusual, and sometimes very clever comments, that bring a sense of joy
+to their lives.
+
+
+Description from :doc:`Life Scenarios <life_scenarios>` by V. Gulenko
+---------------------------------------------------------------------------------
+
+**"Caring"** man (LSE, SLI, SEI, ESE). Experienced, attentive to the
+inner world of a woman partner, who can positively predispose towards
+himself with protective courtship. In love games he very much
+appreciates feminine tenderness and vulnerability, and waits admiration
+of his life experiences and skills.
+
+**"Caring"** woman (LSE, SLI, SEI, ESE). Inclined to care for her male
+partner. She is attracted to weak but intelligent men who accept her
+lead in daily activities. She likes to support, to protect, to cheer
+them up. These character traits that in the public opinion don't evoke
+respect for men, this woman forgives or finds them perfectly acceptable.
+
+"Caring" woman is rejecting of intense, but rough caresses. Erotic games
+that are deprived of foreplay and based on force oppress her sexuality,
+thus relations with strong forceful men are often disappointing to her.
+The behavior of compatible man must be "child-like" i.e. reluctant,
+waiting-enticing. This woman loves caresses that are expressed as
+gentle, subtle touches of her erogenous zones. Relationship with a
+"Victim" man is not satisfactory to her either, because his caprices,
+tricks, and provocations of force from her surprise and repel her.
+Relations with similar to her "Caring" man after some time start to
+disappoint her, although she doesn't have much against such a
+relationship. Sooner or later, she feels a lack of spiritual connection
+in them.
+
+
+.. list-table:: Small Groups
+    :header-rows: 0
+    :stub-columns: 1
+
+    * - :doc:`Quadras <quadra>`
+      - :doc:`Alpha <alpha_quadra>`
+      - :doc:`Beta <beta_quadra>`
+      - :doc:`Gamma <gamma_quadra>`
+      - :doc:`Delta <delta_quadra>`
+    * - :doc:`Clubs <club>`
+      - :doc:`Researchers <club_researchers>`
+      - :doc:`Socials <club_socials>`
+      - :doc:`Pragmatists <club_pragmatists>`
+      - :doc:`Humanitarians <club_humanitarians>`
+    * - :doc:`Temperaments <temperament>`
+      - :doc:`EP <EP>`
+      - :doc:`EJ <EJ>`
+      - :doc:`IP <IP>`
+      - :doc:`IJ <IJ>`
+    * - :doc:`Communication Styles <communication_styles>`
+      - Business-like
+      - Passionate
+      - Cold-blooded
+      - Sincere
+    * - :doc:`Romance Styles <romance_styles>`
+      - :doc:`Aggressor <aggressor>`
+      - :doc:`Victim <victim>`
+      - :doc:`Caring <caring>`
+      - :doc:`Childlike <childlike>`
+
+
+
+.. |symbol_s.gif| image:: Symbol_s.gif
+.. |symbol_i.gif| image:: Symbol_i.gif

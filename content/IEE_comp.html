@@ -1,0 +1,342 @@
+<!doctype html>
+<html class="no-js">
+  <head><meta charset="utf-8"/>
+    <meta name="viewport" content="width=device-width,initial-scale=1"/>
+    <meta name="color-scheme" content="light dark"><link rel="index" title="Index" href="../genindex.html" /><link rel="search" title="Search" href="../search.html" /><link rel="next" title="Wikisocion SLI composite" href="SLI_comp.html" /><link rel="prev" title="Wikisocion ESI composite" href="ESI_comp.html" />
+
+    <meta name="generator" content="sphinx-4.1.2, furo 2021.08.11.beta42"/>
+        <title>Wikisocion IEE composite - Wikisocion</title>
+      <link rel="stylesheet" type="text/css" href="../_static/pygments.css" />
+    <link rel="stylesheet" type="text/css" href="../_static/styles/furo.css?digest=197f00461d56902ea7ca048ec6e6ba026f62c97b" />
+    <link rel="stylesheet" type="text/css" href="../_static/styles/furo-extensions.css?digest=93475b62d1c3bc01323a0eefdc14a62d77b12690" />
+    
+    
+
+
+<style>
+  body {
+    --color-code-background: #f8f8f8;
+  --color-code-foreground: black;
+  
+  }
+  body[data-theme="dark"] {
+    --color-code-background: #202020;
+  --color-code-foreground: #d0d0d0;
+  
+  }
+  @media (prefers-color-scheme: dark) {
+    body:not([data-theme="light"]) {
+      --color-code-background: #202020;
+  --color-code-foreground: #d0d0d0;
+  
+    }
+  }
+</style>
+    <link media="(prefers-color-scheme: dark)" rel="stylesheet" href="../_static/pygments_dark.css"></head>
+  <body>
+    
+<svg xmlns="http://www.w3.org/2000/svg" style="display: none;">
+  <symbol id="svg-toc" viewBox="0 0 24 24">
+    <title>Contents</title>
+    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+      stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+      <path stroke="none" d="M0 0h24v24H0z" />
+      <line x1="4" y1="6" x2="20" y2="6" />
+      <line x1="10" y1="12" x2="20" y2="12" />
+      <line x1="6" y1="18" x2="20" y2="18" />
+    </svg>
+  </symbol>
+  <symbol id="svg-menu" viewBox="0 0 24 24">
+    <title>Menu</title>
+    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+      stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather-menu">
+      <line x1="3" y1="12" x2="21" y2="12"></line>
+      <line x1="3" y1="6" x2="21" y2="6"></line>
+      <line x1="3" y1="18" x2="21" y2="18"></line>
+    </svg>
+  </symbol>
+  <symbol id="svg-arrow-right" viewBox="0 0 24 24">
+    <title>Expand</title>
+    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+      stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather-chevron-right">
+      <polyline points="9 18 15 12 9 6"></polyline>
+    </svg>
+  </symbol>
+  <symbol id="svg-sun" viewBox="0 0 24 24">
+    <title>Light mode</title>
+    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+      stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" class="feather-sun">
+      <circle cx="12" cy="12" r="5"></circle>
+      <line x1="12" y1="1" x2="12" y2="3"></line>
+      <line x1="12" y1="21" x2="12" y2="23"></line>
+      <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
+      <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
+      <line x1="1" y1="12" x2="3" y2="12"></line>
+      <line x1="21" y1="12" x2="23" y2="12"></line>
+      <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
+      <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
+    </svg>
+  </symbol>
+  <symbol id="svg-moon" viewBox="0 0 24 24">
+    <title>Dark mode</title>
+    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+      stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" class="icon-tabler-moon">
+      <path stroke="none" d="M0 0h24v24H0z" fill="none" />
+      <path d="M12 3c.132 0 .263 0 .393 0a7.5 7.5 0 0 0 7.92 12.446a9 9 0 1 1 -8.313 -12.454z" />
+    </svg>
+  </symbol>
+  <symbol id="svg-sun-half" viewBox="0 0 24 24">
+    <title>Auto light/dark mode</title>
+    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+      stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" class="icon-tabler-shadow">
+      <path stroke="none" d="M0 0h24v24H0z" fill="none"/>
+      <circle cx="12" cy="12" r="9" />
+      <path d="M13 12h5" />
+      <path d="M13 15h4" />
+      <path d="M13 18h1" />
+      <path d="M13 9h4" />
+      <path d="M13 6h1" />
+    </svg>
+  </symbol>
+</svg>
+
+<input type="checkbox" class="sidebar-toggle" name="__navigation" id="__navigation">
+<input type="checkbox" class="sidebar-toggle" name="__toc" id="__toc">
+<label class="overlay sidebar-overlay" for="__navigation">
+  <div class="visually-hidden">Hide navigation sidebar</div>
+</label>
+<label class="overlay toc-overlay" for="__toc">
+  <div class="visually-hidden">Hide table of contents sidebar</div>
+</label>
+
+
+
+<div class="page">
+  <header class="mobile-header">
+    <div class="header-left">
+      <label class="nav-overlay-icon" for="__navigation">
+        <div class="visually-hidden">Toggle site navigation sidebar</div>
+        <i class="icon"><svg><use href="#svg-menu"></use></svg></i>
+      </label>
+    </div>
+    <div class="header-center">
+      <a href="../index.html"><div class="brand">Wikisocion</div></a>
+    </div>
+    <div class="header-right">
+      <div class="theme-toggle-container theme-toggle-header">
+        <button class="theme-toggle">
+          <div class="visually-hidden">Toggle Light / Dark / Auto color theme</div>
+          <svg class="theme-icon-when-auto"><use href="#svg-sun-half"></use></svg>
+          <svg class="theme-icon-when-dark"><use href="#svg-moon"></use></svg>
+          <svg class="theme-icon-when-light"><use href="#svg-sun"></use></svg>
+        </button>
+      </div>
+      <label class="toc-overlay-icon toc-header-icon" for="__toc">
+        <div class="visually-hidden">Toggle table of contents sidebar</div>
+        <i class="icon"><svg><use href="#svg-toc"></use></svg></i>
+      </label>
+    </div>
+  </header>
+  <aside class="sidebar-drawer">
+    <div class="sidebar-container">
+      
+      <div class="sidebar-sticky"><div class="sidebar-scroll"><a class="sidebar-brand" href="../index.html">
+  
+  
+  <span class="sidebar-brand-text">Wikisocion</span>
+  
+</a><form class="sidebar-search-container" method="get" action="../search.html" role="search">
+  <input class="sidebar-search" placeholder=Search name="q" aria-label="Search">
+  <input type="hidden" name="check_keywords" value="yes">
+  <input type="hidden" name="area" value="default">
+</form>
+<div id="searchbox"></div>
+</div>
+      </div>
+      
+    </div>
+  </aside>
+  <div class="main">
+    <div class="content">
+      <article role="main">
+        <div class="content-icon-container">
+          <div class="theme-toggle-container theme-toggle-content">
+            <button class="theme-toggle">
+              <div class="visually-hidden">Toggle Light / Dark / Auto color theme</div>
+              <svg class="theme-icon-when-auto"><use href="#svg-sun-half"></use></svg>
+              <svg class="theme-icon-when-dark"><use href="#svg-moon"></use></svg>
+              <svg class="theme-icon-when-light"><use href="#svg-sun"></use></svg>
+            </button>
+          </div>
+          <label class="toc-overlay-icon toc-content-icon" for="__toc">
+            <div class="visually-hidden">Toggle table of contents sidebar</div>
+            <i class="icon"><svg><use href="#svg-toc"></use></svg></i>
+          </label>
+        </div>
+        <div class="section" id="wikisocion-iee-composite">
+<h1>Wikisocion IEE composite<a class="headerlink" href="#wikisocion-iee-composite" title="Permalink to this headline">¶</a></h1>
+<p>Intuitive Ethical Extratim, IEE, <img alt="Ne" src="../_images/Symbol_i.gif"/> <img alt="Fi" src="../_images/Symbol_r.gif"/>, ENFp, IR, Psychologist, Reporter or archetype Aldous Huxley.</p>
+<div class="section" id="ego-block">
+<h2>Ego Block<a class="headerlink" href="#ego-block" title="Permalink to this headline">¶</a></h2>
+<p>The IEE is particularly sensitive to and observant of manifestations of spontaneity, social awkwardness, and psychological compatibility or incompatibility. This comes from a combination of Ne (perception of who people really are, their personality, motivation, and how much they are revealing their personality and ‘true selves’) and Fi (sensitivity to people’s subjective opinions and feelings about things). This sensitivity makes the IEE very choosy of social situations – whom to interact with, what group to hang out with, how much time to spend with which people, etc. IEEs are likely to vocally criticize social atmospheres that they regard as strained, stifling, or stilted. IEEs tend to comment a lot on people’s personalities and social situations and share insights on possible causes of people’s relationships, behavior, and life strategies – even if no one asks for this insight.</p>
+<p>IEEs have a penchant for one-on-one communication with intense sharing of insight gleaned from one’s life experience.</p>
+<div class="section" id="ne-extraverted-intuition">
+<h3>1. Ne Extraverted Intuition<a class="headerlink" href="#ne-extraverted-intuition" title="Permalink to this headline">¶</a></h3>
+<p>IEEs easily become enamoured with new ideas and prospects and tend to start working on them immediately, almost impulsively. The tendency to be preoccupied with yet unrealized potential makes it hard for them to bring existing projects and situations to full completion and materialization. It is easier to start something new than finish something old. When instilled with a sense of opportunity and novelty, the pace at which IEEs begin new undertakings can be almost frightening.</p>
+<p>IEEs need to have quite a bit of free time available to investigate new opportunities, ideas, insights, and people that come along their way. Somehow they manage to keep pursuing these things even when they are overloaded with work and responsibility.</p>
+<p>IEEs are “big picture” people: they easily grasp large concepts and effortlessly translate their observations into generalizations and trends. When learning a new subject, understanding the basic principles and how they fit together is more important than rote memorization of facts. They like to combine multiple things and ideas, rather than follow one thing to a logical conclusion. IEEs hate missing opportunities of any sort. They typically love irony because unforeseeable things can puzzle and excite them at the same time.</p>
+</div>
+<div class="section" id="fi-introverted-ethics">
+<h3>2. Fi Introverted Ethics<a class="headerlink" href="#fi-introverted-ethics" title="Permalink to this headline">¶</a></h3>
+<p>IEEs are naturally sensitive to mood, atmosphere, and feelings. They rarely say or do anything that would worsen people’s feelings, preferring instead to distance themselves from people and social situations that produce negative feelings. IEEs are naturally skilled at regulating the degree of emotional intimacy between people, which can mean being businesslike (yet polite) as well as warm and inviting.</p>
+<p>When faced with a sad individual, the IEE will usually try to understand what is wrong, and will often try to coax the individual with kind words and actions. The IEE often displays a straight face even when faced with strong negative feelings.</p>
+<p>Always on the IEE’s mind are the feelings of his or her friends. If the IEE does not know whether an individual is feeling good or ill will, the IEE will prod the individual until he or she displays their attitude.</p>
+<p>IEEs are concerned with the opinions and feelings of those around them and try to avoid saying things that would cause arguments and bad feelings. He does this effortlessly. In fact, IEEs will often choose to follow a very open and accepting life philosophy in order to reconcile his own views with those of others.</p>
+<p>When interacting with others, IEEs are naturally aware of the flow of emotion present and strive to interpret meanings out of individual emotional states. When they feel they’ve realized an accurate potentiality of the cause of someone’s behavior, IEEs commonly clarify their perceptions to ensure their understanding of another person. To actually aid the person in finding positive potential, however, depends on if the subject is important to the IEE (for example, they determine how close of a friend the person actually is to them).</p>
+</div>
+</div>
+<div class="section" id="super-ego-block">
+<h2>Super-Ego Block<a class="headerlink" href="#super-ego-block" title="Permalink to this headline">¶</a></h2>
+<p>IEEs are skittish about any sort of long-term membership in relationships, groups, or organizations which would imply certain duties and limitations on their freedom. They worry about being trapped in binding relationships where there are rules and demands on them that — in their opinion — would squelch their impulsive, freedom-loving search for new and interesting things and people to experience. They can overreact even to minor rules that don’t affect them — just as a matter of principle.</p>
+<p>Therefore, IEEs prefer to gradually ease into their relationships (whether formal or informal) by simply seeing what results when they let themselves be guided by their curiosity and natural interest level. They don’t like to think about what others or “the system” might expect from them. They avoid clearly defining relationships, responsibilities, expectations, etc. and frequently feel threatened and overly rebellious when other people try to establish bounds and limitations that would affect them personally.</p>
+<p>IEEs’ avoidance of commitment and general air of uncertainty and unpredictability can grate on some people — especially those who are trying to organize people for some joint task and need participants to follow certain conventions and behave predictably and obediently. IEEs by nature resist such situations and tend to drop out of group endeavors that require commitment and perseverance. Or, they can pretend that they are serious and committed — only to let down their teammates later on when their behavior loosens up and they reveal their true selves.</p>
+<div class="section" id="se-extraverted-sensing">
+<h3>3. Se Extraverted Sensing<a class="headerlink" href="#se-extraverted-sensing" title="Permalink to this headline">¶</a></h3>
+<p>IEEs have the capability and ability to be direct and firm with others in such activities as giving direct commands or making categorical statements about things perceived. However, the period of time when this occurs in an IEE is generally short-lived. As soon as the IEE starts to think about and starts to seriously consider the negative connotations of their directness or firmness ( ), for example, fear of instilling fear in another person in such a way that it would cause the person to be timid to or even scared to approach the IEE thereby distorting the personal bonds the IEE has with the person ( ), the IEE will back away from making such statements. Therefore these direct and categorical statements are quite difficult for an IEE to make, even if the IEE understands the benefits of being direct or firm with others, such as the benefits of being firm or direct with children in parenthood.</p>
+<p>If an IEE is directly challenged or if an IEE observes a task a person demonstrates that is subsequently performed by the IEE or a group that the IEE is in (such as a teacher showing a classroom how to put together a widget, and the classroom then is instructed to put together their own widget), the IEE will consciously want to show their propensity and ability in performing the task as good as, if not better or faster than the original person or at least better than the group that the IEE is in. Anything less is considered a failure. IEEs will want to show proficiency in any task that is given to them, even if novice failure is understood. This, again is to demonstrate visibly to others that “I can do it” or “I can do this satisfactorily”. Failing at accomplishing this and then subsequently being shown how to do the task is embarrassing for the IEE since they feel like they “should” have been able to accomplish the task if they were shown how to do the task at least once.</p>
+<p>IEEs will struggle with things that require sustained willpower and self-motivation. Because of fluctuating interest levels in self-pursuits, these tasks are difficult to sustain. These tasks include (but are not limited to) staying motivated to keep a workout regimen, sticking with a diet, sticking to a routine of doing a particular errand at the same time periodically, and other similar tasks. If the willpower is not there, it cannot be artificially manufactured to get the IEE to “push through”. Concordantly, attempts by other people to get the IEE to “push through” is met with resistance. Though, it may be that the IEE will heed the call begrudgingly, this is not sustainable; the IEE will find a way out if this external push persists.</p>
+</div>
+<div class="section" id="ti-introverted-logic">
+<h3>4. Ti Introverted Logic<a class="headerlink" href="#ti-introverted-logic" title="Permalink to this headline">¶</a></h3>
+<p>IEEs tend to have a difficult time describing a concept or system in a manner in which the essential facts are all that is needed to understand or describe it. The IEE’s focus in describing a concept or system is in how they themselves came to understand and see what they are describing. If an IEE is asked to describe or explain something, their natural tendency is to describe the pieces of the concept, system or idea that are related to the subject as a foundation before explaining the actual concept itself. The IEE will often describe details or aspects of a system that are unnecessary to the understanding of the system’s properties, but the IEE views these details as essential functions of a sequential system (as opposed to describing the concept or system and only the concept or system as an independent entity). In other words, even if a detail is deemed outside of the IEE as extraneous, the IEE that is describing it will see it as a vital and significant part of a chain in order to paint the full, “proper” picture of the system the IEE wants to describe. An IEE will tend to start off explanations with a tremendous amount of detail, energy and patience and will move towards a more general explanation as they tire out (if they tire out). If something in the IEE’s chain is broken or questioned, the description (in the IEE’s mind) halts or falls apart.</p>
+<p>When an IEE understands a logical concept or system, they are much better at describing anecdotal experiences with the concept or system that help to illustrate the concept or system. They would prefer to do this rather than describing the concept or system as described in the previous paragraph – describe the essential facts of a concept or system.</p>
+<p>IEEs will demonstrate inconsistent behavioral patterns to the objective, outside world. But to the IEE, these behavioral patterns are as a result of a relativist view of how they make their decisions. For example, an IEE might be steadfastly against going to a particular branch of a bank to deposit a check that is easily accessible and only 2 miles away, but is perfectly content going to a different branch of the same bank that is 25 miles away and requires a roundabout route to get there. To the outside world this would not make sense; why not just go to the branch that is easier to access that can handle the same function? But to the IEE, this does not matter. Something at the closer branch bothers the IEE enough to justify going to the further one. Maybe a particular person works there that the IEE wants to avoid, maybe one time the IEE did something embarrassing while at the closer branch and they are embarrassed to show their face again. Regardless of the reason, the IEE will justify circumstances to dictate the decisions they make in their behavioral patterns.</p>
+<p>The IEE is keenly aware of societal structures and affiliations that they belong to. These structures can be small entities such as “family” and large entities such as “political affiliation”. As such, an IEE will naturally speculate about how these societal structures they belong to would interact if they mingled (Ne+Fi). With a propensity to be involved in a diverse number of interests, IEEs find themselves in a position where they would deem that members of certain societal structures would clash if they met. This will, at times, cause IEEs to hide their affiliations to parties that they feel might cause scrutiny or criticism of their affiliations. They would rather not be judged by others based on their affiliations. Also, if an IEE is cast into an “incorrect” category, this can cause deep wounds in the IEE especially if the IEE believes that the person doing the casting will not change their position about the IEE’s affiliation, and as a result of that, believes it to be a negatively connoted statement of their own character.</p>
+</div>
+</div>
+<div class="section" id="super-id-block">
+<h2>Super-Id Block<a class="headerlink" href="#super-id-block" title="Permalink to this headline">¶</a></h2>
+<div class="section" id="si-introverted-sensing">
+<h3>5. Si Introverted Sensing<a class="headerlink" href="#si-introverted-sensing" title="Permalink to this headline">¶</a></h3>
+<p>The IEE tends to be chronically unaware of his own bodily processes, including physiological sensations and a sense of balance and alignment with one’s true desires. He sometimes has peculiar preferences or tastes, which he himself is unable to understand or fulfill. In terms of physical sensations, an IEE will almost always choose the familiar over the novel, because they know that the familiar is reliable in the positive sensation it delivers. An IEE will typically have a single item he orders at certain restaurants without fail; if he isn’t in the mood for that item he doesn’t eat there. He will stubbornly refuse to eat anything that he knows he does not like, refusing to try a “new recipe” of anything that he did not like before. The IEE would much rather sleep in his own bed than anywhere else as a matter of familiarity, but this preference never enters his mind when a friend invites him to stay the night, sometimes resulting in a lack of quality sleep that the IEE will forget about the next time around. IEEs almost never emphasizes his attractiveness or sexuality overtly and publicly, but dreams of being pleasing to the senses to at least a small circle of trusted friends and partners who are able to develop and enhance his sexuality and attractiveness in a trusting atmosphere. He often will obsess about his looks in front of the mirror, trying to get the right combination of preparedness and liberated comfort. It is embarrassing to come to an event overdressed, as the IEE would rather look like they simply came on a whim rather than over-prepared. They will usually undermine the time spent in preparation and will avoid speaking on the topic altogether. When getting sick, the IEE may stubbornly refuse or “conveniently forget” to take any sort of medicine. Their chosen method of dealing with sickness and physical discomfort is ignoring it until it can no longer be ignored. An IEE will frequently forget meals and sleep when excitedly working on a new project or in some sort of social gathering. Exhaustion, hunger, thirst, and full bladders will be ignored until the need is overwhelming and affects the IEE’s concentration.</p>
+</div>
+<div class="section" id="te-extraverted-logic">
+<h3>6. Te Extraverted Logic<a class="headerlink" href="#te-extraverted-logic" title="Permalink to this headline">¶</a></h3>
+<p>The IEE is keen on accumulating factual knowledge on subjects of personal interest and those that help him be more efficient and productive, but he’s often unsure of his ability to find and select the correct information and is therefore attracted to people whom he sees as competent in that area and reassure him. He prizes efficiency, and berates himself secretly for his own inefficiency. He takes care to explain the justifications behind his actions. He loves accumulating and sharing trivia to make himself seem educated. IEEs believe firmly that knowledge should be shared freely. Asking an IEE to keep a secret is a burden on him. He can also be a little too trusting of information sources, because spreading falsehood is seen as a foreign and repulsive idea. IEEs love scientific and mathematic concepts, but practical application will soon bore them.</p>
+</div>
+</div>
+<div class="section" id="id-block">
+<h2>Id Block<a class="headerlink" href="#id-block" title="Permalink to this headline">¶</a></h2>
+<div class="section" id="ni-introverted-intuition">
+<h3>7. Ni Introverted Intuition<a class="headerlink" href="#ni-introverted-intuition" title="Permalink to this headline">¶</a></h3>
+<p>The IEE thoroughly understands discussions and arguments focused on following present trends into the future and their possible implications, as well as on exploring one specific imaginative vision of personal meaning, but he much prefers to explore many possibilities, starting from a present point in time and reality, rather than to concentrate on just a few specific visions or trends. He understands that the present moment may be changeable or not be as it seems, but refuses to think too much on the matter, choosing instead to keep a more practical view. To an IEE, the question “What if?” usually applies to something that the IEE can do to change his future, not some sort of alternate reality, such as “What if I bike instead of drive to work?” as opposed to “What if gravity didn’t exist?”</p>
+</div>
+<div class="section" id="fe-extraverted-ethics">
+<h3>8. Fe Extraverted Ethics<a class="headerlink" href="#fe-extraverted-ethics" title="Permalink to this headline">¶</a></h3>
+<p>The IEE appreciates situations where people are enjoying a positive emotional atmosphere as in having fun and joking together, and is quite adept at creating them himself, but does not see creating or promoting them a top priority, nor does he actively look for people who maintain or need such an atmosphere; too high a focus on that is seen by an IEE as overdone. He can be very empathetic and will frequently comfort his friends and acquaintances, mostly letting them vent to him, offering suggestions as to what to do about it. These are usually practical. The IEE may offer a more optimistic viewpoint, but will not press the matter if the optimism is not received well. He is usually genuinely concerned, but refuses to let the negative energy affect him. This may eventually become tiring if it persists as he will feel guilty for being happy in the face of those close to him being miserable. The IEE does not like conflict between people one bit; he would rather stay on everyone’s good side and keep in good terms with both sides of a conflict, preferring not to be judged by his affiliation with one side or another. In such situations he says very little that would give away where he truly sides on an issue.</p>
+</div>
+</div>
+<div class="section" id="common-social-roles">
+<h2>Common social roles<a class="headerlink" href="#common-social-roles" title="Permalink to this headline">¶</a></h2>
+<ol class="arabic simple">
+<li><p>The self-appointed psychologist who shows interest in everyone’s personal, relationship, and career problems in order to figure out what might be the matter and offer pertinent advice.</p></li>
+<li><p>The social connector who knows lots of people in completely different areas of life and is constantly trying to hook people up with others who share their interests.</p></li>
+<li><p>The nonpartisan who knows that everybody can be right, and likes to explain people’s differing points of view to each other without taking sides.</p></li>
+</ol>
+</div>
+</div>
+
+      </article>
+      <footer>
+        
+        <div class="related-pages">
+          <a class="next-page" href="SLI_comp.html">
+              <div class="page-info">
+                <div class="context">
+                  <span>Next</span>
+                </div>
+                <div class="title">Wikisocion SLI composite</div>
+              </div>
+              <svg><use href="#svg-arrow-right"></use></svg>
+            </a>
+          <a class="prev-page" href="ESI_comp.html">
+              <svg><use href="#svg-arrow-right"></use></svg>
+              <div class="page-info">
+                <div class="context">
+                  <span>Previous</span>
+                </div>
+                
+                <div class="title">Wikisocion ESI composite</div>
+                
+              </div>
+            </a>
+        </div>
+
+        <div class="related-information">
+              Copyright &#169; 2021, Wikisocion Authors
+            |
+            Built with <a href="https://www.sphinx-doc.org/">Sphinx</a>
+              and
+              <a class="muted-link" href="https://pradyunsg.me">@pradyunsg</a>'s
+              <a href="https://github.com/pradyunsg/furo">Furo theme</a>.
+            |
+            <a class="muted-link" href="../_sources/content/IEE_comp.rst.txt"
+               rel="nofollow">
+              Show Source
+            </a>
+        </div>
+        
+      </footer>
+    </div>
+    <aside class="toc-drawer">
+      
+      
+      <div class="toc-sticky toc-scroll">
+        <div class="toc-title-container">
+          <span class="toc-title">
+            Contents
+          </span>
+        </div>
+        <div class="toc-tree-container">
+          <div class="toc-tree">
+            <ul>
+<li><a class="reference internal" href="#">Wikisocion IEE composite</a><ul>
+<li><a class="reference internal" href="#ego-block">Ego Block</a><ul>
+<li><a class="reference internal" href="#ne-extraverted-intuition">1. Ne Extraverted Intuition</a></li>
+<li><a class="reference internal" href="#fi-introverted-ethics">2. Fi Introverted Ethics</a></li>
+</ul>
+</li>
+<li><a class="reference internal" href="#super-ego-block">Super-Ego Block</a><ul>
+<li><a class="reference internal" href="#se-extraverted-sensing">3. Se Extraverted Sensing</a></li>
+<li><a class="reference internal" href="#ti-introverted-logic">4. Ti Introverted Logic</a></li>
+</ul>
+</li>
+<li><a class="reference internal" href="#super-id-block">Super-Id Block</a><ul>
+<li><a class="reference internal" href="#si-introverted-sensing">5. Si Introverted Sensing</a></li>
+<li><a class="reference internal" href="#te-extraverted-logic">6. Te Extraverted Logic</a></li>
+</ul>
+</li>
+<li><a class="reference internal" href="#id-block">Id Block</a><ul>
+<li><a class="reference internal" href="#ni-introverted-intuition">7. Ni Introverted Intuition</a></li>
+<li><a class="reference internal" href="#fe-extraverted-ethics">8. Fe Extraverted Ethics</a></li>
+</ul>
+</li>
+<li><a class="reference internal" href="#common-social-roles">Common social roles</a></li>
+</ul>
+</li>
+</ul>
+
+          </div>
+        </div>
+      </div>
+      
+      
+    </aside>
+  </div>
+</div><script data-url_root="../" id="documentation_options" src="../_static/documentation_options.js"></script>
+    <script src="../_static/jquery.js"></script>
+    <script src="../_static/underscore.js"></script>
+    <script src="../_static/doctools.js"></script>
+    <script src="../_static/scripts/main.js"></script>
+    </body>
+</html>

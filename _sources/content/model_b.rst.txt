@@ -1,0 +1,7 @@
+Model B
+=============
+
+.. warning::
+    This page or section is **incomplete**. Additional contributions are needed.
+
+**Model B** is a model which resembles :doc:`Model A <model_a>`, but has 16 components instead of 8. It was proposed by :doc:`Aleksandr Bukalov <bukalov>` around 1990. 

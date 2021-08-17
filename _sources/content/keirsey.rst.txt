@@ -1,0 +1,91 @@
+Keirsey Temperament Theory
+===================================
+
+**Keirsey Temperament Theory** is a differential psychology theory which
+resembles :doc:`Myers-Briggs Typology <MBTI>` and, to a
+lesser degree, the Five-factor model.
+
+Some people prefer KTT to MBT or socionics because it is simpler to use.
+However, no publishing socionists rely on Keirsey's work, temperament
+groups, or descriptions, which seem more distant from socionics than
+:doc:`Myers-Briggs Typology <MBTI>`.
+
+
+
+Dichotomies in KTT
+------------------
+
+KTT uses the same four-letter code as MBT, and
+later, socionics, but they don't exactly mean the same
+thing. Although KTT resembles MBT, they are not the same thing.
+
+-  E / I = Expressive / Attentive
+-  S / N = Observant, Concrete / Introspective, Abstract
+-  T / F = Tough-minded / Friendly
+-  J / P = Scheduling / Probing
+
+
+
+Temperaments in KTT
+-------------------
+
+KTT doesn't distinguish any functions, information elements or any sort
+of cognitive processes. KTT is more based on what he calls
+"**temperaments**" :
+
+-  SP - **Artisan** - Action-seeking
+-  SJ - **Guardian** - Security-seeking
+-  NF - **Idealist** - Identity-seeking
+-  NT - **Rational** - Knowledge-seeking
+
+
+
+Rings of KTT
+------------
+
+KTT has four rings.
+
+-  **Temperaments** are 4 and use the two first rings.
+-  **Intelligence types** are 8 and use the three first rings.
+-  **Role variants** are 16 and use the four rings.
+
+
+
+First ring - Concrete versus Abstract
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+-  S means **Concrete**
+-  N means **Abstract**
+
+
+
+Second ring - Cooperative versus Pragmatic
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+-  SJ and NF are **Cooperative**
+-  SP and NT are **Pragmatic**
+
+
+
+Third ring - Directive versus Informative
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+-  ST and NJ are **Directive**
+-  SF and NP are **Informative**
+
+
+
+Fourth ring - Expressive versus Attentive
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+-  E means **Expressive**
+-  I means **Attentive**
+
+Links
+-----
+
+-  `1 <http://en.wikipedia.org/wiki/Keirsey_Temperament_Sorter>`__
+   Wikipedia article on KTT.
+-  `2 <http://www.advisorteam.org>`__ Website on KTT.
+-  `3 <http://www.16types.com>`__ Website on Linda Berens' type theory,
+   which resembles KTT and MBT.

@@ -1,0 +1,79 @@
+Philosophy
+============
+
+Socionics is itself a kind of philosophical system whose terminology can
+be used to describe key differences between schools of thought and to
+summarize the key features of many cultural, societal, and political
+phenomena. The :doc:`information aspects <information_aspect>` are
+probably the most convenient tool for this kind of analysis.
+
+
+
+Socionic logic and philosophy
+=============================
+
+When knowledge is accumulated and recorded in fields of science and
+technology, a logical emphasis develops. This means that information is
+expressed primarily through the use of the :doc:`element <elements>` of
+:doc:`logic <ethics_logic>`. Within science and technology, however, you will find
+fields and sub-fields where either :doc:`extraverted logic <Te>` or :doc:`introverted logic <Ti>` dominate (and sometimes other aspects as
+well):
+
+-  When |symbol_p.gif| dominates, attention is primarily focused on
+   accurately describing facts, developing an empirical foundation, and
+   testing hypotheses.
+-  When |symbol_l.gif| dominates, attention is primarily focused on
+   structuring information, analyzing methodology, and producing
+   theoretical explanations.
+
+Whenever a field leans too far in the direction of one of these
+approaches, it attracts criticism: too much |symbol_p.gif| - for a lack
+of theoretical development and overarching explanations, and too much
+|symbol_l.gif| - for a lack of empiricism and testable hypotheses. One
+approach focuses on the logic of external, factual reality, while the
+other focuses on the internal logic of ideas and explanations
+themselves.
+
+Within :doc:`personality psychology <personality>`, the |symbol_p.gif|
+approach is represented by the "trait" approach to personality, which
+measures psychological traits along a continuum and provides little
+theoretical understanding. The |symbol_l.gif| approach is represented by
+the "type" approach to personality, where individuals are grouped into
+discrete categories. This second method can provide a clear theoretical
+understanding, but is criticized for lacking an empirical basis and
+testable hypotheses.
+
+|symbol_p.gif| and |symbol_l.gif| have played off each other in the
+development of science. As technical progress allowed more objective
+facts to be registered (|symbol_p.gif|), people's conceptual
+understanding (|symbol_l.gif|) gradually accommodated the new facts, and
+scientists took the new paradigm to its logical conclusion
+(|symbol_l.gif|), anticipating many facts intellectually before they had
+been demonstrated physically (|symbol_p.gif|).
+
+
+
+Influence of socionic type on philosophers' views
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+In philosophy, the difference between :doc:`Ti <Ti>` and :doc:`Te <Te>` is
+mirrored in the analytic-synthetic distinction. It can be seen that
+:ref:`ego <ego-block>` Ti philosophers (such as Christopher
+Langan and Rene Descartes)
+tend to favor reaching truth through mathematical, abstract means,
+whereas :ref:`ego <ego-block>` Te philosophers (such as Karl
+Popper) concentrate more on establishing useful
+protocols and methodologies. Some (such as David Hume)
+fall in between the two extremes, showing that the analogy is by no
+means complete - at least not on the level of individuals.
+
+
+The pinnacle of Te philosophy is
+`pragmatism <http://en.wikipedia.org/wiki/Pragmatism>`__, in both its
+everyday and philosophical senses, whereas that of Ti philosophy is
+`logic <http://en.wikipedia.org/wiki/Logic>`__ (likewise both formal and
+informal).
+
+
+.. |symbol_p.gif| image:: symbol_p.gif
+.. |symbol_l.gif| image:: symbol_l.gif

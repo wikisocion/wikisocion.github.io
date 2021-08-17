@@ -1,0 +1,87 @@
+Plus and minus
+===============
+
+**Plus** and **minus** signs are a convention used by many socionists to
+separate what are seen as two 'versions' of the same :doc:`IM element <elements>`, depending on which of two other elements it is
+blocked with in the `type formula <model_a>` of a specific
+socionic type.
+
+For Alpha and Gamma, irrational functions are given + and rational
+functions -, whereas for Beta and Delta, irrational functions are given
+\- and rational functions +.
+
+Overview
+--------
+
+.. list-table:: Plus and Minus
+    :header-rows: 1
+
+    * - Plus +
+      - Minus -
+    * - |Ne| + = |Ne| |Ti|
+      - |Ne| - = |Ne| |Fi|
+    * - |Ni| + = |Ni| |Te|
+      - |Ni| - = |Ni| |Fe|
+    * - |Se| + = |Se| |Fi|
+      - |Se| - = |Se| |Ti|
+    * - |Si| + = |Si| |Fe|
+      - |Si| - = |Si| |Te|
+    * - |Te| + = |Te| |Si|
+      - |Te| - = |Te| |Ni|
+    * - |Ti| + = |Ti| |Se|
+      - |Ti| - = |Ti| |Ne|
+    * - |Fe| + = |Fe| |Ni|
+      - |Fe| - = |Fe| |Si|
+    * - |Fi| + = |Fi| |Ne|
+      - |Fi| - = |Fi| |Se|
+
+Names
+-----
+
+The property in question has been given various names: + has been called
+"short-range" and - has been called "long-range." However, these names
+may not always correspond intuitively with the plain meaning of the
+terms "short-range" and "long-range." For example, given these names, it
+may not be apparent why Ethics becomes "long-range" when in the ego
+block with Sensing, but "short-range" when in the ego block with
+Intuition.
+
+Better names might be *expanding* for + and *reducing* for -.
+
+Implications
+------------
+
+One implication of assigning plus and minus signs is that it implies the
+existence of some property linking various different IM elements. This
+suggests that Intuition (in the presence of Logic) has something in
+common with Sensing (in the presence of Ethics), and also with Logic (in
+the presence of Sensing) and Ethics (in the presence of Intuition) -
+namely, Intuition, Sensing, Logic and Ethics respectively have in common
+some property of "plusness," whereas the IM elements they're paired with
+(Logic, Ethics, Sensing, Intuition respectively) have in common
+"minusness."
+
+Criticism
+---------
+
+Numerous socionists see the practice of using plus and minus signs as
+logically superfluous. Nevertheless, this system got quite a good rating
+in the study :doc:`Portrait of a Modern Socionist <portrait_socionics>`.
+
+
+
+External Links:
+---------------
+
+-  Excerpt from `Quadras and their Socio-psychological
+   Characteristics <http://forum.thesocio.net/viewtopic.php?f=7&t=4>`__
+   by :doc:`Gulenko <gulenko>`
+
+.. |Ne| image:: Symbol_i.gif
+.. |Ti| image:: Symbol_l.gif
+.. |Ni| image:: Symbol_t.gif
+.. |Te| image:: Symbol_p.gif
+.. |Fe| image:: Symbol_e.gif
+.. |Se| image:: Symbol_f.gif
+.. |Fi| image:: Symbol_r.gif
+.. |Si| image:: Symbol_s.gif

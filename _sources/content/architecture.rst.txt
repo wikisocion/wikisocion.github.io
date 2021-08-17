@@ -1,0 +1,111 @@
+Architecture
+=====================
+
+Socionics may be used to describe and characterize **architecture**.
+This approach might be new and subject to dispute, so different
+approaches will be discussed here.
+
+An :doc:`images and socionics <images_socionics>` page has been started
+at Wikisocion that explores the links between socionics and visual art
+(including architecture).
+
+Theory
+------
+
+From a :doc:`classical socionics <classic_socionics>` perspective, any
+thing, situation, or phenomena contains information
+about itself that is perceived differentially by people. Using the
+language of :doc:`Aushra Augusta <augusta>`, we might break down
+information about an architectural structure roughly as follows:
+
+-  |symbol_i.gif| : the structure's potential and capabilities; the
+   central idea or purpose of the structure
+-  |symbol_t.gif| : the evolution and lifespan of the structure; a sense
+   of meaning or meaninglessness produced by the structure in the viewer
+-  |symbol_f.gif| : the structure's shape, form, and appearance; the
+   sensory impact of the structure
+-  |symbol_s.gif| : the sensations produced by the structure; whether it
+   is comfortable or uncomfortable, harmonious or dissonant
+-  |symbol_p.gif| : the utility, functionality, and rationale of the
+   structure; whether it does its job
+-  |symbol_l.gif| : what rules or systems it reflects; what class of
+   structure it belongs to
+-  |symbol_e.gif| : the expressiveness of the structure; what kinds of
+   emotions or state it is projecting
+-  |symbol_r.gif| : feelings of like / friendliness or dislike /
+   unfriendliness produced by the structure in the viewer
+
+Note that introverted :doc:`information aspects <information_aspect>`
+require a certain "internal weighing" of the structure against some
+internal parameters, while extraverted aspects focus on the traits of
+the structure itself, with little reference to the observer's internal
+attitudes.
+
+Clearly, different things may be done with architectural structures to
+convey more or less of individual :doc:`information aspects <information_aspect>`. For instance, a building might be
+designed to present a simplistic |symbol_f.gif|-impression - with a
+
+bland exterior and as few details as possible that would "catch the eye"
+- while conveying plenty of |symbol_p.gif|-impressions, which might
+
+include portals for trucks to drive up and deliver goods, ventilation
+tubes, and so forth.
+
+
+
+How information aspects are conveyed in architectural structures
+----------------------------------------------------------------
+
+Each of the :doc:`information aspects <information_aspect>` (as listed
+above) is conveyed through fairly specific construction styles and
+decorative elements. Here are some possible means used to convey
+information of different kinds:
+
+*Note: these are hypotheses!*
+
+-  |symbol_i.gif| : something novel about the structure that makes you
+   try to figure out its intent or purpose or marvel at its uniqueness
+   or capabilities
+-  |symbol_t.gif| : use of features that suggest a certain age or era of
+   the building; use of elements that suggest some kind of unobvious
+   symbolism
+-  |symbol_f.gif| : bold colors and forms; bold, thick protrusions and
+   shapes; solid, stocky, massive forms; oversizing certain parts of the
+   structure
+-  |symbol_s.gif| : soft, natural, "cozy" colors and forms that generate
+   connotations with nature or with a comfortable home or inviting
+   habitat
+-  |symbol_p.gif| : prominent positioning of unmasked functional
+   elements such as doors, input/output ports, moving parts, utility
+   mains, etc.
+-  |symbol_l.gif| : repetitive identical features (especially geometric)
+   and uniformity of style and form that speak of a system behind the
+   construction
+-  |symbol_e.gif| : use of striking and stimulating, yet non-functional
+   embellishments such as a grinning pink crocodile, spikes on the roof,
+   etc.
+-  |symbol_r.gif| : use of elements of traditional or national culture
+   that arouse feelings of affinity and closeness; something endearing
+   about the structure
+
+Challenges
+----------
+
+.. warning::
+    This page or section is **incomplete**. Additional contributions are needed. 
+
+
+Criticism
+---------
+
+.. warning::
+    This page or section is **incomplete**. Additional contributions are needed. 
+
+.. |symbol_i.gif| image:: symbol_i.gif
+.. |symbol_t.gif| image:: symbol_t.gif
+.. |symbol_f.gif| image:: symbol_f.gif
+.. |symbol_s.gif| image:: symbol_s.gif
+.. |symbol_p.gif| image:: symbol_p.gif
+.. |symbol_l.gif| image:: symbol_l.gif
+.. |symbol_e.gif| image:: symbol_e.gif
+.. |symbol_r.gif| image:: symbol_r.gif

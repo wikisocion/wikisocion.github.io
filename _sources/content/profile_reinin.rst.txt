@@ -1,0 +1,1875 @@
+Type Descriptions by Grigory Reinin
+=======================================
+
+| This is an excerpt of type descriptions from Grigory Reinin's book *"The Mysteries of Type. Models. Groups. Traits."*, 2010.
+| The original text can be found at `this link <http://isra-trainings.com/reinin/socionbook.html>`__.
+
+
+
+.. _ILE-Reinin:
+
+ILE (Don Quixote)
+-----------------
+
+**The intuitive-logical extrovert - Don Quixote (Ne,Ti)**
+
+**Function #1  objective intuition (Ne):** integrity of the external
+situation. The world should be always harmonious and complete  this is
+the principle of existence of this type. A wide spectrum of variants may
+exist according to the first function, though Don Quixote considers the
+world to be in order and harmony which are manifested in different ways.
+People of this type often create illusions for themselves that
+everything will always be as it is now, that they will never die or be
+sick: "Nothing will ever happen to me. A Don Quixotes first function
+might be one of the possible reasons for aggression. People of this type
+do not plan ahead (unlike, for example, Holmes), but are acutely aware
+of the beginning of one period and the ending of another. Don Quixote is
+governed by this feeling. Think of a Don Quixote leaving for work in the
+morning. He is late, but he is planning on cutting a corner to be on
+time. He knows he will be five minutes late, but the boss will be five
+minutes late also. Anyway he will make it! At this moment his wife
+(Dreiser) says: Listen, you are late anyway, take out the garbage on
+your way out. This statement may provoke aggression, which Dreiser does
+not expect. But the boss reprimand Why are you late? will not cause
+aggression. Well, I am late, but I have had objective reasons to be
+late. It is normal. But this type will not tolerate when someone
+attempts to destroy the integrity of the external situation.
+
+**Function #-1  subjective intuition (Ni):** ignoring the integrity of
+internal situation. This is the lack of ability to plunge in thought. A
+Don Quixote finds it hard to plunge deep into him/herself and search the
+inner mechanisms of the soul. "What do you mean, 'analyze the internal
+situation'?" Hamlet enjoys this creative area of self, but a Don Quixote
+runs from it. He knows nothing about it. This is a potential area for
+problems. When a Don Quixote is asked to look inside of him/herself, he
+is lost because he/she does not think this way. They do not understand
+what is required of them because their IM structure ignores this area
+completely. Relationships with other people come easy for them. It is
+easy for them to deal with other peoples problems. But their inner
+world is beyond their understanding.
+
+**Function #2, creative function  subjective logic (Ti):** explanation, understanding. A Don Quixote produces original understanding and explanation of things. A Don Quixote feels that everything can be explained in a number of ways. Representatives of other types are amazed at the ease with which a Don Quixote is able to explain anything. For example, a Holmes is surprised and irritated: What are you teaching me?! I am interested in the reality and the actual mechanics of things. Do you have experimental data, a method? Where did you study? The excitement of a research is more important for a Don Quixote; he invents his own methods of research if needed. This IM type excels independently of their education and training. They have a strong research reflex. The sphere of risk is the intellect. They are busy creating new techniques and approaches, solving the unsolved, drawing ideas and concepts from other areas. As a result they can offer an explanation of external relationships, i.e. their second function is about the third. Anyone is capable of changing their own worldview, but a Don Quixote will pay a lower psychological price for the change than a Robespierre, a Maxim or a Holmes, they are not creative in this area. Don Quixote is not conservative here, he/she needs unexplained, tasks unfulfilled, problems that have not been solved or even put into words. Why quite a few of the Don Quixotes become scientists? In the sphere of science this type is realized as a functional system. Many ILEs look a bit paranoid: at the extreme a person of this type is a scientist who lays his life down for his ideas, neglects his family and physical health.
+
+By the way, running a step forward, have a look at a Don Quixote's third function. We have a plus in the area of the third function. Public recognition is a source of energy for a Don Quixote. When he denies himself for the sake of his work and achieves success he often gets public recognition, peoples attention is centered on him, he thinks he is useful and needed in the society. There are two types  a Don Quixote and a Zhukov - whose public interests often coincide with their individual interests.
+
+**Function #-2  objective logic (Te):** the zone of norms and
+standards, of law and order. I dont think a whole lot about the order,
+but since I live here, I naturally obey it. The logic of the external
+world, laws, indisputable circumstances - in short, everything that does
+not require interpretation, falls in the category of standards. Traffic
+rules, criminal code, other social conventions go without saying for a
+Don Quixote. This area is not creative. For example, his wife says that
+it is time to remodel the apartment. A Don Quixote does not see this as
+something absolutely necessary, but complies anyway. Just thinking of
+all the work that needs to be done makes me sick We should wait another
+year to remodel. Why should we do it now? Why should I change my plans?
+How irritating! It messes up the integrity of my situation. I was going
+to channel my energy into something more important than remodeling for
+example I was going to try and explain some external relationships".
+Working in an office is hard for a Don Quixote because of a need to
+complying with an externally set schedule. He always struggles with
+social requirements, especially if they dont make any sense. However,
+he understands that it is necessary to go through the basic training, so
+to speak, to get a permission to do the free program. So he has to
+waste time and energy on writing a thesis before he gets to do the real
+thing. A Don Quixote type is least adapted to social competition.
+
+**Function #3  objective ethics (Fe):** a Don Quixote's self-worth is
+based on other peoples attitude and their relationships. Perhaps for
+this very reason Au?ra Augustinavi?it? (a Don Quixote) developed
+socionics as a precise tool for the analysis of intertype relationships.
+Why did they give that look to me? What did they say? Did I hurt
+somebodys feelings? How can I say no? This sort of questions
+constantly disturbs a Don Quixote. For this reason he is a bad leader.
+His third function is constantly suffering in a position of power. The
+psychological price of the job for a Don Quixote often seems to be too
+high. As a rule, the ILE does not seek to be a leader; he thinks it is a
+burden (a Napoleon does not think so, for him it is a place of ideal
+realization). The principle of Don Quixote's self-assessment is this:
+If they love me, appreciate me, then I am a good person. Positive
+feedback is a source of considerable increase of energy (may lead to
+euphoria). But when something goes wrong, relationships turn sour then
+his spirits are lower, the energy evaporates, everything looks terrible,
+and joy of life is quenched. If the negative outlook on life is
+lingering, low self-esteem leads to an illness (a neurosis). In the
+basis of this neurosis lies the mechanism of subconscious
+self-justification: I am good in general, it is just now I am ill. It
+is a way to avoid negative feedback from ones reference group.
+Protecting the third function a Don Quixote tends to reason (you
+misunderstood me") and mend broken relationships. He does not seek to
+change partners. People of this type tend to blend into the background
+of their social group; they do not like to impose their will on others.
+However, sometimes they chose to rely on the minus-defense: I am so
+bad, worse than you can imagine, no one can approach me or talk to me.
+Accept me just as I am". Then it is easier to deal with this type.
+
+**Function #-3  subjective ethics (Fi):** problem solving. It is
+typical of a Don Quixote to fall in love with someone. He/she is
+inclined to idealize the object of the affection, admiring his/her
+merits or skills. However, when it seems impossible to protect the third
+function and a problem in the sphere of relationships arises anyway, and
+then a Don Quixote begins to diligently search him/herself. The closer
+the person is the more painful the changes are in this area. When
+another type would typically cut you off a Don Quixote often forgives,
+especially if it is a close friends.
+
+**Function #4  subjective sensing (Si):** my feelings. "A good place is
+a place where I feel good". Suggestion through subjective sensing is
+possible through the use of a Don Quixote's hypochondria. When a Don
+Quixotes health is mentioned, he begins to think about it a lot and
+seems to find various new disorders in his body. Correctly approached
+these people are the easiest to treat because they trust other peoples
+opinion in the issues of health. The fourth function is the knowledge of
+other people. And a Don Quixote relies on other peoples knowledge in
+the area of health. People of this type have wild imagination and often
+imagine they have an illness which in reality they do not have, then we
+have a key to treating the imaginary disease. This is widely used by
+shamans, extrasensory individuals, hypnotists. The effect depends upon
+downloading correct information in the clients system of beliefs.
+
+**Function #-4  objective sensing (Se):** A Don Quixote's zone of fears
+covers activity, deed, perfection. This type finds it difficult to
+finish a task. A lot of his projects remain unfinished. Only when
+pressed for time a Don Quixote is able to obtain a result. Aware of the
+trait a Don Quixote may want to set a dead line for his project to avoid
+procrastination. Usually a Don Quixote needs a major external power
+pulse to finish a task. There is always room for improvement! For
+example, a factory design office has a task to design an engine. Two
+teams get an assignment: a Don Quixote is a leader of one of the groups,
+and a Jack London is leading the other group. The Don Quixote's group
+develops a marvelous draft, a lot of innovations are introduced,
+constantly new improvements are made. Soon their engine has more
+functions than expected in the customer order, and they continue to
+invent more new functions. The deadline is approaching, funds are spent
+but the project is still not ready. Their manager should keep in mind
+that this type gets carried away and procrastinates, they need to be
+reminded about the dead lines otherwise the task will never be finished,
+the project will freeze while interesting ideas, friendships and
+creativity flourish in their design office.) The leader of the second
+team, a Jack London, asks his engineers: We have a month to work on the
+project: I will see all the improvements you have to offer and after one
+month we will begin design drawing. Best is the enemy of Good. We have
+done a good enough job if we spend more time working on improvements we
+will not finish the task in time. And they meet the deadline, although
+their machine performance characteristics are worse than the unfinished
+project offered by the Don Quixote's team. But their prototype is on
+display while the other one is still in drawing. A Don Quixote might
+write and rewrite a book or a dissertation several times; it takes him
+several years to remodel a house. At times they seem indecisive and
+struggle even with small things. They struggle over a pair of shoes at
+the store, for example. However, in an emergency situation a Don Quixote
+steps in and begins leading and making decisions, he keeps cool under
+pressure. He enjoys this particular quality, first of all, due to his
+strong first function (Ne), it 'slows down the time for him', and second
+of all he receives a powerful surge of energy through the third
+function.
+
+Celebrities: these are mostly people with a scientific turn of mind,
+border-lining theory and practice. Miguel Cervantes's fictional
+character Don Quixote, Louis XIII, Peter the Great, Carl Marx, Frederic
+Joliot-Curie, Charles Darwin, Abraham Lincoln, Winston Churchill,
+Margaret Thatcher, Dmitry Mendeleyev, Albert Einstein, Alexander
+Suvorov, Constantine Tsiolkovsky, Sigmund Freud, George Plehanov,
+Michael Lermontov, Michael Saltykov-Schedrin, Nikolay Chernyshevsky,
+Emille Zolya, Andre Mauro, Erve Bazen, Albert Schweitzer, Peter
+Tchajkovsky, Mark Shagal, Janosh Korchak, Louis De Funes, Indira Gandhi,
+Mahatma Gandhi, Edith Piaf, John Lennon, Mirelle Matie, Au?ra
+Augustinavichiute, Igor Kalinauskas.
+
+.. _SEI-Reinin:
+
+SEI (Dumas)
+-----------
+
+**The sensory-ethical introvert  Dumas (Si,Fe)**
+
+**The first function  subjective sensing (Si):** the area of confidence. The SEI is well aware of his own sensations and his state. He/she knows well if something is wrong with him/herself, and doesn't need others' opinions about this. To another person he/she will say: Don't tell me about my state, I know more about it than you, even though I am not a doctor. To a doctor the SEI will tell to prescribe so-and-so procedures and treatments.
+
+The SEI needs to sense him/herself somehow, and craves various sensory impressions and experiences: gustatory, tactile, and so on. My sensations and internal impressions are my life. If I dont feel anything, then I am not. I sense, therefore I exist. Sensory impressions and experiences add to SEI's energy. An abundance of different sensations confirms to Dumas' his existence. The SEI usually enjoys life, and does so in applied and vivid way. His/her motto is: Got to live!
+
+**Function #-1  objective sensing (Se):** deeds and external appearances are in ignoring zone for people of this type. For Dumas this is sometimes expressed as ignoring external forms. Something in SEI's own external appearance may not look attractive and pleasant to the eye; a person of this type may not be dressed up to fashion.
+
+The SEI may not take actions that the current moment requires. The necessity to be active in the external world is sometimes perceived by SEI as an objective evil, a burden. But something has to be done, while, in general, there is no wish to do anything, but no way to avoid it either because the objective logic of the situation requires it. People of type frequently embellish and exaggerate their deeds because they want to look and feel more heroic than in actuality.
+
+What can be done with this? First of all, they need to be aware of this trait, then they can search for it, and examine its manifestations - because the scheme is one thing, and subjective experience is another. In terms of concrete manifestations this mechanism may take very odd forms. It is not always easy to articulate this trait; it may take some extra conscious effort to figure out the unproductive trait of the personality.
+
+**Function #2  objective ethics (Fe):** the zone of taking risks. Dumas' creative function deals with relations between people and their relations to him or her.
+
+The SEI loves an element of risk in relations. He/she is sociable and well informed. Easily manipulates information in the sphere of people's relations and characters. The item that Dumas sells to others - is manipulations in the area of relationships. Dumas gathers social information: who, what, where, with whom, etc. He/she sees very clearly what is happening in the sphere of relations between people, and can in the right moment create a shift, a change in relations, and, moreover, do it in such a way that he himself will never end up inside, at the focal point of the situation that he has created himself. This may be done by intonation, by a sophisticated pause, i.e. so subtly that no one else will understand how he created this situation. In this way Dumas can communicate something to a person without actually saying anything, such that the person guesses himself and does what is needed of him. The SEI does not distort the information much and misrepresent facts, but he/she is a master of omission and subjectively biased presentation. Dumas sells intrigue, the formation of information about people and relationships.
+
+The sphere of communication, of conversations - is the strong point of SEI women and men alike. SEIs are distinguished by the gift of the gab, by ability to speak well and in confident tone, to debate and argue, to talk to an audience, has aptitude for language and literature. Dumas is often interested in various forms of thinking, philosophy, epistemology, interpretations, explanations, analyses, and logic.
+
+**Function #-2  subjective ethics (Fi):** the zone of "do not need to",
+the zone of standards. A Dumas do not talk about their attitudes. Life
+reveals truth anyway. They would rather talk about objective
+circumstances than their feelings. Often a Dumas uses a definite formal
+criteria to form an attitude to another person. He is a democrat(,
+therefore he is a socially and status-oriented person. Extreme case of
+this type is a certified snob.
+
+**Function #3  subjective logic (Ti):** the problem here lies in the
+sphere of understanding, explaining, competence. Their books are
+supplied with an enormous number of references. A Dumas is always on
+defense (he quotes Dr. So-and-so, etc.), he gives references to
+published sources and other authorities. It makes him feel safe. A Dumas
+approaches intellectual issues with great care as a rule. A reference to
+an opinion of a recognized authority seems to a Dumas weightier than
+his/her own arguments. He never trusts his own reasoning. Often their
+system of evidence is based on external authorities alone. When during a
+lecture a Dumas is asked whether he has read a certain article or book,
+he instantly feels under attack according to the third function, he
+thinks he is being accused of incompetence or misunderstanding. He gets
+defensive: a Dumas, the master of manipulation in the area of
+relationships, quickly responds: Sure I have read it, but it does not
+make any sense, or: Yes, I have read it, but it has nothing to do with
+the subject we are discussing right now.  even though he/she has never
+heard of it. Sometimes they put artificial limits to their own
+competency themselves: I understand everything in my field, the rest
+does not concern me. Or the protection of the third function may take
+most humble form: Yes, I am a fool, I basically do not understand
+anything. It is all very interesting, but it is completely out of my
+competence. Or: It does not exist. Only things that I understand
+really do exist, everything else simply does not exist. She puts
+boundaries on the field of perception. This is a "minus defense" - a
+common way to simplify a situation according to the third function.
+Dumass feelings get hurt when people try to explicitly or implicitly
+expose his incompetence. Things and ideas that disagree with their point
+of view either prick their interest and they study them in secret, or
+they are completely ignored. When on defense in this area, Dumas often
+develops a superiority complex: "I am OK!" So, when Dumas feels
+competent his self-esteem soars and supplies him with a lot of energy,
+this is called positive reinforcement. When disputing this type is
+logical, pushing, imposing, emphasizes his competence, enjoys stressing
+the opponent's incompetence.
+
+The society energizes people. Any society puts people into a strict
+sociocultural mechanism. To be confirmed in a society one has to fit a
+certain image of a good person (decent neighbor, nice guy). Society may
+consist of neighbors, office co-workers, and colleagues  any important
+group. People put a lot effort into trying to fit a mold for the sake of
+being approved and charged by their social group. People are drawn
+into this power exchange even when little. Take it away and people get
+out of control, become asocial, and there is almost no gap between
+asocial and antisocial.
+
+**Function #-3  objective logic (Te):** the main problem is that of
+understanding; the solution is to know. If he does not know something,
+he needs to find out, do a research, read a book, and consult an expert.
+Dumas' address book is full of phone numbers of the best experts in
+various fields; he is friends with most of them. Nevertheless he does
+not mind fixing his own vehicle.
+
+**Function #4  objective intuition (Ne):** integrity of external
+situation. Ideas may be suggested through this area in the structure of
+the type. I want the world to be in harmony, I want everything from
+beginning to end to be known and predictable; I want everything to be on
+schedule and never off track, moving steadily from one goal to another.
+This desire may lead a person away from satisfying the deeper needs of
+his soul and leave him with a superficial but steady life of the planned
+and the discovered. A Dumas could be easily programmed with an agenda, a
+schedule. In his mind he makes a lay out of the sequence of events; he
+knows what to expect and in what order. For example, a Dumas would
+usually take a course at the Medical Academy or any other nominal
+professional training. A breach in the integrity of the external
+situation may stress a Dumas out or put him in a stupor. A Don Quixote
+and a Huxley take it easy when facing the unexpected or the unscheduled.
+Unexpected events arouse their interest. While a Dumas lapses into a
+stupor in a similar situation. They turn into a stone detached from the
+external world. They need time to process new information and restore
+the integrity. A Dumas, however, is on guard. They easily cope with 95 %
+of emergencies; they have a plan and a set of standard responses to
+certain things. But anything totally unexpected brings him to a complete
+stop... Several years ago we studied behavior of civil aircraft pilots
+in emergency situations. We had a chance to observe a clear
+demonstration of that trait. Skillful experienced pilots did great in
+any of the anticipated situations. But facing the unforeseen
+circumstances he was helpless, unable to cope. He cant fathom
+spontaneity. Meditation broadens the spectrum of expected situations,
+but unexpected things do happen sooner or later. This type needs to
+remember that if he chooses to follow a schedule at one point of his
+life he might find it difficult to break away from it. I would like to
+study in a good school, to be taught everything step by step. A good
+place is the place where integrity of the external situation is secured.
+
+**Function #-4  subjective intuition (Ni):** The integrity of internal
+situation is the "fabric" of this function; it is the fear of searching
+ones heart, digging in ones mind. Introspection does not go well with
+a Dumas. Some other types eagerly engage in introspection, but neither a
+Dumas nor a Gaben enjoy it. If this type chooses to take a look at their
+psyche then things may go in three different ways: a) he scratches the
+surface of his inner self, but he has an impression he reached the
+bottom; b) he studied only ideas about oneself; c) this is not a Dumas.
+Here the infallibility complex comes into action again: a Dumas escapes
+internal problems by ignoring them: I am OK". This should not be
+confused with megalomania. Why psychological literature does not give
+sufficient information about this complex? Nobody seeks a therapist to
+get help in this area. People come for therapy if they have a problem,
+but in this case there is "no problem", everything is just fine. The
+inner world is always integral: Do not touch there, I'm fine. Thus a
+person separates oneself from most of the world, a place where he might
+find out that he is not OK. The not OK part of his [inner] world does
+not exist in his opinion, a Dumas stubbornly ignores it. But this can
+not go on forever, after a while he runs into things that are not OK.
+It is impossible to classify people into bad and good, and live with the
+latter, and send the former to guillotine. After a while the search for
+the bad people resumes. Similarly, the persons living space is reduces
+and he feels lonely.
+
+Celebrities of this type: Alexander Dumas-father, Porthos, a character
+from Dumas' Three Musketeers, Peter-Paul Rubens, Pierre, Augusts Renoir,
+Martin due Guard, O'Henry, Ivan Ivazovsky, Alexander Hamilton, Grigory
+Kotovsky, Nikita Khrushchev, Michael Sholokhov, Charlie Chaplin, Oleg
+Tabakov, Eugeny Leonov, Alexander Kalyagin, Leonid Kuravlyov, Natalia
+Gundareva, Leonid Bronevoj, Jury Nikulin, Eldar Ryazanov, Alexander
+Shirvindt.
+
+(*Drew BARRYMORE (actress, US), Claudia CARDINALE (actress, Italy),
+Ornella MUTI (actress, Italy), Elvis PRESLEY (singer, US), Britney
+SPEARS (singer, US), Mena SUVARI (actress, US), Elisabeth TAYLOR
+(actress, US), Sherilyn FENN (actress, US), Goldie HAWN (actress, US),
+Silvio BERLUSCONI (politician, Italy), Lech WALESA (politician, Poland),
+Mikhail GORBACHEV (politician, Russia), Lyndon JOHNSON (politician, US),
+Catherine II (monarch, Russia), Ernst ROEHM (politician, Germany, 3rd
+Reich), Dmitry ROGOZIN (politician, Russia), Mikhail SAAKASHVILI
+(politician, Georgia), Mikhail TUKHACHEVSKY (army commander, Russia),
+Gaius Julius CAESAR (monarch, ancient Rome), Jacques CHIRAC (politician,
+France), Gerhard SCHROEDER (politician, Germany).*)
+
+.. _ESE-Reinin:
+
+ESE (Hugo)
+----------
+
+**The ethical-sensory extrovert  Hugo (Fe,Si)**
+
+**Function #1  objective ethics (Fe):** Person is a realm of
+relationships. If I have relationships with other people, then I exist.
+This type is in its element when in a relationship. A Hugo would never
+put a strain on a relationship no matter what he thinks about other
+people's attitudes to himself and each other. He does not need to
+inquire of anybodys attitude because he knows what it is. He is
+confident in this area. Stability of his personal relationships combined
+with stability of other peoples relationships support stability of a
+Hugos personality. A change in existing relationships may emotionally
+disturb a Hugo. A Hugo may be a closer friend than a Hamlet. These
+horizontal" relationships have no boundaries. The more the better! He
+does not care about the social status of the people involved. It is a
+personal "world wide web"! Just try putting a Hugo in a room with a
+disconnected phone line! It may cause anxiety or aggression. Even
+thinking that his phone may be disconnected because he has not paid the
+bills stresses him out. A Hugo knows how to smooth things out, ease the
+tension. He always has a lot of friends. He likes to party and hang out;
+there he is in his element. "If I do not have relationships, then I do
+not exist. If I am not needed, I am no more, if I have relationships,
+then I exist."
+
+**Function #-1  subjective ethics (Fi):** Hugo ignores his attitude to
+people. First of all there should be external relationships, and my
+attitudes are secondary. My feelings and me are real and can be
+described. But a Hugo finds it difficult to talk about his/her attitude.
+He/she may not even answer a direct question about his/her attitude.
+This is irrelevant. Other things are more important to a Hugo.
+Relationships of the current external world are important. A Hugo tends
+to go with the flow and does not want to change circumstances or reveal
+his/her attitude. A Hugo's attitude is an intimate thing; there is no
+need to share. It does not need an explanation; my behavior speaks of my
+attitude. Others may interpret my actions and know what my attitude is.
+But putting it into words is hard and not necessary. A Robespierre, who
+compliments a Hugo's(, does not expect to hear about his attitude. In
+this area a Robespierre is full of fears, therefore they communicate in
+another psychological plane.
+
+**Function #2  subjective sensing (Si):** various feelings. Here is a
+broad spectrum of choices. A Hugo has to experiment with sensations:
+taste new foods and alcohol drinks (a Hugo will not drink to get drunk,
+but will have to have a taste). He has to smell new smells, listen to a
+new sound, etc. This type likes to experiment with food, to relish and
+share new tastes and various sensations: Have you tried this? And
+that? Have you ever tried alternating hot and cold showers? It feels
+great! You should try! A Hugo is a lover of delicatessens and cuisine
+expert. They are experts in medicine: they know what the illness is and
+how it should be treated. The art of sexual intercourse is by no means a
+sin; it is a responsibility and a purpose. Art is a source of joy and
+for this reason a Hugo worships it. Even science in his/her
+interpretation may be a source of refined pleasure. His creative work is
+focused on building a world of harmony.
+
+**Function #-2  objective sensing (Se):** appearance, activity, deed,
+and form. As far as I know, these people pay attention to how they look,
+though for them it is not important. Extravagance is in the area of
+"should not". A Hugo wares whats normal and accepted in his/her social
+environment. Their house interior is a standard symbol of time. A Hugo
+does not impose his/her will on people and does not tell them how to do
+things.
+
+**Function #3  objective intuition (Ne):** integrity and harmony of the
+external world. Time management is in this area. This is a painful
+issue; a Hugo is on defense here, constantly apologizing for being late.
+They are often late, even though they try. The third function covers
+self-esteem. Through this channel in the structure of the type a person
+receives energy from the society therefore it should be protected. It is
+protected when clarity is guaranteed and potential situation is known
+from beginning to end. Then a Hugo understands and feels the sequence of
+a process: the first step, the second, etc. Then he is at peace, he
+thinks he is moving and his life is progressing. There are two measures
+of defense: positive and negative. Some are never late. This type
+assesses him/herself: If I am on time, then I am a good person; if I am
+late  I am bad. Others are not aware of time. This type dives deep
+into a meditative process and loses a sense of time; there he dwells in
+peace and harmony. A Hugo is conservative and does not change the
+present order of things, at least, not on his own initiative. Even if he
+does not like how things are, the stability in and of itself is a strong
+positive feedback.
+
+**Function #-3  subjective intuition (Ni):** changing on the inside
+solves problems. This is possible in a number of ways: the change of
+image, meditation, and alcohol. More often a Hugo chooses to escape from
+problems instead of solving them. They may radically change their image
+in an attempt to run from reality, imagining they are somebody else free
+from the existing problem.
+
+**Function #4  subjective logic (Ti):**  I want to understand
+everything! Explain things to me. Please do explain! I am not interested
+if I do not understand. A good place is where understand everything".
+Perhaps the two types  a Hugo and a Hamlet  are the most frequent
+attendants of all kinds of lectures, meetings, conferences, discussions
+and debates. It is important for them that that the event is well
+structured, the lecturer explains and clarifies everything carefully.
+Sometimes in a large audience one can see people in a sort of light
+trance (euphoria)  just because they feel they understand everything
+perfectly. The fact that someone explains 'how it should be' is
+comforting! I feel good in a place where things have an explanation, and
+I get help with understanding things. A collision of concepts is a
+problem, though. Once a Hugo gets a clear picture of something it would
+be hard to apprehend a conflicting concept. However, this collision is
+not so terrible because people of this type do not pay attention to the
+basis of their understanding as a rule. Their logic of reasoning is
+aesthetic rather than scientific.
+
+In the area of the fourth function quickly nothing may be altered too
+soon. This area is not creative. Programs run it, our own programs as
+well as other people's programs  our parents', our teachers'. These
+programs may conflict with one other. Sometimes we dont see any logic
+in our own thoughts and deeds, let alone other's! People usually do not
+agree with the logic of another type.
+
+Hugo and Hamlet have random logic. They chose random starting points for
+their reasoning. Hugo does this quite often. A Hugo may receive an
+infusion because the formal logic of an explanation seems reasonable, he
+may accept things with which he does not
+
+**Function #-4  objective logic (Te):** the zone of fears. In the area of the fourth co-function Hugo has to work hard on himself. Construction or plain house cleaning terrifies him or her. Just thinking about it she gets restless and irritated. Her fear grows the longer she procrastinates. Simple projects demand great efforts from Hugo. We met a person of this type who lived in a room with piles of books maintaining up to the high ceilings. He dreamed of bookshelves and order. It was hard to walk or find anything in the room. There was a wealth of books but they were not accessible. This is a Hugo. They suffer from fear of making a step, fear of facing reality.
+
+Women of this type are often lonely; they never try to keep a man. There is an anecdote: Mary, will you marry me? Weve been together for seventeen years  - Come on, Victor, don't be silly, who would want us now
+
+Hugo is often terrified by the prospect of fulfilling an idea. For example, you know that it is necessary to remodel a place or just organize belongings, straighten out books on the shelf, but somehow it just does not work out. Laziness? What is laziness? It is a lack of energy to do something. Why there is no energy or will power to do exactly what needs to be done? A Hugo does not want to face the logic of the objective world: he does not want to do the objective things for example, to hire workers to paint the walls. Why do it now? Maybe later, well do it next year  it actually still looks OK.
+
+Hugo never knows when the money will come. They are frugal, they making scrupulous calculations. However, they may spontaneously spend everything on one project. This type may have different attitudes to money: it might be the fear of being out of money, or the fear of money.
+
+Celebrities of this type: Victor Hugo, Charles Dickens, Jules Verne,
+Prosper Merimee, George Washington, Michael Bakunin, Che Guevara,
+Valentine Gaft, Andrey Bitov, Gerard Phillip, Michael Kazakov.
+
+(*Juliet BINOCHE (actress, France), Sandra BULLOCK (actress, US), Lolita
+DAVIDOVICH (actress, US), George CLOONEY (actor, US), Emir KUSTURICA
+(movie director and actor, Serbia), Courtney LOVE (actress, US), Liza
+MINNELLI (actress, US), Natalie OREIRO (actress and singer, Argentina),
+Miranda RICHARDSON (actress, US), Friedrich ENGELS (politician, Germany,
+XIX century), Graham GREENE (writer, UK), Yasser ARAFAT (politician,
+Palestine), Fidel CASTRO RUZ (politician, Cuba)*)
+
+.. _LII-Reinin:
+
+LII (Robespierre)
+-----------------
+
+**The logical-intuitive introvert  Robespierre (Ti,Ne)**
+
+**Function #1  subjective logic (Ti):** my understanding, my worldview,
+and my school. My logic is the best logic in the world. It is
+difficult to convince a Robespierre of anything that contradicts her
+system of beliefs. She usually has difficulty explaining her own system.
+Only serious circumstances may change anything in the area of the first
+function. She does not accept anything by faith in this area. At times
+there are objective circumstances that are difficult to ignore but at
+the same time they contradict a Robespierres system of beliefs, her
+idea of the world. Then she needs time to work on a new description of
+the world. A Robespierre may go on with life only after the worldview is
+integral once again. A Robespierre just does not instantly accept
+anything new: she will listen to your arguments, but she needs time to
+evaluate, review new data, process it and either accept or reject it.
+She would not agree with you on the spot. The first function is
+conservative, it serves as a base, and the base should be firm and
+strong.
+
+Our limited individual consciousness needs a base. A person needs to
+know beyond any shadow of a doubt that he exists. This type thinks: I
+cannot think if my thinking is not based on a definite world view.
+
+People with their relationships are in the area of the fourth function.
+He is not a people person. A Robespierre has a primitive idea of
+humanity: people are divided into those who are bad, and those who are
+good. He sees the world in black and white without shadows. (There are
+types who do not divide people into two categories: In fact, the world
+is too complex to limit it by two categories.) People will act
+according to their nature, - this is a common opinion but a Robespierre
+does not follow it.
+
+**Function #-1  objective logic (Te):** the zone of ignoring. The
+world is the way I see it. If you have evidence that its not the way I
+see it, too bad for the world. Anyway it is not my business; just keep
+your opinion to yourself. I think the world should be exactly how I see
+it. Often these people live in the world of their imagination. The laws
+of a society put their own value on people and their actions. They set
+measures and standards for people to follow. Any society has a gap of
+some sort. People evaluate you according to certain standards. At one
+extreme if you do not meet the standards you are isolated. At the other
+extreme you get paid for not meeting the standards because you are
+useful for the same society. By the way, in this gap various spiritual
+teachings flourish. But this is another story.
+
+**Function #2  objective intuition (Ne):** the area of creativity. The external world has to be complete. We will build the City of the Sun and inhabit it with beautiful, happy people. The world lacks integrity and people work hard to bring it to harmony. The world should live in harmony, people deserve to be happy", says a Robespierre, "so let's take a guillotine and chop off heads of all bad people who hamper our creation so that only good ones remain and everyone will be happy. Let's build a society free of the bad people, oppression, violence, injustice  But this purpose is achieved by means of a guillotine. This is how this type expresses his creativity. Ideals of the Sun City are very typical of the Robespierrean utopianism of Thomas Moore and Tommazo Campanella, Henri Saint-Simon, Charles Furrier, Robert Owen.
+
+Ideas of universal harmony are found in the works of many philosophers. But if the real world were in harmony, the LIIs would have nothing to do. They feel a need to improve the world even by means of decapitating those who are standing in the way of building a perfect society, void of those who for whatever reasons do not fit in the harmony, who, for example, had the audacity to be born aristocrats. Take a look at the mess left by Maximillian Robespierre in France or Felix Dzerzhinsky in Russia? And these people were sincerely convinced that they were right, incorruptible and that they were not compromising.
+
+Now a Robespierre's creative gift is often channeled into reforming a society. When heading up a company, this type may find him/herself being engaged in constructing a global structure, which will never encompass the whole world anyway. Someday it begins to fall apart and the person gets frustrated. Then illnesses and neurosis develop, and eventually he or she gives up. A Robespierre often wastes a lot of time on creating institutes, which are destined to be useless.
+
+A LII in his search for harmony often turns to composing music. Many a musician belongs to this type: Rakhmaninov, Rimsky-Korsakov, etc. They may become good educators too, like Russian teachers Sukhomlinsky, Ushinsky, Makarenko. Sometimes their systems work, sometimes they do not. But when the author begins to implement a system he soon finds out that the system created for people does not take real people into consideration, if it does then it think of people as abstract and abnormal. Real people dont fit into a scheme, thus reality hits a Robespierre hard.
+
+There are no bad people - people are just different. It only seems to us
+that they do something wrong. They are different because they live in a
+different dimension and have a different system of values. We just do
+not realize the extent to which psychological planes of different types
+differ from each other. And it is impossible to comprehend another
+persons system of values, because the practice of traveling into the
+psychological plane of another type is, perhaps, one of the most complex
+and rare psychological experiences.
+
+**Function #-2  subjective intuition (Ni):** LII's zone of standards
+consists of a number of states and moods: "My state is always adequate
+to the external world, and my inner person is standard." Why bother
+studying your inner self if building a world of harmony is so much more
+interesting and acute? A Robespierre typically chooses one of his
+standard states and dwells in it most of the time. This area of
+standards also includes ethical norms and principles, which secure the
+integrity of their internal world.
+
+**Function #3  subjective sensing (Si):** in the area of
+self-assessment, in the zone of problems, there are health, sensations
+in general, and sex in particular. A test question: What do you say
+about the following statement: Sex is not only bad for you, but it is
+also good for you? This question frustrates a Robespierre. They need
+200% safety in the area of sensations. They seek out and follow hard all
+kinds of health programs. They have to at least know the theory of
+bodily exercise because their self-assessment motto of this type is I am
+good if I am in perfect health condition. High sexual activity is a kind
+of self-affirmation, self-protection in the area of the third function.
+The body should be reliable, it should be constantly strengthened and
+tested, if it passes the test then I am good, this is positive
+defense. But negative defense is also possible: I am good, but I am
+very sick, I am sicker than you think.
+
+**Function #-3  objective sensing (Se):** problem-solving area. When
+health problems arise this type thinks, We must do something! He/she
+turns to cross-country skiing, karate, bathing in the ice-cold water,
+sauna, other physical exercises, diets, fasting, urine-therapy, routine
+schedule, workouts, etc. I need to fortify my sensory ability; I need to
+be armed and dangerous.
+
+**Function #4  objective ethics (Fe):** (The principle of a place assessment, the area of suggestive influences; motives, desires, people's attitude to me. Things that other people teach me about.) This is a friend, that is a foe, and who is that one? I want to be loved. A good place is the place where I am loved. A Robespierre leaves because he/she feels the negative attitude, they are often unaware of the objective reasons why they left a place or a company: I want to be loved, that's all! So he is thinking what can be done in order to get people's love? Its a good idea to create a team, become a leader, everyone will listen to me and nod: Yes, you are right! It is a wonderful thought! There is logic in what you say!
+
+Objective ethics in the area of the fourth function means that a person gathers people around him/herself to satisfy the need to experience other peoples good attitude to himself. The motive is subconscious and he/she may find him/herself surrounded by bootlickers some day. We have mentioned that in the area of the fourth function people tend to be hypochondriac. A Robespierre gets even suspicious: I do not know what they really think about me. Other people know better what others think about me. A Robespierre may be easy manipulated if his/her suspiciousness is encouraged it works because they are not masters of relationships.
+
+None of the IM types understand jokes in the area of the fourth
+function; when humored they become more suspicious and may react
+absolutely inadequately.
+
+**Function #-4  subjective ethics (Fi):** in a Robespierre's zone of
+fears is his/her own attitude. Why talk about it? What is there to say?
+They have a fear of expressing love, or their own attitude to a person/a
+thing/an event. What is your opinion? What do you think about it?
+these questions frighten a Robespierre. And when they are faced with a
+necessity to speak directly about their attitude they may put up a huge
+fuss. In general a Robespierre is inclined to a detached, constrained
+manner of dialogue. He/she tries to express opinions implicitly, hinting
+or joking. Frequently they are not understood, because they assume that
+others think in the same way as they do.
+
+Celebrities of this type: Maximilian Robespierre, Michelangelo
+Buonarroti, Caesar Bordzhia Dante Algieri, Rene Descartes, Karl Gustav
+Jung, George Wilhelm Fredrik Hegel, Immanuel Kant, Friedrich Nietzsche,
+Arthur Shopengauer, Johann Fredrik Schiller, Bertold Brecht, Nikolai
+Roerich, Thomas Moor, Felix Dzerzhinsky, Sergey Rakhmaninov, Nicolo
+Paganini, Francisco De Goya, Paul Gauguin, Claude Monet, Anton Chekhov,
+Franz Kafka
+
+(*Sandrine BONNAIRE (actress, France), Patricia KAAS (singer, France),
+Kevin COSTNER (actor, US), Demie MOORE (actress, US), Isabelle HUPPERT
+(actress, France), Paul A. M. DIRAC (physicist, UK), Marie
+SKLODOWSKA-CURIE and Pierre CURIE (spouses, physicists, Poland -
+France), Andrei SAKHAROV (physicist and politician, Soviet Union), Erwin
+SCHROEDINGER (physicist, Germany), Albert GORE (politician, US), Thomas
+JEFFERSON (politician, US, XVIII century), Sergei IVANOV (politician,
+Russia), Francois MITTERAND (politician, France), Vladimir PUTIN
+(politician, Russia), Maximilien de ROBESPIERRE (politician, France,
+XVIII century).*)
+
+.. _LSI-Reinin:
+
+LSI (Maxim Gorky)
+-----------------
+
+**The logical-sensory introvert  Maxim (Ti,Se)**
+
+**Function #1  subjective logic (Ti):** my understanding, my worldview,
+and my school. A Maxim's motto is: I understand the world, therefore I
+exist. It is impossible to make them change their mind. The world is
+the way I understand it. Their understanding is very conservative,
+crystallized. When attacked in the area of the first function, a Maxim
+becomes aggressive. In the area of the first function a person is
+confident of himself and leans on his own authority. In case of a Maxim
+this is their 'school', their view of the world, their ideas about the
+world. I know how the world was made, who will teach me about heights
+and the depths. What evidence do you have to show for? I will explain
+away all your evidence! If a Maxim runs into indisputable evidence
+which he can neither explain nor ignore, he (similar to a Robespierre)
+needs time to fill up the gaps in their belief system, to improve their
+world view making it complete and consistent from their point of view.
+He likes to analyze new data and draw independent conclusions, accepting
+or rejecting certain things. It is easy to drive a Maxim to aggression,
+just tell them: Your teacher has no idea what he is talking about!
+Their reaction may be absolutely inadequate. And since their creative
+function is physical action, anything within their hand's reach may be
+hurled at you. I tried talking to a Maxim in the same manner and was
+nearly hit by a heavy object thrown at me.
+
+**Function #-1  objective logic (Te):** the world is the way I see it,
+everything else I ignore. Real circumstances can be perceived simply as
+annoying obstacles. If I study, I simply listen to what a teacher says,
+and my understanding does not differ from the teachers; this is my
+school. In any case it is a fixed set of ideas about the world, certain
+standard picture. Sometimes real-world notions like visas, traffic
+rules, criminal code and other social realities may fall in the zone of
+ignoring. This may cause 'unexpected' problems, even imprisonment. The
+society does not care take into consideration neither your unique
+interpretation of the established law nor your type of information
+metabolism.
+
+**Function #2  objective sensing (Se):** the zone of risk; the risk might as well be purely physical. Get in his car and you will immediately feel the danger: He drives like a maniac sweeping by just within an inch from the other cars on the road  otherwise it is 'not interesting' enough. A Maxim likes to perform and be watched. As a rule, they are excellent drivers, they crave risk, and thus they get a taste of life. If the person of this type is a professional programmer, just look at his fingers fluttering above the keyboard you cannot see separate movements  so fast they are. A virtuoso! Paganini! The zone of creativity is the risk zone: he wants to move and work with objects. A Maxim needs physical activity. Many of them became stuntmen, students of marshal art schools, mimes. They admire perfected forms of movement. They like to jump, shoot and drive. Quite often people of this type can be seen on a catwalk. Demonstration of clothes or themselves is their creative area. Sometimes these people master rather calligraphically elaborate handwriting, peculiar gait, and clothing style. Among actors we also find bright representatives of this type: Nikolay Karachentsev, Constantine Raikin, Talgat Nigmattulin. (*Charles BRONSON, Katherine ZETA-JONES, Clint EASTWOOD*)
+
+Another aspect of this creative function - manipulation with objects. A Maxim is an ardent collector. These people study the little nuances of form and function of various objects. Small objects fascinate them: stamps, butterflies, labels, netsuke, etc. Thanks to them ancient utensils are preserved, ancient arts are revived. They perfectly remember different nuances, smallest distinctions of form.
+
+A Maxim easily gets his/her bearings in any surroundings. Having visited a house just once they remember the layout, arrangement of furniture and appliances. They easily recall small details: features, clothes, etc... A Maxim does not like his/her belongings being moved or used.
+
+**Function #-2  subjective sensing (Si):** health is in the area
+standards. This type has unusually high pain threshold. At times they
+may be masochistic, exhausting themselves physically for a long time in
+a gym or at the racetrack. A Maxim is able to perfect a difficult trick
+for hours despite of exhaustion, hunger, cold or heat. A Maxim is
+conservative in food and sex preferences, they do not seek variety.
+
+**Function #3  subjective intuition (Ni):** integrity of the inner
+world is in the problem area. This type escapes a situation that
+threatens his/her internal integrity. A Maxim would take a job with a
+low pay, inconvenient in other ways too, if only he has a peace about
+working there. This type needs a well structured outside world to
+support the lack of integrity on the inside. Often rigid social
+institutions, requiring some kind of service, soothe their aching desire
+to have peace with themselves and others  army, gangs, and religion.
+The internal world is in seeming peace because he has managed to explain
+away the external world how he likes it. It is not me who is speaking,
+but a supreme force speaks through me, I am only its tool", or "Soldiers
+do not create karma. In their search for inner peace they adopt a point
+of view: I am good if its not me who lives. In this case the person
+turns into an element of a rigid system, as though dissolving in it,
+turning into a function, living its motto "I am not [present]. It is an
+exceptionally protected integral internal situation.
+
+**Function #-3  objective intuition (Ne):** this is a problem solving
+area. This type arranges the external situation to secure his/her inner
+peace. He works hard to set up a stable daily routine, hierarchy of
+relationships, way of life, work schedule, job functions.
+
+**Function #4  objective ethics (Fe):** the attitude of people to me,
+peoples relationships. A Maxim is easily suggested in this sphere. I
+want people to care about me. I want to be liked, appreciated and
+respected. If people here like me, then this is a good place. A Maxims
+cunning "friends" often use this trait. When he/she thinks I am
+appreciated, trusted, I am coping, he/she is in danger of being used.
+In the best-case scenario he will be thanked for his work and dismissed.
+
+A Maxim often acts like an introvert. He/she does not speak much.
+However some representatives of this type like to talk. Their public
+speeches are brief, logical, and well structured.
+
+People of all IM types are hypochondriacal in the area of the fourth
+function. There are rigid programs in the area of the fourth function;
+others or the person him/herself downloads them.
+
+The LSI is hypochondriacal, i.e. suspicious in his/her relationships.
+People can influence a Maxim rather effectively by exploiting this
+suspiciousness. Sometimes it is enough to tell a Maxim that Mr.
+So-and-so does not like him/her, then she/he begins to pick up the
+signs of insincerity in Mr. So-and-so  suspicion creeps in. It is easy
+to infuse doubts through the fourth function; here the person is always
+hypochondriacal. In this area he/she does not trust him/herself and
+becomes dependent on opinions of other people, often sees the reality
+through the eyes of other people. Taken to the extreme this quality
+turns into maniacal suspiciousness. Joseph Stalins paranoid
+suspiciousness threw the whole country into the abyss of suspicion and
+fear. If this type fails to find a friendly company with a good
+guaranteed attitude, they often search for an individual way of
+realization where they don't depend on other peoples attitudes.
+
+**Function #-4  subjective ethics (Fi):** my attitude to people is the
+zone of fears. It is impossible to hear this type confessing their love
+or any other feeling. He will sooner do something than talk: he will
+take a girl out, give her flowers or je Why people of this type often
+join criminal agencies (mercenary units or other social clubs with rigid
+structure)? There might be two reasons for this: Here I feel
+comfortable, I accept the hierarchy and the principles of the agency
+and I am valued and respected here, so this place is good (positive
+feedback according to the fourth function). Besides, here the LSI has an
+outlet for his love for manipulations with objects (realization of the
+creative function). The logic of the objective world is ignored (in this
+case it can be the law, the criminal code, or traffic rules). He is
+seeking for inner peace and consistency. Maxim's peculiar creativity
+combined with disobedience to the law and his desire to be in good
+company may pave a way to a criminal future. Look, this type is easy to
+recognize, we all often run into them.
+
+Celebrities of this type: Maxim Gorky, Charles Morris Talejran,
+Caligula, Jiddu Krishnamurti, Joseph Stalin, Martin Luther, Le
+Corbusier, Anatoly Karpov, Salvador Dali, Toulouse-Lotrac, Pablo
+Picasso, Andrey Tarkovsky, Goiko Mitich, Alain Delong. The most detailed
+description of this type  Klim Samgin, the main character in Life of
+Klim Samgin, by M. Gorky.
+
+(*Charles BRONSON (actor, US) Katherine ZETA-JONES (actress, US), Clint
+EASTWOOD (actor, US), Boris GRYZLOV (politician, Russia), Slobodan
+MILOSHEVICH (politician, Yugoslavia), Saparmurat TURKMENBASHI
+(politician, Turkmenistan), Madeleine Korbel ALBRIGHT (politician, US),
+Donald RUMSFELD (politician, US), Joseph STALIN (politician, Soviet
+Union), Harry S. TRUMAN (politician, US), Saddam HUSSEIN (politician,
+Iraq).*)
+
+.. _EIE-Reinin:
+
+EIE (Hamlet)
+------------
+
+**The ethical-intuitive extrovert  Hamlet (Fe,Ni)**
+
+**Function #1  objective ethics (Fe):** the zone of confidence is external relationships. People of this type typically orient themselves very well in the sphere of relationships and don't have many problems in this respect. They value stability of external relations in general. When someone tries to change existing relations, this causes a strong emotional reaction, even aggression from the EIE. The EIE belongs to the aristocratic quadra, and in his/her life there are fewer trusting relations, than, for example, in the life of Hugo. This, as a rule, is a very small number of persons of "his/her circle".
+
+If the EIE is deprived of the opportunity to be on stage - in a broad meaning of this word - not only as an actor, but also as a teacher, mentor, or a leader, if he/she is deprived of the opportunity to be in public with people looking at or up to him or her  then the EIE feels devastated. Then everything is ruined: both the first and the second (creative) functions go to waste. If there is no way to relate, then I am not needed, I do not exist. EIE needs relationships, no matter if they are good or bad - they simply need to be. Employees, bosses, friends, enemies, contacts, lovers, customers, business partner, onlookers, and spectators. Any situation where there is any type of relations affirms EIE's existence in this world.
+
+**Function #-1  subjective ethics (Fi):** zone of ignoring,
+minus-values, "bad things". EIE's own relation and attitude towards
+other people don't play an important role in his/her life. Other
+peoples attitude towards him/her are of greater importance. Of course
+both such attitudes and relations exist for the EIE, but the external
+relationships always take the first place. 'My attitude to people'
+remains somewhere in the background, often concealed even from the EIE
+him/herself. The EIE is focused on his external relationships more than
+on his own internal attitudes. "External relations must exist, but
+internal relations concern nobody else but myself." The EIE may talk
+about his/her states and impressions, he may easily imagine this and
+even play them out, but his own internal relations and attitudes are, as
+if, not taken into account. This should already be evident, everything
+was already shown, that my relation is such-and-such. However, to
+express his/her relation towards something for an EIE is much more
+difficult than for an IEE or an SEE, who easily and readily express
+their personal attitudes by their creative function. For Hamlet it is
+easier to play some role as means of conveying his/her attitudes and
+feelings.
+
+**Function #2  subjective intuition (Ni):** creative function, zone of functioning, zone of taking risks; continuity and wholeness of the situation, inner state, essence, the sense of time and timing. EIE's creative function allows him/her to easily manipulate the continuity, "inner wholeness", timing of a situation. Hamlet is an actor, and can easily change his states and images: try on one, then another, after another - for the EIE this constitutes is a method of discovering the world and experimenting with it.
+
+Every person subconsciously searches for an occupation that would maximally satisfy the needs of his/her type's IM. When I worked at an acting academy, I wondered which IM types prevailed among the actors. It turned out that there were many LSIs and EIEs among the acting students. A Hamlet's creative function - the ability to adopt a state, an image, to enter into the role and live in it - is an ideal skill for a professional actor.
+
+In the clinical psychology this type is known as hysteroid. On stage a controlled hysterics may look rather good. The actor is writhing, beating himself up in emotional hysterics, then he falls precisely into an armchair, and adjusts his shirt  This continuity and wholeness of a situation for the EIE means continuous image of him/herself. Since this is a flexible, creative function for Hamlet, he/she can adopt various kinds of states, live in each state for a while, leave it, and take on a new state. If a Don Quixote says, I have understood!, a Hamlet says, I have lived into it! The EIE has to enter into and sample the state, live into a role or a character, which for him/her is very easy to do. That which is inaccessible to other types, for a Hamlet is normal behavior, within the framework of this type, within the extent of his/her creative function, that psychological space which a Hamlet usually inhabits.
+
+Among representatives of this type there are many engaging, ardent speakers, who can speak for hours with feverish drive and fiery eloquence; historical examples: Lev Trotsky, Adolph Hitler, Fidel Castro. Among modern politicians, perhaps, only Vladimir Zhirinovsky is a glaring example of this type, and a remarkable actor, too. Remember some of his controlled hysterics on TV? He does this consciously, and the parliament is his stage. The main thing is the presence of an audience willing to listen to him. The speaker himself may calm down soon after his speech, but the people in the audience continue to feel shaken-up and emotionally rallied for a long time.
+
+There are only a few actors who can play different types of characters and effortlessly move from one state to another. For most people this is unreal and inaccessible. The EIE, however, can easily 'reincarnate' into different roles - he may play Balzac, then Napoleon, be both of them. Actors of this type have an unusually wide spectrum of roles. Many good actors belong to this type: Innokenty Smoktunovsky, Sergey Bondarchuk, Jean Mare. By the way, speaking of theatre and actors, it is easy to see that a good director chooses those actors whose type coincides with the type of the character; that is, if the characters in a play have some types, as there are plays where characters don't have clearly defined types, which is a lifeless unreal scenario, because it is absolutely inadequate to the reality.
+
+**Function #-2  objective intuition (Ne):** the extent and scope of the
+external situation; potential, possibility; zone of norms and preset
+life rhythms. There has to be a schedule, a routine, a script. The gun
+should fire in the fifth act. The husband should come home on time. The
+whole family ought to go on a picnic on Sunday. The EIE accepts
+established order and routines and does not express creativity and
+originality in this area. He/she follows the 'order of things'; maybe
+without great enthusiasm, but still does. Sometimes people of this type
+live according to a schedule that does not suit them very well, however,
+they find it difficult to go outside the boundaries of the established
+norms, cycles, and rhythms in a society. Having gotten into a routine,
+the EIE tends to stay in it, even in case of significant changes of
+conditions and circumstances.
+
+
+**Function #3  objective sensing (Se):** form, actions, appearance, looks, external image, gestures and mimicry; my skills, my capabilities, my scope of influence. As a rule, the EIE dresses showily, even a bit extravagantly. One can always notice this percularity in Hamlet's appearance. People of this type love bright colors, details and unusual accessories that catch an eye. They typically have an individual style in how they dress. How I look and What I am capable of doing - these are the principles on which EIE's self-esteem is based. In a sense this is a simplification of the situation: here I should have exact knowledge, i.e. figure it out until I know for certain. Each representative of this type has a certain set of skills and abilities (remember, prince Hamlet was the best fencer in the Danish kingdom). If EIE's set of skills includes such capability as doing household maintenance and repairs, then everything is great, without a problem - the EIE will show off and demonstrate his know-how in this area, show that he does it better than others, and receive positive feedback and support on this function. However, if a Hamlet has no such applicable skills, he/she would need to put in extra effort and expand extra energy over this function, perhaps even excessive powers.
+
+In a position of a leader, a Hamlet as a rule adheres to a rigid authoritative style of management, emphasizing social hierarchy of relationships. In cases of conflict, he/she has no tendency for flexibility and compromise. A Hamlet seriously works on the image of his company of group, additionally this image is sometimes considerably ahead the current state of things. The business much be sound and solid, and generate a good income. This is one of few types who are able to make good money on the image. An not that insignificant moment for Hamlet - is an opportunity to work with money or other material assets.
+
+**Function #-3  subjective sensing (Si):** my internal sensory and
+physical impressions: visual, tactile, sexual, etc.; my physical state
+and sensory impressions; pleasant - unpleasant. If I'm not able to do
+something, then I need to work on my state to be able to do that. I need
+to work out, to practice, to strengthen myself. An EIE pays close
+attention to health when problems arise. And problems arise in two
+cases: either I am not able to do something, or my current state and
+form do not meet my conception of myself as an "adequate" person. In
+this, a Hamlet may not limit himself to physical exercises. I know of
+Hamlets who use a lot of medications and health supplements; this is not
+necessarily true about all of them, but some of them do that.
+
+**Function #4 (suggestible)  subjective logic (Ti):** my understanding,
+explanations, concepts, theories, hierarchy of conceptions about what is
+near or far, higher or lower; my level of education, my school, my
+understanding of the world, the system of my conceptions and thoughts;
+principles for evaluating a place. A good place is where I understand
+everything. The EIE may accept something simply because it sounds
+logical. EIE and ESE - these are the two types who enjoy most of all
+attending lectures, meetings, discussions, etc. (see description of a
+Hugo). The main thing for them is the presence of a structure, so that
+they understand whats going on. Hamlet accepts other peoples
+explanations of how something works and what is the right way. A good
+place - is the place where everything is explicitly explained and
+crystal clear, where things have been thoroughly explained to me in a
+way that I have understood. A Hamlet is thus open to outside influences
+through explanation.
+
+**Function #-4  objective logic (Te):** the zone of fears, "don't want to"; the objective logic of external world, objective circumstances, facts, methods, objectively logical sequence of events and actions; my territory. To be or not to be? - this is a Hamlets classical question. Alas, it is necessary to make a decision! How will the events unfold after a decision is made? This is unknown, and this is frightening ... Once the choice is made, further actions are creative. This is a purely Hamletian problem - the fear of realization, of concretization, of definiteness, and therefore irreversibility of a made decision. Even if it is clear that it is absolutely necessary to move to another place, or clean up and organized one's living space, or legally formalize something, somehow there is never enough time.
+
+Hamlet has to work on him/herself to feel more or less confidently in the areas related to concretization, where making decisions is a necessity. A Hamlet never organizes other people's things, and hardly ever organizes his/her own belongings.
+
+NB! In people of this type there has been observed a susceptibility to sicknesses of the upper air passages.
+
+Celebrities of this type: William Shakespeare's Hamlet, Octavian August,
+Nero, Johan Wolfgang Goethe, Adolph Hitler, Leon Trotsky, Dolores
+Ibarruri, Fidel Castro, Raphael Santi, Michaelous Chourleonis, Ivan
+Pavlov, Sergey Vavilov, Jerome K Jerome, Vsevolod Meyerhold, Jean Mare,
+Lawrence Oliver, Innokenty Smoktunovsky, Paul Kadochnikov, Sergey
+Bondarchuk, Vladimir Zhirinovsky.
+
+(*Asia ARGENTO (actress, Italy), Annette BENING (actress, US), Melanie
+GRIFFITH (actress, US), Irene JACOB (actress, France), Nicole KIDMAN
+(actress, Australia - US), Anastasia KINSKY (actress, Germany - US),
+David COPPERFIELD (illusionist, US), Penelope CRUZ (actress, Spain -
+US), George MICHAEL (singer, Greece - US), Julia ORMOND (actress, US),
+Mickey ROURKE (actor, US), Audrey TAUTOU (actress, France), Myelin
+FARMER (singer, Canada), Audrey HAPBURNE (actress, UK), Charles Spencer
+CHAPLIN (actor, UK - US - Switzerland), Friedrich NIETZSCHE
+(philosopher, Germany, XIX century), Friedrich HOELDERLIN (poet,
+Germany, XIX century), Johan Wolfgang GOETHE (poet and politician,
+Germany, XVIII century), Edward LIMONOFF (writer and anarchist
+politician, US - France - Russia), Thomas MANN (writer, Germany), Edgar
+Allan POE (writer, US, XIX century), Edward RADZINSKY (writer and
+historian, Russia), Marina TSVETAYEVA (poet, Russia), George BUSH Jr.
+(politician, US), Josef GOEBBELS (politician, Germany), Ernesto GUEVARA
+(politician, Cuba), Adolph HITLER (politician, Germany), Muamar GADHAFI
+(politician, Libya), Osama Bin LADEN (politician, Saudi Arabia), Ronald
+W. REAGAN (politician, US), Francisco FRANCO y BAHAMONDE (politician,
+Spain), Nicolai CEAUSHESCU (politician, Romania).*)
+
+.. _IEI-Reinin:
+
+IEI (Yesenin)
+-------------
+
+**The intuitive-ethical introvert - Tutankhamon (Ni,Fe)**
+
+**Function #1  subject intuition (Ni):** IEI's area of confidence - is the continuity and wholeness of the inner situation. For the IEI this is expressed as the ability to keep without contradictions inside. This frequently shows in IEI's interactions with other people. The IEI, while always remaining somewhat aristocratic, may behave very differently with different people. A Tutankhamon is conservative in his notions about 'proper' relationships, and often other people do not understand his norms and approaches. This type always has well defined principles and philosophies of life. In a sense, a Tutankhamon is a "conservative romantic". In contrast, for example, to Dumas, the state of introspective meditation is almost a common everyday state for him. As Balzac, more than other types this type is capable of self-analysis and evaluation. Under unfavorable external circumstances, the IEI may withdraw from people for long periods of time, going deep into himself, but he tends to go into his soul rather than rational thinking.
+
+A person of this type easily stays in the background, yet feels the subtle rhythm of time. This type, by the way, can be seen among professional bodyguards. Imperturbability, the ability to be present without being noticed makes him well suited for such occupations. Hollywood actors Kevin Kostner, Pierce Brosnan, Steven Seagull are striking examples of this type.
+
+**Function #-1  objective intuition (Ne):** ignoring the scope and
+extent of the external situation. Quite often people of this type simply
+drop out of the picture. External situation exists separately - they
+exist separately. You may observe this person at a social gathering,
+when somebody asks: Where is he/she? I just saw him/her a minute ago.
+Have you ever seen this? They are talking about a Tutankhamon. He/she is
+phantom lost somewhere in the depths of inner space, while ignoring and
+losing the external situation. On the contrary, a Don Quixote may
+completely lose himself, his inner situation, by getting too absorbed by
+the external circumstances: sometimes an ILE starts to communicate with
+external world so intensively that he forgets about his own problems and
+condition! While a Tutankhamon, conversely, withdraws into him/herself
+and lets the world fade away.
+
+**Function #2  objective ethics (Fe):** this is the area of IEI's creativity  relations of people between each other and their relations towards him/her. Even if creative function deals with manipulations of relationships, this does not necessarily mean that the person is an intriguer. The IEI simply easily sees what's going on between the people. The IEI can easily create shifts in relations and attitudes into the needed direction. Moreover, he/she does it from the outside of a situation, to not end up inside, at the focal point, but keep on observer sidelines. This influence is exerted in light, subtle, tangential form. The IEI lightly touches on certain issues, seemingly in a friendly sharing way, makes subtle statements - and there you go! A Tutankhamon can also influence relationships through numerous short yet strong emotional attacks and quarrels. There is a supposition that a Tutankhamon is even a more sophisticated manipulator than a Dumas. However, I could never catch a Tutankhamon in this act. Here perhaps more observations and inquiries are needed.
+
+On the other side, I know that a Tutankhamon is usually a person who does not have problems with relationships. He/she is always able to find an agreement, to strike up a compromise, be flexible in order to get what is wanted. The IEI can easily instigate, provoke certain acts and actions (I've observed them doing that so many times).
+
+A Tutankhamon can be a great organizer, creating and structuring large groups of people. He/she is able to regulate, adjust and maintain relationships within a group and create a productive atmosphere. As a leader, the IEI adheres to a more democratic style of management as a rule.
+
+**Function #-2  subjective ethics (Fi):** the zone of norms, standards,
+stereotypes of behavior, no's and don't's. A Tutankhamon avoids
+situations where he/she needs to express a personal attitude, for
+example, talking about his/her own feelings of love. The IEI finds it
+easier to talk about objective circumstances, of how things ought to be,
+while his/her own attitude is already the way it ought to be. The IEI
+expresses his/her sincere (even positive) attitude towards another
+person in a conventional standard form. Such rich inner life escape is
+practically inaccessible to put it into words.
+
+**Function #3  subjective logic (Ti):** the principle of self-esteem is
+based on "how I understand things". "If I understand correctly, then I
+am a good person". As we have already said, a person tends to simplify
+the situation on this function. Simplification, in this case, is used as
+an effective means of protection. For a Tutankhamon negative defense
+constitutes denying knowing something or anything on a given topic or
+field of study where he/she doesn't have 100% certainty. The fear of
+turning out to be incompetent greatly narrows down the areas in which
+the person dares to demonstrate or apply their knowledge. A Tutankhamon
+builds a positive defense through constructing maximally abstracted and
+generalized theories, which are aimed at explaining all the phenomena in
+the society and nature.
+
+**Function #-3  objective logic (Te):** the problem here is 'to
+understand' things, the solution - is 'to know' things. This type wants
+to solve his problems by collecting objective data. It is necessary to
+consult the experts, to obtain the data and results of studies, to
+receive objectively reliable new information. A Tutankhamon hopes to
+solve his/her problems through changes of external situation and
+circumstances.
+
+**Function #4  objective sensing (Se):** suggestible function; the principles for evaluating a place, motives, "I want". Others know what I ought to do. A good place is a place where there is action, movement, where something gets done.
+
+At times the IEI finds himself on the way to some place, or sitting by a campfire, for example. That is, the IEI has gotten "inserted" into some activity. The IEI may not notice this, and later find himself in some circumstances that he didn't plan for and didn't want, but he couldn't reject it and turn it down, couldn't resist the external influence. They took me with them, so I went along. People of this type should be more attentive of activities and external situations into which they get drawn. They should ask themselves: Do these things correspond to the goals of my life? Will they take me there where I want to be? Once the Tutankhamon (IEI) realizes the situation, there may be attempts to sort things out, to demand explanations, attempts to break free and leave. Often it is too late though; the train has left the platform and is not coming back. Thus, what we have here on one hand is dependency on other people's choices and suggestibility - and, on the another hand, the ability to manipulate relationships. When the IEI suddenly "tunes in" the situation and realizes what is happening around, where he or she is, then the IEI starts influencing other people in some way, with the aid of strong aspects of this type.
+
+**Function #-4  subjective sensing (Si):** my internal sensory and
+physical impressions: visual, tactile, sexual, etc.; my physical state
+and sensory impressions, and the fears related to this. The area of
+various sensations that concern one's own state; unwillingness to take
+care of it; "I am active/work until I drop". Any unpleasant sensation or
+experience it's best to endure and wait over, than to seek how to
+improve one's state or move to another place that offers better
+conditions. In this a Tutankhamon is similar to his complementary type,
+a Zhukov, though the IEI usually has much fewer energy reserves for
+this. People of this type run a very real risk of acquiring various
+subtle and chronic diseases and ailments.
+
+Celebrities of this type: Tutankhamon, Jean Jacques ROUSSEAU, Tiberius,
+Ivan Bunin, Jury Gagarin, Antoine de Saint-Exupri, Federico Garcia
+Lorca, Marcello Mastroianni, Audrey Hepburn, Eugeny Matveev, Bulat
+Okudjava. Peculiar smile is characteristic of people of this type, the
+one you could see on the Tutankhamon mask.
+
+(*Hugh GRANT (actor, US), Liza KUDROW (actress, US), Edward NORTON
+(actor, US), Chulpan KHAMATOVA (actress, Russia), Jennifer ANISTON
+(actress, US), Frederic CHOPIN (composer, Poland - France, XIX century),
+Friedrich Wilhelm SCHELLING (philosopher, Germany, XIX century), Ray
+BRADBURY (writer, US), Romain HARY (writer, FRANCE, also known as Emile
+AJART), Nikolai GOGOL (writer and philosopher, Russia), Marceilles
+PROUST (writer, France), Paul CELAN (German poet, lived in Romania and
+France), Nikolai BUKHARIN (politician, Soviet Union), Laura BUSH
+(president's wife, US), Georgi MALENKOV (politician, Soviet Union),
+Nikolai RYZHKOV (politician, Soviet Union).*)
+
+.. _SLE-Reinin:
+
+SLE (Zhukov)
+------------
+
+**The sensory-logical extrovert - Zhukov (Se,Ti)**
+
+**Function #1- objective sensing (Se):** the principle of existence: I am active, therefore I exist. His lifes principles are constancy of the external form, confidence in his appearance and actions. Those who criticize ESTp's actions may experience his aggression.
+
+They are workaholics in the full sense of the word. An ESTp just cant sit still. They are active even when they should be still in the given circumstances. Socionists have a joke: "Can a Zhukov be quiet for 10 minutes in a company of friends? If he is quiet, then he is either mute, sick, or has passed out ... "
+
+A working ESTp gives all of himself to a business, never sparing his energy. It is an authoritative, strong-willed type of person able to make others submit. He can also obey himself when working in structured environments (army service, etc.).
+
+The habit of taking responsibility upon themselves makes ESTps irreplaceable in management. However, they rarely make it to the top due to their excessive bluntness and straightforwardness. But notice, that just like the ENTp they will step forward during periods of real danger in the history of humanity (eg Winston Churchill, Margaret Thatcher).
+
+The ESTp is reliable. If there is no movement, no activity going on, he will find it or create it; he is a magnet for situations where he is needed. These people constitute a rather strong social type.
+
+Similar to ESFps, two people of this type hardly ever get along when life brings them together. It is normal because they are both take initiatives. It is only in relationships within strictly defined hierarchies (army, etc.) or in a master-student type of relationships that they may get along a little better for a period of time.
+
+**Function #-1  subjective sensing (Si):** health is in the area of ignoring. An ESTp has a "farmer's attitude" in health issues: "I shall plough the field until I drop dead in my furrow." When the ESTp falls sick, having spent his strengths in fervent activity, does he allow others to take care of him. Only when they are burnt out they might agree to take some time off at a resort or a hospital. People of this type should remember this, because people are not indestructible; they are not sources of endless energy. However, they should not stay away from work completely. An ESTp needs to learn to control this area of life. Not all of them are capable of doing that.
+
+ESTp is not a picky eater: he expects food to be plentiful and filling, it should not be some sophisticated food, butit should be fresh and esthetically pleasing.
+
+**Function #2  subjective logic (Ti):** his since for dialectics is in
+the creative area, he is able to consider an object, a situation, an
+event from several points of view, he can explain any phenomenon in
+several different ways. SLE is not conservative here. A Don Quixote
+having generated an idea hardly ever implements it in real life. A
+Zhukov, having the same creative function, comes up with an idea and
+then brings it about, i.e. Zhukov gives an idea a chance to live. For
+example, Sergei Korolev (a Zhukov) and Konstantin Tsiolkovsky (a Don
+Quixote)  they both dreamed to see humankind go into space. Korolev
+dared to finish the project under completely fantastic, inhuman
+conditions; and he became in his own way happy.
+
+**Function #-2  objective logic (Te):** the logic of the external world
+is in the zone of standards. This type picks out the laws that they
+follow automatically, without a hint of creativity. In this area a
+Zhukov does not like to waste time on decision-making.
+
+**Function #3  objective ethics (Fe):** a Zhukovs principle of self-esteem is as follows: People need me, therefore I am good. Other peoples assessment of him is the basis of his good or bad attitude to himself. It is very important: when, in what situations the person gets positive feedback through the third function. If SLE is needed, he gets constant 'refills' of energy. In his relationships he is focused on himself: I am the hub of the universe. Incidentally these two types (a Don Quixote and a Zhukov) have personal and public interests in consent. A Zhukov's cunning "friends" frequently use this trait for their purposes.
+
+A Zhukov has to be needed ("important"); otherwise he gets sick and spends all of his colossal energy on medical treatment, seriously aggravating the situation.
+
+**Function #-3  subjective ethics (Fi):** the problem is solved when
+SLE changes his attitude to an object or a person. It is important to
+have clarity and definiteness. When a Don Quixote faces a conflict in a
+relationship; he tries to smooth it out. A Zhukov in similar
+circumstances is more determined. It is easier for him to avoid the
+difficult person than to live with tension of uncertainty. Both kinds of
+behavior are inadequate, however, he gets the result, which comforts
+him: the situation becomes simpler in both cases; he pushes the problem
+out of his life. A Zhukov has a radical approach to the problem: if
+there is no relationship then there is no problem.
+
+**Function #4  subjective intuition (Ni):** I want the world to be in
+harmony and beautiful. I want to feel good so do something. A Zhukovs
+thirst for inner peace is the biggest than any others. He does not know
+how to manage his own feelings. He needs external influence to have a
+change of mood. Therefore he resorts to common means of changing the
+mood: alcohol, drugs. Some of them get into verbal fights. This is a
+very interesting channel of suggestion because this type is usually at
+the top and we run into them in bureaucratic structures. They are
+difficult to be around because they have hard time managing their moods
+and emotions, they are unpredictable.
+
+**Function #-4  objective intuition (Ne):** here he has the fear of
+integrity of external situation. Integrity of circumstances is
+subconsciously rejected. He detests situations when everything is known
+from beginning to end. A Zhukov has a peculiar vision of time. What do
+you mean I have to follow a schedule? What if I feel like working around
+the clock? Why are you putting me in the rigid frames of a schedule? I
+do not care about your office hours. If I feel like working, I will keep
+work. It is not a surprise that the military talent of marshal Zhukov
+revealed itself to its fullest in circumstances where the course of
+events changed abruptly, in situations of a break-through, or an attack,
+where emergency decisions, deviance from the ordinary schedule, abrupt
+changes in tactics were necessary. A Zhukov can simultaneously supervise
+(and be involved in) several situations at the same time, switching from
+one to another at a snap.
+
+.. _SEE-Reinin:
+
+SEE (Napoleon)
+--------------
+
+**The sensory-ethical extrovert  Napoleon (Se,Fi)**
+
+**Function #1  objective sensing (Se):** action, deed, appearance are in his zone of confidence. SEE is a person of actions. He/she has the following principles of existence: I am active, therefore I exist and I do not need anyone to teach me, I know what I am supposed to do. Often this type does something before he thinks. Military proverbs like First engage the enemy, then see what happens and The war reveals the plan are very characteristic of a Napoleon's approach to the dichotomy planning vs. action. Their hands move faster than their heads think: they are people of action who accept responsibility for the consequences. This is an important professional quality of leaders of any rank. A Napoleon is an authoritative and even autocrative leader: We discussed it and I have decided In spite of his democratic friendships joint leadership is obviously not his style. Remember how quickly the Directory was done away with when Bonaparte came to power? This type is confident in the stability of their external form, their appearance and their own actions. They do not have any problems in this area: How do I look today? I look good! I look the way I want to look.
+
+A Napoleon walks unremarkably, conservatively; he does not care about appearances. Everything concerning forms is in his zone of confidence. When criticized a Napoleon may get angry. He does not take into consideration other peoples advice in this area. A Napoleon is a man of action. He is weighed down when he cannot do anything. What is a Napoleon like when he is retired? He withers away, gets ill, he whines and feels miserable. They have to do something, anything; if nothing else they walk. If your child is a Napoleon, do not put pressure on him/her in the area of the first and third functions, do not discipline them unless you have to, but best do not correct them at all just for the sake of your own comfort.
+
+Unlike a Zhukovs, a Napoleons personal interests hardly ever coincide with the public ones. In anything he does a Napoleon puts his personal interests first, especially financial. They are rather thrifty; they use money well, though they are not as scrupulous as a Gaben. A Napoleon tries to spend money sparingly, believes that one good turn deserves another. In general restless activity and a craving for practice characterize a Napoleon.
+
+**Function #-1  subjective sensing (Si):** his health is in the zone of
+ignoring. He often burns out at his place of work because they do not
+want to properly take care of their health in time. He does not like
+talking about health issues. Usually a Napoleon uses simple treatment, a
+quick fix like aspirin. I made a choice, I took it in, and it is enough.
+Often just like a Zhukov he uses a hill-bellys approach to health: I
+hope Ill get away with it, I will plow till I drop dead. Until he
+drops dead he works hard and often the reason of his death is an
+unexpected sickness, because due to his carelessness the sickness was
+neglected. A Napoleon does not like being touched, especially by
+strangers. This trait is so characteristic of them that may be used for
+diagnosing the type.
+
+**Function #2  subjective ethics (Fi):** the area of creativity covers his attitude to the world, to people, to objects, his opinion on any subject. First of all here is his emotional risk. A Napoleon is a leader because he easily expresses his attitude to actions or people. He seeks a position of leadership because there his opinion will matter.
+
+Since this is the creative function, both negative and positive poles are easily accessible to him. A Napoleon can just look at his troops and say: Soldiers, I love you! There are ten thousand people; does he love them all? The fact is they know he really does love them, and they trust him, and they follow him. Demonstration of his attitude is art; therefore it takes special circumstances that facilitate the maximum self-expression. Is there a better position for self-expression than a position of leadership? I am the boss, you are the fool. When you are the boss, I will be the fool. Therefore it is natural for a Napoleon to aim at positions where his creative function may find its realization. If you are late for work, your boss  a Napoleon  may reprimand you harshly, even rudely. But in five minutes he will come to you as a matter of factly to discuss business as if nothing had happened. He just vented his anger, no big deal. It was just a part of the routine! A Napoleon does not dwell on it, unlike a Don Quixote who is hurting over offending someone for several days. This type often uses words "shame", "disaster", "I hate it", "I like it", "fantastic", "great". A Napoleon may fruitfully work in the heat of the conflict. Often he intentionally creates a situation of a conflict to draw out reliable information, a plan of attack.
+
+A Napoleon is a good politician, in a dialogue he is able to easily find rapport and talk about the opponents problems, but he never forgets about his own goals. He produces an illusionary impression that he really cares about other people's problems. A Napoleon is loved despite of his boldness, people trust him, they vote for him hoping he will change things for the better.
+
+**Function #-2  objective ethics (Fe):** the zone of standards. A Napoleon maintains certain standards in external relationships, rarely becoming close with people. He prefers to keep people at a distance, he does not make friends in the office (command, platoon, etc.); there is a distance, a uniform, a business talk within the framework of the rules of rank. They often do not have close friends in a large crowd of associates and acquaintances.
+
+Relationships fall in the sphere of "unnecessary". At times a Napoleon wanting to express his personal attitude does not take into consideration neither circumstance, nor peoples personal or group space. A Napoleon easily becomes a part of a group and just as easily he pulls it apart. Some people of this type sincerely do not realize how tactless they are. Sometimes you can witness a situation: a Napoleon approaches a talking couple and as a matter of factly interrupts and addresses the person he needs to talk to;  the thing is, approaches them without second thought, says something, disrupting the space of the dialogue, takes care of his business, while the other partner takes off. A Napoleon may get in trouble for doing that especially if he is a child in school.
+
+**Function #3  objective logic (Te):** the place of self-estimation is first of all personal territory. We know that each person tries to simplify the situation according to the third function. For example, When I have conquered the world, then it will be clear where is my territory and where is not. Napoleon Bonaparte and Alexander the Great entertained similar ideas. This is a simplification of a situation. This is an example of an extreme case, of course. But in any case the person of this type needs to know precisely the boundaries of his territory, where he is the emperor, the master and the owner. I have noticed once that at the Aeroflot ticket booths half of the cashier ladies belonged to this type. Each had a tiny office with a ticket window, and that was her territory that gave her the freedom to vent her opinion to the people in line. Every cashier lady felt like she was the god of the air, and that showed. In general, the size of the territory does not make a difference; a Napoleon acts like a dictator whether he is a street sweeper or a president of a large country.
+
+For a Napoleon my territory does not only mean land or space, it may also be social territory  my people. When a Napoleon comes to power, first of all he/she puts his/her people in key positions. Their professionalism is less important than their loyalty. An employee of a Napoleon will sooner get in trouble for lack of loyalty than for his failures. For a Napoleon the external order is very important. He/she might reprimand an employee not for a mistake at work but for being late to the office  because it disrupts the order and makes people doubt the boss' (a Napoleon) ability to control the situation. In this case being late becomes almost a treachery. A Napoleon's third function gets a major negative feedback when the order of his territory is disrupted.
+
+On the other hand, a Napoleon takes good care of his people, remembers their problems, and forgives their weakness. I know a Napoleon who, being the director of a large garage personally has been congratulating each employee on his or her birthdays for many years. As a result workers never left the company, although the boss is very strict, demanding and authoritative. Not unlike Bonaparte himself who was said to know all his old time soldiers by name  more than ten thousand!
+
+Starting a business, a Napoleon should have a precise definition of his/her functions: I should do this and this only. Otherwise the business will never run. If you have an employee of this type, you should give him a clear goal with well-defined functions and fixed responsibility, otherwise the job will never be done. Instead you will listen endless stories about the objective circumstances that were in the way.
+
+Even as a little boy a Napoleon should have his own space, his territory. He would rather have the confidence that the territory is his, than have it clean and tidy. When his mom makes him pick up his toys he might obey, but still feel like he is losing the territory and the next day there will be a mess again, and this will go on forever unless he is disciplined in love. The reproof gives wisdom: but a child left to himself brings his mother to shame. Naturally a Napoleon wants to be left to himself; naturally the mother falsely hopes that he will clean up his mess without being reminded. A Napoleon motivates his disobedience by the need to feel secure in knowing that this 1,5 square meter belongs to him.
+
+Two representatives of this type on one territory  is a sight to behold! There is only room for hierarchical relationships, otherwise there will be a conflict or one of them will drive out the other.
+
+A Napoleon is a born leader; however, if a territory does not interest him/her and he/she is not planning on conquering it, his/her behavior drastically changes. A Napoleon remains invisible, not talkative and still.
+
+**Function #-3  subjective logic (Ti):** problem-solving area. When
+faced with objective problems (financial, technical, technological,
+etc.), this type leans on the opinion of experts, statistics,
+authoritative sources, etc. A Napoleons pays attention to weighty
+opinions of those people whose intelligence they consider to be above
+their own. When in a leadership position a Napoleon always has clever,
+competent advisers (for example, Dr. Velikhov (a Balzac) for Gorbachev
+(a Napoleon)). Unique experts are treated with awe and respect;
+unpardonable things are often forgiven to the unique specialists.
+
+**Function #4  subjective intuition (Ni):** suggestible function. SEE's integrity of internal situation is his mood. An example: you need your boss  a Napoleon  to sign some papers. He has a choice to either sign it or not. What can you do to influence his choice? The best way to influence his mood, is to ask a person of his complementing type to take the papers to the boss, he/she would have more chances signing it for you. But if you dont have a choice, then put on the air of good spirits and go ahead. Strange as it may seem, but in this particular area a Napoleon is easily suggested. It has been proven that a Napoleon has to be in a positive mood to achieve results. If a SEE boss is in a good mood, he may sign the paper even without looking.
+
+A SEE makes decisions easily, but he has hard time changing his/her mood. He can only dream about a Hamlets talent of switching moods. This type is always looking for new ways to change a mood. When coping with negative feelings a Napoleon may choose to drink, while making excuses that other people do this too. It is common for a person to judge others by his own measure. In 1980's in Russia a campaign against alcohol started. A lot of finest vineyards were cut down all through the country. Why was the president so zealous with this? Mikhail Gorbachev - a Napoleon - was aware of the fact that alcohol has the power to change peoples mood. He thought alcohol to be bad, therefore he fought it.
+
+Anyway, when a Napoleon is aware that he can easily be inspired by the mood of others he/she should not allow others to use this trait to their advantage. It is not an easy job, by the way, it takes patience and focusing on the area of mood.
+
+Function #4 is the channel of manipulative influences. A Napoleon's
+intuition is poorly differentiated. He has a hard time speaking about
+his premonitions and feelings. He just has a 'gut feeling' about
+something and cannot explain.
+
+**Function #-4  objective intuition (Ne):** the zone of fears. If the external situation is entirely complete, then a Napoleon has nothing to do. There must be a gap, and a broken harmony. Engage the enemy, and go with the flow. What is there to think about? For a Napoleon circumstances that are completely known and clear do not give an opportunity to act, therefore he/she tries to create a bifurcation, a stress, a conflict, when it is necessary to make decision on which further succession of events depends, when there is nothing set and fixed and it is necessary to work in unknown circumstances. A Napoleon often acts intuitively, instinctively. The working principle is divide and conquer.
+
+In sports a Napoleon hardly ever reaches high results because he does not like systematic training. If he does achieve something, it is only due to his natural latent potential.
+
+A Napoleon has the ability to do several things simultaneously; they say that Gaius Julius Caesar could do seven things at the same time. In that case his external world is not integral, he sees it as consisting of several parallel layers. This is one of the traits of this type that makes a Napoleon a good leader.
+
+A Napoleon treasures his ability to influence people. He is proud of the love and the respect the people give him. He loves to be popular and in the center of attention. A Napoleon likes to be a leader. This type is bold in sex. But a Napoleon is extremely cautious in the objective world. He lives one day at a time. This type is practical, fun to be around, yet unreliable.
+
+Celebrities of this type: Napoleon Bonaparte, Gaius Julius Caesar,
+Alexander the Great, Lucius Annaeus Seneca, Marcus Tullius Cicero,
+Catherine II, George Byron, Gustave Flaubert and the character of one of
+his novel, Madame Bovary, Stendhal, Alexander Pushkin, Leo Tolstoi and
+the main character of one of his novels - Anna Karenina, Rajiv Ghandi,
+Michael Gorbatchev, Harry Kasparov, Alla Pugatcheva.
+
+(*Drew BARRYMORE (actress, US), Claudia CARDINALE (actress, Italy),
+Ornella MUTI (actress, Italy), Elvis PRESLEY (singer, US), Britney
+SPEARS (singer, US), Mena SUVARI (actress, US), Elisabeth TAYLOR
+(actress, US), Sherilyn FENN (actress, US), Goldie HAWN (actress, US),
+Silvio BERLUSCONI (politician, Italy), Lech WALESA (politician, Poland),
+Mikhail GORBACHEV (politician, Russia), Lyndon JOHNSON (politician, US),
+Catherine II (monarch, Russia), Ernst ROEHM (politician, Germany, 3rd
+Reich), Dmitry ROGOZIN (politician, Russia), Mikhail SAAKASHVILI
+(politician, Georgia), Mikhail TUKHACHEVSKY (army commander, Russia),
+Jacques CHIRAC (politician, France), Gerhard SCHROEDER (politician,
+Germany).*)
+
+.. _ILI-Reinin:
+
+ILI (Balzac)
+------------
+
+**The intuitive-logical introvert  Balzac (Ni,Te)**
+
+**Function #1  subjective intuition (Ni):** the integrity of the internal situation is the principle of existence of this type. If a Hamlet wears and frequently changes masks due to his creative function, a Balzac is able to really 'become' someone. When losing myself I remain myself. This trait becomes evident in a Balzac's relationships. This type has a natural gift of tuning in the mood of their vis--vis. A Balzac has the gift of being exactly what you want him/her to be. There is nothing he does not know about himself: Don't teach me about myself. People of this type often say: I don't need socionics. It is of no use to me. I know all this and can do it all. I do not need it to communicate with people and the society. In a sense this is true: Balzac is more aware of his and his partners condition than any other type. The inward orientation is more pronounced in a Balzac than in any other introverted type.
+
+A Balzac has the greatest intuition. This type, so to say, comprehends time in its fullness. A person of sensing type is focused mostly on the here and now. An intuitive type is all over the place - he lives both in past and in future, his mind considers both past experience and potential opportunities. The two types make different impression even at a physical level when they enter a room. The sensing type 'fills' the whole room as soon as he enters. You feel like 'there is a lot of him/her'. The intuitive type is hardly visible. You can hardly feel his/her energy fluctuation.
+
+**Function #-1  objective intuition (Ne):** ignoring of the integrity
+of the world. At times this type is paradoxically indifferent to the
+course of external events, they neglect circumstances, plans and
+schedules. Perceiving the predetermined character of circumstances as
+something inevitable, they sometimes completely ignore new information
+on adverse succession of events, especially when it concerns only them
+personally. Even when fully informed of the potentially bad outcome, a
+Balzac may make little or no effort to change anything. He makes an
+excuse that he does not have any energy to do that. He hands the
+responsibility over to a powerful influence from outside to change the
+situation.
+
+**Function #2  logic of the objective world (Te):** the area of creativity. A Balzac is familiar with current laws and customs. A SLI works on improving things in the area of law and customs, while an ILI criticizes 'the foolishness of the system'.
+
+The ILI has little energy for practical achievements in this world (less than other types), but he has a good theoretical knowledge of real life. Since this is ILI's creative function, he/she knows all the undercurrents of the society, all the loopholes in a country's laws, where to use force and when it's not worth it, and is able to foresee the consequences of certain actions, etc. With this, they can be ideal advisers for a Napoleon. The excess of energy in a Napoleon results in the spreading too thin. So for best results he should be directed: better go breach this wall, not that one. When a Napoleon does not have a program of action he becomes aggressive. He begins to attack his employees and relatives  he does that not because he is evil, but because of inability to decide what exactly to do next. He needs to get the program of action from a Balzac or someone with the same deductive synthetic thinking. A Balzac has a better understanding of laws and logic of the objective world, he knows how this was made and who rules it and how it should be run, due to the specifics of his type he can study the global things and ideas.
+
+What were Honore de Balzacs ideas of life? He wrote 98 novels and short stories comprising a big series titled The Human Comedy. The author created a literary world with more than two thousand characters. He had an idea of the societys logic of his time. Description of various things takes a lot of place in his novels. Balzac does not explain things; he gives the reader a three-dimensional, complete picture of all layers of he society in a single structure.
+
+**Function #-2  subjective logic (Ti):** the zone of standards. A
+Balzac does not like to explain things. He uses standard methods to
+explain things. However, when he does not understand the logic of a
+standard method, he may get into an intellectual stupor; this may happen
+at an exam. This happens when in their mind their standard method of
+explaining thing does not connect with the phenomenon they are trying to
+explain.
+
+**Function #3  subjective ethics (Fi):** the area of problems. My
+attitude to other people: "I like you - I do not like you", "pleasant -
+unpleasant". The principle of self-esteem: if I love somebody it is a
+good reason to have a good attitude to myself, i.e. if I love somebody,
+then I am a good person. A Balzac is distancing himself from the object,
+withdrawing into the realm of abstractions, when he needs to protect
+himself according to the third function. He would rather have his object
+of affection be some place far away, in an expedition, on a business
+trip abroad. It is always easier to love an ideal image in your mind
+than a real person with all their weaknesses. Real people are not
+perfect; they disappoint us. If I am disappointed, then I do not love.
+Therefore I am bad. Sometimes a Balzac chooses a cat or a dog (or some
+other pet) as the object of affection. A Balzac's third function does
+not suffer as much in his relationship with a pet. A Balzac is very
+cautious in relationships with people. If we assume that Penelope
+belonged to this type, then while waiting for her beloved husband
+(Ulysses) to return from a distant land, she was constantly getting a
+powerful positive reinforcement according to the third function.
+
+**Function #-3  objective ethics (Fe):** it is possible to solve
+problems by taking care of external relationships. A Balzac needs a
+constant confirmation of others love for her; on the other hand she is
+testing whether others are worthy of her love? When a Balzac is checking
+and testing she come across to the other types as if she is looking for
+a fight, though in reality she dos not want to hear that she is loved
+she would rather see the other person do something for her. If there is
+a problem with my attitude, first let us find out what is wrong with
+that persons attitude to me. While asking this question a Balzac
+distances herself from the 'object', keeping the relationship as simple
+as possible.
+
+**Function #4  objective sensing (Se):** form, action, movement; suggestible function. Do something with me. The ILI easily puts on that state that people around want of him/her. Sometimes he/she simply dissolves in that image or state, and with a frequent change of states comes the effect of losing themselves.
+
+People of this type can hardly resist persuasion: when some activity is imposed on them, when they are pressed to do something, they are almost defenseless. It happens that Balzac 'unexpectedly' finds him/herself involved in a strange activity.
+
+People of this type often need an external push in order to do something. And, on the other hand, they are unable to resist this pressure. If a person of the opposite sex comes to a Balzac and says: I am moving in, I will live with you.  Well, OK.
+
+An ILI has even lower 'resistability' than an IEI. The latter at least pays attention to the aesthetics of the situation; the former does not manage to do even that. Perhaps, recognizing this trait in themselves, women of this type often produce an impression of being cold, aloof, difficult, and unapproachable. In this way they unconsciously create a maximum of personal distance.
+
+**Function #-4  subjective sensing (Si):** the zone of fear is my sensations, my health condition. Try talking to a Balzac about her health in more detail than it is commonly accepted or than she would prefer  and immediately you will be shut down. She would talk about other people, but never about herself! To do something about her health a Balzac needs to make gigantic efforts! At times somebody needs to make him or her take care of his or her health. I can judge from my experience: this type does not like visiting the sick at the hospital.
+
+A Balzac is afraid of picking up a virus. They can wash their hands twenty times a day, and even more. One day my friend  a Balzac and I were on an escalator down in the subway station; when I leaned on the handrail, she was terrified: Dont touch! A ton of people has touched it, billions of germs  Things like that never come to my mind, but she thought it was a real danger! In general, each type has its own psychopathies, i.e. borderline states when the person is disadaptated. A Balzac, for example, entertains mystical notions regarding her health. At times they experience diseases and symptoms that nobody has experienced or come across with. Doctors have difficulties diagnosing their cases: their fevers unexpectedly come and then suddenly go, and no other symptoms are present. Their blood pressure changes without an obvious reason.
+
+Celebrities of this type: Honore de Balzac, Socrates, Francisco Goya,
+Anatole France, Elena Blavatskaya, Michael Kutuzov, Ivan Krylov, Norbert
+Winer, Julietta Mazina, Nadezhda Krupskaja, Salome Neris, Raymond Pauls,
+Donates Banionis, Eugeny Velihov
+
+(*Woody ALLEN (writer and actor, US), John LENNON (singer, UK), Meg RYAN
+(actress, US), Ludwig BOLZMANN (physicist, Austria, XIX century), Isaac
+NEWTON (physicist, mathematician and financier, UK, XVII century), Blaze
+PASCAL (mathematician, France, XVII century), Wolfgang PAULI (physicist,
+Switzerland), Carl Gustav JUNG (psychiatrist, Switzerland), Boris AKUNIN
+(writer, Russia), Stanislav LEM (science fiction writer and futurist,
+Poland), Gabriel Garcia MARQUEZ (writer, Columbia), Haruki MURAKAMI
+(writer, Japan), Aesopes (writer, ancient Greece), Yuri ANDROPOV
+(politician, Soviet Union), Charles de GAULLE (politician, France),
+Raisa GORBACHEVA (president's wife, Russia), Eugeni PRIMAKOV
+(politician, Russia), Mikhail KHODORKOVSKY (businessman, Russia).*)
+
+.. _LIE-Reinin:
+
+LIE (Jack London)
+-----------------
+
+**The logical-intuitive extrovert  Jack London (Te,Ni)**
+
+**Function #1  objective logic (Te):** LIE is confident in his/her knowledge of the world of objects and social structures. He/she knows well all the traffic rules, legal codes, techniques, statistics, car mechanics. The stability of the surrounding world and the order of the world in general are important to a person of this type. There is order in my world, therefore I exist. The order may be different depending on time and circumstances, but it should be stable. My house is my fortress - a Jack may say. Jack's home, family take significant place in his/her system of values: A home is where I am always needed and useful. A Jack with pleasure plunges in any good activity that is useful for his family, friends or people in general in the future. His criteria of any action are its practical value.
+
+Never does a person of this type say: Explain these things to me. LIE says: Demonstrate these things to me, give me the facts. LIEs need objective data that they can rely on  this is their level of organization of the personality type. If a soul-searching Jack needs to change something in his/her world-view, he/she disappears for a couple of weeks, or even months and then comes back with a new outlook on life. LIEs need this time of solitude. First you may observe aggression, rejection, and then  withdrawal. A Jack does it when something is going on in the area of the first function.
+
+**Function #-1  subjective logic (Ti):** the zone of ignoring. A Jack
+is a born experimenter, businessman, and practical person. This type
+prefers to study the matter itself rather than listen to someone's
+explanations. Jack never trusts a theory until it is proven by practice.
+The attempts to comprehend theoretical description of the world and
+alter it are a big challenge for a Jack who never theorizes without
+proving the concepts in life practice.
+
+**Function #2  subjective intuition (Ni):** creativity manifests itself in free manipulation of the internal situation. For example, on the surface a Jack is sitting around and obviously not doing anything, but in fact he/she is struggling with something on the inside. This type may enter the states of mind inaccessible for the majority of other types. The volume of psychological space in the area of Jack's creative function is larger than that of other types, who have this IM element in other functions. When a person of one IM type speaks about the nuances of her creative function, it might be interesting to some degree another type, but they are not able to completely comprehend and approve of these nuances. This causes misunderstanding: the same words mean different things to different types. This misunderstanding could go deep and be difficult to figure out. It is similar to a situation when a Philippino is attempting to explain something about rice to a person from Europe. In a khanonoo, Philippine language, there are more than 90 words that are used for different kinds and states of rice, while for an English speaker rice is rice, that is all. In the process of translation the nuances of meaning are lost, sometimes without being noticed by either party. The same thing happens with the creative function: it allows for many nuances in an IM element (in this case it is subjective intuition) unavailable for other types having the same element in a different function. Sometimes people do not understand each other not because of their stupidity or lack of positive attitude, but simply because of the poverty of their vocabulary, so to speak.
+
+A LIE usually does not seek a career of an actor - his creativity manifests in a different way. LIE may go hunting out in the wild for four months - this is natural for him (Jack London's novels depict that trait). They firmly endure difficult circumstances of the wild thirst, hunger, cold weather. They do not need company there. This type is more self-sufficient than any other (the more so since LIE's relationships with other people are in the zone of fears). There are types who cant handle things like that, but a Jack considers this to be absolutely normal. A Jack can be alone for a long time, living as a forest-guard; he is not bored or anxious.
+
+Vasily Maksimov, the first and, in my opinion, the best translator of Carlos Castaneda's works, about 20 years ago went to the woods to live there. Here is a good example of a Jack's creative function. It would be hard for a Napoleon to handle the lifestyle a Jack enjoys, a Don Quixote would not tolerate it either. How could a Hamlet survive there without a stage? Who would a Dumas talk to? To a moose? To say the truth, Alexandre Dumas, the writer, when he created his immortal novels would lock himself in a castle and even lift the bridge, but he was in the company of his characters, and that was quite a company!
+
+**Function #-2  objective intuition (Ne):** the zone of standards is
+the integrity of the surroundings. LIE wants his schedule to be
+standard. This is one of the few types who feel comfortable working at
+an assembly line or doing some other routine but useful job. On the
+other hand, it is the zone of "unnecessary"; therefore a Jack can easily
+shrug off any schedule and leave for the woods, for example. LIE indeed
+tries to arrange his/her life so that there would be no necessity to
+follow any external schedule, or a way of doing things (freelancing
+entrepreneur). In short: this function helps the person to follow and
+accept standards, though the person does it without much delight.
+
+**Function #3  objective sensing (Se):** - LIE's self-esteem has its basis in form, action, acts, ability to create something by his own hands. My appearance/image, my abilities, my skill, my activities. Jack is almost always a very capable doer. In some sense this is also a simplification of the situation. Here the LIE has exact knowledge: I can really do something (generally, to have extract knowledge, to know for sure is important in the area of third function). For a Jack this is not only a skill or know-how, but also an additional existential advantage  a positive reinforcement on third function, in essence it is the energy from society that he receives. In terms of clothing, this may be LIE wearing a brightly colored jacket with checkered pants. This, however, is not necessary - the defense of this function might be into the negative; then a Jack's clothes are a bit tattered, carelessness in appearance is accentuated. However, some style is there anyway. Even if the LIE is wearing tattered clothes, there will be attempts to think things through, to work on his/her appearance. In any case, LIE cares about own looks.
+
+Not seldom an LIE has a lot of physical strength and prowess, often he/she is athletic and takes up sports. In any case, the LIE often looks fit and sporty. Not a bad swimmer, shooter at a shooting range, car driver.
+
+One more detail: LIE always has some money. This is also connected to the principles of his/her self-esteem: I am good if I am strong; I am good if I am skilled and capable; I am good if I have money.
+
+**Function #-3  subjective sensing (Si):** decisions. If I cannot do
+something, if my shape does not meet my standards, it is necessary to do
+something about my health, to seek an expert's advice, to undergo some
+kind of treatment. But a Jack, unlike a Hamlet, will do it actively: she
+will use tempering, work out, etc. (it is necessary to practice to be
+able to do something). Sensory reliability is necessary. A Jack loves
+hiking (the more obstacles  mountains, swamps  the better). She begins
+to pay attention to her health condition only when there are problems in
+the area of the third function. In this case a Jack starts to seriously
+work on improving her health condition.
+
+**Function #4  subjective ethics (Fi):** here the person is open for suggestions: Other people should tell me about my attitude to something or to somebody. Do I like something or do I not  other people have a better idea whats going on with me, a Relatives may strongly influence a Jack's attitude; and they use it to rather successfully manipulate him/her.
+
+Jack thinks that a "good place" is a home full of close people, good old friends, and nature all around.
+
+As a rule rigid programs, automatisms, habitual patterns have absolute
+power over the fourth function; they may not change for years.
+
+**Function #-4  objective ethics (Fe):** fear of external
+relationships. Jack can be alone for a long time. All these
+relationships  you know they cause nothing but troubles. Of course, we
+all live in a society, and we all have relationships, at least at a
+conventional level. A Jack has a subconscious desire to keep a big
+distance between her other people: I dont need any attitudes. If I am
+the boss, just do what I say, no need to have an attitude toward me.
+When someone says to her: "I love you", it frightens her. "Things like
+that are not just blatantly discussed; it is better to joke and laugh
+and make it light, give a gift, flowers." In short, any plain gesture is
+better than a statement. A Jack usually has close relationships only
+with a narrow circle of friends  it may include the family members and
+a couple of close friends.
+
+Celebrities of this type: Jack London, brothers John and Robert Kennedy,
+Robert Wood, Ernest Hemingway, Anastasia Philippovna (a character from
+Dostoyevskys Idiot), Sergey Eisenstein, Ernest Hemingway, Sophia Loren.
+It is a popular American type featured in the Marlboro ads.
+
+(*Jean Paul BELMONDO (actor, France), Tommy Lee JONES (actor, US), Matt
+DAMON (actor, US), Andrei KONCHALOVSKY (movie director, US), Brad PITT
+(actor, US), Julia ROBERTS (actress, US), Yuma THURMAN (actress, US),
+Tom HANKS (actor, US), Richard FEYNMAN (physicist, US), Enrique FERMI
+(physicist, Italy and US), Richard BACH (writer, US), Jack LONDON
+(writer, US), Robert Lewis STEVENSON (writer, UK, XIX century), Tony
+BLAIRE (politician, UK), Bill GATES III (businessman, US), Boris YELTSIN
+(politician, Russia), John F. KENNEDY (politician, US), Junichiro
+KOIZUMI (politician, Japan), Victor YUSHCHENKO (politician, Ukraine).*)
+
+.. _ESI-Reinin:
+
+ESI (Dreiser)
+-------------
+
+**The ethical-sensory introvert  Dreiser (Fi,Se)**
+
+**Function #1  subjective ethics (Fi):** the persons attitude to
+something or somebody is in the area of confidence. In this area
+persons relationships are of the least importance, often they do not
+concern him at all. His attitude is much more important here, and he
+would rather have it permanently fixed. If a Dreiser has formed a good
+opinion of someone, it would take some major factors to make it change.
+Even more so his bad attitude or opinion is hard to change. Other types
+may easily change their attitudes: I love it today; I hate it tomorrow.
+A Dreiser's first function can hardly be described with words.
+Essentially it is the need for being able to have a conscious attitude.
+The attitude itself may change, but its realm is so deep, that can
+hardly be described with words. This realm of personal attitudes to
+other people and the external world is strongly felt but poorly
+verbalized. There is constant activity in this realm.
+
+**Function #-1  objective ethics (Fe):** ignoring of the relationships.
+A Dreiser is an observer. At a party she is mostly quiet and observant.
+But she would dance with pleasure  he/she moves with ease, likes to
+dance: there is no fellowship or relationship in a dance as she thinks.
+A Dreiser may fail to discern other people's feelings or attitudes. Her
+inadvertent stepping on toes may result in a sudden barrage of
+complaints. A Dreiser really does not fathom since the external
+relationships are in her zone of ignoring. And this is hard to explain
+to another type because they also have their own realms, and they may
+interpret a Dreisers ignoring in their own way.
+
+The zone of ignoring is a place where the 'unexpected' conflicts arise.
+Due to the peculiarity of this psychological sphere the person may face
+sudden adverse reaction from someone close who has been putting up with
+things, but at a certain point of time his/her cup overflows with anger
+and bitterness, and the person explodes over an innocent minor thing.
+
+**Function #2  objective sensing (Se):** a form, an action, a movement.
+The essence of this type is a woman who dresses exquisitely and
+daintily. Earlier the name of Brigitte Bardo was used as a common label
+for this type. For some reason I have met more women of this type than
+men. It would be fair to say that a Dreiser is to a greater degree a
+female type; though in socionics there are no purely 'male' or 'female'
+types. A Dreiser always has a style in clothes; it not have to coincide
+with the current fashion; it is something very unusual. For example, a
+woman of this type would never wear a hat  even an expensive one bought
+from a popular hat maker  unless she has altered it in one way or
+another. She has to change the lining or curl up the rim before she
+decides that she can wear it. A Dreiser pays a great deal of attention
+to the nuances in her costume. The external form, appearance, deeds and
+motion, dancing - all this is in this area. How do I look, how I move?!
+A Dreisers artistic desire is satisfied by making handmaid original
+projects, things that other people cannot make. This creativity,
+naturally, is marked by the specifics of the social stratum where the
+person was formed. A Dreiser always to observes the decencies; she is a
+conformist; this type does not challenge the society neither does it
+break any laws. A Dreiser is good with finances. Remember the novels
+The Financier, The Titan, The Stoic? A Dreiser may not worry at
+all when without money. It is the zone of risk, too. Life is hard
+without money but some people are ok without it and others freak out. A
+Maxim and a Dreiser belong to the former part of humanity.
+
+**Function #-2  subjective sensing (Si):** this is the zone of
+standards. She has a normative attitude to health. When a Dreiser gets
+sick she does not panic: I should go see a doctor, do what he says. She
+follows the doctor's advice. If people do not turn to doctors for help
+that is their problem. A Dreiser is conservative in food preferences and
+sex.
+
+**Function #3  subjective intuition (Ni):** the integrity of the
+internal situation is in the area of problems. My internal situation
+should always be complete, stable and protected. It is important this
+type to have inner peace. In the society they look for a social niche
+where the stability of the internal situation is guaranteed even if it
+provides less money and prestige. A Maxim is drawn to the rigid social
+structures: the stability of the internal situation is supported by the
+stability of the external situation. In the case of a Dreiser the
+situation is more complex because the latter feels the harmony of the
+external world through the inner repercussions in a more subtle way.
+This inner world should be in tune with what is going on outside.
+Therefore a Dreiser has to work harder to harmonize his inner world with
+the world around him. He has to look for or transfer in to a state,
+which allows for accepting the world the way it is. Naturally it does
+not take long before the world disturbs the Dreisers inner harmony
+again, it is constantly invading his inner psychological realm. A
+Dreiser, a Dostoevsky and a Hamlet are the most anxious types of all.
+
+**Function #-3  objective intuition (Ne):** problem solving. If there
+is a problem with the integrity of the internal situation then the
+external situation needs to be adjusted so that the inner balance may be
+restored. Acceptance of current circumstances does not always bring the
+inner peace. Sometimes it is necessary to create new conditions, i.e.
+instead of accepting the circumstances it is necessary to work with the
+external situation. If problems persist then a Dreiser begins to
+reluctantly work with the circumstances, she even makes attempts to
+change the course of events. A Dreiser does it slowly, irresolutely,
+gradually, but nevertheless she does it.
+
+**Function #4  objective logic (Te):** a person is suggested not by
+explanations but by facts. Give me the facts. A Dreiser does not need
+"explanations": Do not explain, just give me the facts, I am not
+interested in your interpretation! A Dreiser considers only real events
+and proven facts. Suggestion here is possible by means of objective data
+or something tangible. For example, someone says to a Dreiser: Tomorrow
+we are going to the theatre, here are the tickets!  Ok, we are going
+then. There is no need to tell her about the play, how good the actors
+are, etc. A Dreiser expects people to have conventional behavior; she is
+irritated when people break rules by using any personal relationships or
+connections. A good place is the place where it is possible to be sure
+about the authenticity of what is going on.
+
+**Function #-4  subjective logic (Ti):** my understanding. Here is the
+fear to understand everything. Therefore sometimes a Dreiser's
+explanations seem short and vague to other people. This type would
+rather talk about facts than explain things. She tends to avoid
+situations when it is necessary to explain things. Why explain things
+that exist and I can see them with my own eyes. I want to know, it is
+not necessary to explain anything. A Dreiser often runs into
+explanations, which he does not see as true. Never mind explanations
+being absolutely logical  it is just not so. A Dreiser clearly
+perceives the actual state of affairs irrespective of the fact how and
+who interprets them. They do not like to talk through the issues and
+work on relationships.
+
+Celebrities of this type: Theodore Dreiser, Francis Scott Fitzgerald,
+Alexander Dumas, Ivan Turgenev, Nicola Machiavelli, Richard Nixon,
+Benazir Bhutto, Nancy Reagan, Brigitte Bardot.
+
+(*Lara Flynn BOYLE (actress, US), Leonardo DI CAPRIO (actor, US), Tom
+CRUSE (actor, US), Michele PLACIDO (actor, Italy), Michelle PFEIFFER
+(actress, US), Susan SARANDON (actress, US), John TRAVOLTA (actor, US),
+Sybille SHEPHERD (actress, US), Alexander DOVZHENKO (writer and movie
+director, Ukraine), Jerome D. SALINGER (writer, US), Stefan ZWEIG
+(writer, Austria), Leonid BREZHNEV (politician, Soviet Union), Elisabeth
+II (monarch, UK), Jacqueline KENNEDY ONASSIS (president's wife, US),
+Richard NIXON (politician, US).*)
+
+.. _EII-Reinin:
+
+EII (Dostoevsky)
+----------------
+
+**The ethical-intuitive introvert  Dostoevsky (Fi,Se)**
+
+**Function #1  subjective ethics (Fi):** the zone of confidence is my
+attitude to others. The spectrum of emotional reactions of this type is
+peculiarly large. A Dostoevsky is more confident in the sphere of
+emotions than other types. People of this type feel and discern shades
+and nuances of emotions unthinkable for representatives of the other
+types. What could, say, a Zhukov understand in a Dostoyevskys emotional
+world when even the notion of such details is absent in the psyche of
+the former? People often live in parallel worlds that have nothing in
+common except for rather narrow area of conventional (formal) contacts.
+
+**Function #-1  objective ethics (Fe):** ignoring relationships. A
+Dostoevsky has this trait in common with a Dreiser. If a person pays
+special attention to the relationships of close people for some reason,
+then she can see them clearly; but this is not the case with the
+majority of the Dostoevskys who are prone to ignore this aspect of life
+(sometimes they do it intentionally, choosing to wear the mask of a
+misanthrope). This may cause "unexpected" problems. The inner world may
+draw all of a Dostoyevskys attention, while a dense veil of imagination
+may cover the outside world.
+
+**Function #2  objective intuition (Ne):** integrity of the outside
+world, external harmony. How did F.M.Dostoyevsky write his novels? First
+of all he would create the structure of his future novel, write a very
+detailed plan. This would take a lot of time, months sometimes. And
+after that the novel could be written in a couple of weeks. The novels
+characters would come to life and even beak out of the mold! Here the
+creative function of this type (objective intuition) is seen: Dostoevsky
+gave his characters freedom to live and to act, due to that fact they
+acted like real people, not like puppets. Perhaps this is what marks a
+real classical author: a "gut feeling" of what is natural of the person
+described. Fyodor Dostoevsky in his novels dissects and analyzes this
+world, trying to understand why it is so disharmonious. The ancient
+saying, The beauty will save the world, became popular in Soviet
+Russia due to Dostoyevskys novels. It is quite natural that people with
+the creative function aimed at the external harmony often become
+authors, musicians and artists.
+
+**Function #-2  subjective intuition (Ni):** the zone of standards:
+integrity of the internal world. Two or three habitual states are more
+than enough for a Dostoevsky; there is no need for variety here. Even
+the state of the downward spiral of depression is very common with them.
+During that time they are practically disconnected from the environment,
+hardly perceiving the surroundings.
+
+**Function #3  subjective sensing (Si):** her self-esteem is based on
+her experience of sexual intimacy, and her health condition, etc. People
+of this type often make careers as physicians or therapists,
+psychiatrists. They pay a great deal of attention to their health, it is
+very important to them. And, most likely, when working with other
+peoples problems, helping them, they also solve problems of their own.
+A Dostoevsky frequently looks sick since they usually defend their third
+function in the negative mode. Sometimes a person of this type produces
+the impression of being seriously, even terminally ill, but nevertheless
+she is actively taking care of her health. Active sexual life is also a
+reason for high self-esteem in a Dostoevsky.
+
+**Function #-3  objective sensing (Se):** problems are solved in the
+sphere of external forms, actions. If there are health problems, certain
+steps should be made; when a Dostoevsky catches a cold she makes a cup
+of hot herbal tea, mixes an antiseptic gargle, starts doing exercises...
+Even if their main interests lie in a sphere remote from medicine, they
+are often well versed in this area.
+
+**Function #4  objective logic (Te):** information presented as a
+so-called well established fact to a Dostoevsky may be used to
+manipulate her because she is the type that can be suggested by facts.
+Give me the facts. Give me the numbers/ Other people easily manipulate
+a Dostoyevskys opinion by presenting 'objective' data. On the other
+hand, when a Dostoyevskys explanation of things is not easy to
+understand sometimes. This is an activity in the zone of fears (the
+fourth co function - subjective logic, understanding); this zone is
+luring, but it is hard to get good results in the activity in this
+sphere. People of this type often have their own interpretation of life;
+their interpretation may considerably differ from that of others. This
+type usually has a bent on mysticism, numerology and other similar
+explanatory models.
+
+**Function #-4  subjective logic (Ti):** my understanding. Fear to
+understand all and everything. Therefore a Dostoyevskys explanations
+sometimes seem vague, confusing to the representatives of the other
+types. A Dostoevsky may go to one of the two extremes here: on the one
+hand there is a propensity to mysticism, on the other hand there is an
+unusual trust in statistics and evidences. Because of the subconscious
+fear to understand everything, this type often tries to explain the
+unknown by the obscure. People of this type are very practical people,
+but they are not very good at explaining things, obviously it is not
+their strongest side.
+
+Celebrities of this type: Fyodor Dostoyevsky (writer, Russia, XIX
+century) and prince Myshkin from the novel "Idiot", Vincent Van Gogh,
+Konstantin Paustovsky, Alexander Solzhenitsyn (writer, Russia),
+Alexander Sokurov, Marilyn Monroe, Vivien Leigh, Catherine Deneuve,
+Elizabeth Taylor.
+
+(*Jeremy IRONS (actor, US), Julianne MOORE (actress, US), Gwyneth
+PALTROW (actress, UK), Sissy SPACEK (actress, US), Ralph FIENNES (actor,
+UK), Carrie FISHER (actress, US), Vincent Van Gogh (artist, The
+Netherlands), (writer, Russia), Nicholas II (monarch, Russia), Friedrich
+von PAULUS (army commander, Germany, 3rd Reich), Albert SPEER
+(politician, Germany, 3rd Reich).*)
+
+.. _LSE-Reinin:
+
+LSE (Stierlitz)
+---------------
+
+**The logical-sensory extrovert  Sherlock Holmes**
+
+**Function #1  objective logic (Te):** order is in the zone of confidence. Due to the combination with the third function (integrity of the outer world) a Holmes may look a bit pedantic, somewhat priggish. A Holmes displays emotions much more sparingly than a Hamlet or a Dostoevsky. Sometimes people of this type seem to have a static character; though in movies when both the type of the character and the type of the actor is a Holmes, the effect is amazing. It seems as if the actor does not have to pretend but lives in front of the camera his own life, filling his own realm. And good directors find actors of the same type as their characters.
+
+A Holmes is a good leader, director, and manager. A Holmes is easily distinguished by his military-like posture, though he has never been in the military service. A Holmes, as a rule, dresses formally, although if in jeans and sweater he still appears neat and tidy.
+
+The objective logic also includes my territory'. A Holmes rarely meddles with the life of family members, but it is necessary for him to know where they are and what they are doing.
+
+By clinical classification it is an anancastic type. A Holmes wants to have a good grasp of the circumstances, thus when new facts occur he needs time and full information to reflect upon it. This type will first say 'no', and then he will look for the objective data. Having accepted certain order, Holmes would follow it rigorously. If someone offers to take another road, a Holmes needs not just a route on a map to agree with, but some authentic facts to support the decision. The first function is conservative, and it means that my world is stable, my territory is stable. I have to know that the world is in order, and this order should never change.
+
+The person of this type would never say, Please explain, but he will demand: Demonstrate it to me. Besides a Holmes will inquire: What methods did you use? What are the statistics to support what you are demonstrating? Who told you of this fact? Who are you? Who gave you the authority to talk about psychology? Are you a psychologist? People of this type need exact and reliable data, which they could rely upon in the future  this is the structure-forming base, the level of organization of their personalities. Everything pertaining to it must be reliable: Who told you that this is correct? - Dr.N did. - Well, then it is all right. A Holmes wants to be convinced that the information he uses is not something thought up by some lunatic. He is the type who trusts anything printed; he considers any printed material to be a reliable source of information because it seems to be recognized by the society so he approves of it too.
+
+**Function #-1  subjective logic (Ti):** the zone of ignoring. Mistrust
+to hypotheses and concepts: What are you explaining to me?! Give me the
+data, show me the diagrams, certificates and do not explain anything.
+And also: I am not interested in opinions, tell me what really
+happened, I need facts, not your ideas. It was not by chance that
+Sherlock Holmes (a Holmes, by the way) used the deductive method of
+criminal investigation so brilliantly; it was the method of analysis and
+comparison of facts.
+
+**Function #2  subjective sensing (Si):** the place of creativity. Here
+are my feelings, my health condition and sexual activity. A Holmes likes
+a constant change of sensations. He eagerly and delightfully tastes
+different foods and drinks. He knows the cure for many illnesses.
+
+Creativity of any type is usually realized by the second function with
+the use of the material of the third function.
+
+People of this type are acutely aware of time and have a lot of rather
+peculiar abilities in this sphere. For example, Dr.Kozyrev (Russian
+physicist, a Holmes) introduced the notion of physical properties of
+time into the science. What other type is capable of perceiving the
+world in this way? The majority of the scientific community rejected
+this theory; it did not fit with the usual physicists' concepts of time.
+
+**Function #-2  objective sensing (Se):** the zone of standards. Here are the appearance and the form. As far as I know, this type does care about appearance, but it is not a priority. A Holmes dresses neatly and according to the standard of the circle of his friends or society. At his workplace he wears the required kind of uniform. If at his work place a Versace suite is required then he will wear a Versace suite, if it is the overalls then he will wear the overalls in a workshop. Extravagance is in the area of the unwanted. A Holmes's deeds and behavior, as a rule, are in harmony with the customary norm of the milieu. A Holmes's prefers to take the same road to work, he enjoys when events and actions have a usual sequence. A Holmes is very conservative and tries to adhere to habitual routes. That, however, does not prevent people of this type from being very dynamic and active in the financial sphere.
+
+Money in a Holmes system of values falls into the two categories of the objective sensing and the objective logic. A Holmes always has the exact sum of money he needs. He plans his budget well taking into consideration everything, making scrupulous calculations. When out of money a Holmes does not fidget; he knows when and how much to expect. A Hugo is very different in this sense, for example, he may be afraid of having the money in his pocket. A Holmes plans and schedules everything in advance.
+
+**Function #3  objective intuition (Ne):** time. People of this type
+count every second. The third function is the principle used to estimate
+oneself: I am good or I am bad. Jokes are not permissible in this
+sphere, this is where the person has his energy source: here he gets his
+positive or negative reinforcement. People of this type never become
+bureaucrats; they do not know how to procrastinate. If they are capable
+of solving the problem, then they do it at once. If you tell a Holmes
+something like: We are wasting time it will be as if you have told him
+that he is a bad person. A Holmes can tell other people that they are
+wasting time, but when people tell him this he takes as an insult. A
+Holmes does quality work, each step he makes wisely. There must be order
+and rule in everything. A Holmes unlike, say, a Napoleon needs the
+integrity of the external situation; it is difficult for them to do
+several things simultaneously, so subconsciously they try to line up all
+their pursuits in a sequence by distributing priorities. However, the
+ideal plan does not always work out in the real world of stress and
+hectic. . The world does not line up with the ideal sequential lay out.
+The real world consists of a number of dimensions with their own speed
+of time. Therefore there is tension, and the person pays for it from the
+pocket of his time and effort.
+
+**Function #-3  subjective intuition (Ni):** the solution of problems
+is possible through the change of the inner state, the change of mood.
+However, a Holmes does it reluctantly, and outwardly the struggle to
+change his mood or state manifests itself in blunt manners.
+
+**Function #4  subjective ethics (Fi):** suggestible function  my attitude to something or somebody. Whether I like something or somebody or I do not, if something is pleasing to me or not other people know. A Holmes has a hard time forming a personal opinion or attitude. He needs objective data, newspaper article to help him form a pseudo-independent opinion. A Holmes looks for things to lean on to help him in his relationships. Often a director (a Holmes) has a secretary (a Napoleon) who forms opinions for the boss. Then there comes a time when it is hard to tell who is the boss. A Holmes needs time to make up his mind and determine what is his actual attitude to something or somebody. Therefore when inquiring about his feelings of love for you, you will be much better off if you make a statement, I know you love me!
+
+The same is with his attitude to a phenomenon, an event, and a professional person. Is he a PhD or not? What is his field of knowledge? Does he have publications?! Oh, he had a book published, well, that's a different story! Objective evidence, information from reliable sources helps a Holmes to form his opinion.
+
+A good place is the place with good reputation, if other people, the majority decided it is good then it is good. This narrow-minded mentality makes a Holmes very conservative.
+
+**Function #-4  objective ethics (Fe):** fear of relationships.
+Solitude does not frighten a Holmes. To be alone is normal. In a company
+of friends or among office workers a Holmes often plays a role of an
+observer, at times indifferent, at times involved. When somebody showers
+him with attention and emotions, he is frightened and may withdraw.
+
+Celebrities of this type: Richelieu, Thomas Alva Edison, Sherlock Holmes
+(fictional character, by Arthur Conan Doyle), Sir Arthur Conan Doyle,
+Greta Garbo, Charles de Gaulle, Francois Mitterrand, Ronald Reagan, John
+Galsworthy, Erich Maria Remarque, Arkady Raikin, George Tovstonogov,
+Oleg Efremov, Richard Sorge (soviet spy, pre-WWII times), Alesha
+Karamazov (Dostoyevsky's character, The Karamazov Brothers), Karenin
+(Tolstoy's character, Anna Karenina). The best representation of this
+type in literature is Soms Forsythe, a character in John Galsworthy's
+novel, The Forsythes Saga.
+
+(*Gillian ANDERSON (actress, US), Carole BOUQUER (actress, France),
+Greta GARBO (actress, Sweden and US), Marlene DIETRICH (actress, Germany
+and US), Mila JOVOVICH (actress, France), Sean CONNERY (actor,
+Scotland), Bruce WILLIS (actor, US), Helen HANT (actress, US), Helmut
+KOHL (politician, Germany), Margaret THATCHER (politician, UK), Mary
+POPPINS (fictional character, by Pamela Travers)*)
+
+.. _SLI-Reinin:
+
+SLI (Gabin)
+-----------
+
+**The Sensing-logical introvert  Jean Gabin**
+
+**Function #1  subjective sensing (Si):** the zone of confidence is the
+health condition. Here lies confidence about his feelings, he usually
+knows exactly if he is sick or not, he has an excellent ability to
+explain sensations. No external influences have any effect here. A Gabin
+knows well what treatment is best for a particular illness. I feel,
+therefore I exist. Sensations of people of this type may vary over a
+wide range. They easier adapt to new foods than any other types. In sex
+a Gabin is rather conservative.
+
+**Function #-1  objective sensing (Se):** the zone of ignoring. People
+of this type may be inattentive to their own appearance, to the interior
+of their house, to other peoples behavior even if their actions
+influence them directly. They are not fit for any monotonous work, for
+example, for work at the conveyor assembly line. They need to pay
+special attention and make extra efforts to keep up their appearance.
+They do not have a natural feeling for style in clothes. They often
+ignore parents or peer pressure. Children of this type may seem to be
+very stubborn.
+
+**Function #2  objective logic (Te):** the area of creativity. A Gabin is a practical person, a smart innovator, i.e. they know well how to cut a corner, how to save money and even find loop wholes in the law and stay out of trouble at the same time. It is the zone of risk. They realize their creativity in their interaction with the material world. They count money well and know how and when to save.
+
+People of this type are interested in the world's mechanics and aspire to put it in order. In the world around them there is always something that needs to be fixed and put in order. If everything is in order, then I am not needed. A Gabin, as a rule, does not engage in global projects, but makes practical improvements  he wants to make life easier, more convenient, and less expensive. A Gabins obsession with innovations at times goes beyond the reasonable and the logical. But this is the area where he is creative.
+
+This type physically feels the real world; he has its qualities and laws at his fingertips. Unlike a Don Quixote with his fantasies, they have exact knowledge of laws and their current application. A Gabin is a practical person; he is a fine clerk, bookkeeper and lawyer.
+
+**Function #-2  subjective logic (Ti):** the zone of standards. As a
+rule, a Gabin is satisfied with standard explanations; the reality is
+much more important: the exact knowledge of facts, an objective
+representation of the surroundings. Theories are necessary, yes, but it
+is not a Gabin's strong side. Theoretical, abstract problems are solved
+by standard methods. A Gabin would never argue, explain or prove
+anything  it is just not interesting. For a Gabin knowing the world is
+its practical mastering.
+
+**Function #3  subjective ethics (Fi):** the place of problems. This
+means: my attitude to other people. If I love someone, then I am a good
+person; if I do not like somebody (anybody)  then I am bad. Good
+attitude to other people is a reason for a good attitude to oneself.
+Gabins try to protect their emotional sphere from the intruding
+outsiders in every possible way. They usually make the impression of
+integral souls, a bit abstracted. Idealizing people, the Gabins
+persistently move away from them setting a distance where the ideal
+would have no chance to get in conflict with the disappointing reality.
+The aspiration to an ideal love in the course of time makes moralists of
+them.
+
+**Function #-3  objective ethics (Fe):** this is a problem solving
+area. If there is a problem with my attitude to somebody, then it is
+necessary to alter the relationships. As a rule, a Gabin solves problems
+by means of regulation of the personal distance. All people around are
+assigned specific coordinates in a Gabins personal space; it consists
+of a rather small 'inner circle' of several close friends and a rather
+wide outside circle of acquaintances. Usually other people see this type
+of people as aloof and out of touch with reality. A Gabin respects the
+traditional social standards of communication, the norms of politeness,
+and the etiquette. This type usually has a problem of loosing touch with
+their growing children.
+
+**Function #4  objective intuition (Ne):** here are the area of "I want
+to" and the principle of assessment of a place, and the integrity of the
+world. I want the situation to be transparent, known from beginning to
+end. His yearning for external harmony may lead a Gabin to choose a
+monotonous lifestyle with more or less predictable events. A Gabin likes
+to just get on a bus or a train and ride all day long without any
+purpose or destination in mind. He is experiencing something new, he has
+new impressions, he observes changing scenery  and at the same time the
+bus (train) route is known from beginning to end. This kind of behavior
+does not seem ridiculous to a person of this type. A good place is the
+place with stable schedule. Suggestion is effective when certain
+sequence of actions is offered to a Gabin. A Huxley easily influences a
+Gabin by transmitting through the subconscious some kind of a 'life
+scenario' to him.
+
+**Function #-4  subjective intuition (Ni):** the integrity of the inner
+world is in the zone of fears. Using the terms of a meditative process,
+we can say that he has a fear of going within himself, and study the
+inner self. His fear may grow when he meditates. He is able to think
+about his inner state only in medical terms of health condition. A Gabin
+hardly differentiates the inner states and moods. This is why people of
+this type often seem to be even-tempered, as if they are always living
+in just one and the same state. A Gabin avoids the states he cannot
+control.
+
+Celebrities of this type: Jean Gabin, Guy De Maupassant, Albert Camus,
+Agatha Christie and her fictional character Hercules Poirot, Georges
+Simenon and his fictional character commissioner Maigret, Miguel de
+Cervantes and his fictional character Sancho Pansa, Jean-Paul Sartre,
+Fran?oise Sagan (writer, France), Somerset Maugham, Monica Vitti, Vladim
+
+(*Lino VENTURA (actor, Italy), Mel GIBSON (actor, US), Catherine DENEUVE
+(actress, France), Gerard DEPARDIEU (actor, France), Angelina JOLIE
+(actress, US), Renee SELLWEGER (actress, US), Harvey KEITEL (actor, US),
+Robert DE NIRO (actor, US), Maryl STREEP (actress, US), Harrison FORD
+(actor, US), Woody HARRELSON (actor, US), Adriano CELENTANO (actor,
+Italy), William Somerset MAUGHAM (writer, UK), George SAND (writer,
+France), George SIMENON (writer, Belgium), Roman ABRAMOVICH
+(businessman, Russia), Alexander KWASNIEWSKI (politician, Poland), Aslan
+MASKHADOV (terrorist, Russia).*)
+
+.. _IEE-Reinin:
+
+IEE (Huxley)
+------------
+
+**The intuitive-ethical extrovert  Thomas Huxley (Ne,Fi)**
+
+**Function #1  objective intuition (Ne):** the zone of confidence is
+the integrity of the external world. Feeling of harmony and integrity of
+the world prevails here. A wide variety of events may be perceived as
+normal: even very tough lifes circumstances could be perceived as some
+kind of working environment, he takes it easy, does not panic. The
+principle of existence: The world around me is in harmony, therefore I
+exist.
+
+**Function #-1  subjective intuition (Ni):** a Huxley often ignores the
+integrity of the inner world. A Hamlet enjoys being active in this
+sphere, this is his hobby and the area of creativity, but a Huxley
+ignores his inner world, it is an unknown territory for him. A Huxley is
+likely to imitate states and feelings that should be there as far as he
+knows; he will make attempts to analyze his state and mood. If a Huxley
+cannot manage his mood, he puts up with it as with an inevitable evil
+which cannot be fought.
+
+**Function #2  subjective ethics (Fi):** the place of creativity is my attitude to others. If I feel like it  then I will fall in love, if I don't feel like it - then I will fall out of love, and later I will love some more. This is not the stable kind of relationships he prefers. His feelings of love are never sure and stable. Today a Huxley loves you; tomorrow will speak for itself. People of this type have no idea about commitment as far as their feelings and emotions are concerned, they sway in their emotions between love and hate, they see a wide spectrum of shades in-between. At the same time if they hate you it is not final, as it is with some other types who make up their mind once and for good. Nothing is eternal under the moon: today I love, leave tomorrow for tomorrow.
+
+A Huxley is also careless in demonstrating his attitude. "Hey, man, are you stupid or what! he says by the way. He is joking, teasing. From the point of view of the alpha-quadra those jokes are completely inappropriate. I have a friend, a Huxley. I twitch every time he jokes and every time I am amazed: my inner being invariably reacts. What could be done? Essentially nothing can be done here.
+
+A Huxley expresses his attitude very creatively. Consequently he is looking for positions and opportunities to express his attitude. People of this type are often found in leading positions in the society where their creative function is well realized: they are heading the departments at the Universities, leading people in other ways.
+
+**Function #-2  objective ethics (Fe):** here is the zone of standards
+the quality of the relationships depends on whether the person belongs
+to 'my circle' or does not. His social bondings are formal and standard.
+When out in the society a Huxley uses the "uniform" approach. The
+dialogue happens on the formal basis: a Huxley talks to people in the
+key of social role-playing considering positions of both sides. Even in
+his relationship with close people a Huxley often keeps a distance.
+
+**Function #3  objective logic (Te):** his self-esteem depends on the stability of the external world order. If my world is in order, then I am a good person.
+
+These people look good on a stage playing a guitar or something like that. As a rule, they live to become their ideal. People of this type perceive the logic of the objective circumstances through the third function; therefore they simplify the logic of the real world and idealize it. Quite often they expect their partners to comply with their abstract ideal. A Huxley has a hard time finding a spouse because real partners do not meet their ideal standards. The person close by cannot be ideal by definition. Why is this type also labeled as a Don Juan? It is because he is on the quest for his ideal object of love, unless he chooses to idealize the existing person. A very intelligent woman of this type once told me how she had broken this particular cycle: At one point of my life after a series of unsuccessful relationships I set my mind on loving only one man, my son. And ever since I never looked at another man from that point of view. Anyway, she found the one and only and solved the problem of the ideal man for herself. One of the acquaintances of Alexander Block, the Russian poet, narrated the following story. Once in 1918 he came to the poet's apartment and was amazed at the ideal order on his desk. When the visitor asked why he keeps his desk in perfect order, Block replied that he found it to be the only way to resist the chaos around him. This is a way of self-defense according to the third function: There is an ideal order on my territory. Even though the positive reinforcement was artificially organized, it worked anyway.
+
+As to the surrounding world, a Huxley has an excellent ability to understand and calculate the circumstances. A Huxley has a computer in his head; he processes a multitude of aspects and dimensions. As we know, people pay close attention to everything pertaining to the third function; they work on clarifying and understanding things in this area.
+
+A Huxley is always ready to argue, asserting his ideals, his worldview until they prove to everyone that they are right. These people often adhere to a school or a doctrine. Having accepted a picture of the world, they advocate and actively popularize the adopted doctrine. A characteristic example of a teacher-disciple relationship is the story of Charles Darwin (the author of the theory of the origin of species) and Lord Thomas Huxley, the chairman of the Royal Scientific Society. Actually due to Huxley this theory was popularized and was placed in the key position of the modern scientific world. It is quite possible that nobody would have known about the early Darwins evolutionary ideas, he was a theorist, while Huxley was a skilful practician and a brilliant popularizer. And he brilliantly popularized the theory.
+
+**Function #-3  subjective logic (Ti):** this is the area of problem
+solving. People of this type try to structure and line up the
+information of the objective world as much as possible. That is an
+attempt to build an ideal description of the world, which does not leave
+any place for transcendental notions, i.e. something inexpressible in
+terms of their worldview. They allow for the unknown, but the
+unsearchable has no right to exist.
+
+**Function #4  subjective sensing (Si):** a good place is the place where I have good sensations, where I feel good. A pat on the shoulder, a good meal  and he is all yours, this is his idea of a perfect world, he feels great where these conditions are met, he is in trance. Give him some more of the same treatment  and he falls asleep, goes into a deeper trance. People of this type are especially suggestible through sensations. It is enough to say a word about somebodys health, and he gets self-conscious, thinking about his health he may get carried away. They tend to apply everything they hear to themselves, information may not even be related to them but they immediately think about their own center of the universe. People of this type are rather hypochondriac.
+
+On the other hand, these people are the easiest to treat. They trust the doctor. What do the extrasensory healers do? They ask their patient, Do you feel the warmth in the knee area? - "Yes." -  Does the knee hurt? - Yeah, it does. - Well  now you feel the warmth intensifying, it is getting warmer. And now I am pulling it out do you feel it? - Yes, it goes away - OK, I throw it away completely  feel better? - "It is better". - Does it hurt now? - It does not!
+
+People of this type may be effectively treated by means of mild suggestion. Here the mechanism of psychosomatics works in both ways. A person of this type may think up an illness, and to treat it is necessary to think up a way to "unthink" it, the approach should be based on the person's sensations. The main thing here is that the person should feel something. Everything depends on the system of beliefs that he accepts. Well, what system of beliefs do we have here? A biological power myth? Very well!
+
+**Function #-4  objective sensing (Se):** the fear of a complete form,
+fear of an action. A fence he is building has been under construction
+for ten years, but the last nail may never be hammered in; he has been
+writing his thesis for fifteen years, but it is still unfinished because
+it is 'imperfect'  still more studying needs to be done, some
+cross-checking is needed etc. A Huxley frequently lives in the world of
+the unfinished forms, imperfect objects; and he is constantly struggling
+(unlike a Don Quixote) with this imperfection. To get a result from a
+Huxley it is necessary to put strict deadline. Otherwise the work will
+be procrastinated indefinitely, he will continue to alter, add, and
+improve things But there is no limit to perfection! This trait should
+be taken into account in a working environment. Knowing this trait a
+Huxley often seeks a job where work deadlines are stipulated 'by
+default'. This could be, for example, teaching.
+
+Celebrities of this type: Lord Thomas Henry Huxley (biologist, UK), Don
+Juan, Denis Diderot, Theodore Roosevelt, Francois Marie Arouet Voltaire,
+Genrich Haines, Frederick Chopin, Giuseppe Verdi, Gabriel Garcia
+Marquez, Bertram Russell, Michael Bulgakov, Alexander Blok, Anthony Van
+Dike, Vronsky (fictional character, Tolstoy's Anna Karenina), Jonathan
+Swift, Oscar Wild and Lord Henry (fictional character, Wild's The
+Portrait of Dorian Gray), Mark Twain and Tom Sawyer (fictional
+character, Twain's The Adventures of Tom Sawyer), Bernard Shaw. (*Fanny
+ARDANT (actress, France), Jane BIRKIN (actress, UK), Pierre RICHARD
+(actor, France), CHER (actress and singer, US), Tim ROTH (actor, US),
+Tom HULCE (actor, US)*)

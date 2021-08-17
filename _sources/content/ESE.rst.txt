@@ -1,0 +1,165 @@
+Ethical Sensing Extratim (ESE)
+========================================
+
+**Ethical Sensing Extratim**
+
+Type abbreviations: ESE, ESFj, ES 
+
+Ego Block Elements: FeSi (|Fe| |Si|) 
+
+Nicknames: Enthusiast, Bonvivant, Hugo, or archetype **Victor Hugo**. 
+
+.. list-table:: ESE(ESFj) Model A
+    :header-rows: 1
+    :align: center
+
+    * - :ref:`Inert <contact>`
+      - :ref:`Contact <contact>`
+      - Properties
+      - Blocks
+    * - | **Fe**
+        | 1st :ref:`Program function <leading-func>`
+      - | **Si**  
+        | 2nd :ref:`Creative function <creative-func>`
+      - | *conscious* 
+        | *valued*
+      - :ref:`Ego <ego-block>`
+    * - | **Ni**
+        | 4th :ref:`Vulnerable function <PoLR-func>`
+      - | **Te**  
+        | 3rd :ref:`Role function <role-func>`
+      - | *conscious* 
+        | *not valued*
+      - :ref:`Super-ego <superego-block>`
+    * - | **Ne**
+        | 6th :ref:`Activating function <activating-func>`
+      - | **Ti** 
+        | 5th :ref:`Suggestive function <suggestive-func>`
+      - | *unconscious* 
+        | *valued*
+      - :ref:`Super-id <superid-block>`
+    * - | **Fi**
+        | 7th :ref:`Ignoring function <ignoring-func>`
+      - | **Se**  
+        | 8th :ref:`Demonstrative function <demonstrative-func>`
+      - | *unconscious* 
+        | *not valued*
+      - :ref:`Id <id-block>`
+
+.. list-table:: ESE :doc:`Dichotomies <dich>` and :doc:`Small Groups <small_groups>`
+    :header-rows: 0
+
+    * - :doc:`Jungain <jungian>` : :doc:`Extroverted <extra_intro>` · :doc:`Sensing <sensing_intuition>` · :doc:`Ethical <ethics_logic>` · :doc:`Rational <ration_irration>`
+    * - :doc:`Reinin <reinin_dich>` : :doc:`Dynamic <statics_dynamics>` · :doc:`Obstinate <yielding_obstinate>` · :doc:`Democratic <democratic_aristocratic>` · :doc:`Tactical <tactical_strategic>` · :doc:`Constructivist <constructivist_emotivist>` · :doc:`Farsighted <carefree_farsighted>` · :doc:`Merry <merry_serious>` · :doc:`Judicious <judicious_decisive>` · :doc:`Positivist <positivist_negativist>` · :doc:`Result <process_result>` · :doc:`Declaring <asking_declaring>`
+    * - :doc:`Small groups <small_groups>` : :doc:`Alpha Quadra <quadra>` · :doc:`Socials <club>` · :doc:`EJ temperament <temperament>` · :doc:`Passionate <communication_styles>` · :doc:`Caring <romance_styles>` · :ref:`Project Groups <project-groups>`
+    * - :doc:`Forms of Thinking <cognitive_styles>` : :ref:`Vortical-Synergetic Cognition <VS-cog>`
+
+**Type Profiles**:
+
+* :doc:`ESE Profile by Gulenko <ESE_gulenko>`
+* :ref:`ESE Profile by Filatova <ESE-Filatova>`
+* :doc:`ESE Profile by Stratiyevskaya <ESE_vera>`
+* :ref:`ESE type description by Grigory Reinin <ESE-Reinin>`
+* :ref:`ESE characteristic by Meged and Ovcharov <ESE-Meged>`
+* :ref:`ESE male and female portraits by Beskova <ESE-Beskova>`
+* :ref:`ESE description by Bukalov and Boiko <ESE-Bukalov>`
+* :doc:`Wikisocion ESE composite <ESE_comp>`
+* :ref:`Socionics Type Profiles by T. Prokofieva and M. Kuzmina <ESE-Prokofieva>`
+* :ref:`ESE description from Socionics.ua <ESE-ua>`
+* :ref:`ESE description by Weisband and Aushra <ESE-Weisband>`
+* :ref:`ESE profile by Golihov <ESE-Golihov>`
+* :ref:`ESE description by Voroschenko - pathologies <ESE-Voroschenko>`
+* :ref:`ESE description by Blohin - associative <ESE-Blohin>`
+* :doc:`ESE description from Socioscope.com <socioscope_ESE>`
+* :ref:`ESE profile by Piatnitskiy <ESE-Piatnitskiy>`
+
+**See also**:
+
+* :doc:`ESE subtypes <ESE_subtypes>`
+* :ref:`ESE photographs by Filatova <ESE-photos>`
+* :doc:`ESE domain <ESE_domain>`
+* :doc:`ESE observations <ESE_observations>`
+* :doc:`Type names <type_names>`
+* :doc:`Famous people <famous_people>`
+
+**Intertype relations**:
+
+* :ref:`ESE-LII dual relations by Meged and Ovcharov <ESE-LII-Meged>`
+* :ref:`ESE-LII dual relations by Meged (extended) <ESE-LII-work>`
+* :ref:`ESE-LII Recommendations for Harmonization of Relations by Meged <ESE-LII-har>`
+* :ref:`ESE-LII dual relations by Gulenko <ESE-LII-Gulenko>`
+* :ref:`ESE-LII dual relations by A. Aushra <ESE-LII-Aushra>` (untranslated)
+* :doc:`ESE-LII dual relations by Stratiyevskaya <dual_ISFp_ENTp_vera>` (untranslated)
+* :doc:`Romantic and Sexual Behavior of Quadras and Subtypes <romantic_quadra>`
+
+.. list-table:: ESE :doc:`Intertype relations <intertype>`
+    :header-rows: 0
+
+    * - | :doc:`Identical <identity>`
+        | :doc:`ESE <ESE>`
+      - | :doc:`Dual <duality>`
+        | :doc:`LII <LII>`
+      - | :doc:`Activator <activation>`
+        | :doc:`ILE <ILE>`
+      - | :doc:`Mirror <mirror>`
+        | :doc:`SEI <SEI>`
+    * - | :doc:`Kindred <kindred>`
+        | :doc:`EIE <EIE>`
+      - | :doc:`Semi-dual <semi_dual>`
+        | :doc:`LSI <LSI>`
+      - | :doc:`Benefactor <benefit>`
+        | :doc:`SLE <SLE>`
+      - | :doc:`Supervisor <supervision>`
+        | :doc:`IEI <IEI>`
+    * - | :doc:`Super-Ego <superego>`
+        | :doc:`LIE <LIE>`
+      - | :doc:`Extinguishment <extinguishment>`
+        | :doc:`ESI <ESI>`
+      - | :doc:`Quasi-identical <quasi_identity>`
+        | :doc:`SEE <SEE>`
+      - | :doc:`Conflictor <conflict>`
+        | :doc:`ILI <ILI>`
+    * - | :doc:`Business <business>`
+        | :doc:`LSE <LSE>`
+      - | :doc:`Mirage <illusionary>`
+        | :doc:`EII <EII>`
+      - | :doc:`Beneficiary <benefit>`
+        | :doc:`IEE <IEE>`
+      - | :doc:`Supervisee <supervision>`
+        | :doc:`SLI <SLI>`
+
+.. list-table:: Socionics Type Descriptions
+    :header-rows: 0
+    :stub-columns: 1
+
+    * - Alpha Quadra
+      - :doc:`ILE(ENTp) <ILE>`
+      - :doc:`SEI(ISFp) <SEI>`
+      - :doc:`ESE(ESFj) <ESE>`
+      - :doc:`LII(INTj) <LII>`
+    * - Beta Quadra
+      - :doc:`SLE(ESTp) <SLE>`
+      - :doc:`IEI(INFp) <IEI>`
+      - :doc:`EIE(ENFj) <EIE>`
+      - :doc:`LSI(ISTj) <LSI>`
+    * - Gamma Quadra
+      - :doc:`SEE(ESFp) <SEE>`
+      - :doc:`ILI(INTp) <ILI>`
+      - :doc:`LIE(ENTj) <LIE>`
+      - :doc:`ESI(ISFj) <ESI>`
+    * - Delta Quadra
+      - :doc:`IEE(ENFp) <IEE>`
+      - :doc:`SLI(ISTp) <SLI>`
+      - :doc:`LSE(ESTj) <LSE>`
+      - :doc:`EII(INFj) <EII>`
+
+
+
+.. |Ne| image:: Symbol_i.gif
+.. |Ti| image:: Symbol_l.gif
+.. |Ni| image:: Symbol_t.gif
+.. |Te| image:: Symbol_p.gif
+.. |Fe| image:: Symbol_e.gif
+.. |Se| image:: Symbol_f.gif
+.. |Fi| image:: Symbol_r.gif
+.. |Si| image:: Symbol_s.gif

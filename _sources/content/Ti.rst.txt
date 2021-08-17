@@ -1,0 +1,135 @@
+Introverted logic
+=======================
+
+
+
+Description of Ti from "Dual Nature of Man" by A. Augusta
+------------------------------------------------------------------
+
+**White (introverted) logic** |Ti|
+
+We call 'logical' those feelings that arise from the process of comparing one object to another on the basis of some objective criteria — for example, a sense of distance, weight, volume, worth, strength, quality, etc. These are feelings of objective evaluation, which in certain situations help to activate or passivate the person who experiences them. Incoming information is recognized by such an individual as a sense of objects' proper or improper correlation and proportion, a sense of balance or imbalance between the objects, or a sense of understanding or lack of understanding of the advantages of one object over another. This also includes all feelings that result from knowing or not knowing objects and phenomena — curiosity, respect, fear, and a sense of the logicalness or illogicalness of things, as well as a sense of one's own power or powerlessness before different objects.
+
+All these feelings we shall call logical. Their sum is a person's sense of logic, which is developed to different extents in different people. We might say that logical feelings convey information about presence or lack of knowledge, comparability and incomparability, and the presence or lack of balance between them, as well as about the space and location of object within it. These feelings are called objective because they do not take into consideration the interests and needs of the person him/herself, but only such correlations of objective qualities. This perceptual element determines a person's ability or inability to see the objective, logical relations between objects or their components.
+
+When this element is in the leading position, the individual is distinguished by his or her ability to logically evaluate relations of the objective static reality, or the world of objects. He also has the ability to change the interrelations between properties of different objects according to his wishes, and through this influence objects themselves as carriers of these properties. Correct evaluation of one's relations with other objects helps the individual know which objects should be avoided, and which can be "hunted." Such an individual is able to set his logic — or his knowledge of objectifiable reality, patterns, laws, and correlations of the objective world — in opposition to knowledge of others. He has the ability to mold and perfect not only his own knowledge of objectifiable reality, but also that of other people. This creates a feeling of power when clashing with other people's logic or lack thereof.
+
+Wikisocion description of Ti
+------------------------------------------
+
+**Introverted logic** (|Ti|) is an :doc:`introverted, rational, and static information element <elements>`. It is also called **Ti, L, structural logic**, or **white logic**.
+
+Ti is generally associated with the ability to recognize logical consistency and correctness, generate and apply classifications and systems, organize systematic and conceptual understanding, see logical connections between things (including logical similarities, differences, and correlations) by means of instinctive feelings of validity, symmetry, and even beauty. It is like common sense, in that it builds on one's expectations of reality, through a somewhat personal, though explicable, understanding of general truths and how they are manifested.
+
+Types that value Ti naturally question the consistency of beliefs that are taken for granted in everyday life. They strongly prefer to make decisions based on their own experience and judgement, as opposed to relying on external authorities for knowledge, which they use only as a last resort. They also have respect for people with clearly defined and internally consistent opinions, believing that a sense of internal certainty is necessary for orienting oneself in life. To these types, one's personal standards of truth are more reliable than public consensus.
+
+They see overly pragmatic views as shallow, and try to limit public discussion of mundane practical matters. They are especially sensitive to redundant information.
+
+Ti as a |base| (1st) function (|LII| and |LSI|)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+The individual views reality through the lens of logic, immediately recognizing the correctness and appropriateness of things and their proper place in reality and in his system of views and behavior. He freely makes logical assertions, often exaggerated, about new information and experience. He holds highest those rules to which exceptions do not exist, and is a habitual critic of people or things that don't follow a set of rules, whether they are those accepted by the community, or his own, or even the other person's. Although he is able to adopt others' rules, his own are always the last word, and these are subject to continual refinement.
+
+Often seen as "demanding", due to high standards.
+
+Ti as a |creative| (2nd) function (|ILE| and |SLE|)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+The individual easily generates logical systems and formulations to explain a set of phenomena that he has experienced or studied. However, these logical systems or explanations are not viewed as permanent or all-encompassing, but can be improved upon or even discarded as new experience and information is added.
+
+Ti as a |role| (3rd) function (|ESI| and |EII|)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+The individual is able to talk about things from a dispassionate academic or theoretical point of view for brief periods of time, but seems overly bookish when doing so and tends to grows tense. When feeling obliged to justify logically a personal decision taken for reasons determined by Fi, the individual attempts to do so but grows quickly annoyed especially if the inconsistency in the logical argument is pointed out. He then either explains the ethical motivation or avoids the issue altogether.
+
+Ti as a |vulnerable| (4th) function (|SEE| and |IEE|)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+The individual has a tendency to either completely reject or completely embrace a source of theoretical knowledge, but does not like to reveal the source or his adherence to it.
+
+He prefers to limit the number of theoretical categories he works with and tends to see new terminology, systems, and rules as being arbitrary and unnecessary until he at last discovers their necessity for himself through extensive personal experience.
+
+He may be able to express his views clearly when given the time, but he is not prepared to deal with people who challenge his views and draw him into logical arguments and disputes. For this reason, he is reluctant to publicize new determinations and opinions until he is absolutely sure that they are right and that he can support them thoroughly to anyone who challenges them.
+
+Ti as a |suggestive| (5th) function (|ESE| and |EIE|)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+The individual has great admiration for people with well-developed systems of views. He especially likes clear and concise explanations of concepts, rather than a lot of background information about them that is not directly pertinent. He wants his actions to make sense, and thus needs external assurance that the conceptual understanding behind them is correct. If he cannot find a source of certainty, he may become flustered and unable to act rationally at all.
+
+Ti as a |mobilizing| (6th) function (|SEI| and |IEI|)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+The individual seeks clarity in his system of beliefs and understanding and enjoys entertaining new concepts and being included in philosophical discussions where new concepts and systems of thought are introduced. He is uncertain of the logical clarity backing his actions, and thus seeks external assistance in attaining a degree of reasonable competence in this realm. Structure is sought as more of a means to an end, a background guide to facilitate the growth of the individual's main goal.
+
+Ti as an |ignoring| (7th) function (|LIE| and |LSE|)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+The individual understands easily, but is largely indifferent to, discussions that focus on the internal logic of ideas and systems. The individual perceives such logical systems as largely worthless to his goals and finds them completely uninteresting and unproductive.
+
+Ti as a |demonstrative| (8th) function (|ILI| and |SLI|)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+The individual often criticizes others' views from a logical standpoint, picking apart statements and postulates and showing that they are logically flawed. However, he does not choose to do this excessively and does not expect that reality can be accurately expressed in a neat logical systematic anyway.
+
+Aspects in the Valued Functions by Dmitry Golihov
+------------------------------------------------------------
+
+Ti as leading function in LSI (ISTj; Maxim Gorky) and LII (INTj; Robespierre)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Very attached to his understanding of something, his thinking, his logic and concepts, confident and conservative in these. It is impossible to convince him otherwise, as he "lives" by this, but does not necessarily share his understanding with others. If his understanding does not converge with facts, then at times he will judge the facts to be of lower value. Any attempts at criticizing his understanding make him feel irritated. He knows how reason logically, but does not like to defend his vision of the situation: "Those who understood - understood, the rest don't have it in them". Thus he often surrounds himself with those who accept his logical judgments and who do not make attempts to dispute them. Changes his thinking with great difficultly and needs a lot of time to reflect on mistakes. Likes it when everything converges with the way he understands it. If this cannot be achieved - experiences irritation. Therefore, one can only persuade him using solid arguments. He is often skeptical of new information, if he is unsure in something: everything must be carefully weighed before saying "yes." His thinking is like a foundament - it is solid, something that can be "leaned on" in any situation, thus in this matter there cannot be any risks. It is difficult to require from them to immediately approve someone else's views. In general, he tries to understand everything first, and only then accept it for himself. If it is something he cannot understand, then mastering new information progresses slowly, since it is difficult to accept it for himself. Thus he can spend very long time learning something before utilizing it, even if the question is very simple.
+
+Ti as creative function in ILE (ENTp; Don Quixote) and SLE (ESTp; Zhukov)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Likes to deliver long, detailed, creative explanations, excellent teacher or instructor, "I will explain for as long as they will listen, until I'm 100% sure that everyone understood everything." Asking him a question sometimes you will be listening to an answer for hours. Sometimes he simply looks for someone to speak about his understanding of something (escaping such a situation can be difficult, unless one tells him so directly). Something similar can be observed with objective logic, Te, as a second function, but here the emphasis is not on providing facts but rather on others gaining an understanding. For this reason, at times his explanations are simplified and delivered as if for little children. Such person is constantly looking for an audience with questions, but he explains material not in terms of knowledge, but from the standpoint of how he understands it, that is more lucidly and meticulously. He may gravitate towards a field where something has not been studied and understood before, may start exploring unknown for him spheres in which he has no qualifications, since this will allows him to develop and expand the scope of "understanding", which is very tempting for Ti as creative function.
+
+Ti as activating function of SEI (ISFp; Dumas) and IEI (INFp; Esenin)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+It is very important for such person to understand everything. If you inquire about some difficult question from him, you may hear that he understands it, but only in a very peculiar way. If he is unable to understand something, it lowers his self-esteem, thus he doesn't like to admit that he hasn't understood something. He enjoys being praised for his logic, likes to boast that he has thought up of something himself. Often likes to refer to some stories from everyday life, because nobody would think of checking their validity. In general, likes to make references to somebody else as a way of protecting his arguments (since then the responsibility for objectivity is passed on to this person). Realizes himself in areas that do not require factual confirmation. In passive self-defense he will admit to not understanding something, call himself stupid, or complain that no one understands him. In active self-defense he will argue that he understands everything correctly. His logic is the logic of common sense and everyday life, so it is difficult to argue with it. Everything that comes into his life must be understood and comprehended. And he, coming into other people's lives, hopes to be understood by them. Afraid to be mistaken in his understanding of something, but on occasion can very easily change his explanation, but so that it is not very conspicuous ("sure crocodiles can fly, but very, very close to the ground"). Worries often and tries to clarify matters of mutual understanding with others, "you did not understand me, I hoped it would be better this way". Wants to be appreciated for his sincerity.
+
+Ti as suggestive function EIE (ENFj; Hamlet) ESE (ESFj; Hugo)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Deliberately searches for a place where everything is clear and avoids those places where something remains unclear, primarily from the point of view of common sense. Needs people who know how to make complicated things more understandable and becomes attached to such people. If you tell him that something is going to be difficult to understand, then he won't even make attempts. If you tell him that it will be easy to understand, he will become inspired by this. Very suggestible by understanding of other people and, in general, by any logic, thus can easily believe in the most bizarre and unrealistic things, very easy to convince. Loves to learn, but to those courses where everything is explained in meticulous detail. Lectures where instructor simply gives terms and facts repel him, as each term must be explained to him in detail. Can easily get tricked because of this suggestibility through logic. Wherever someone gives them explanations so that everything is simple and clear, they will favor such place. In situations where he doesn't understand something, may pretend to be stupid, uninterested, or bored. Becomes angry with those who know but refuse to explain what it is not clear to him; believes that they are mocking him. The best environment for him is where everything is 100% understandable. 
+
+Additional links and descriptions
+------------------------------------------
+
+* `About Aspects and Functions in Socionics by Tatiana Prokofieva <http://en.socionics.ru/index.php?option=com_content&view=article&id=253&Itemid=138>`_
+* :doc:`Introverted Thinking Type by Carl Jung <psychological_types>`
+* :doc:`Sample vocabulary associated with introverted logic <vocabulary>`
+
+.. |Ne| image:: Symbol_i.gif
+.. |Ti| image:: Symbol_l.gif
+.. |Ni| image:: Symbol_t.gif
+.. |Te| image:: Symbol_p.gif
+.. |Fe| image:: Symbol_e.gif
+.. |Se| image:: Symbol_f.gif
+.. |Fi| image:: Symbol_r.gif
+.. |Si| image:: Symbol_s.gif
+.. |base| replace:: :ref:`base <leading-func>`
+.. |creative| replace:: :ref:`creative <creative-func>`
+.. |role| replace:: :ref:`role <role-func>`
+.. |vulnerable| replace:: :ref:`vulnerable <PoLR-func>`
+.. |suggestive| replace:: :ref:`suggestive <suggestive-func>`
+.. |mobilizing| replace:: :ref:`mobilizing <activating-func>`
+.. |ignoring| replace:: :ref:`ignoring <ignoring-func>`
+.. |demonstrative| replace:: :ref:`demonstrative <demonstrative-func>`
+.. |ILE| replace:: :doc:`ILE <ILE>`
+.. |SEI| replace:: :doc:`SEI <SEI>`
+.. |ESE| replace:: :doc:`ESE <ESE>`
+.. |LII| replace:: :doc:`LII <LII>`
+.. |SLE| replace:: :doc:`SLE <SLE>`
+.. |IEI| replace:: :doc:`IEI <IEI>`
+.. |EIE| replace:: :doc:`EIE <EIE>`
+.. |LSI| replace:: :doc:`LSI <LSI>`
+.. |SEE| replace:: :doc:`SEE <SEE>`
+.. |ILI| replace:: :doc:`ILI <ILI>`
+.. |LIE| replace:: :doc:`LIE <LIE>`
+.. |ESI| replace:: :doc:`ESI <ESI>`
+.. |IEE| replace:: :doc:`IEE <IEE>`
+.. |SLI| replace:: :doc:`SLI <SLI>`
+.. |LSE| replace:: :doc:`LSE <LSE>`
+.. |EII| replace:: :doc:`EII <EII>`

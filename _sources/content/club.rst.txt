@@ -1,0 +1,76 @@
+Club
+===============
+
+**Clubs** is a :doc:`small groups <small_groups>` of four types that share
+the same two traits on the :doc:`intuition <sensing_intuition>` /
+:doc:`sensing <sensing_intuition>` and :doc:`logic <ethics_logic>` / :doc:`ethics <ethics_logic>`
+dichotomies. They are also often called "occupational attitudes"
+(*установки на род деятельности* - :doc:`Gulenko's <gulenko>` term).
+:doc:`Augusta <augusta>` and :doc:`Reinin <reinin>` were the first to apply
+this concept. There are four clubs in the :doc:`socion <socion>`:
+
+-  :doc:`Humanitarians <club_humanitarians>`: intuitive and ethical (NF), or :doc:`IEE <IEE>`, :doc:`IEI <IEI>`, :doc:`EIE <EIE>`, and :doc:`EII <EII>`.
+-  :doc:`Socials <club_socials>`: sensing and ethical (SF), or :doc:`SEE <SEE>`, :doc:`SEI <SEI>`, :doc:`ESE <ESE>`, and :doc:`ESI <ESI>`.
+-  :doc:`Pragmatists <club_pragmatists>`: sensing and logical (ST), or :doc:`SLE <SLE>`, :doc:`SLI <SLI>`, :doc:`LSE <LSE>`, and :doc:`LSI <LSI>`.
+-  :doc:`Researchers <club_researchers>`: intuitive and logical (NT), or :doc:`ILE <ILE>`, :doc:`ILI <ILI>`, :doc:`LIE <LIE>`, and :doc:`LII <LII>`.
+
+The same four :doc:`relations <intertype>` exist between the
+types of any club: :doc:`identity <identity>`, :doc:`mirror <mirror>`,
+:doc:`extinguishment/contrary <extinguishment>`, and
+:doc:`quasi-identity <quasi_identity>`.
+
+Clubs are often a common nucleus of spontaneous social interaction (as
+opposed to "non-spontaneous" as in work, study etc) in modern western
+societies, and therefore a very common point of formation for social
+groups, more so than quadras since spontaneous social interaction with
+new acquaintances tends to be based on common activities and interests
+if not based on extension of one's close social circle, where quadras
+are more relevant.
+
+What leads to club-based groups, however, are merely the common
+interests and activities; the clubs tend to cease to function as any
+unit as soon as the interactions between their members move beyond those
+common interests and activities, when the quadra interactions will
+naturally take over.
+
+Within the same quadra, Mirrors and Identicals belong to the same club.
+This explains the high percentage of Mirror couples.
+
+
+Further reading on clubs
+------------------------
+
+-  `Article by Dmitriy Lytov <http://www.socioniko.net/ru/group/club.html>`_ (in Russian)
+-  http://www.socioniko.net/en/1.1.types/club.html
+
+
+.. list-table:: Small Groups
+    :header-rows: 0
+    :stub-columns: 1
+
+    * - :doc:`Quadras <quadra>`
+      - :doc:`Alpha <alpha_quadra>`
+      - :doc:`Beta <beta_quadra>`
+      - :doc:`Gamma <gamma_quadra>`
+      - :doc:`Delta <delta_quadra>`
+    * - :doc:`Clubs <club>`
+      - :doc:`Researchers <club_researchers>`
+      - :doc:`Socials <club_socials>`
+      - :doc:`Pragmatists <club_pragmatists>`
+      - :doc:`Humanitarians <club_humanitarians>`
+    * - :doc:`Temperaments <temperament>`
+      - :doc:`EP <EP>`
+      - :doc:`EJ <EJ>`
+      - :doc:`IP <IP>`
+      - :doc:`IJ <IJ>`
+    * - :doc:`Communication Styles <communication_styles>`
+      - Business-like
+      - Passionate
+      - Cold-blooded
+      - Sincere
+    * - :doc:`Romance Styles <romance_styles>`
+      - :doc:`Aggressor <aggressor>`
+      - :doc:`Victim <victim>`
+      - :doc:`Caring <caring>`
+      - :doc:`Childlike <childlike>`
+
